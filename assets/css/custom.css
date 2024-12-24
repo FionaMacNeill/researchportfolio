@@ -1,13 +1,63 @@
-/* Custom CSS by F.MacNeill */
+/* Custom CSS by F.MacNeill */ 
+
+/* Theme tweak */ 
+
+.page-wrapper {
+    background-color: #fbf5e3;
+}
+
+/* Site Header */ 
+
+#site-header.header {
+    padding-left: 1rem; 
+    padding-left: 1rem;
+}
 
 /* Links and navigation styles */
 
-.nav-link:active {
-    color: #2cb8f8; 
+.dark .nav-link:active {
+    color: #44d0d0; 
+  } 
+
+.dark .nav-link:hover {
+    color: #44d0d0; 
     text-decoration: underline;
   } 
 
+.light .nav-link:active {
+    color: #1D5353; 
+  } 
+
+.light .nav-link:hover {
+    color: #1D5353; 
+    text-decoration: underline;
+  } 
+
+
+/* Bio section */ 
+
+.resume-biography .bio-text {
+    max-width: 600px;
+  }
+
+#section-resume-biography-3 {
+    background-color: #133434;
+  } 
+
+.resume-biography .network-icon svg:hover {
+    color: #44d0d0;
+  }
+
 /* Typography styles */ 
+
+.text-gray-500 {
+    --tw-text-opacity: 1;
+    color: #333;
+  } 
+
+  .pl-4 {
+    padding-left: 0.75rem;
+  }
 
 /* Page subtitle */ 
 
@@ -25,31 +75,11 @@
     color: rgba(255, 255, 255, 0.72);
   }
 
-/* h2 style class - replacing the h1 class */
+#blog {
+    font-size: 1.5rem;
+    font-weight: 200;
+  }
 
-.mb-0, .my-0 {
-    font-size: 1.75em;
-}
-
-/* h3 project title class for cards */
-
-.project-title {
-    font-weight: 700;
-    margin-top: 1rem;
-    font-size: 1rem;
-}
-
-/* Line 75 of about.html custom heading style for h2 */
-
-#about-heading {
-    font-size: 1.75em;
-} 
-
-/* Accomplishments cards */ 
-
-.card-subtitle {
-    font-size: 1rem;
-}
 
 /* Controlling the About page */
 
@@ -88,28 +118,39 @@
 } 
 
 /* Recent posts theme */ 
-.dark a:not(.btn):hover {
-    color: #FFF;
+.light a:not(.btn):hover {
+    color: #333;
   } 
 
 .section-subheading:hover { 
     text-decoration:underline;
 } 
 
-/* Blockquote */ 
+/* Blockquote - in use and checked 24/12/24 */ 
 
 .light blockquote {
     color: #333;
 } 
 
 .dark blockquote {
-    color: #c0bfbf;
-}
+    color: #333;
+} 
 
 .quote blockquote {
-  margin: 1em;
+    margin: 1em;
+  }
+
+.quotation {
+    color: #333;
 }
 
+.dark figcaption { 
+    color: #575757;
+}
+
+.prose :where(figcaption):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+    color: #575757;
+}
 
 /* Project filter buttons only */
 
@@ -170,14 +211,16 @@ figure figcaption {
 
 /* Blog post styles */
 
-.article-title a:hover {
-    color: #9D2535;
-}
-
 
 .dark a.summary-link, a:hover, a:focus {
     text-decoration: none;
     color: #FFF;
+    outline: none;
+} 
+
+.light a.summary-link, a:hover, a:focus {
+    text-decoration: none;
+    color: #333;
     outline: none;
 }
 

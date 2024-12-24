@@ -20,8 +20,8 @@ sections:
       #  url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: #376c7c
+      #background:
+        #color: 
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -30,19 +30,6 @@ sections:
           #size: cover
           #position: center
           #parallax: false
-
-  #- block: markdown
-  #  content:
-  #    title: '📚 My Research'
-  #    subtitle: ''
-  #    text: |-
-  #      Use this area to speak to your mission. I'm #a research scientist in the Moonshot team at #DeepMind. I blog about machine learning, deep #learning, and moonshots.
-
-  #      I apply a range of qualitative and #quantitative methods to comprehensively #investigate the role of science and technology in #the economy.
-        
-  #      Please reach out to collaborate 😃
-   # design:
-    #  columns: '1'
 
   - block: collection
     id: talks
@@ -56,7 +43,7 @@ sections:
       columns: 3 
        # Reduce spacing
       spacing:
-        padding: [4rem, 0, 4rem, 0]
+        padding: [4rem, 0, 0, 0]
   - block: collection
     id: projects
     content:
@@ -99,6 +86,21 @@ sections:
       view: article-grid 
       columns: 4
       # Reduce spacing
+      spacing:
+        padding: [0, 0, 4rem, 0]
+  - block: markdown
+    id: contact
+    content:
+      title: 'Contact'
+      subtitle: ''
+      text: |-
+        <div style="text-align:center;"> 
+        <a href="mailto:hello@fionamacneill.co.uk">hello@fionamacneill.co.uk</a>
+        <p>Macknowlogist Ltd. <br>83 Queens Road <br>Brighton <br>BN1 3XE</p> 
+        <strong>Company number:</strong> 16146243
+        </div>
+    design:
+      columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
 ---
