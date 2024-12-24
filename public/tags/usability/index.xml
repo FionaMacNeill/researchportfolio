@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/usability/</link>
+      <atom:link href="http://localhost:1313/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    <description>Usability</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Usability</title>
+      <link>http://localhost:1313/tags/usability/</link>
+    </image>
+    
+    <item>
+      <title>ePortfolio System (2017-20)</title>
+      <link>http://localhost:1313/project/eportfolio-system/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/eportfolio-system/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This usability evaluation was part of an annual report and was repeated over two years. The evaluation looked at the experience of three groups of ePortfolio system users, across two universities’ Social Work programmes and their external student work placement providers. The anonymised data which was collected and analysed allowed for improvements to user journeys, processes, and system information architecture. The changes made led to an increased usability rating from the user groups based on the scale used.&lt;/p&gt;
+&lt;h2 id=&#34;client&#34;&gt;Client&lt;/h2&gt;
+&lt;p&gt;University of Brighton as the owner of the ePortfolio platform and service.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;The ePortfolio system was developed in response to feedback from a regional council unit who provided student work placements and wanted to move from paper-based to digitised processes. Initially the regional council’s unit sought to setup their own ePortfolio system. As an alternative, I suggested that an economy of scale would be possible if a system that was compatible with the information systems of both local universities was setup. The value proposition was that this would help to harmonise documentation processes, providing set customer journeys per user group and therefore streamlined training across regional student placements. Furthermore, training provisions and staff resourcing could be pooled across both universities. A multi-institutional instance of Mahara (ePortfolio CMS) was setup. I built the internal information architecture and workflows based on requirements gathering with stakeholders from both universities and external placement organisations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2018.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018_hu5783171331070367548.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2018.&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2019.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019_hu15210847420127480277.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2019.&#34; width=&#34;141&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;p&gt;While delivering the training for the system, a few months into use, I met and spoke with external work placement staff who were using the system. Although feedback was positive, as compared to paper-based processes, these discussions caused me to think that the system might be more complex than it needed to be. I therefore decided to run a usability evaluation in order to test this idea. &lt;/p&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement &lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;To identify usability issues with the system and validate plans to simplify the system based on receipt of additional feedback.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;roles-methods-and-tools&#34;&gt;Roles, Methods, and Tools &lt;/h2&gt;
+&lt;p&gt;I completed the usability study as a lone researcher. It therefore had to be an agile and scalable exercise, so I opted to use online questionnaires per-user group with a combination of set quantitative questions and qualitative open-text questions.&lt;/p&gt;
+&lt;h3 id=&#34;highlighted-methodstools&#34;&gt;Highlighted methods/tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Questionnaires&lt;/li&gt;
+&lt;li&gt;Quantitative analysis&lt;/li&gt;
+&lt;li&gt;Qualitative analysis&lt;/li&gt;
+&lt;li&gt;Change management (requirements and changelog)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The questionnaires were based on the ‘IBM computer usability satisfaction questionnaires’ (Lewis, 1995) with added questions allowing open-text responses. I also established a categorised list of improvements for technical consideration based on staff, student, and externals’ feedback. The initial usability in 2018 was rated by users at 58%, as compared to the benchmark of 50% for a system to be considered usable.&lt;/p&gt;
+&lt;h2 id=&#34;project-outcome&#34;&gt;Project Outcome&lt;/h2&gt;
+&lt;p&gt;In response to the 2018 usability study data, I made the following improvements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesigned the student e-portfolio template, reducing it from 7 pages to 1 page with collapsible sections.&lt;/li&gt;
+&lt;li&gt;Redesigned the internal structure and simplified the menus seen by users and by system role. My key discovery from the data was that placements are very individualised. So, although some stakeholders liked the idea of groups of students, they were not needed or used as they did not map to the students’ real-world tasks/jobs.&lt;/li&gt;
+&lt;li&gt;Changes including clearer group naming and revisions to the electronic sign-off workflow.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-all-names-are-simulated-menu-was-reduced-from-10-items-in-2018-to-6-menu-items-in-2019-the-redesign-took-a-purpose-first-approach-where-the-students-could-find-and-download-their-template-documents-to-populate-their-portfolios-the-university-labelling-was-required-for-systems-administrators-who-needed-to-work-cross-institutionally-the-numbers-were-to-keep-the-menu-in-the-correct-order-each-student-had-two-years-of-placements-so-therefore-two-e-portfolios-the-consolidation-from-a-7-page-portfolio-to-a-single-page-per-year-is-shown&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Side-by-side comparison of the user menus for students in 2018 and 2019&#34; srcset=&#34;
+               /project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp 400w,
+               /project/eportfolio-system/usermenu-updates_hu937627463332696901.webp 760w,
+               /project/eportfolio-system/usermenu-updates_hu2722556973076434641.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;681&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      All names are simulated. Menu was reduced from 10 items in 2018 to 6 menu items in 2019. The redesign took a purpose-first approach, where the students could find and download their template documents to populate their portfolios. The university labelling was required for systems administrators who needed to work cross-institutionally. The numbers were to keep the menu in the correct order. Each student had two years of placements so therefore two e-portfolios. The consolidation from a 7-page portfolio to a single page per year is shown.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;answer-to-problem-statement&#34;&gt;Answer to Problem Statement &lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt; &lt;em&gt;To identify usability issues with the system and validate plans to simplify the system based on receipt of additional feedback.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt; Issues with e-signature workflows were uncovered. Suspected usability issues were confirmed.&lt;/p&gt;
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;p&gt;I re-ran the same usability study in September 2019, the survey response was low and unrepresentative (8.5%). Usability was rated by users at 60% (+2%). The qualitative feedback from the study suggests that the improvements may have had a more significant impact on student experience than represented by the figures. 
+  &lt;/p&gt;
+&lt;p&gt;Themes from 2019 qualitative feedback after the improvements: &lt;/p&gt;
+&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
+&lt;figure class=&#34;quotation&#34;&gt;
+    Simple layout; improvement on last year; templates were useful; easy to find feedback; easy to submit; support provisions and resources were helpful.
+&lt;/figure&gt;
+&lt;h3 id=&#34;staff-and-externals&#34;&gt;Staff and Externals&lt;/h3&gt;
+&lt;figure class=&#34;quotation&#34;&gt;
+    Easier to navigate; everyone can work remotely; easy to see students’ work; comment boxes clearer; e-signature workflow improved; in-system messaging is clear; environmentally sustainable (less paper); the support from Fiona &lt;em&gt;et al&lt;/em&gt; were amazing.
+&lt;/figure&gt;
+&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;Based on time and resourcing, a light touch usability evaluation had to take place. Due to the small number of responses the quantitative aspect of the questionnaire was not representative. The qualitative open-text comments, however exposed several common themes which were addressed through a programme of improvements prior to the next intake of students on the system.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;p&gt;Due to the nature of this evaluation it is not possible to share the data. A top-level overview is provided below as a comparison of 2018 to 2019. Fewer questions were used in the 2019 questionnaire which is why the &amp;lsquo;possible total for usability score&amp;rsquo; is lower.&lt;/p&gt;
+&lt;table style=&#34;undefined;table-layout: fixed; width: 450px&#34;&gt;
+&lt;colgroup&gt;
+&lt;col style=&#34;width: 300px&#34;&gt;
+&lt;col style=&#34;width: 45px&#34;&gt;
+&lt;col style=&#34;width: 45px&#34;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Usability Questionnaire Measures&lt;/th&gt;
+    &lt;th&gt;2018&lt;/th&gt;
+    &lt;th&gt;2019&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Overall Possible Total for Usability Score&lt;/td&gt;
+    &lt;td&gt;42&lt;/td&gt;
+    &lt;td&gt;35&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Overall Usability Score&lt;/td&gt;
+    &lt;td&gt;24&lt;/td&gt;
+    &lt;td&gt;21&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Overall Usability Score&lt;/td&gt;
+    &lt;td&gt;24&lt;/td&gt;
+    &lt;td&gt;21&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Overall Usability as a Percentage&lt;/td&gt;
+    &lt;td&gt;58%&lt;/td&gt;
+    &lt;td&gt;60%&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Total Number of Users Across All Groups&lt;/td&gt;
+    &lt;td&gt;220&lt;/td&gt;
+    &lt;td&gt;449&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Total Number of Respondents&lt;/td&gt;
+    &lt;td&gt;40&lt;/td&gt;
+    &lt;td&gt;48&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Response Rate&lt;/td&gt;
+    &lt;td&gt;18&lt;/td&gt;
+    &lt;td&gt;8.5&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;
+Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psychometric evaluation and instructions for use&#39;, &lt;em&gt;International Journal of Human-Computer Interaction&lt;/em&gt;, 7:1. pp. 57-78.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

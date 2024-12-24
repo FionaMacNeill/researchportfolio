@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theme | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/theme/</link>
+      <atom:link href="http://localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Theme</title>
+      <link>http://localhost:1313/tags/theme/</link>
+    </image>
+    
+    <item>
+      <title>Theme testing</title>
+      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
+      <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
+&lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
+&lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight (Automattic, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon (Keijonen, 2016a)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma (Lüken, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka (Keijonen, 2016b)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen (WordPress.org, 2016a)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen (WordPress.org, 2016b)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As part of the testing plan I used a several tools, listed at the bottom of this post, to analyse the best themes. Please note, that some themes did not reach the full testing phase due to issues that I would term as &lt;em&gt;deal breakers&lt;/em&gt;; the issues identified were troublesome enough where it was not worth continuing with those themes. I also entered into this testing process with an intention to attain a WCAG 2.0 Level AA (W3C, 2016a) accessibility rating for my journal site. This is largely because accessibility is a budding specialism of mine and I wanted an excuse to delve around in the innards of the newest WordPress themes!&lt;/p&gt;
+&lt;h4 id=&#34;testing-results-andobservations&#34;&gt;Testing results and observations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight&lt;/a&gt; I decided not to install this theme. Although &amp;lsquo;afterlight&amp;rsquo; had the accessibility tag, I found on inspection of its specifications that it is based on having a background image throughout each area of its architecture (landing page, pages, posts - all had to have a single background image). Upon previewing this with my content, using the WordPress theme preview tool, I found that this negatively impacted readability. As the purpose of this blog is to engage in reflection, it seems important not to distract from that at the design level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon&lt;/a&gt; This theme has (or rather had) a lot of potential and is coded according to best practice (e.g. accessibility tagging) outlined in the WordPress Accessibility Handbook (WordPress.org, 2014).&lt;/p&gt;
+&lt;p&gt;I realised later on looking at in-code documentation that this theme is based on a starter theme, Underscores (or “_s”). A bare bones CSS starter theme (Underscores, 2016).&lt;/p&gt;
+&lt;p&gt;Unfortunately after venturing as far as creating a child theme, I found issues in the some of the front-page template functionality. I also discovered that the links through to the theme documentation were broken and as a result I decided cease using the theme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma&lt;/a&gt; I do like the clean lines and simplicity of enigma, even in light of the negative points outlined in the slideshow below, it is certainly a worthy candidate. However, the dependence on the burger-style menu (the three lines) although often essential on mobile versions of a site, is less effective when viewed in a conventional web browser. I decided to seek out a theme that offered more versatility for delivery of the navigation menu/s.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka&lt;/a&gt; Initially I really liked the simplicity of this theme design and it is very responsive, however in terms of accessibility it has some problems. Namely, it does not support reader view in Firefox 49 or Safari 10 and also was not good in terms of respecting the heading levels for the screen reader. I did not complete the other tests as these two issues were deal breakers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate in clean and simple. Although as a seasoned WordPress user the annual core template always &lt;em&gt;looks&lt;/em&gt; like the annual core template, even with customisation. Twentyfifteen is quite book-like in its bi-fold layout and this doesn&amp;rsquo;t strike the desired tone. As I tend to be quite verbose in my writing, I think that a theme with better except support is better. Having said that, the core templates can provide excellent bases for creation of child themes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen&lt;/a&gt; A fresh approach to a traditional blog layout with some very nice built-in features. Highlights include the support of the &lt;em&gt;read more&lt;/em&gt; tag for determining the length of post/entry excerpts shown on the front page. I also like the presentation of the author avatar, together with post tags on the left-hand side of each post. This theme has good customisation options and good widget support (the tools that you can place in the aside-style columns in the layout). A solid theme, not the most riveting to look at, but it ticks all of my accessibility boxes!&lt;/p&gt;
+&lt;h5 id=&#34;the-final-two-contenders&#34;&gt;The final two contenders&lt;/h5&gt;
+&lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools section&lt;/a&gt; for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
+&lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacNeill, 2016&lt;/a&gt;) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
+&lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
+\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
+&lt;p&gt;The server was down this weekend so I used this as an excuse to implement some technical tools which will help further down the line. First of all as I mentioned in my last entry I installed MAMP on my development computer. MAMP, stands for Macintosh, Apache, MySQL, PHP (&amp;ldquo;MAMP&amp;rdquo;, 2016) and allows to setup a local copy of WordPress on your computer. I find having access to a local installation to be helpful for two reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I can work on my child theme tweaks without having access to the server and test them out in a controlled environment.&lt;/li&gt;
+&lt;li&gt;I can test out themes and plugins without muddying my installation. Sometimes everything about a plugin can look good and then you install it and there are things are about it that don&amp;rsquo;t work or the coding isn&amp;rsquo;t up to scratch. So again it is good to have a test environment for that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project. Here is my repository for this site: &lt;a href=&#34;https://github.com/FionaMacNeill/learningjournal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/FionaMacNeill/learningjournal&lt;/a&gt; - it seemed like the ideal opportunity to practice using a version control tool. It has been really useful thus far! &lt;strong&gt;Thinking long and hard about plugin installation is a good idea&amp;hellip;&lt;/strong&gt; I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks&lt;fn&gt;Why not use a footnote to explain what I did! I changed .footnote_plugin_text to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the .footnote_plugin_link, .footnote_plugin_index. Finally I needed to manually change the position of the superscript figures as I wasn&amp;rsquo;t happy with the distance of the figure numbers from the text characters, for this I changed the .footnote_plugin_tooltip_text class&lt;/fn&gt; due to how the footnotes were shown in the twentysixteen theme.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;analysis-tools-used&#34;&gt;&lt;strong&gt;Analysis tools used:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;IDI Web Accessibility checker (AChecker, 2011).&lt;/li&gt;
+&lt;li&gt;Snook colour contrast checker (Snook, 2015).&lt;/li&gt;
+&lt;li&gt;Sim Daltonism colour blindness simulator (Wickline, 2000).&lt;/li&gt;
+&lt;li&gt;Accessibility evaluation toolbar by John Gunderson (Gunderson, 2011).&lt;/li&gt;
+&lt;li&gt;Apple and Firefox text-to-speech tools.&lt;/li&gt;
+&lt;li&gt;Keyboard-only navigation of site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;guidelines-used-and-referred-to&#34;&gt;&lt;strong&gt;Guidelines used and referred to:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web Content Accessibility Guidelines (WCAG) (W3C, 2016a).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Techniques for WCAG 2.0 (W3C, 2016b).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BBC Future Media Standards and Guidelines (BBC, 2008).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mozilla Developer Network documentation (Mozilla, 2016).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WordPress Accessibility Handbook (WordPress.org, 2014):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifically I found this page very helpful - Questions to ask - &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&lt;/a&gt; The &amp;lsquo;questions&amp;rsquo; are derived from the four principles of WCAG and they are immensely helpful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;software-and-developer-tools-used&#34;&gt;&lt;strong&gt;Software and developer tools used&lt;/strong&gt;**:**&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;MAMP (appsolute GmbH, 2016).&lt;/li&gt;
+&lt;li&gt;Github - version control and code repository (GitHub, 2016).&lt;/li&gt;
+&lt;li&gt;WebStorm - editor: (JetBrains, 2016).&lt;/li&gt;
+&lt;li&gt;Textwrangler (Bare Bones Software, 2016).&lt;/li&gt;
+&lt;li&gt;Chrome developer tools (Google, 2016).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;AChecker. (2011). IDI web accessibility checker: Web accessibility checker. Retrieved October 7, 2016, from AChecker website, &lt;a href=&#34;http://achecker.ca/checker/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://achecker.ca/checker/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;appsolute GmbH. (2016). MAMP &amp;amp; MAMP PRO. Retrieved October 7, 2016, from MAMP website, &lt;a href=&#34;https://www.mamp.info/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mamp.info/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Automattic. (2015, October 7). Afterlight. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/afterlight/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bare Bones Software. (2016). Bare bones software. Retrieved October 13, 2016, from &lt;a href=&#34;http://www.barebones.com/products/TextWrangler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.barebones.com/products/TextWrangler/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC. (2008, June 24). Future media standards &amp;amp; guidelines - accessibility guidelines v2.0. Retrieved October 7, 2016, from BBC website, &lt;a href=&#34;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub. (2016). Build software better, together. Retrieved October 13, 2016, from &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.chrome.com/devtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.chrome.com/devtools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&lt;/a&gt;&lt;/p&gt;
+\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jetbrains.com/webstorm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016a, September 16). Chuchadon. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/chuchadon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/kuorinka/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/e-nigma-2015/&lt;/a&gt;&lt;/p&gt;
+\[Talk\]\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from &lt;a href=&#34;https://en.wikipedia.org/wiki/MAMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/MAMP&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Underscores. (2016). Retrieved October 7, 2016, from Underscores website, &lt;a href=&#34;http://underscores.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://underscores.me/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016a). How to Meet WCAG 2.0. Retrieved October 13, 2016, from W3C Web Accessibility Initiative website, &lt;a href=&#34;https://www.w3.org/WAI/WCAG20/quickref/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/WAI/WCAG20/quickref/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016b). Techniques for WCAG 2.0. Retrieved October 13, 2016, from W3C Working Group website, &lt;a href=&#34;https://www.w3.org/TR/WCAG20-TECHS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/WCAG20-TECHS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wickline, M. (2000). Sim Daltonism for Mac. Retrieved October 13, 2016, from &lt;a href=&#34;https://michelf.ca/projects/mac/sim-daltonism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://michelf.ca/projects/mac/sim-daltonism/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2014, October 11). Accessibility handbook. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016a, December 6). Twenty Fifteen. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentyfifteen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016b, December 6). Twenty Sixteen. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentysixteen/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

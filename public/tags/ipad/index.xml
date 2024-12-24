@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPad | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/ipad/</link>
+      <atom:link href="http://localhost:1313/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    <description>IPad</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>IPad</title>
+      <link>http://localhost:1313/tags/ipad/</link>
+    </image>
+    
+    <item>
+      <title>A technical perspective on a telepresence robot</title>
+      <link>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
+      <description>&lt;p&gt;From January until May 2019 the eLearning team evaluated the AV1 robot avatar, a telepresence robot manufactured by the company &lt;em&gt;No Isolation&lt;/em&gt;, based in Norway. This post aims to provide a brief overview of what we learned during our pilot project.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_controlling-the-robot-at-falmer-campus-from-moulsecoomb_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Testing the robot out over a Microsoft Teams call across two campuses&#34; srcset=&#34;
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp 400w,
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5126102033402840294.webp 760w,
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu3711007996298212263.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;555&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Controlling the robot at Falmer campus from Moulsecoomb&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Our findings are shared with the caveat that they are specific to our institution and in different circumstances the end-user acceptance of the technology and the results may have varied.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-pilot&#34;&gt;About the pilot&lt;/h2&gt;
+&lt;p&gt;This pilot project was designed to establish the functionality of a telepresence robot, the AV1, with a view to providing a bookable service for eligible students in the future. The AV1 robot&amp;rsquo;s purpose is to provide an avatar for an individual student who wishes to attend a class but may not be able to be present in-person. Such a student, due to circumstances including, but not limited to, medical conditions, learning disabilities or caring responsibilities could benefit from attending &lt;em&gt;virtually&lt;/em&gt; from home or in an alternative location. The AV1 robot provided a different type of value proposition when compared to existing solutions such as video conferencing; it provided an individual, encrypted connection to the classroom for a single student user.&lt;/p&gt;
+&lt;p&gt;The aim of this pilot project in the first instance was to establish the functionality and usability of the AV1 robot device. We planned to do this by inviting students from a specific school to participate in testing the robot during a class session. These students were invited irrespective of need as it was not possible to target a specific student population, for instance those with learning support plans. We had hopes that having established the functionality of the robot we could progress to a second phase of the project. This second phase would be in collaboration with colleagues who work to support students directly so that we could make the technology accessible to those students who need it.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_av1-robot_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;ldquo;An animated GIF showing the robot&amp;rsquo;s happy and questioning facial expressions.&amp;rdquo;&#34;
+           src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;AV1 Robot&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;how-does-the-telepresence-robot-work&#34;&gt;How does the telepresence robot work?&lt;/h3&gt;
+&lt;p&gt;The robot unit is positioned in the classroom for the student and then the student uses a phone or tablet to control the robot’s line of sight and display facial expressions on the robot&amp;rsquo;s face from afar. The phone/tablet can also be used to ask the instructor questions and to access the video stream. For the privacy of other students, any recording facilities on the smartphone/tablet are disabled. The video stream therefore is also time-specific, just as it would be for in-person attendance at a lecture. The robot also allows for a level of anonymity if desired, so the student can choose to silently observe and attend the lecture or seminar without calling attention to their absence or revealing their identity.&lt;/p&gt;
+&lt;p&gt;We created&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; this video to provide a quick description for student of how the robot works&amp;hellip;&lt;/p&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/LspNgSY2WYM&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;aims-for-the-pilot-project&#34;&gt;Aims for the pilot project&lt;/h3&gt;
+&lt;p&gt;We have provided some information about the proposed &lt;a href=&#34;#rm&#34;&gt;research methods&lt;/a&gt; at the bottom of this post. The aims listed below are provided with an indication of how successful we were at achieving each.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Aim #1&lt;/strong&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To establish the utility of the device in lecture and seminar settings.&lt;/p&gt;
+&lt;h4 style=&#34;padding-left: 40px;&#34;&gt;&lt;strong&gt;Aim #1 - Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;We were able to test the robot in two seminars sessions through technical staff use (no use by students). We did not use it in a lecture setting due to scheduling.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Aim #2&lt;/strong&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To build expertise in Information Services, as such devices may be recommended as assistive technologies for students in the near future. It is important to establish the telepresence robot’s function and how to accommodate such devices on the wireless network.&lt;/p&gt;
+&lt;h4 style=&#34;padding-left: 40px;&#34;&gt;&lt;strong&gt;Aim #2 - Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;We were successful in this area, both the eLearning team and our colleagues in network services learned about how the robot worked on our network.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Aim #3
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;/strong&gt;&lt;/h4&gt;
+To understand the student experience of using the telepresence robot from a location beyond the classroom.&lt;/p&gt;
+&lt;h4 style=&#34;padding-left: 40px;&#34;&gt;&lt;strong&gt;Aim #3 - Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;We were unsuccessful. The robot was demonstrated to two different groups of students in different year groups and the pilot project failed to recruit.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Aim #4&lt;/strong&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To establish the telepresence robot’s suitability to potential requirements and understand the limitations of the technology.&lt;/p&gt;
+&lt;h4 style=&#34;padding-left: 40px;&#34;&gt;&lt;strong&gt;Aim #4 - Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;We were successful in learning about some of the requirements and also understanding the limitations of the technology in our particular setting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Aim #5&lt;/strong&gt;&lt;/h4&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To understand how the presence of the robot affects the taught environment, including the experiences of academic staff who teach with such a device present in-place of a student.&lt;/p&gt;
+&lt;h4 style=&#34;padding-left: 40px;&#34;&gt;&lt;strong&gt;Aim #5 - Result&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style=&#34;padding-left: 40px;&#34;&gt;We were unsuccessful in this venture as we were not able to test the robot in situ without the presence of a technical staff person in a naturalistic way due to not having student participants.&lt;/p&gt;
+&lt;h3 id=&#34;what-actually-happened&#34;&gt;What actually happened?&lt;/h3&gt;
+&lt;p&gt;While we sought ethical approval for user testing, the robot went on a little roadshow to meet members of staff. It was introduced at one of our regular &amp;lsquo;All things eLearning&amp;rsquo; tech afternoons and was enthusiastically received by staff. The robot was also taken to meet the university&amp;rsquo;s disabilities and dyslexia team, who were interested in how the technology could be used to support students. During this time the robot was tested in a few locations at the university&amp;rsquo;s Falmer and Moulsecoomb campuses. Colleagues in network services also spent some time testing the robot to establish the network load of the streaming video functions. Everything seemed hunky dory and ready to go.&lt;/p&gt;
+&lt;p&gt;After ethical approval was gained. A small number of willing academic staff were recruited, and the robot was taken to visit two separate classes by a member of the eLearning team. These class visits were put in place to demonstrate the robot&amp;rsquo;s capabilities, to explain the aims of the project and to allow for recruitment of student participants by a neutral third-party&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This is where our story takes a downturn.&lt;/p&gt;
+&lt;p&gt;During the first class visit we discovered some limitations related to connectivity. The AV1 can automatically assess the available network connections and choose the best connection based on signal strength. This is a helpful trait, but we encountered an issue where the robot routinely dropped off eduroam. We would have liked to be able to enforce which signal the robot selected, but we had no control of this setting. As a result, the reliable little robot failed spectacularly when confronted with the 4G connection in the South Downs National Park where the Falmer Campus is based&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. There is an assistant app which allows for a level of technical oversight, but the controls were too basic for our needs and did not include any diagnostic functions. Alas, the robot did not give a good first impression through a combination of circumstances. &lt;em&gt;No Isolation&lt;/em&gt; were great at working with us to resolve the Wi-Fi issues and willingly took onboard feedback related to the robot control apps. Another class visit was arranged.&lt;/p&gt;
+&lt;p&gt;During the second class visit the robot was demonstrated successfully, but the video stream was very poor quality as the signal once again reverted to 4G having been on WIFI successfully earlier in the day. Other devices in the room were connected to WIFI. What was different about this visit is that the students were not keen on the robot and their response to its presence seemed to imply an air of &amp;lsquo;uncanny valley&amp;rsquo;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;. They didn&amp;rsquo;t want the camera to look in their direction and there was a feeling of unease in the room.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_testing-the-av1-robot-out-in-a-classroom_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The robot in a classroom being controlled using an iPad.&#34; srcset=&#34;
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp 400w,
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu6765897239600815503.webp 760w,
+               /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu456783232181794910.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;425&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Testing the AV1 robot out in a classroom&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;personal-reflection-from-project-lead&#34;&gt;Personal reflection from project lead&lt;/h2&gt;
+&lt;p&gt;There are a variety of factors that led to the early cancellation of this project, but the main reason was lack of student study participants. To reflect, this could have been due to the time of term and the proximity to assessments. Another point is that as the main researcher on the project, perhaps I did not articulate the value of the tests adequately. I also could not pay students or offer them any incentives for participation beyond helping other students; for time-strapped students with many competing demands this may not have been enough. If the project had been working with a small focus group of students in different settings, that could have worked better, particularly if those students were in need of such a solution. However, such a venture would require a different group of stakeholders than we had for this basic pilot.&lt;/p&gt;
+&lt;p&gt;From a technical standpoint I felt that the staff overhead was too high to be sustainable. On a logistical level we would need a person to take the robot to the correct building and lecture/seminar room at the correct time and to then coordinate with the student user to ensure that they were able to connect. Furthermore, the assistant app for remote support of the robot was not yet sophisticated enough to meet our needs in terms of providing diagnostic information about the robot and its connectivity.&lt;/p&gt;
+&lt;p&gt;In our proposed service model, the robot would belong to the university and could be borrowed; based on testing the robot is not really designed for that type of deployment. In reality the robot really has a one-to-one relationship with the student, and it is not easy to reset it for use with a new mobile device without contacting support and requesting a new activation code. For instance, it would not be possible to have a service where a student could call/email our help desk and request a telepresence robot for their session in the afternoon, as their phone/tablet needs to be coupled to the robot. That is not something that we could do easily on an ad hoc basis from afar and it would then need to be reset again to allow the next student borrower. The ideal use model is that the robot _is _a representative of an individual student in the classroom, which is fine, but implies that the student also owns the equipment themselves. In our HE context, it may be that students would not need such a service for all their lectures, but for example only on particular days where they might have had a flare-up of a health condition. So, in our borrowing model, we would have to provide an iPad to &lt;em&gt;couple-with&lt;/em&gt; the robot and that iPad would have to stay with the student for as long as they used it.&lt;/p&gt;
+&lt;p&gt;Following on from the point above, I believe that a borrowing model could work in HE for planned leave such as, maternity/paternity, medical and personal. Maternity leave has already been explored by a pilot project at the University of Oxford (European Bioinformatics Institute, 2018). In these cases, it would be possible for a student to pick up the robot&amp;rsquo;s accompanying iPad prior to going on leave and then keep the iPad for the duration of their leave, so that they could attend classes. This also implies that there would be a need for more than one robot and for there to be means-tested or referral-based eligibility criteria. Without considerable service planning, it would be easy to see that such a service might be underutilised in the reality of a busy HE setting.&lt;/p&gt;
+&lt;h2 id=&#34;verdict&#34;&gt;Verdict&lt;/h2&gt;
+&lt;p&gt;There is certainly potential for a future service provision, but more sophisticated management tools are needed for HE settings. Anecdotally speaking, the reaction of some students to the aesthetic design of the robot suggests that a different approach may be needed for the device to feel appropriate for adult learners.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;Gibbs, G. (1988) _Learning by doing: A guide to teaching and learning methods_. Further Education Unit. Oxford Polytechnic: Oxford.&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;European Bioinformatics Institute (2018) _Meet the robot avatars helping Cambridge students combine education and motherhood_. &lt;a href=&#34;https://www.cam.ac.uk/research/news/meet-the-robot-avatars-helping-cambridge-students-combine-education-and-motherhood&#34;&gt;https://www.cam.ac.uk/research/news/meet-the-robot-avatars-helping-cambridge-students-combine-education-and-motherhood&lt;/a&gt; (Accessed: 24 October 2018).&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;No Isolation (2018) _The impact of AV1 on children with long-term illness and absence_. Available at: &lt;a href=&#34;https://www.noisolation.com/global/research/the-impact-of-av1-on-children-with-long-term-illness-and-absence/&#34;&gt;https://www.noisolation.com/global/research/the-impact-of-av1-on-children-with-long-term-illness-and-absence/&lt;/a&gt; (Accessed: 24 October 2018).&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;Schrepp, M., Hinderks, A. and Thomaschewski, J. (2017) Design and evaluation of a short version of the User Experience Questionnaire (UEQ-S). _International Journal of Interactive Multimedia and Artificial Intelligence,_ 4(6), 103-108.&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;University of Edinburgh (2019) _Reflection toolkit_. Available at: &lt;a href=&#34;https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle&#34;&gt;https://www.ed.ac.uk/reflection/reflectors-toolkit/reflecting-on-experience/gibbs-reflective-cycle&lt;/a&gt; (Accessed: 26 March 2019).&lt;/p&gt;
+&lt;h2 id=&#34;research-methods&#34;&gt;Research methods&lt;/h2&gt;
+&lt;p&gt;The following qualitative research methods were planned:&lt;/p&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;A testing session would be arranged during a scheduled class. The student would have attended remotely during the class and would have been asked to use the telepresence robot independently after receiving basic instruction.&lt;/li&gt;
+ 	&lt;li&gt;The student would have been asked to complete a short questionnaire at the beginning of the session prior to use. A second version of the same questionnaire would have been repeated at the end of the testing session. The core questions are based on a validated user experience questionnaire (UEQ-S; Schrepp, Hinderks and Thomaschewski, 2017).&lt;/li&gt;
+ 	&lt;li&gt;Anonymised typed notes would have been taken during the testing session to record any verbal feedback that the student tester wished to share with the researcher.&lt;/li&gt;
+ 	&lt;li&gt;Academic staff participants would have been asked to complete a written reflection of a minimum one-page in length based on Gibbs’ Reflective Cycle (1988; see also University of Edinburgh, 2019).&lt;/li&gt;
+&lt;/ul&gt;
+The following quantitative research method were planned:
+&lt;ul&gt;
+ 	&lt;li&gt;The bandwidth used by the telepresence robot during the testing sessions would have been monitored by the university&#39;s network services team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;addendum&#34;&gt;Addendum&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-47305835&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;An article from the BBC (20/02/19)&lt;/a&gt; about parents&amp;rsquo; privacy concerns related to use of an AV1 robot in a classroom setting.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;we used &lt;a href=&#34;https://www.powtoon.com/home/?&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Powtoon&lt;/a&gt; to create the video.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;The member of the eLearning team who does not have an existing service-based relationship with students.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;quite a rural and hilly area].&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Uncanny_valley&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article about &lt;em&gt;uncanny valley&lt;/em&gt; from Wikipedia&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

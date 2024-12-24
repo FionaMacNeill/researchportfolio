@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/conference/</link>
+      <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Reblog - What makes an online space inclusive?</title>
+      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
+&lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
+&lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Session description:&lt;/strong&gt;
+Think about the last online event you attended. Was there anything that made you feel included, or excluded? Did you have the option to add your pronouns? Were you actively invited to turn on your webcam, but only if you wanted to? You might even have become immersed in a collaborative exercise, almost forgetting you were on a video call! This session is a discussion focusing on how to support accessibility and inclusion in online learning spaces. Thinking about what works and what does not work and what is needed before, during, and after an online session to make it successful.
+This post is split into two sections, &lt;em&gt;what happened at the event?&lt;/em&gt; and the &lt;em&gt;meta level&lt;/em&gt;. The first section, &lt;em&gt;what happened&amp;hellip;&lt;/em&gt; summarises aspects of the discussion and the activity in the meeting chat. This is very much a crowdsourced blog post and I owe the vast majority of the helpful and acutely observed content to my fantastically engaged audience during the event. The second section is a reflection on my own practice and the steps that Jisc organisers took behind the scenes to support the event.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1xidGq_5d4OYedys5emfgYirDAiwCGbMWxeSGhFBVsAI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access the slides used during the session at Google Slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-happened-during-the-event&#34;&gt;What happened during the event?&lt;/h2&gt;
+&lt;h3 id=&#34;setting-the-scene&#34;&gt;Setting the scene:&lt;/h3&gt;
+&lt;p&gt;What do I mean by an online space?
+At the beginning of the event, I needed to establish what I meant by this term as it is a slightly lateral way of thinking about situations/events which may defined in a technical sense as webinars, online lessons, or online meetings. This is a big ask of an audience, but I wanted to encourage them to think about online space in broader terms rather than using siloed categorisations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;My definition:&lt;/strong&gt;
+An online space is where groups of 3 or more people come together to meet online.
+These spaces are facilitated via meeting and webinar tools and the format is governed by the people who facilitate and/or attend.
+The format can replicate in-person meeting styles or can be specific to online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_ingredients-for-an-online-space-as-an-algorithm-diagram_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               width=&#34;266&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Ingredients for an online space as an algorithm diagram&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;examples-to-illustrate-format&#34;&gt;Examples to illustrate &amp;lsquo;format&amp;rsquo;&lt;/h3&gt;
+&lt;p&gt;I provided two categories of format with examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;In-person formats:&lt;/strong&gt; online spaces which attempt to replicate an in-person meeting format/experience. Here are just a few of those that I listed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Round table, with the example meeting tool &lt;em&gt;Wonder&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Large group meeting, with example tool &lt;em&gt;Microsoft Teams&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Conference or lecture presentation&lt;/li&gt;
+&lt;li&gt;Watch Party, with example tool &lt;em&gt;Backyard.co&lt;/em&gt; (no longer available as of 26/06/21 - sunset due to being bought out by Discord).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uniquely online formats:&lt;/strong&gt; online spaces which present new modes of interaction or collaboration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio-only large group meeting, with the example of &lt;em&gt;Twitter Rooms&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Collaboration in real-time with interspersed audio, with example tool &lt;em&gt;Mural&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_a-twitter-room-featuring-hundreds-of-attendees-with-the-director-edgar-wright-and-the-original-cast-of-scott-pilgrim-vs-the-world-discussing-the-film-the-subtitle-function-is-shown-on-screen-making-the-event-accessible-to-all_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;A Twitter Room featuring hundreds of attendees with the director Edgar Wright and the original cast of Scott Pilgrim vs. the World discussing the film. The subtitle function is shown on screen, making the event accessible to all.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;questions-for-the-audience&#34;&gt;Questions for the audience&lt;/h3&gt;
+&lt;h4 id=&#34;1-what-was-it-like-at-the-last-online-learning-event-that-you-attended&#34;&gt;1. What was it like at the last online learning event that you attended?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Some folks taking part in the discussion, had just come from delivering their own training sessions with staff.&lt;/li&gt;
+&lt;li&gt;One person noted that the format of the Jisc Connect More conference was good because presenters were speaking for 20mins and then there were questions and answers for the remaining 10mins.&lt;/li&gt;
+&lt;li&gt;Another person noted that they had attended a long online event featuring multiple presenters. Some of the presenters were engaging for them, some were not. Therefore, they would have found it helpful to have a schedule for the speakers so that they could drop-in to the call when specific people were presenting.&lt;/li&gt;
+&lt;li&gt;Some folks felt that the range of tools being used during an online meeting/event, in addition to the main online meeting/webinar software, could be a little bit overwhelming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2a-what-supported-your-focus-at-the-online-learning-event&#34;&gt;2a. What supported your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Being asked to do something interactive or to respond to questions.&lt;/li&gt;
+&lt;li&gt;For a person who had been teaching an online learning event beforehand, they felt that being a little nervous helped to sharpen their focus (I completely agree!).&lt;/li&gt;
+&lt;li&gt;Including a personal story or experience can help to humanise an online presentation and bring people back into the room.&lt;/li&gt;
+&lt;li&gt;Team teaching can help to support the presenter&amp;rsquo;s focus and to ensure that questions typed into the chat are addressed promptly.&lt;/li&gt;
+&lt;li&gt;Being able to see attendees&amp;rsquo; webcam video can help when you are presenting. However, as an attendee you might not always want to share your webcam video. Sometimes there can be a mismatch in expectations or perspectives between the presenter and the attendees or participants.&lt;/li&gt;
+&lt;li&gt;Collaborating in real-time on a document with people who were equally interested/focused on a project-related goal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2b-was-there-anything-that-disrupted-your-focus-at-the-online-learning-event&#34;&gt;2b. Was there anything that disrupted your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lack of closed captions being available.&lt;/li&gt;
+&lt;li&gt;No opportunity to ask questions.&lt;/li&gt;
+&lt;li&gt;Internet breaking up at the presenter&amp;rsquo;s end.&lt;/li&gt;
+&lt;li&gt;Mics left on so you get background noise from attendees&amp;rsquo; environments.&lt;/li&gt;
+&lt;li&gt;Feeling alone at the event, like I am the only person there.&lt;/li&gt;
+&lt;li&gt;Those in shared office spaces could find their environment distracting and/or worry about background sound during an online call/session/event.&lt;/li&gt;
+&lt;li&gt;Some commentary on verbal ticks and overuse of certain terms such, as &amp;lsquo;so&amp;rsquo;*, &amp;rsquo;like&amp;rsquo;, &amp;lsquo;you know&amp;rsquo;, &amp;rsquo;em/um&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*I am so guilty of too many &amp;lsquo;so&amp;rsquo;s&amp;rsquo;, something I try desperately to edit out in my own video tutorials and vlog entries!&lt;/p&gt;
+&lt;h4 id=&#34;3-think-of-a-positive-experience-at-an-online-event-what-helped-you-to-feel-engaged&#34;&gt;3. Think of a positive experience at an online event. What helped you to feel engaged?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Someone recounted that they had attended a conference where alpacas (as in the animals) had joined during the opening session.&lt;/li&gt;
+&lt;li&gt;Using people&amp;rsquo;s names to &amp;ldquo;connect with people over the abyss&amp;rdquo; (I loved this turn of phrase).&lt;/li&gt;
+&lt;li&gt;A person noted that being asked to manage the chat for an event, had provided them with insight into the way that attendees were connecting with each other. Although while they were engaged in that they could not focus with the speaker&amp;rsquo;s content.&lt;/li&gt;
+&lt;li&gt;Several people spoke to the importance of receiving an agenda. Especially knowing the agenda beforehand and when the breaks would take place.&lt;/li&gt;
+&lt;li&gt;Knowing or hoping that there would be a follow-up email including any supporting materials and things that might have been missed.&lt;/li&gt;
+&lt;li&gt;Someone mentioned an event where the keynote panellist presented while outdoors. They said that this provided a stronger emotional engagement [comment: very interesting approach, a bit like a political speech or rally].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-what-helped-you-to-feel-included-at-the-event&#34;&gt;4. What helped you to feel included at the event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to like or react to comments. Some noted hesitancy with use of emojis to begin with, but now it is an expectation and an important part of acknowledging the value of someone else&amp;rsquo;s comment. A chat reaction is like the type of non-verbal cues that build connection in the real world; a nod, a thumbs up, clapping, a shake of the head, a shared glance.&lt;/li&gt;
+&lt;li&gt;Someone using your name when you have made a comment in the chat. A couple of folks agreed that this was important.&lt;/li&gt;
+&lt;li&gt;A best practice tip when running training sessions was to try to welcome everyone by name as they came in. Although this can be challenging in large sessions.&lt;/li&gt;
+&lt;li&gt;Having chat questions and comments included and acknowledged by the presenters.&lt;/li&gt;
+&lt;li&gt;Being able to specify gendered or non-gendered pronouns and preferred name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5-what-excludes-you-or-makes-you-feel-excluded-during-an-online-event&#34;&gt;5. What excludes you or makes you feel excluded during an online event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenters speaking too fast.&lt;/li&gt;
+&lt;li&gt;Not allowing time for questions or providing space where the audience can think through what has been said.&lt;/li&gt;
+&lt;li&gt;Events where questions in the chat are not followed-up on and are just left floating.&lt;/li&gt;
+&lt;li&gt;Even in an online meeting space there can be a sort of feeling of an in-crowd where it can feel exclusive. Something to avoid is having a side conversation with a colleague while attendees are arriving and instead keep it more neutral and welcoming. Even if your colleague wants to chat, encourage them to wrap it up.&lt;/li&gt;
+&lt;li&gt;Folks noted events where the chat is disabled, so there was no option to engage other than when invited to ask questions at the end. This felt quite disengaging.&lt;/li&gt;
+&lt;li&gt;Not being able to see the speaker. So, no picture-in-picture option for the speaker&amp;rsquo;s camera with only the slides shown on screen.&lt;/li&gt;
+&lt;li&gt;There can be elements in the user interface for webinar tools that can be very distracting. For example, animated GIFs and animated UI elements that serve no functional purposes.&lt;/li&gt;
+&lt;li&gt;Heeding the audience when they cite audio-visual problems and immediately seeking to correct the issue/s. Having a critical &lt;em&gt;friend&lt;/em&gt; or co-teacher who can verify and flag any sound/video issues.&lt;/li&gt;
+&lt;li&gt;Speed of speaker&amp;rsquo;s talking can make it difficult for attendees to follow. Especially in situations where bandwidth is low (so synchronisation between audio and video may not be great) and captions are limited. This can be challenging to interpret and tiring for those who rely on captions for the key information.&lt;/li&gt;
+&lt;li&gt;Too many slides with too much detail or content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;personal-introspective&#34;&gt;Personal Introspective&lt;/h3&gt;
+&lt;h4 id=&#34;part-1-human-factors&#34;&gt;Part 1: Human Factors&lt;/h4&gt;
+&lt;p&gt;What should event organisers or teachers do to help people feel included?
+I have paraphrased the answers below and added some commentary. You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be friendly, approachable, be human.&lt;/li&gt;
+&lt;li&gt;Ask if attendees have any accessibility requirements. Provide pre-event details about how the event will run&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Do not say &amp;lsquo;we don&amp;rsquo;t have much time today&amp;rsquo;. This can be a stressor for attendees&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Allow time for any technical issues.&lt;/li&gt;
+&lt;li&gt;Make the session relevant to the group whom you are meeting with, so that the experience does not feel generic.&lt;/li&gt;
+&lt;li&gt;Greet and welcome people who attend. Remember to smile!&lt;/li&gt;
+&lt;li&gt;Provide opportunities for attendees to do something creative together (e.g., doodling)&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Let attendees know how they should engage with the session. Provide an agenda as well beforehand.&lt;/li&gt;
+&lt;li&gt;Ask about what tech folks are planning to use beforehand to support forward planning (e.g., audio, video, 4g, Wi-Fi).&lt;/li&gt;
+&lt;li&gt;Respect the decision of attendees to keep their webcam turned off.&lt;/li&gt;
+&lt;li&gt;Provide an icebreaker or warm-up activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h4 id=&#34;part-2-technology-factors&#34;&gt;Part 2: Technology Factors&lt;/h4&gt;
+&lt;p&gt;What accessibility features or tools should be in-place during an event to help people feel included?
+You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Closed captions.&lt;/li&gt;
+&lt;li&gt;British Sign Language (BSL) interpreter&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Sending slides in advance and/or sending them afterwards.&lt;/li&gt;
+&lt;li&gt;Being told if you will receive the slides after the event.&lt;/li&gt;
+&lt;li&gt;Providing support for presenters prior to the event&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Someone to help manage contributions in the chat if the speaker is mainly engaged with the live audio contributions.&lt;/li&gt;
+&lt;li&gt;Provide different ways for people to answer questions and interact during the meeting/session/event.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h3 id=&#34;results-and-summary&#34;&gt;Results and Summary&lt;/h3&gt;
+&lt;h3 id=&#34;things-that-help&#34;&gt;Things that help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Entries added in the chat pane are included by the presenter and acknowledged.&lt;/li&gt;
+&lt;li&gt;Open questions allowing engagement.&lt;/li&gt;
+&lt;li&gt;An agenda is sent in advance of the session.&lt;/li&gt;
+&lt;li&gt;Emojis and reactions tools.&lt;/li&gt;
+&lt;li&gt;Webcams on and off - have clear prompts and expectations for when webcams should be turned on.&lt;/li&gt;
+&lt;li&gt;Having moderators to help manage the chat.&lt;/li&gt;
+&lt;li&gt;Being able to vote-up, respond or react to other folks’ comments in the chat.&lt;/li&gt;
+&lt;li&gt;Being able to include pronouns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;things-that-do-not-help&#34;&gt;Things that do not help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Too many slides with too much detail.&lt;/li&gt;
+&lt;li&gt;Presenter speaking too fast.&lt;/li&gt;
+&lt;li&gt;Questions in the chat pane that are not followed up.&lt;/li&gt;
+&lt;li&gt;No option for written chat.&lt;/li&gt;
+&lt;li&gt;Animated GIFs which run in the background with the user interface or in the chat and do not cease looping.&lt;/li&gt;
+&lt;li&gt;Distracting sounds such as typing in the background and noisy offices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;meta-level&#34;&gt;Meta Level&lt;/h2&gt;
+&lt;p&gt;This section is about reflecting on how things went from my perspective as the presenter and discussion facilitator.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-myself&#34;&gt;How I positioned myself&lt;/h3&gt;
+&lt;p&gt;From the start, I wanted to be clear that I did not have all the answers and that I was the discussion facilitator. I introduced my role within the space and Laura Hutton&amp;rsquo;s (Jisc) who was helping to oversee the chat and take notes for the final summary slide. Laura and I debriefed beforehand to ensure that we were both clear on how the session would work.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-the-format-of-the-space-itself&#34;&gt;How I positioned the format of the space itself&lt;/h3&gt;
+&lt;p&gt;I created a virtual version of the &lt;em&gt;Long Table,&lt;/em&gt; which was devised by performance artist, Lois Weaver (2013). I wanted my imaginary room to include everyone and provide ways for attendees to be creative.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;661&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How I verbally described my imaginary room:&lt;/strong&gt;
+A long table with a paper tablecloth is shown in the centre of the room. There are pens and two microphones on the table. There are four chairs on either side of the table. The table is surrounded by chairs in an amphitheatre format, half-circle format. There is a video camera and a British Sign Language interpreter in the corner of the room with a live feed to a protector in the room. A table of drinks and refreshments are in the corner of the room. If folks cannot come to the table, then a microphone is passed to them.
+When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at the table. When people wrote in the chat, they were writing on the tablecloth. Changing the feeling of &amp;lsquo;being&amp;rsquo; in a space, through use of furniture, technology, or projection, and rules of engagement has long been a preoccupation of mine and virtual spaces are no different. As I noted in the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/05/29/a-reflection-on-the-dl-tel-fireside-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fireside chat post&lt;/a&gt;, Dave White&amp;rsquo;s blog post (White, 2021) was the inspiration for my use of imaginary floor plans which have become a staple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;things-that-i-did-to-help-make-this-session-feel-inclusive&#34;&gt;Things that I did to help make this session feel inclusive&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I spent some time summarising the accessibility and response features that are available in Zoom at the beginning.&lt;/li&gt;
+&lt;li&gt;I provided a link to the Google Slides featuring all the questions (props to Miranda Melcher for this idea; Melcher, 2021).&lt;/li&gt;
+&lt;li&gt;I provided clear guidance for how to engage during the session and provided more than one mode for answering questions (verbally by putting hand-up, via chat - this also applied during the use of polls).&lt;/li&gt;
+&lt;li&gt;Designed the slides for accessibility with minimal and concise content. Using simple clear fonts and no white backgrounds on slides. I also used simple graphics to reinforce concepts.&lt;/li&gt;
+&lt;li&gt;I provided a warm-up question to provide folks with a trial of engagement.&lt;/li&gt;
+&lt;li&gt;I read out the content from each of the slides to the audience and verbally described the images on slides.&lt;/li&gt;
+&lt;li&gt;Reading the chat messages out by paraphrasing and acknowledging the names of the authors. Acknowledging a name pronunciation mistake.&lt;/li&gt;
+&lt;li&gt;Providing social interaction (chat and verbal), then encouraged use of the polls for more personal introspection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ways-that-jisc-supported-this-session&#34;&gt;Ways that Jisc supported this session&lt;/h3&gt;
+&lt;p&gt;Jisc&amp;rsquo;s pre-event speaker briefing document was excellent. Providing clear expectations, an overview of the technology, and recommendations for optimising your presentation setting (e.g., lighting, sound, optimising your internet connection etc.). I was asked to join the session half an hour early and was greeted by a very helpful session facilitator (thank you George!) who ensured that the technology was working as it should and provided me with host permissions on Zoom. As mentioned, Laura Hutton from Jisc was also on-hand during the session, which was great and is essential in case of any loss of connectivity. This is yet another reason why sharing slides either via a link (e.g., Zoom) or via a files area and then posting to the chat (e.g., MS Teams) is a good idea.&lt;/p&gt;
+&lt;h3 id=&#34;things-that-i-would-do-differently-next-time&#34;&gt;Things that I would do differently next time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve the wording of the first question slide. As I needed to clarify the question in the chat.&lt;/li&gt;
+&lt;li&gt;Show the question slide to ask the question and then switch to the webcam view to support better discussion. Therefore, perhaps one question less to allow for that as it would take more time to switch. Although this is a function for the Wishlist as switching between sharing to webcam mosaic view is never as smooth as I would like.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wishlist webinar function&lt;/strong&gt; - a keyboard shortcut to switch between screensharing the thing that you last shared and the webcam-based mosaic view. I want to be able to ask the question and then prioritise the webcam display without stopping sharing completely. When you stop sharing and re-share over and over per question it leads to a delay when you are multitasking.&lt;/p&gt;
+&lt;h3 id=&#34;considerations-for-teaching&#34;&gt;Considerations for teaching&lt;/h3&gt;
+&lt;p&gt;There are so many takeaways here. I think the big one for me is not feeling rushed when teaching in an online format by designing my content accordingly. I did not feel rushed in this session, but it is easy to misjudge the pace and timing. Therefore, having a practice is always a good idea. I will certainly consider the speed of my verbal delivery and try to work on minimising my verbal tick of starting sentences with the word &amp;lsquo;so&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;One more point is that I have found myself wondering if there will be greater expectations from students in terms of technology use when we return to teaching in-person. For example, the chat and inclusive nature of the chat were mentioned a lot. For people who find it hard to formulate their thoughts and/or figure out where to come into a conversation chat has been a transformative function allowing them to express themselves. There are also occasions where students or attendees may feel embarrassed to ask a question verbally. So how can we take the things that work well in online spaces and allow them to augment our in-person classrooms? Providing multimodal means to respond may need to become as much a part of our in-person practice as it has with online teaching practice; solutions to this could be analogue or digital.&lt;/p&gt;
+&lt;h2 id=&#34;bonus-content&#34;&gt;Bonus content&lt;/h2&gt;
+&lt;p&gt;In the process of researching content for this post I came across this brilliant video about BSL for popular technology terms. I love the ways that technology words and concepts have been translated into signs. I particularly loved &amp;lsquo;Internet&amp;rsquo; and &amp;lsquo;Google&amp;rsquo;.&lt;/p&gt;
+&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/AqhZUXXlY6s&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Eventbrite (2019) ‘&lt;a href=&#34;https://www.eventbrite.co.uk/blog/formats-to-refresh-your-conference-ds00/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20 Interactive Conference Ideas and Formats&lt;/a&gt;’, &lt;em&gt;EventBrite Blog&lt;/em&gt;, 23 June (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;Melcher, M. (2021) &lt;em&gt;CPD Webinar: What students actually want from online learning: results from a university-wide study of student digital accessibility needs&lt;/em&gt; [Google doc]. Available at: &lt;a title=&#34;Link to the Google doc used for M. Melcher&#39;s presentation&#34; href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34;&gt;&lt;a href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&lt;/a&gt;&lt;/a&gt; (Accessed: 31 May 2021).&lt;/p&gt;
+&lt;p&gt;Weaver, L. (2013) ‘&lt;a href=&#34;https://www.thisisliveart.co.uk/projects/long-table-on-feminism-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long Table on Feminism Documentation&lt;/a&gt;’,  &lt;i&gt;LADA Live Art Development Agency&lt;/i&gt; (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;White, D. (2021) ‘&lt;a href=&#34;http://daveowhite.com/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial collaboration: how to escape the webcam&lt;/a&gt;’, &lt;i&gt;David White&lt;/i&gt;, 1 February (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; this should be done prior to a meeting/session/event. During the meeting/session/event start by providing an overview of the general accessibility features of the tool that you are using.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This is such a brilliant observation as we all know that online events need to be shorter due to screen-time. However, we need to design and create content for the medium rather than trying to cram too much in - this is my key piece of learning from this event. I have been guilty of this on occasion, and I am going to work on designing my sessions to feel content-rich without coming across as time-poor.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;This was something that I thought about doing during this session but decided against it as I try to stick to a rule of two when it comes to using technology in sessions. So, when you have a webinar/online meeting tool you are already using one piece of technology, during Jisc Connect More this was Zoom. My second technology was the polling software, Poll Everywhere, as I wanted the audience to think about their answers individually and then vote up others&amp;rsquo; answers as well. This is easier to achieve in MS Teams with the chat reaction buttons, but not possible in the Zoom chat and polling tools that we were using that day. I was also providing access to my slides on Google slides which could be taking up another browser tab or window if folks chose to have that open. I am not counting that as an extra, but it is always worth trying to mentally picture the context and content of your attendees&amp;rsquo; screens when you are designing an online session.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;This was done very well at the &lt;a href=&#34;https://www.meetup.com/London-Accessibility-Meetup/events/278102089/&#34;&gt;Accessibility London event for Global Accessibility Awareness Day 2021&lt;/a&gt;, here is another example of a &lt;a href=&#34;https://youtu.be/1-IJzpTJYMU&#34;&gt;bilingual design webinar&lt;/a&gt; where two languages were signed.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;I think that that the team at Jisc did a fantastic job of this and it is something that I have commented in my reflection.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

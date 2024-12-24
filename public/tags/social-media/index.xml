@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social-Media | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/social-media/</link>
+      <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social-Media</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Social-Media</title>
+      <link>http://localhost:1313/tags/social-media/</link>
+    </image>
+    
+    <item>
+      <title>Re-Blog: Reflections on using Rise to support conference-based gamification</title>
+      <link>http://localhost:1313/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</link>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the Rise Leaderboard for the UCISA Digital Capabilities event with selfie categories, @mentions, Tweets and Retweets&#34; srcset=&#34;
+               /post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu12675562074040125117.webp 400w,
+               /post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu11615171116897795775.webp 760w,
+               /post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu7129527585361312846.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu12675562074040125117.webp&#34;
+               width=&#34;700&#34;
+               height=&#34;621&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;guest-blog-i-wrote-for-the-rise-blog-221015&#34;&gt;Guest blog I wrote for the Rise Blog 22/10/15&lt;/h2&gt;
+&lt;p&gt;Reflecting on my experience using Rise Leaderboard to support conference-based gamification.&lt;/p&gt;
+&lt;p&gt;In early June I had the pleasure of implementing a conference-wide gamification activity in support of the UCISA Digital Capabilities event. The event took place at MediaCity, Salford; a vibrant and engaging venue for an event stocked-full of innovative ideas. The event focused on showcasing successful practices for supporting academic staff and learners in their use of technology within further and higher education. Another goal of the event was to highlight findings from the recent Digital Capabilities survey. So when a member of the event organising committee, Iain Cameron (University of Aberdeen, and UCISA Digital Capabilities committee), mentioned the idea of a Twitter selfie (or Twelfie) competition as part of the proceedings, Rise immediately came to my mind as the right tool for the job! I had encountered Rise before at a demo at the International Confex event in 2013 and then again during the Mahara 2014 Hui held at the University of Brighton.&lt;/p&gt;
+&lt;p&gt;Read the rest of this post at the &lt;a href=&#34;http://blog.rise.global/&#34; title=&#34;Rise Blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rise Blog&lt;/a&gt; via this &lt;a href=&#34;http://blog.rise.global/2015/10/22/reflections-on-using-rise-to-support-conference-based-gamification/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link to my guest post&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

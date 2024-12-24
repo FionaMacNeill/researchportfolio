@@ -1,0 +1,2433 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: December 24, 2024 --><html lang="en-gb" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Fiona MacNeill" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Why am I here (as in you, at this blog, and reading this now)? I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in Jobs-To-Be-Done (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).
+" />
+
+  
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/blue.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+    
+    <link href="/css/custom.min.297085f9b930dcbfc605f971110e0684c5574616a34a62d26847dc4d772e785c.css" rel="stylesheet" />
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
+
+  <link rel="canonical" href="http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
+  <meta property="og:url" content="http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/" />
+  <meta property="og:title" content="UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18 | Fiona MacNeill Portfolio and Blog" />
+  <meta property="og:description" content="Why am I here (as in you, at this blog, and reading this now)?
+I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in Jobs-To-Be-Done (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section)." /><meta property="og:image" content="http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/featured.jpeg" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/featured.jpeg" /><meta property="og:locale" content="en-gb" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2018-03-24T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2018-03-24T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  <title>UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18 | Fiona MacNeill Portfolio and Blog</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Fiona MacNeill Portfolio and Blog">
+        Fiona MacNeill
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Home</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#talks"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#projects"
+        >Projects</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#blog"
+        >Blog</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+
+
+
+
+<div class="mx-auto flex max-w-screen-xl">
+  
+
+
+
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
+  
+  <div class="px-4 pt-4 lg:hidden">
+    
+    
+  </div>
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <ul class="flex flex-col gap-1 lg:hidden">
+      
+      
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/"
+    
+  >Recent &amp; Upcoming Talks
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/playfullearning2024/"
+    
+  >Put the learning into work; take the work out of learning - Playful Learning 2024
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/uxcamp2024/"
+    
+  >Research Hacking - UX Camp Brighton 2024
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/"
+    
+  >Projects
+    </a></li>
+        <li class="open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/"
+    
+  >Blog
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/12/humble-rss-feed/"
+    
+  >Falling back in love with the humble RSS feed
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/11/overdue-reflections/"
+    
+  >Overdue reflections: playing games and taking walks 
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/07/these-uxers-need-help---version-2.0/"
+    
+  >These UXers Need Help - Version 2.0
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/04/ux-camp-brighton-game-on/"
+    
+  >UX Camp Brighton 2023 - Game on!
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/11/uxbrighton-0411/"
+    
+  >UX Brighton 2022 - 4th November
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/10/cufflinks-1022/"
+    
+  >Cufflinks - Edition 2 - 23rd October
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/04/cufflinks-0422/"
+    
+  >Cufflinks - Edition 1 - 24th April
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/04/ux-camp-brighton-sticking-power/"
+    
+  >UX Camp Sticking Power
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/10/magical-meetings-a-review/"
+    
+  >Magical Meetings - A Review
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/07/what-makes-an-online-space-inclusive/"
+    
+  >Reblog - What makes an online space inclusive?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/07/vlog-3-part-1-adventures-in-viewx/"
+    
+  >Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/03/vlog-introducing-a-personal-challenge/"
+    
+  >Vlog 1: introducing a personal challenge
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2020/06/covid-19-three-months-in-what-have-learnt/"
+    
+  >COVID-19 three months in: what have we learned?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2019/06/a-technical-perspective-on-a-telepresence-robot/"
+    
+  >A technical perspective on a telepresence robot
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/"
+    
+  >UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18
+    </a>
+  
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#why-am-i-here-as-in-you-at-this-blog-and-reading-this-now"
+                class="hb-docs-link"
+              >Why am I here (as in you, at this blog, and reading this now)?</a>
+            </li>
+          <li>
+              <a
+                href="#what-are-we-going-to-do"
+                class="hb-docs-link"
+              >What are we going to do?</a>
+            </li>
+          <li>
+              <a
+                href="#why-are-creating-a-plot"
+                class="hb-docs-link"
+              >Why are creating a plot?</a>
+            </li>
+          <li>
+              <a
+                href="#why-are-we-using-rstudio-with-ggplot2"
+                class="hb-docs-link"
+              >Why are we using RStudio with ggplot2?</a>
+            </li>
+          <li>
+              <a
+                href="#further-reading"
+                class="hb-docs-link"
+              >Further Reading:</a>
+            </li>
+          <li>
+              <a
+                href="#references"
+                class="hb-docs-link"
+              >References:</a>
+            </li>
+          <li>
+              <a
+                href="#code"
+                class="hb-docs-link"
+              >Code</a>
+            </li>
+          </ul>
+  
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/hone-smart-hone/"
+    
+  >Hone Smart Home
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/naming/"
+    
+  >Naming - initial ideas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/beginning/"
+    
+  >Welcome to my new IDM22 Journal
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/striving-for-accessibility-summary-part-1/"
+    
+  >Striving for accessibility - Eval pt 1
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/the-weekend-of-doom/"
+    
+  >The weekend of doom
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/charty-mccharterson/"
+    
+  >Charty McCharterson
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/accessibility-and-responsive-bits/"
+    
+  >Accessibility and responsive bits
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/on-the-importance-of-self-discipline/"
+    
+  >On the importance of self-discipline
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/cellular-concerns/"
+    
+  >Cellular concerns
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/progress-on-the-grid-and-layout/"
+    
+  >Progress on the grid and layout
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/timeline-tool-identified/"
+    
+  >Timeline tool identified
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/building-the-grid/"
+    
+  >Building the grid
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframes-2/"
+    
+  >Wireframes 2&#43;
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframe0/"
+    
+  >Wireframe 0
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframe-1/"
+    
+  >Wireframe 1
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframing-sketches/"
+    
+  >Wireframing sketches
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/business-model-canvas-and-more-tweaks/"
+    
+  >Business Model Canvas and more tweaks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/10/portfolio-site-concept-and-other-news/"
+    
+  >Portfolio site concept and other news
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/10/theme-testing/"
+    
+  >Theme testing
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/06/trust-in-iot-app-interfaces-redux/"
+    
+  >[Talk] Factors of Trust in IoT App Interfaces Redux
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/05/capturing-live-drawing-in-the-digital-age/"
+    
+  >Capturing live drawing in the digital age
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/"
+    
+  >[Talk] Factors of Trust in IoT App Interfaces
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/03/gamification-in-higher-education/"
+    
+  >[Talk] Gamification in Higher Education
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/01/wireframes-are-friends-electric/"
+    
+  >Wireframes: Are friends electric
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/wireframes-pondering-topic-pages/"
+    
+  >Wireframes: Pondering Topic Pages
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/wireframe-sketching-looking-at-the-indexhome/"
+    
+  >Wireframe sketching: looking at the index/home
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/major-discoveries-minor-anguish/"
+    
+  >Major discoveries, minor anguish
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/"
+    
+  >Real-time reflection: experience of completing a Learning Object
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/bits-pieces-put-together-to-present-a-semblance-of-a-whole/"
+    
+  >Bits and Pieces Put Together to Present a Semblance of a Whole
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/11/perplexed-or-why-we-iterate/"
+    
+  >Perplexed...or why we iterate
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/characteristics-for-the-users-of-an-oer/"
+    
+  >Characteristics for the users of a hypothetical OER
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/"
+    
+  >Re-Blog: Reflections on using Rise to support conference-based gamification
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/user-characteristics-are-coming-out-of-my-ears/"
+    
+  >User characteristics are coming out of my ears
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/new-project-new-category/"
+    
+  >New project = New category
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/"
+    
+  >Attempting to live blog while running a twitter competition
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/03/re-blog/"
+    
+  >Re-blog: Using an iPad for Research – Tips Q and A
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/"
+    
+  >Reflection: The search for the best notetaking -or rather handwriting- app
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2014/09/the-adjustment-bureau/"
+    
+  >The Adjustment Bureau: The Case for Adjustment in Mobile Apps
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/"
+    
+  >Projects
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/accessibility-service-design/"
+    
+  >Accessibility Service Design (2020-2022)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/eportfolio-system/"
+    
+  >ePortfolio System (2017-20)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/wearable-for-health/"
+    
+  >Wearable for Health (2017-18)
+    </a>
+              
+            </li></ul>
+      </div></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+
+</aside>
+  
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  
+
+
+
+
+
+
+
+
+
+
+
+  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#why-am-i-here-as-in-you-at-this-blog-and-reading-this-now">Why am I here (as in you, at this blog, and reading this now)?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#what-are-we-going-to-do">What are we going to do?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#why-are-creating-a-plot">Why are creating a plot?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#why-are-we-using-rstudio-with-ggplot2">Why are we using RStudio with ggplot2?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#step-1-collect-the-data-show-me-the-data">Step 1: Collect the Data, Show me the Data</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#collect-the-data">Collect the data</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#download-the-data">Download the data</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#step-2-do-the-maths">Step 2: Do the Maths</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#the-opportunity-algorithm">The Opportunity Algorithm</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#create-r-food">Create R Food</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#step-3-get-started">Step 3: Get Sta(R)ted</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#step-4-ooooh-arrrrr">Step 4: OoooH aRrrrr</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#now-for-the-plot-part">Now for the plot part:</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#step-5-aesthetics">Step 5: Aesthetics</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#further-reading">Further Reading:</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#references">References:</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#code">Code</a>
+      </li></ul>
+
+  
+  
+    
+    
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  </nav>
+
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18</h1>
+
+      <div class="mt-4 mb-16">
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 24, 2018</span>
+        
+
+        
+        <span class="mx-1">·</span>
+        <span class="mx-1">
+          13 min read
+        </span>
+        
+        </div>
+
+        <div class="mt-3">
+          
+
+
+
+
+
+        </div>
+      </div>
+
+
+
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 540px;">
+        <div style="position: relative">
+          <img src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/featured_hu3281229612094144090.webp" width="720" height="540" alt="" class="featured-image">
+          
+        </div>
+      </div>
+      
+
+      
+      
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+        <h2 id="why-am-i-here-as-in-you-at-this-blog-and-reading-this-now">Why am I here (as in you, at this blog, and reading this now)?</h2>
+<p>I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in <a href="https://strategyn.com/customer-centered-innovation-map/" target="_blank" rel="noopener">Jobs-To-Be-Done</a> (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).</p>
+<h2 id="what-are-we-going-to-do">What are we going to do?</h2>
+<p>We are going to create a plot, or Opportunity Landscape (SEE also Ulwick, 2017), based on data from a quick opinion survey that was distributed via social media. Survey respondents were asked to rate particular tasks that they regularly complete on a smart watch according to importance and satisfaction on 5-part <a href="https://en.wikipedia.org/wiki/Likert_scale" target="_blank" rel="noopener">Likert scales</a>. At this point I should add a caveat, for those familiar with JTBD. These questions were not based on full <em>job</em> statements or stories but were abbreviated task statements. This is largely because based on survey testing, I found that the time it took to read and consider longer Job stories, based on Situation-&gt;Motivation-&gt;Expected Outcome (Klement, 2016) required too much mental effort for a &lt;15min survey. I have found Job stories to be indispensable at the interview stage, when derived from transcripts as a means to uncover motivations. In the context of this post I would say that my methodology is a bit of a mash-up of JTBD and Gerry McGovern&rsquo;s top tasks (2010; 2017).</p>
+<h2 id="why-are-creating-a-plot">Why are creating a plot?</h2>
+<p>I believe that the true purpose of any plot is to start conversations. Data visualisations have the power to both subvert truth and to challenge commonly held assumptions, I aim for the latter. Always.</p>
+<h2 id="why-are-we-using-rstudio-with-ggplot2">Why are we using RStudio with ggplot2?</h2>
+<p>The beauty of using RStudio with ggplot2 is&hellip;well beauty. Most people can make standard Excel visualisations without too much effort, but even with a lot of tweaking they still have a heady whiff. In the past I used Adobe Illustrator, but speaking of my own failings it was too easy to leave the land of accuracy and enter the land of surface-treatment. Here are my top reasons why you should consider using RStudio with ggplot2:</p>
+<ul>
+<li>You know how to use Microsoft Excel, but would like to create better visualisations&hellip;</li>
+<li>You have lots of data and you would like to segment it and look at a smaller portions without getting caught in a scrolling cycle-of-doom in a humongous spreadsheet&hellip;</li>
+<li>You want something inexpensive - the only cost here is time, but it is well worth it&hellip;</li>
+<li>Once you have built it, it can be used over and over and over&hellip;and tweaked quickly for whatever the need&hellip;</li>
+<li><strong>Bonus:</strong> RStudio and gpplot2 can be used to prototype data visualisations for interface design and depending on your audience a realistic looking representation/visualisation could be very important.</li>
+</ul>
+<p>If any of the statements above have piqued your interest then keep reading.</p>
+<h3 id="step-1-collect-the-data-show-me-the-data">Step 1: Collect the Data, Show me the Data</h3>
+<p>In true Blue Peter style, here is one I made earlier&hellip;</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of an Opportunity Landscape plot" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu7160451143862470047.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu16312118645119623351.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp"
+               width="760"
+               height="608"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+ The plot above is based on Webcredible&rsquo;s fantastic blog post on the topic of JTBD (Josephy, 2016).</p>
+<p>I should add that your plots can be much more extravagant than this, but essentially this is the basic type of plot that we are going to create to get started. The descriptive lines above are superfluous<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>. They are useful to keep commented-out in your code though as they can be used to create quick descriptive visuals for stakeholders when needed. What we can read from the visualisation above is that I could have asked about a lot more <em>jobs</em>; it is a bit sparse, but 12 jobs is what this particular survey could accommodate. Also the majority of the jobs fall into the &lsquo;overserved&rsquo; domain. This means satisfaction has been rated higher than importance and according to Ulwick (2016) this is prime territory for disruption. So although initially, when I looked at this visualisation I was like &ldquo;oh blast&rdquo;, as I was looking for some untapped potential related to smart watch jobs and there is none. Actually it is more that customers are overserved for jobs that aren&rsquo;t perceived as that important and therefore the landscape is primed for some new competitor to come in and do the job in a cheaper and perhaps less good, but cheaper way, which though market adoption and iteration of &lsquo;said&rsquo; cheap version may eventually lead to something better (Ulwick, 2016). Of course another dimension would be to ask questions about jobs that have not yet been considered for smart watch, but these were out of scope for this particular survey. In a way this plot perfectly sums up smart watches as they are still finding their footing, they are still superfluous to the smartphone which is almost ubiquitous. The point I am getting to here is that this plot asks questions of the data, that we might not normally ask if we were looking at each question in isolation. It is only when we bring these jobs together that we reach a new level of meaning.</p>
+<h3 id="collect-the-data">Collect the data</h3>
+<p>You will need a survey question something like this&hellip; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Screenshot of survey question" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu6343540083054042405.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu5738906302310737442.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp"
+               width="760"
+               height="435"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+ &hellip;Or split it into two versions of the same question depending on the allowances of your survey tool. <strong>&ldquo;DANGER, WILL ROBINSON!!!!&rdquo;</strong></p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-danger-will-robinson-by-basilleaf-on-flickr">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Photo of a 1960s-style robot with oval head made of clear glass" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu8441131541161243420.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu6905223669964946683.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp"
+               width="240"
+               height="240"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      DANGER WILL ROBINSON by BasilLeaf, on Flickr
+    </figcaption></figure>
+
+<em>A photo of a robot based on the character from the 1960s TV show, Lost in Space.</em></p>
+<p><a href="https://www.flickr.com/photos/garynlisa/8309044921/" target="_blank" rel="noopener">DANGER WILL ROBINSON</a>&quot; (<a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>) by <a href="https://www.flickr.com/people/garynlisa/" target="_blank" rel="noopener">BasilLeaf</a></p>
+<blockquote>
+<p>Q: Hey didn&rsquo;t you say earlier that you need a 5 part Likert scale? But you only have four options in the &lsquo;satisfaction&rsquo; scale above?</p>
+</blockquote>
+<p>The answer is I had to take a difficult decision about the experience of users on smartphones using my survey. One more column and it was over the precipice into the land of non-function. As I am only interested in &lsquo;Quite Important&rsquo; and &lsquo;Very Important&rsquo; and &lsquo;Satisfied&rsquo; and &lsquo;Highly Satisfied&rsquo; in this context I sacrificed the final column. So the results for the first question looked like this&hellip; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of results" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu6238986280423095458.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu838624317351699530.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp"
+               width="760"
+               height="579"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+] For the Satisfaction element, I created an <a href="https://support.office.com/en-us/article/IFS-function-36329a26-37b2-467c-972b-4a39bd951d45" target="_blank" rel="noopener">IFS Function</a> in my final spreadsheet, to make 4 equaled 5, 3 equaled 4, 2 equaled 3 and 1 equaled 2. This put everything on the same scale.</p>
+<h3 id="download-the-data">Download the data</h3>
+<p>Any good survey tool should allow you to download the results to CSV format (Comma Separated Values) and any survey tool worth its salt should also provide a SPSS or data analysis format which codes each response with a number. So in my case I wanted to the most positive response to have the highest rank value. I am going to use Excel to sort the data, as that is/was my comfort zone and I think that it is good to start from a position of confidence and trust in the original figures prior to visualising them. Personally speaking after only a few months of working with RStudio, I now feel happy to complete the entire workflow in RStudio.</p>
+<p><strong>Tip: Split up your Importance (IMP) and Satisfaction (SAT) onto separate tabs in your Excel spreadsheet</strong></p>
+<p>Believe me this will make your life SO much easier, when it comes to doing your calculations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of sort data slide" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu12536099441163713147.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu846163279079221957.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="step-2-do-the-maths">Step 2: Do the Maths</h3>
+<p>Having separated your data, create a new tab in your spreadsheet and create the rows defined in the column labelled <strong>A</strong> below. Then use the data on your Importance tab to populate column <strong>B.</strong> Start with one question-worth of data, we&rsquo;ll get to the rest of your questions soon.</p>
+<ul>
+<li>So for row 3 &ldquo;total importance&rdquo;: count all the entries in the importance column for that particular job from the first data row to the last - indicated by A_x_ \[COUNTA\].</li>
+<li>For row 4 we want to count how many of these entries had a rating of 4 (Quite Important) and 5 (Very Important). So we use a COUNTIF formula to look at values greater than 3. As we aren&rsquo;t dealing with decimals (yet), &ldquo;&gt;3&rdquo; is accurate enough for this purpose.</li>
+<li>For row 5 we need to find out what percentage of overall responses are <em>Quite</em> and <em>Very Important</em>. So we divide row 4 by row 3 and then times by 10.</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th>1</th>
+          <th>A</th>
+          <th>B</th>
+          <th>C</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>2</td>
+          <td>Job</td>
+          <td><em>I am a job</em></td>
+          <td><em>In Excel speak</em></td>
+      </tr>
+      <tr>
+          <td>3</td>
+          <td>total importance</td>
+          <td>How many entries are there in the column?</td>
+          <td>=COUNTA(&lsquo;IMP data’!A2:A x)</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>imp &gt;3</td>
+          <td>How many entries are there in the column &gt;3?</td>
+          <td>=COUNTIF(&lsquo;IMP data&rsquo;!A2:A x, &ldquo;&gt;3&rdquo;)</td>
+      </tr>
+      <tr>
+          <td>4</td>
+          <td>imp %</td>
+          <td>Importance/total importance X 10</td>
+          <td>=B4/B3*10</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Create identical rows for satisfaction</strong> (after in my case, adjusting it upwards first, due to having a satisfaction scale of 4 parts), so that you end up with this&hellip;</p>
+<h3 id="the-opportunity-algorithm">The Opportunity Algorithm</h3>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of the opportunity algorithm" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu2320321359076610231.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu14723826080612170379.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+ So you will need a final row, row 10 to calculate the <strong>Opportunity Score</strong>. This is outlined above, but to explain the contents of the image. You take the outcome of importance, which is your percentage, so 9.6 in this case and take away the outcome of satisfaction, again a percentage. So that would leave you with -0.1, then add back on the outcome percentage which is is 9.6 and you end up with the total opportunity score of 9.5. outcome importance + (outcome importance - outcome satisfaction) = Opportunity Score 9.6 + (9.6 - 9.7) = 9.5 This is not the most exciting opportunity score, the most exciting ones are more than 10, or better yet more than 12. Oh and here is why I said that you should start with the formulae for one question-worth of data and to split Importance and Satisfaction onto separate sheets&hellip;Once you have created one column for Importance and Satisfaction data you can simply drag the formulae across all of your questions.</p>
+<iframe src="https://www.youtube-nocookie.com/embed/C0V1I-bigQI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3 id="create-r-food">Create R Food</h3>
+<p>Having done all that you need to get your data into columns for RStudio, specifically we want four columns to start off with: Job; Importance; Satisfaction; Opportunity; and Score. So that it looks like this&hellip; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image showing the columns in the spreadsheet" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu6338840829146341820.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu13145842533791863457.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+ Tip to get your data from rows to these columns use the transpose(array) function in Excel, here it is in action&hellip;</p>
+<iframe src="https://www.youtube-nocookie.com/embed/sCdz2fOSWAI?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3 id="step-3-get-started">Step 3: Get Sta(R)ted</h3>
+<ul>
+<li>
+<p><strong>Install R from the R Archive:</strong> Pick a mirror close-by (geographically speaking), e.g in UK - <a href="https://www.stats.bris.ac.uk/R/" target="_blank" rel="noopener">University of Bristol</a>, <a href="https://cran.ma.imperial.ac.uk/" target="_blank" rel="noopener">Imperial College London</a></p>
+</li>
+<li>
+<p><strong>Mac tip:</strong> make sure that you check the MD5 hash and SHA hash match. You can do this quickly and easily in terminal.</p>
+  <iframe src="https://www.youtube-nocookie.com/embed/HHdrIlHS2-4?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</li>
+<li>
+<p><strong>\[Mac only\]:</strong> <a href="https://www.xquartz.org/" target="_blank" rel="noopener">XQuartz</a> Install - information about this is provided at R Archive above.</p>
+</li>
+<li>
+<p><strong>Install RStudio:</strong> again do check the MD5. You can get the installer here - <a href="https://www.rstudio.com/products/rstudio/download/#download" target="_blank" rel="noopener">https://www.rstudio.com/products/rstudio/download/#download</a></p>
+</li>
+</ul>
+<h3 id="step-4-ooooh-arrrrr">Step 4: OoooH aRrrrr</h3>
+<p>Launch RStudio and have a go!</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of the RStudio UI" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu10876822247238170187.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu15977988678247841919.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp"
+               width="760"
+               height="556"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+<em>Image of the RStudio UI</em></p>
+<p>So now that you have done all of the preparation you can actually start to create plots. Before you do anything else you need to load your library. In this case we are using ggplot2 which is part of <a href="https://www.tidyverse.org/" target="_blank" rel="noopener">Hadley Wickham&rsquo;s (and others) Tidyverse</a> - packages for R with standardised concepts and grammar. This is a good place to start as I have found that some of the R packages are quite idiosyncratic and it can take a bit of time to wrap your head around the internal logic, whereas the Tidyverse stuff all made a lot of sense. This could be because I originally learned to code in the JavaScript iteration of <a href="https://processing.org/" target="_blank" rel="noopener">Processing.</a> RStudio comes with a lot of packages already, so&hellip;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">gpplot2</span><span class="p">)</span>
+</span></span></code></pre></div><p>If you needed to install it first and say you wanted the whole Tidyverse it would intuitively be&hellip;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">install.packages</span><span class="p">(</span><span class="n">tidyverse</span><span class="p">)</span>
+</span></span></code></pre></div><p>Next you need to define your data and as you will recall we set that us as a .csv file on the desktop so lets call the data &lsquo;jtdb&rsquo;&hellip;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="nf">library</span><span class="p">(</span><span class="n">gpplot2</span><span class="p">)</span> <span class="n">jtbd</span> <span class="o">&lt;-</span> <span class="nf">read.csv</span><span class="p">(</span><span class="s">&#34;~/Desktop/JTBD\_R/jtbd.csv&#34;</span><span class="p">,</span> <span class="n">header</span> <span class="o">=</span> <span class="bp">T</span><span class="p">)</span> 
+</span></span><span class="line"><span class="cl"><span class="c1">#This is a comment in RMarkup, </span>
+</span></span><span class="line"><span class="cl"><span class="c1">#so lets also find out about the data itself by using the summary function summary(jtbd) </span>
+</span></span></code></pre></div><p><strong>Result in the console:</strong> <a href="http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/resultinconsole-t8dbkw.jpg" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Screenshot of results in console" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu14720792961774716272.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15676726823077579924.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp"
+               width="515"
+               height="339"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a> Well&hellip;that is jolly helpful information!</p>
+<h3 id="now-for-the-plot-part">Now for the plot part:</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1">#the plot mapping - telling where your data to map on the axis </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">ggplot</span><span class="p">(</span><span class="n">jtbd</span><span class="p">,</span> <span class="nf">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">Importance</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="n">Satisfaction</span><span class="p">))</span><span class="o">+</span> 
+</span></span><span class="line"><span class="cl"><span class="c1"># the &#34;+&#34; allows you to add another function, each function goes on its own layer, </span>
+</span></span><span class="line"><span class="cl"><span class="c1">#so the order is important for example geom_point defines your data as points on the plot </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">geom_point</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s">&#34;blue&#34;</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="m">0.5</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="m">4</span><span class="p">)</span><span class="o">+</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># To map aesthetics in a more intentional way - for instance adding labels, </span>
+</span></span><span class="line"><span class="cl"><span class="c1"># we can use another function geom label which requires two variables </span>
+</span></span><span class="line"><span class="cl"><span class="c1">#(in this case Importance and Satisfaction) </span>
+</span></span><span class="line"><span class="cl"><span class="c1"># and tell it which column to get the labels from, in this case, the &#34;Job&#34; column </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">geom_label</span><span class="p">(</span><span class="nf">aes</span><span class="p">(</span><span class="n">label</span> <span class="o">=</span> <span class="n">jtbd</span><span class="o">$</span><span class="n">Job</span><span class="p">),</span> 
+</span></span><span class="line"><span class="cl"><span class="n">nudge_y</span> <span class="o">=</span> <span class="m">0.08</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="n">nudge_x</span> <span class="o">=</span> <span class="m">0.06</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="n">hjust</span><span class="o">=</span><span class="s">&#34;right&#34;</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="n">alpha</span><span class="o">=</span><span class="m">0.8</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="n">size</span><span class="o">=</span><span class="m">4</span><span class="p">)</span> 
+</span></span></code></pre></div><p>This gives a starter plot like this&hellip; [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of starter plot" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu7961699609849074676.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu5849118592068151610.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp"
+               width="760"
+               height="408"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+. Just to prove that it is easy to get started I gave myself a little challenge&hellip;</p>
+<iframe src="https://www.youtube-nocookie.com/embed/NJY0dQdV-7I?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<p>After that it is really all about the aesthetics with this particular plot. Specifically I added a data.frame (a container for data) for each aesthetic element such as text, lines, shaded polygons and areas. These were then called as shown below&hellip;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-r" data-lang="r"><span class="line"><span class="cl"><span class="c1">#Labels for the areas of the plot </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">labelover</span> <span class="o">&lt;-</span> <span class="nf">data.frame</span><span class="p">(</span> <span class="n">x</span> <span class="o">=</span> <span class="m">1</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="m">9.5</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s">&#34;OVERSERVED&#34;</span> <span class="p">)</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#Potential for disruption line </span>
+</span></span><span class="line"><span class="cl"><span class="n">segment4</span> <span class="o">&lt;-</span> <span class="nf">data.frame</span><span class="p">(</span> <span class="n">x</span> <span class="o">=</span> <span class="m">0</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="m">2</span><span class="p">,</span> <span class="n">xend</span> <span class="o">=</span> <span class="m">7</span><span class="p">,</span> <span class="n">yend</span> <span class="o">=</span> <span class="m">10</span> <span class="p">)</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#further down in the code where the plot is created - I call these</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">ggplot</span><span class="p">(</span><span class="n">jtbd</span><span class="p">,</span> <span class="nf">aes</span><span class="p">(</span><span class="n">x</span><span class="o">=</span><span class="n">Importance</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="n">Satisfaction</span><span class="p">))</span> <span class="o">+</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#Calling the text </span>
+</span></span><span class="line"><span class="cl"><span class="nf">geom_text</span><span class="p">(</span><span class="n">data</span> <span class="o">=</span> <span class="n">labelover</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="nf">aes</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> <span class="n">label</span> <span class="o">=</span> <span class="n">label</span><span class="p">),</span> <span class="n">size</span><span class="o">=</span><span class="m">5</span><span class="p">)</span> <span class="o">+</span> 
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1">#Calling the &#39;potential for disruption line&#39; and adding some annotation to it </span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nf">geom_segment</span><span class="p">(</span><span class="n">data</span> <span class="o">=</span> <span class="n">segment4</span><span class="p">,</span> 
+</span></span><span class="line"><span class="cl"><span class="nf">aes</span><span class="p">(</span><span class="n">x</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> <span class="n">xend</span> <span class="o">=</span> <span class="n">xend</span><span class="p">,</span> <span class="n">yend</span> <span class="o">=</span> <span class="n">yend</span><span class="p">),</span> 
+</span></span><span class="line"><span class="cl"><span class="n">alpha</span><span class="o">=</span><span class="m">0.2</span><span class="p">,</span> <span class="n">linetype</span><span class="o">=</span><span class="m">2</span><span class="p">)</span> <span class="o">+</span> 
+</span></span><span class="line"><span class="cl"><span class="nf">annotate</span><span class="p">(</span><span class="s">&#34;text&#34;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="m">5.1</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="m">9</span><span class="p">,</span> <span class="n">label</span> <span class="o">=</span> <span class="s">&#34;Potential for disruption&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><h3 id="step-5-aesthetics">Step 5: Aesthetics</h3>
+<p>Well that provides an overview of the basics the rest will be based on your own aesthetic decisions. So I have provided the full code work-up with annotation below and recommend that you have a go and explore. Also if any of you are R and ggplot2 &lsquo;pros&rsquo; I am open to feedback as I am sure that it could be improved. To summarise, from my perspective using RStudio has provided the following benefits:</p>
+<ul>
+<li>A fast way to create reproducible visualisations of JTBD data</li>
+<li>An effective way to create prototype data visualisations for a range of design contexts</li>
+<li>An inexpensive option when compared to other data packages. Although I can get a student discount on software at the moment, I was thinking about the long term and developing a skill with an open source package</li>
+<li>It has helped me to think differently about data and to iterate visualisations in the same way that I would with other design projects</li>
+<li>It is immensely satisfying</li>
+</ul>
+<h2 id="further-reading">Further Reading:</h2>
+<ul>
+<li>
+<p>RStudio online learning materials: <a href="https://www.rstudio.com/online-learning/#DataScience" target="_blank" rel="noopener">https://www.rstudio.com/online-learning/#DataScience</a></p>
+</li>
+<li>
+<p>RMarkdown gallery for ideas: <a href="https://rmarkdown.rstudio.com/gallery.html" target="_blank" rel="noopener">https://rmarkdown.rstudio.com/gallery.html</a></p>
+</li>
+<li>
+<p>RStudio Cheatsheets (they taught me pretty much everything that I couldn&rsquo;t figure out from the built-in docs): <a href="https://www.rstudio.com/resources/cheatsheets/" target="_blank" rel="noopener">https://www.rstudio.com/resources/cheatsheets/</a></p>
+</li>
+<li>
+<p>Check out the Tidyverse: <a href="https://www.tidyverse.org/" target="_blank" rel="noopener">https://www.tidyverse.org/</a></p>
+</li>
+</ul>
+<h2 id="references">References:</h2>
+<p>Josephy, J. (2016) &lsquo;Jobs to be done - a better way to innovate&rsquo;, <em>Webcredible blog</em>, 19 May. Available at: <a href="https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/" target="_blank" rel="noopener">https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/</a> (Accessed: 23 March 2018).</p>
+<p>Klement, A. (2016) &lsquo;Designing features using job stories&rsquo;, in <em>Intercom on Jobs-to-be-Done&rsquo;.</em> pp. 28-80. Available at: <a href="https://www.intercom.com/books/jobs-to-be-done" target="_blank" rel="noopener">https://www.intercom.com/books/jobs-to-be-done</a> (Downloaded: 24 March 2017).</p>
+<p>McGovern, G. (2010) <em>The stranger&rsquo;s long neck: How to deliver what your customers really want</em> <em>online</em>. London: A &amp; C Black.</p>
+\[_PowerPoint_ presentation\]<p>. Available at: <a href="https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern" target="_blank" rel="noopener">https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern</a> (Accessed: 23 February 2017).</p>
+<p>Tufte, E. R. (2001) <em>The visual display of quantitative information</em>. 2nd edn. USA, CT: Graphics Press. Reprint, 2013.</p>
+<p>Ulwick, A. W. (2016) <em>Jobs to be Done: Theory to Practice.</em> Available at: <a href="http://amzn.eu/7BpXFp0" target="_blank" rel="noopener">http://amzn.eu/7BpXFp0</a> (Downloaded: 3 March 2017).</p>
+<p>Ulwick, A. W. (2017) &lsquo;The path to growth: The opportunity algorithm&rsquo;, <em>The marketing journal,</em> 9 July. Available at: <a href="http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/" target="_blank" rel="noopener">http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/</a> (Accessed: 23 March 2018).</p>
+<hr>
+<h2 id="code">Code</h2>
+<p>Access the code for this post on my <a href="https://github.com/FionaMacNeill/OpportunityLandscape/blob/main/jtbd.R" target="_blank" rel="noopener">public GitHub Repository, &lsquo;OpportunityLandcape&rsquo;</a>.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Creative Commons Licence" srcset="
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp 400w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu8837335831164863444.webp 760w,
+               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu1479922774419710758.webp 1200w"
+               src="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp"
+               width="88"
+               height="31"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+(<a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">http://creativecommons.org/licenses/by-sa/4.0/</a>) Code for JTBD data visualisation by <a href="http://fionamacneill.co.uk/blog/2018/03/24/ux-camp-brighton-2018-jobs-to-be-done-r" target="_blank" rel="noopener">Fiona MacNeill</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Based on a work at <a href="http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/" target="_blank" rel="noopener">http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/</a>.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Edward Tufte (2001) would likely frown to see these lines - &ldquo;erase non-data-ink&rdquo; (p. 105).&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+      </div>
+
+      
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2018-03-24T00:00:00.000Z">
+    <span>Last updated on</span>
+    Mar 24, 2018</time>
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        
+        <div class="max-w-prose print:hidden">
+  
+  
+
+  
+
+<div class="flex justify-center">
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/uxcb18/">Uxcb18</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/data-visualisation/">Data-Visualisation</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/dataviz/">Dataviz</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ggplot2/">Ggplot2</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/r/">R</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/rstudio/">Rstudio</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/tidyverse/">Tidyverse</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ui/">Ui</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ux/">Ux</a>
+  
+</div>
+
+
+  
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2018%2F03%2Fux-camp-brighton-2018-jobs-to-be-done-r%2F&amp;text=UX&#43;Camp&#43;Brighton&#43;2018%3A&#43;Jobs-To-Be-Done-%28R%29&#43;%23uxcb18"
+    title="X"
+    aria-label="X"
+    id="share-link-x"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2018%2F03%2Fux-camp-brighton-2018-jobs-to-be-done-r%2F&amp;t=UX&#43;Camp&#43;Brighton&#43;2018%3A&#43;Jobs-To-Be-Done-%28R%29&#43;%23uxcb18"
+    title="Facebook"
+    aria-label="Facebook"
+    id="share-link-facebook"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="mailto:?subject=UX%20Camp%20Brighton%202018%3A%20Jobs-To-Be-Done-%28R%29%20%23uxcb18&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2018%2F03%2Fux-camp-brighton-2018-jobs-to-be-done-r%2F"
+    title="Email"
+    aria-label="Email"
+    id="share-link-email"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2018%2F03%2Fux-camp-brighton-2018-jobs-to-be-done-r%2F&amp;title=UX&#43;Camp&#43;Brighton&#43;2018%3A&#43;Jobs-To-Be-Done-%28R%29&#43;%23uxcb18"
+    title="LinkedIn"
+    aria-label="LinkedIn"
+    id="share-link-linkedin"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="whatsapp://send?text=UX&#43;Camp&#43;Brighton&#43;2018%3A&#43;Jobs-To-Be-Done-%28R%29&#43;%23uxcb18%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2018%2F03%2Fux-camp-brighton-2018-jobs-to-be-done-r%2F"
+    title="WhatsApp"
+    aria-label="WhatsApp"
+    id="share-link-whatsapp"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
+  </a>
+  
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+
+<div class="flex pt-12 pb-4">
+  
+  
+  <img
+    class="mr-4 h-24 w-24 rounded-full"
+    width="96"
+    height="96"
+    alt="Fiona MacNeill"
+  src="/author/fiona-macneill/avatar_hu15775133914349557226.jpg"
+  loading="lazy"
+  />
+  
+  <div class="place-self-center">
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Authors
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      <a href="http://localhost:1313/" class="no-underline">
+      Fiona MacNeill
+      </a>
+    </div>
+
+    
+    <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
+    UX Researcher, Learning Designer, Technologist
+    </div>
+    
+
+
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-300">Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.</div>
+    
+
+    <div class="text-2xl sm:text-lg pt-1">
+
+      
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+        <a class="group flex no-underline" href="/post/2019/06/a-technical-perspective-on-a-telepresence-robot/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >A technical perspective on a telepresence robot</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Jun 20, 2019
+              
+            </span>
+          </span>
+        </a>
+      
+    </div>
+    <div class="">
+      
+        <a class="group flex text-right no-underline" href="/post/2017/02/hone-smart-hone/">
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Hone Smart Home</span
+            >
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Feb 13, 2017
+              
+            </span>
+          </span>
+          <span
+            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline">&rarr;</span></span>
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+  
+
+
+
+</div>
+
+      </div>
+
+    </main>
+  </article>
+</div>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+  <div id="wcb" class="carbonbadge"></div>
+  <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+  
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

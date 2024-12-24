@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/topics/</link>
+      <atom:link href="http://localhost:1313/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Topics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Topics</title>
+      <link>http://localhost:1313/tags/topics/</link>
+    </image>
+    
+    <item>
+      <title>Wireframes: Pondering Topic Pages</title>
+      <link>http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wireframe 4&#34; srcset=&#34;
+               /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu10979425404193427517.webp 400w,
+               /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu17593920240945140589.webp 760w,
+               /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu14422716716271756973.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu10979425404193427517.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;525&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Van Duyne, D. K., Landay, J. A., &amp;amp; Hong, J. I. (2007). &lt;em&gt;The design of sites: Patterns for creating winning web sites&lt;/em&gt; (2nd ed.). USA: Prentice Hall PTR.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

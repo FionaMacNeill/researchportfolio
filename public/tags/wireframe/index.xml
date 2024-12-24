@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wireframe | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/wireframe/</link>
+      <atom:link href="http://localhost:1313/tags/wireframe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wireframe</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Wireframe</title>
+      <link>http://localhost:1313/tags/wireframe/</link>
+    </image>
+    
+    <item>
+      <title>Building the grid</title>
+      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <description>\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from &lt;a href=&#34;http://caniuse.com/#search=calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=calc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gamache, D. (2016) A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imling, M. (2016). One% CSS Grid. Retrieved November 25, 2016, from &lt;a href=&#34;http://onepcssgrid.mattimling.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://onepcssgrid.mattimling.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rand-Hendriksen, M. (2015, July 16). Making sense of the CSS box model. Retrieved November 25, 2016, from &lt;a href=&#34;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframes 2&#43;</title>
+      <link>http://localhost:1313/post/2016/11/wireframes-2/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/wireframes-2/</guid>
+      <description>\[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_187&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_188&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_189&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; The new iteration of the design seemed cleaner and more focused in the sense that any page visitor would be immediately be shown the patient&amp;rsquo;s story as an interactive narrative. However, this also meant that all my prior work on the smooth scrolling was for naught. I did try to see if I could tweak it to go from left-to-right or rather back and forth, but that was a futile effort. A related attempt at this was to look at transition whether I could build the timeline itself in CSS by creating a &lt;div&gt; for the line itself and a &lt;div&gt; for the timeline circles but adding them as squares and then using the border-radius at 100% made them into circle. As you can see from the video below, this is ended in a vomit-inducing interface.&lt;/p&gt;
+&lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/G0GsablXPlk?rel=0&amp;amp;showinfo=0&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+\[caption id=&#34;attachment\_191&#34; align=&#34;alignnone&#34; width=&#34;230&#34;\]\[/caption\]&lt;p&gt; Further to this as I was influenced by the DuckDuck About page&amp;rsquo;s interactive timeline (Titlow, 2014) I recreated it locally on mydevelopment computer. I then added it to my web space using the source files - stripping all that I could until it was only the timeline. However, I discovered that the coding and structure was not idea for this project. The code (CSS and Javascript particularly) had a lot of vague naming making it hard to follow and there was a LOT to strip out. So, the search for a solution continues, I think that I need to take a different approach to this problem&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;consideringcolour&#34;&gt;Considering colour&lt;/h3&gt;
+&lt;p&gt;Upon looking at a number of medical websites for journals, professional bodies and organisations including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nhs.uk/pages/home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS choices&lt;/a&gt; (blue/orange/green)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nmc.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing and Midwifery Council&lt;/a&gt; (dark blue, aquamarine, pink and lavender purple)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rcm.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal College of Midwives&lt;/a&gt; (dark blue, two hues of light blue, white, purple and grey)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nursingtimes.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing Times&lt;/a&gt; (dark blue, aquamarine and white)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://journals.rcni.com/journal/ns&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing Standard&lt;/a&gt; (scrubs green, two hues of dark blue, grey and orange for callouts)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thelancet.com/journals/lancet/issue/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Lancet&lt;/a&gt; (purple, blue, green - a lot of white space)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.msf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Médecins Sans Frontieres&lt;/a&gt; (red and black&lt;fn&gt;An outlier with the red and black theme, however this would underline the critical nature of the work they do providing aid in emergency situations.&lt;/fn&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bmj.com/thebmj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The British Medical Journal&lt;/a&gt; (blue and white, orange callouts)&lt;/li&gt;
+&lt;/ul&gt;
+\[caption id=&#34;attachment\_190&#34; align=&#34;alignnone&#34; width=&#34;400&#34;\]\[/caption\]&lt;p&gt; The challenge with this medical site is that I feel I need to avoid a number of colours that may evoke negative associations. For example, hues of red might suggest blood and certain hues of yellow should be avoided due to the &lt;em&gt;hospital-yellow&lt;/em&gt; association. The blues above seemed a bit dark, so I tried some lighter hues for Wireframe 2, paying attention to the contrast between the text colour and the background colour.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;These are resources that I referred to beyond what I have linked to in the content above.&lt;/p&gt;
+&lt;p&gt;Border-radius. (2016, November 13). Retrieved November 27, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Crockford, D. (2008). Functions. In &lt;em&gt;JavaScript: The good parts: Working with the shallow grain of JavaScript&lt;/em&gt;(pp. 26–45). United States: O’Reilly Media, Inc, USA.&lt;/p&gt;
+&lt;p&gt;Titlow, J. P. (2014, February 20). About DuckDuckGo. Retrieved November 19, 2016, from &lt;a href=&#34;https://duckduckgo.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com/about&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframe 0</title>
+      <link>http://localhost:1313/post/2016/11/wireframe0/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/wireframe0/</guid>
+      <description>\[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gamache, D. A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframe 1</title>
+      <link>http://localhost:1313/post/2016/11/wireframe-1/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/wireframe-1/</guid>
+      <description>\[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]\[/caption\]\[caption id=&#34;attachment\_182&#34; align=&#34;alignnone&#34; width=&#34;335&#34;\]\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Schoeffel, S. (2011, November 9). Establishing your grid in Photoshop – smashing magazine. Retrieved November 27, 2016, from Graphics, &lt;a href=&#34;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframing sketches</title>
+      <link>http://localhost:1313/post/2016/11/wireframing-sketches/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/wireframing-sketches/</guid>
+      <description>\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]\[/caption\]</description>
+    </item>
+    
+  </channel>
+</rss>

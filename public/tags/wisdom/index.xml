@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wisdom | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/wisdom/</link>
+      <atom:link href="http://localhost:1313/tags/wisdom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wisdom</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Nov 2022 18:21:29 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Wisdom</title>
+      <link>http://localhost:1313/tags/wisdom/</link>
+    </image>
+    
+    <item>
+      <title>UX Brighton 2022 - 4th November</title>
+      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
+      <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
+      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
+      <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
+&lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-according-to-one-of-my-sketchbooks-2020-and-2021-never-happened&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Two pages in a sketchbook showing the back of a conference name badge, displaying the schedule. One is for 2020 and one is for 2022.&#34; srcset=&#34;
+               /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp 400w,
+               /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu12041081289063751725.webp 760w,
+               /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu1819990805462986231.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      According to one of my sketchbooks 2020 and 2021 never happened.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;the-level-of-a-problem&#34;&gt;The level of a problem&lt;/h2&gt;
+&lt;p&gt;Products solve customer&amp;rsquo;s problems or as I prefer to term it products provide a means for customers to get the thing that they want to do, done (props to &lt;a href=&#34;https://hbr.org/2016/09/know-your-customers-jobs-to-be-done&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christensen &lt;em&gt;et al.&lt;/em&gt;&lt;/a&gt; as this is blatantly inspired by Jobs-to-be-Done). So a product should represent an innovation in that it makes that thing they want to do quicker, or easier, or safer, or cheaper, or some combination of the former. But what about once that product exists? It needs to mature and respond to the way the customers change, their contexts change, or the thing that they are trying to do change. These are internal problems for the product to address within itself so that it might carry on solving the high-level problem for the most customers and also gain new customers.&lt;/p&gt;
+&lt;h3 id=&#34;when-a-product-stops-solving-a-problem&#34;&gt;When a product stops solving a problem&lt;/h3&gt;
+&lt;p&gt;I am in the process of moving away from Evernote. As a committed customer for many years it used to be my brain outside my brain. Was it the lack of new features that pushed me away? No, although I am intrigued by the promise of &lt;a href=&#34;https://en.wikipedia.org/wiki/Transclusion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;transclusion&lt;/a&gt; and interconnection between thoughts and ideas, I was still mostly happy with it. Ultimately, what pushed me away were the little cracks in functionality; the five times duplicated note, the slow load times, the indexing failures. My trust was broken, just like an unreliable human relationship it was the little things which set off alarm bells. As a seasoned technologist, these tell-tale signs of an unloved product get me packing my bags. To the point where my bags are packed before I&amp;rsquo;ll even adopt a product these days (&lt;em&gt;shakes head&lt;/em&gt; at proprietary file formats). No escape plan, no deal. This is what comes from years of being the person charged with saving other people&amp;rsquo;s data.&lt;/p&gt;
+&lt;h2 id=&#34;defining-a-problem&#34;&gt;Defining a problem&lt;/h2&gt;
+&lt;p&gt;Perhaps it would be more accurate to say defining the definition of a product-problem. In UX a problem might be at a micro level as in a specific process or interaction is failing, e.g., I cannot buy the replacement fridge-freezer I need due to an issue with one part of the payment workflow on a popular UK-based vendor&amp;rsquo;s website (true story). At a product level, if that website were a product and it&amp;rsquo;s primary purpose was to enable the successful sale of fridges then that product has failed. So UX problems can be product problems. So, is it more about the lens by which we see these problems? Could it be that the product manager owns a collection of problems across the product&amp;rsquo;s development cycle and the UXer owns their problems as a subset of that. I think that is how I interpret it as someone outside that particular domain, yet also identifying with it. My products are learning experiences, when they are successful they result in the subsequent adoption of desired behaviours. If the means of product delivery in terms of suitability, usability, accessibility, availability, reliability, and robustness fails, then my product also fails.&lt;/p&gt;
+&lt;h2 id=&#34;defining-a-collection-of-problems&#34;&gt;Defining a collection of problems&lt;/h2&gt;
+&lt;p&gt;Problems do not exist in a vacuum and are often symptomatic of bigger issues. So, acknowledging the breadth and distribution of problems and then identifying which are the most important and impactful to address is essential. This theme arose in both Janna Bastow&amp;rsquo;s and Matt LeMay&amp;rsquo;s talks. Deciding what &lt;em&gt;is&lt;/em&gt; most important relies on research and analysis based on having access to a variety of information sources.&lt;/p&gt;
+&lt;p&gt;It is also clear that a collection of problems derive from and are influenced by multiple domains within a business. So this is where the connections between business strategy, product strategy, and UX strategy converge. Jaime Levy&amp;rsquo;s excellent book on &lt;a href=&#34;https://amzn.eu/d/8oLQ7QC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UX Strategy&lt;/a&gt; was referenced by speaker, Alison Rawlings. A profoundly influential book during my years in graduate school. This was where I learned about business research staples such as competitor analyses, a method I still use frequently today.&lt;/p&gt;
+&lt;p&gt;How did someone else solve this problem? Was the outcome a new product, or a collection of approaches working alongside a product (more like a service)?&lt;/p&gt;
+&lt;h2 id=&#34;defining-plans-to-address-each-problem-in-your-collection&#34;&gt;Defining plans to address each problem in your collection&lt;/h2&gt;
+&lt;p&gt;This is where it all gets a bit Pokemon, but then consider for a moment an epic boss-style battle in Pokemon or any other strategy-based game. You have a collection of problems; your opponents, the posse of pokémon. You have a bunch of constraints; the skills that your pokémon have, and those skills in comparison to your opponent&amp;rsquo;s skills. Your battle strategy should reflect that nuance of playing to the strengths of your pokémon or the weaknesses of your opponent&amp;rsquo;s pokémon. There is probably a reason why the word &lt;em&gt;strategy&lt;/em&gt; conjures up pictures in my mind of mustachioed people in a room playing a gigantic game of Risk. It is complex, it is messy, and very few people have a holistic viewpoint, preferring to stick to their own area of the board. Then add to all of this chance and the inevitable risk that brings; the roll of the dice, the rogue influence of a powerful person, a pandemic.&lt;/p&gt;
+&lt;h2 id=&#34;defining-a-strategy-as-a-collection-of-plans&#34;&gt;Defining a strategy as a collection of plans&lt;/h2&gt;
+&lt;p&gt;A strategy attempts to understand problems, barriers, constraints, context and external influencing factors and create a framework for plans, and by extension a rationale for decisions. As Matt LeMay noted, your goals will gain clarity if you can explain the reasons for trade-offs.&lt;/p&gt;
+&lt;h2 id=&#34;making-decisions-and-actioning-plans&#34;&gt;Making decisions and actioning plans&lt;/h2&gt;
+&lt;p&gt;To expand on the above further, I feel that strategy can be a framework or container for plans, plans are the catalyst for actions, and actions are reliant on decisions. So my key take away from speakers Lucy Spence and Alison Rawlings was the need for clarity in decision making. Good decisions, or at least a decision of best-fit, are research and data informed. Decisions should also be reflected upon after they are made. As an approach to this Spence shared statements that she uses to bring transparency to her decision making:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Knowing the outcome, I would make the same decision again&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowing the outcome, I would make a different decision today&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I would use the same process to solve the problem again&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I would use a different process if I were doing this again&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-hmmm-the-little-thought-experiment-with-evernote-below-could-help-me-learn-something-as-it-sits-in-the-bottom-right-quadrant-of-this-decision-matrix&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Lucy Spence shows her decision making record, which includes the statements above map across an intersecting axis, the x axis shows making a decision from change to no change, the y axis shows using a process form no change to change&#34; srcset=&#34;
+               /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp 400w,
+               /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu13825797174012674249.webp 760w,
+               /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu7659303798439612904.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Hmmm the little thought experiment with Evernote below could help me learn something as it sits in the bottom-right quadrant of this decision matrix.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;my-decision-to-use-evernote-back-in-2013&#34;&gt;My decision to use Evernote back in 2013&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s take a look at decision to adopt the Evernote product in the first place, perhaps I will gain further clarity&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selected statement:&lt;/strong&gt;&lt;br&gt;Knowing the outcome, I would make a &lt;strong&gt;different&lt;/strong&gt; decision today&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Because my expectations have shifted and I have changed since I adopted Evernote. It is also proving to be quite a lengthy process to get my notes out intact&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How have you changed?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Well, I&amp;rsquo;m much more into coding than I was back in 2013. I suppose I want a note taking app a bit more like GitHub with tagging and version control.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It sounds like the context has changed&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;My expectations have changed because the technology landscape has changed. But my  skills and knowledge in coding were the catalyst for my increased awareness of the broader technology landscape.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Selected statement:&lt;/strong&gt; &lt;br&gt;I would use a &lt;strong&gt;different process&lt;/strong&gt; if I were doing this again.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Why?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Because my requirements have changed. The issues with functionality have probably just pushed the matter forward.&lt;/p&gt;
+&lt;p&gt;A ha! There we are getting to the truth of the issue, but like any human decision it isn&amp;rsquo;t clear cut. I had outgrown the product &lt;em&gt;and&lt;/em&gt; my trust was degraded, the combination of both led to a level of inconvenience so as to hasten my move.&lt;/p&gt;
+&lt;h2 id=&#34;recognising-when-yourplans-are-not-working-and-correcting-the-course&#34;&gt;Recognising when your plans are not working and correcting the course&lt;/h2&gt;
+&lt;p&gt;As noted by speaker Janna Bastow, this might manifest as solving too many problems for a small number of influential people, at the expense of solving the biggest problems for the most people. Bastow advocated splitting up this kind of custom or agency-style work from the product work. This is an interesting idea as it is clear to me throughout my career that large scale projects have often suffered at the expense of the small ones. While many small projects which seem doable on paper, ultimately they eat up the time which should be dedicated to larger ones. Lest us not forgot that having many smaller projects on the go calls for the need to routinely context-switch which consumes more mental energy as a matter of course. The popularity of methods such as Sprints, indicate this need for placemaking for mental space-making.&lt;/p&gt;
+&lt;h2 id=&#34;to-conclude&#34;&gt;To conclude&lt;/h2&gt;
+&lt;p&gt;To conclude, it is clear to me that when you own a product, it is always on show. What I mean by that is that as long as a product fulfills the core need then it will be loved and largely ignored, but when the cracks appear and that situation is compounded by eager competitors or lack of innovation then abandonment feels more enticing. I always had respect for product managers, now I have even more.&lt;/p&gt;
+&lt;h2 id=&#34;random-closing-thought&#34;&gt;Random closing thought&lt;/h2&gt;
+&lt;p&gt;Was Captain Kirk engaging in metacognition when he took the &lt;a href=&#34;https://en.wikipedia.org/wiki/Kobayashi_Maru&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kobayashi Maru&lt;/a&gt; test? If you take the scenario at face value he cheated at the test. However, was Kirk considering this problem-space of the Kobayashi Maru at a philosophical level? Kirk refused to accept that the solution was predetermined and by researching the situation found an alternative. This alternative reflected his personal ethos and values. These values persisted throughout his career, he did not accept the no-win scenario&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. There was always a solution, he just needed the right crew of people to work together and see it.&lt;/p&gt;
+&lt;p&gt;This reminds me of two of my favourite points in Matt LeMay&amp;rsquo;s talk&amp;hellip;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Most questions of &lt;strong&gt;role clarity&lt;/strong&gt; are actually best resolved by &lt;strong&gt;goal clarity&lt;/strong&gt;&amp;hellip;&amp;rdquo;
+&amp;ldquo;High performing cross-functional teams naturally self-organise around shared goals.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A table showing a red column for a bad situation, yellow column for a risky situation, green column for a good situation as a decision plot for identifying when a process should stop&#34; srcset=&#34;
+               /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp 400w,
+               /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu8933792402176026399.webp 760w,
+               /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu7299809568709912682.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;LeMay also provided a great primer on Adam Thomas&amp;rsquo; (&lt;a href=&#34;https://twitter.com/TheHonorableAT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@TheHonorableAT on twitter&lt;/a&gt;) &amp;lsquo;&lt;a href=&#34;https://www.theadamthomas.com/what-are-survival-metrics-how-do-they-work/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survival Metrics&lt;/a&gt;&amp;rsquo; which relate to the sunk cost fallacy (which Mr Spock explains below).&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/hnOn8EiniFE?start=105&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;If you are interested, I have moved to &lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt; and used the following script to convert my notebooks to Markdown: &lt;a href=&#34;https://github.com/Aias/evernote-to-markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub - Aias/evernote-to-markdown: Converts HTML notes exported from Evernote to plain markdown files, to do with what you will.&lt;/a&gt; On that point I also write this blog in Markdown; a clear example of how my requirements have changed since 2013.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Of course [spoiler alert] Khan put Kirk&amp;rsquo;s ethos to the test (in both the original and the reboot), but that could be a whole other blog post.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

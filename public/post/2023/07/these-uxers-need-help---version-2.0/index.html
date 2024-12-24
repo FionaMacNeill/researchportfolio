@@ -1,0 +1,2134 @@
+<!doctype html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: December 24, 2024 --><html lang="en-gb" dir="ltr"
+      data-wc-theme-default="system">
+  
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Fiona MacNeill" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Building the next version of the game &#39;These UXers Need Help&#39; by reflecting on my design practice and inspirations during April, May, and, June 2023." />
+
+  
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/" />
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="/css/themes/blue.min.css" />
+  
+
+  
+  
+    
+    <link href="/dist/wc.min.css" rel="stylesheet" />
+  
+
+  
+  
+  
+
+  
+    
+    <link href="/css/custom.min.297085f9b930dcbfc605f971110e0684c5574616a34a62d26847dc4d772e785c.css" rel="stylesheet" />
+  
+
+  <script>
+     
+    window.hbb = {
+       defaultTheme: document.documentElement.dataset.wcThemeDefault,
+       setDarkTheme: () => {
+        document.documentElement.classList.add("dark");
+        document.documentElement.style.colorScheme = "dark";
+      },
+       setLightTheme: () => {
+        document.documentElement.classList.remove("dark");
+        document.documentElement.style.colorScheme = "light";
+      }
+    }
+
+    console.debug(`Default Hugo Blox Builder theme is ${window.hbb.defaultTheme}`);
+
+    if ("wc-color-theme" in localStorage) {
+      localStorage.getItem("wc-color-theme") === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+    } else {
+      window.hbb.defaultTheme === "dark" ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      if (window.hbb.defaultTheme === "system") {
+        window.matchMedia("(prefers-color-scheme: dark)").matches ? window.hbb.setDarkTheme() : window.hbb.setLightTheme();
+      }
+    }
+  </script>
+
+  <script>
+    
+    document.addEventListener('DOMContentLoaded', function () {
+      
+      let checkboxes = document.querySelectorAll('li input[type=\'checkbox\'][disabled]');
+      checkboxes.forEach(e => {
+        e.parentElement.parentElement.classList.add('task-list');
+      });
+
+      
+      const liNodes = document.querySelectorAll('.task-list li');
+      liNodes.forEach(nodes => {
+        let textNodes = Array.from(nodes.childNodes).filter(node => node.nodeType === 3 && node.textContent.trim().length > 1);
+        if (textNodes.length > 0) {
+          const span = document.createElement('label');
+          textNodes[0].after(span);  
+          span.appendChild(nodes.querySelector('input[type=\'checkbox\']'));
+          span.appendChild(textNodes[0]);
+        }
+      });
+    });
+  </script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+  <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
+
+  <link rel="canonical" href="http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
+  <meta property="og:url" content="http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/" />
+  <meta property="og:title" content="These UXers Need Help - Version 2.0 | Fiona MacNeill Portfolio and Blog" />
+  <meta property="og:description" content="Building the next version of the game &#39;These UXers Need Help&#39; by reflecting on my design practice and inspirations during April, May, and, June 2023." /><meta property="og:image" content="http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/featured.jpg" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/featured.jpg" /><meta property="og:locale" content="en-gb" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-07-16T17:00:00&#43;01:00"
+      />
+    
+    <meta property="article:modified_time" content="2023-07-16T18:50:06&#43;01:00">
+  
+
+  
+
+
+
+  
+
+
+  <title>These UXers Need Help - Version 2.0 | Fiona MacNeill Portfolio and Blog</title>
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <style>
+    @font-face {
+      font-family: 'Inter var';
+      font-style: normal;
+      font-weight: 100 900;
+      font-display: swap;
+      src: url(/dist/font/Inter.var.woff2) format(woff2);
+    }
+  </style>
+
+  
+
+  
+  
+
+
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <script
+    defer
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
+  ></script>
+
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+      
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+      
+    
+  
+
+
+
+
+</head>
+
+  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+    <div id="page-bg"></div>
+    <div class="page-header sticky top-0 z-30">
+      
+      
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Fiona MacNeill Portfolio and Blog">
+        Fiona MacNeill
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/"
+        >Home</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#talks"
+        >Talks</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#projects"
+        >Projects</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#blog"
+        >Blog</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
+
+      
+      
+      <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+        <button class="theme-toggle mt-1" accesskey="t" title="appearance">
+          <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class="dark:hidden">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+               fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+               stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+      </div>
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+<div id="search" class="hidden p-3"></div>
+
+
+        
+      
+    </div>
+    <div class="page-body  my-10">
+      
+
+
+
+
+
+<div class="mx-auto flex max-w-screen-xl">
+  
+
+
+
+<aside class="hb-sidebar-container max-lg:[transform:translate3d(0,-100%,0)] lg:hidden xl:block">
+  
+  <div class="px-4 pt-4 lg:hidden">
+    
+    
+  </div>
+  <div class="hb-scrollbar lg:h-[calc(100vh-var(--navbar-height))]">
+    <ul class="flex flex-col gap-1 lg:hidden">
+      
+      
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/"
+    
+  >Recent &amp; Upcoming Talks
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/playfullearning2024/"
+    
+  >Put the learning into work; take the work out of learning - Playful Learning 2024
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/event/uxcamp2024/"
+    
+  >Research Hacking - UX Camp Brighton 2024
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/projects/"
+    
+  >Projects
+    </a></li>
+        <li class="open"><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/"
+    
+  >Blog
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/12/humble-rss-feed/"
+    
+  >Falling back in love with the humble RSS feed
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/11/overdue-reflections/"
+    
+  >Overdue reflections: playing games and taking walks 
+    </a>
+              
+            </li><li class="flex flex-col open"><a
+    class="hb-sidebar-custom-link
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/post/2023/07/these-uxers-need-help---version-2.0/"
+    
+  >These UXers Need Help - Version 2.0
+    </a>
+  
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#previously-on-fionas-blog"
+                class="hb-docs-link"
+              >Previously on Fiona&amp;rsquo;s blog&amp;hellip;</a>
+            </li>
+          <li>
+              <a
+                href="#how-did-it-go"
+                class="hb-docs-link"
+              >How did it go?</a>
+            </li>
+          <li>
+              <a
+                href="#how-does-the-game-work"
+                class="hb-docs-link"
+              >How does the game work?</a>
+            </li>
+          <li>
+              <a
+                href="#how-about-those-cards-then"
+                class="hb-docs-link"
+              >How about those cards then&amp;hellip;?</a>
+            </li>
+          </ul>
+  
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2023/04/ux-camp-brighton-game-on/"
+    
+  >UX Camp Brighton 2023 - Game on!
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/11/uxbrighton-0411/"
+    
+  >UX Brighton 2022 - 4th November
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/10/cufflinks-1022/"
+    
+  >Cufflinks - Edition 2 - 23rd October
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/04/cufflinks-0422/"
+    
+  >Cufflinks - Edition 1 - 24th April
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2022/04/ux-camp-brighton-sticking-power/"
+    
+  >UX Camp Sticking Power
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/10/magical-meetings-a-review/"
+    
+  >Magical Meetings - A Review
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/07/what-makes-an-online-space-inclusive/"
+    
+  >Reblog - What makes an online space inclusive?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/07/vlog-3-part-1-adventures-in-viewx/"
+    
+  >Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2021/03/vlog-introducing-a-personal-challenge/"
+    
+  >Vlog 1: introducing a personal challenge
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2020/06/covid-19-three-months-in-what-have-learnt/"
+    
+  >COVID-19 three months in: what have we learned?
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2019/06/a-technical-perspective-on-a-telepresence-robot/"
+    
+  >A technical perspective on a telepresence robot
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/"
+    
+  >UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/hone-smart-hone/"
+    
+  >Hone Smart Home
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/naming/"
+    
+  >Naming - initial ideas
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/02/beginning/"
+    
+  >Welcome to my new IDM22 Journal
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/striving-for-accessibility-summary-part-1/"
+    
+  >Striving for accessibility - Eval pt 1
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/the-weekend-of-doom/"
+    
+  >The weekend of doom
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/charty-mccharterson/"
+    
+  >Charty McCharterson
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2017/01/accessibility-and-responsive-bits/"
+    
+  >Accessibility and responsive bits
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/on-the-importance-of-self-discipline/"
+    
+  >On the importance of self-discipline
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/cellular-concerns/"
+    
+  >Cellular concerns
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/12/progress-on-the-grid-and-layout/"
+    
+  >Progress on the grid and layout
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/timeline-tool-identified/"
+    
+  >Timeline tool identified
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/building-the-grid/"
+    
+  >Building the grid
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframes-2/"
+    
+  >Wireframes 2&#43;
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframe0/"
+    
+  >Wireframe 0
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframe-1/"
+    
+  >Wireframe 1
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/wireframing-sketches/"
+    
+  >Wireframing sketches
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/11/business-model-canvas-and-more-tweaks/"
+    
+  >Business Model Canvas and more tweaks
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/10/portfolio-site-concept-and-other-news/"
+    
+  >Portfolio site concept and other news
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/10/theme-testing/"
+    
+  >Theme testing
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/06/trust-in-iot-app-interfaces-redux/"
+    
+  >[Talk] Factors of Trust in IoT App Interfaces Redux
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/05/capturing-live-drawing-in-the-digital-age/"
+    
+  >Capturing live drawing in the digital age
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/"
+    
+  >[Talk] Factors of Trust in IoT App Interfaces
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/03/gamification-in-higher-education/"
+    
+  >[Talk] Gamification in Higher Education
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2016/01/wireframes-are-friends-electric/"
+    
+  >Wireframes: Are friends electric
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/wireframes-pondering-topic-pages/"
+    
+  >Wireframes: Pondering Topic Pages
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/wireframe-sketching-looking-at-the-indexhome/"
+    
+  >Wireframe sketching: looking at the index/home
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/major-discoveries-minor-anguish/"
+    
+  >Major discoveries, minor anguish
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/"
+    
+  >Real-time reflection: experience of completing a Learning Object
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/12/bits-pieces-put-together-to-present-a-semblance-of-a-whole/"
+    
+  >Bits and Pieces Put Together to Present a Semblance of a Whole
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/11/perplexed-or-why-we-iterate/"
+    
+  >Perplexed...or why we iterate
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/characteristics-for-the-users-of-an-oer/"
+    
+  >Characteristics for the users of a hypothetical OER
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/"
+    
+  >Re-Blog: Reflections on using Rise to support conference-based gamification
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/user-characteristics-are-coming-out-of-my-ears/"
+    
+  >User characteristics are coming out of my ears
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/10/new-project-new-category/"
+    
+  >New project = New category
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/"
+    
+  >Attempting to live blog while running a twitter competition
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2015/03/re-blog/"
+    
+  >Re-blog: Using an iPad for Research – Tips Q and A
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/"
+    
+  >Reflection: The search for the best notetaking -or rather handwriting- app
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/post/2014/09/the-adjustment-bureau/"
+    
+  >The Adjustment Bureau: The Case for Adjustment in Mobile Apps
+    </a>
+              
+            </li></ul>
+      </div></li>
+        <li class=""><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/"
+    
+  >Projects
+        <span data-hb-sidebar-toggle>
+            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
+        </span>
+    </a><div class="ltr:pr-0 overflow-hidden">
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/accessibility-service-design/"
+    
+  >Accessibility Service Design (2020-2022)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/eportfolio-system/"
+    
+  >ePortfolio System (2017-20)
+    </a>
+              
+            </li><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/project/wearable-for-health/"
+    
+  >Wearable for Health (2017-18)
+    </a>
+              
+            </li></ul>
+      </div></li>
+    </ul>
+
+    <div class="max-xl:hidden h-0 w-64 shrink-0"></div></div>
+
+</aside>
+  
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 xl:block print:hidden px-4" aria-label="table of contents">
+  
+
+
+
+
+
+
+
+
+
+
+
+  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#previously-on-fionas-blog">Previously on Fiona’s blog…</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#how-did-it-go">How did it go?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#how-does-the-game-work">How does the game work?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#how-to-play">How to play</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#rules-of-engagement">Rules of Engagement</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#how-about-those-cards-then">How about those cards then…?</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#cards-added-to-the-situation-deck">Cards added to the Situation deck</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#card-added-to-the-subject-deck">Card added to the Subject deck</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#cards-in-the-ux-trait-deck">Cards in the UX Trait deck</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="pl-4 rtl:pr-4 inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#cards-added-to-the-barrier-deck">Cards added to the Barrier deck</a>
+      </li></ul>
+
+  
+  
+    
+    
+  
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+  </nav>
+
+
+  <article class="w-full break-words flex min-h-[calc(100vh-var(--navbar-height))] min-w-0 justify-center pb-8 pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="w-full min-w-0 max-w-6xl px-6 pt-4 md:px-12">
+
+      
+
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">These UXers Need Help - Version 2.0</h1>
+
+      <div class="mt-4 mb-16">
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Jul 16, 2023</span>
+        
+
+        
+        <span class="mx-1">·</span>
+        <span class="mx-1">
+          9 min read
+        </span>
+        
+        </div>
+
+        <div class="mt-3">
+          
+
+
+
+
+
+        </div>
+      </div>
+
+
+
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 400px; max-height: 351px;">
+        <div style="position: relative">
+          <img src="/post/2023/07/these-uxers-need-help---version-2.0/featured_hu16045109196144491686.webp" width="400" height="351" alt="" class="featured-image">
+          <span class="article-header-caption">Playing these UXers Need Help at UX Camp Brighton 2023. Photo by <a href="https://www.linkedin.com/posts/chantelle-sullivan_ux-activity-7054748089621843971-RJKP?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener">Chantelle Sullivan on LinkedIn</a>.</span>
+        </div>
+      </div>
+      
+
+      
+      
+
+      <div class="prose prose-slate lg:prose-xl dark:prose-invert">
+        <h2 id="previously-on-fionas-blog">Previously on Fiona&rsquo;s blog&hellip;</h2>
+<p>I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in <a href="https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/" target="_blank" rel="noopener">my last blog post</a>, some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by <a href="https://www.cardsagainsthumanity.com/" target="_blank" rel="noopener">Cards Against Humanity</a> and has a four deck structure.</p>
+<h2 id="how-did-it-go">How did it go?</h2>
+<p>The playtest at UX Camp Brighton went well and the response to the game was far more positive than I anticipated. There was at least one person saying <em>&ldquo;these cards are like my life last year&rdquo;</em>.</p>
+<p>What I liked about the experience was that in the span of 15 minutes we could break through the artifice of <em>&rsquo;the designer&rsquo;</em>. Spending time reflecting on the fact that we are all real people with real problems and sometimes those things impact <em>&rsquo;the designer&rsquo;</em>, preventing us from doing our best work. In those times we may or may not need help, but experience is sometimes the thing we lack to access help or to help ourselves. That is where the experience &lsquo;in the room&rsquo; that the game unlocks can help us all.</p>
+<p>There&rsquo;s also humour sprinkled through the game and I loved that the &ldquo;has a landlord who is a 💩&rdquo; card came up! This is definitely an identifiable experience for those in the rental market and added some levity to the game.</p>
+<p>Most importantly, folks liked the game enough for me to be invited to this month&rsquo;s <a href="https://www.eventbrite.co.uk/e/uxup-summer-tickets-638632094787?aff=ebdsoporgprofile" target="_blank" rel="noopener">UXup on 20th July</a> to play the game again. So, it&rsquo;s time for Version 2.0 🎉, more on this in <a href="#how-about-those-cards-then"><em>How about those cards then&hellip;?</em></a> below.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-studio-action-shot---creating-new-situation-cards-for-version-20">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Desk with in-progress hand-drawn cards for &lsquo;These UXers need help&rsquo; on the surface" srcset="
+               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp 400w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu5452410757399018035.webp 760w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu9058367740732236880.webp 1200w"
+               src="/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      Studio action shot - creating new situation cards for version 2.0
+    </figcaption></figure>
+</p>
+<h2 id="how-does-the-game-work">How does the game work?</h2>
+<div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
+<span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
+  <svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/></svg>
+</span>
+  <span class="dark:text-neutral-300">This is the version 2.0 overview - I&rsquo;ll undoubtedly refine it further.</span>
+</div>
+<p>The four cards placed on the game sheet create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them are designed to stimulate conversation. The game probes the fascade of being a designer and is about helping us to empathise with factors that are internal and external to a person.</p>
+<ul>
+<li>
+<p><strong>Deck 1: Situation</strong> - this is how much power the fictional UXer brings to this situation. This could be a positive, neutral, or negative value. For example, positive could be &ldquo;they know influential people&rdquo;, negative would be that &ldquo;they grew up in a poor family&rdquo;.</p>
+</li>
+<li>
+<p><strong>Deck 2: Subject</strong> - this is &lsquo;subject&rsquo; as in subjectivity of a UXer. Again this could be a positive, neutral or negative. So neutral could be &ldquo;is a boxset binger&rdquo; and negative could be, &ldquo;is a solutioniser&rdquo;.</p>
+</li>
+<li>
+<p><strong>Deck 3: UX Trait</strong> - this is the thing that they do in UX. However, it is not all kittens and puppies, sometimes they aren&rsquo;t happy in their field or are unsure of what to do next.</p>
+</li>
+<li>
+<p><strong>Deck 4: Barrier</strong> - this is something that is preventing them from being the best they can be. For example, they &ldquo;don&rsquo;t have a portfolio&rdquo;, or &ldquo;have very little money&rdquo;.</p>
+</li>
+</ul>
+<h3 id="how-to-play">How to play</h3>
+<p>Take one card from each deck: situation, subject, UX trait, and barrier. Place the cards face down on the game sheet in the spaces provided. Flip all four cards and then allow 5 minutes to discuss the person&rsquo;s situation (in a group of 3-5), what type of help might be needed and who will provide it. You may draw a replacement card if needed.</p>
+<h3 id="rules-of-engagement">Rules of Engagement</h3>
+<ul>
+<li>Make your point concisely and then leave space.</li>
+<li>If someone in your group has lived experience, listen to them.</li>
+<li>Imagine how it would be to be this person who is a UXer (referring to our fictional UXer).</li>
+</ul>
+<h2 id="how-about-those-cards-then">How about those cards then&hellip;?</h2>
+<h3 id="cards-added-to-the-situation-deck">Cards added to the <strong>Situation</strong> deck</h3>
+<p>The following cards were inspired by discussions with <a href="https://www.linkedin.com/in/verdenicci/" target="_blank" rel="noopener">Serena Verdenicci</a> and <a href="https://www.linkedin.com/in/louvcarroll/" target="_blank" rel="noopener">Lou Carroll</a>. Serena is also giving a talk entitled, <em>Making your value visible</em> at UXup on the 20th July.</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&ldquo;Grew up in a poor family&rdquo;</em></li>
+<li><em>&ldquo;Knows influential people&rdquo;</em></li>
+<li><em>&ldquo;Is managing a longterm illness&rdquo;</em></li>
+<li><em>&ldquo;Is using technology to aid their mobility&rdquo;</em> - this could be interpretted in many ways and is about emphasising capability rather than disability.</li>
+<li><em>&ldquo;Observes religious traditions&rdquo;</em></li>
+</ul>
+<p>We considered how the above factors might give people power or set them apart from others working in different design settings.</p>
+<p>I also added a card inspired by <a href="https://www.linkedin.com/in/uxmichaelco/" target="_blank" rel="noopener">Michael Kibedi&rsquo;s</a> phenomenal talk during UX Camp Brighton about problems with representation in datasets and the exploitation of labour in the global South supporting technologies such as AI and <a href="https://www.mturk.com/" target="_blank" rel="noopener">mechanical turk</a>. Specifically I was inspired by a map Michael showed where the language datasets for verbal interpretation used by voice assistants come from (e.g., Alexa, Siri). Based on this map, it was clear that these datasets were what might be termed &lsquo;<a href="https://www.apa.org/monitor/2010/05/weird" target="_blank" rel="noopener">WEIRD</a>&rsquo; – <em>Western, Educated, Industrialised, Rich, and Democratic</em>. You can read more about Michael&rsquo;s research on <a href="https://www.uxmichael.co/project/voice-assistant-accent-bias" target="_blank" rel="noopener">&ldquo;voice assistants and accent bias&rdquo; at his website</a>.</p>
+<p><strong>New card</strong></p>
+<ul>
+<li><em>&ldquo;Has a strong accent when speaking&rdquo;</em></li>
+</ul>
+<p>This spoken accent could be regional, international, or a unique hybrid as my accent was for many years. When I first moved back to the UK, people used to tell me my accent was distracting during workshops because they couldn&rsquo;t place it (it had a North American twang). That made me pretty self-conscious and I resolved to sound more &ldquo;Sussex&rdquo;.</p>
+<p>Also, I have had periodic issues with my voice for health reasons and this has made me appreciate all the more how important both having a voice and <em>having</em> a voice are. Sometimes I don&rsquo;t have much voice and as someone who likes to think a lot and then talk about my thoughts, it has been a source of frustration. To the extent that I once had an existential nightmare about being in someone else&rsquo;s house with an Amazon Echo that I couldn&rsquo;t find and I couldn&rsquo;t speak to tell it to stop an alarm that was incessantly going off. It turned out that the sound in my dream was my actual voice assistant invading my REM sleep. Good fodder for an episode of <a href="https://www.bbc.co.uk/news/technology-66200334" target="_blank" rel="noopener">Charlie Brooker&rsquo;s Black Mirror</a>!</p>
+<p>Another source of inspiration for me was Trans Pride Brighton &amp; Hove on Saturday, 16th July. When creating the cards I avoid using terminology and focus on what is going on for a person. The cards are also written to leave room for interpretation and that is both subjective and guided by the rest of the cards put down. So, I added the following cards and we&rsquo;ll see how well they work:</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&ldquo;Is transitioning from one state of being to another&rdquo;</em></li>
+<li><em>&ldquo;Has a hidden identity&rdquo;</em></li>
+</ul>
+<p>To add, Trans Pride Brighton &amp; Hove are very much in need of support this year. So if you can help, <a href="https://transpridebrighton.org/" target="_blank" rel="noopener">chip in to their fund at their site</a>.</p>
+<p>Finally, based on discussions I have had more broadly and UK news I added the following cards&hellip;</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&ldquo;Has been made redundant&rdquo;</em> - inspired by <a href="https://bootcamp.uxdesign.cc/whats-with-ux-research-layoffs-12c9d1fcf111" target="_blank" rel="noopener">this article on Medium by Jacqualyn Heth</a> with regards to user research roles, but also a trend more broadly in tech.</li>
+<li><em>&ldquo;Has exorbitant mortgage payments&rdquo;</em> - I realised I was only representing renters, and with the current interest rates, it is no walk in the park for homeowners either!</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-new-situation-cards-that-will-be-tested-out-at-uxup-and-beyond">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="New Situation cards described in the text above" srcset="
+               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp 400w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu9003669930572965202.webp 760w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu1183660955067304430.webp 1200w"
+               src="/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      New situation cards that will be tested out at UXup and beyond
+    </figcaption></figure>
+</p>
+<h3 id="card-added-to-the-subject-deck">Card added to the <strong>Subject</strong> deck</h3>
+<p>After the &ldquo;Accessible Forms&rdquo; workshop that Ladies that UX Brighton had with <a href="https://www.effortmark.co.uk/" target="_blank" rel="noopener">Caroline Jarratt</a> and Meghan Reed from <a href="https://diversityandability.com/" target="_blank" rel="noopener">Diversity and Ability</a> in March, I rreflected on the impact that having a disability might have on doing UX work. There are so many experiences I could try to represent and such attempts could be viewed as reductive. I will take suggestions from people with lived experience, but I&rsquo;m not going to try to speculate. In that vein, I have drawn on my own experience in that I can find it very hard to make eye contact with people whom I don&rsquo;t know very well. This is something I have to actively think about when I meet someone new and consider <em>&ldquo;am I making enough or too much?&rdquo;</em>. <em>&ldquo;Do people think I&rsquo;m too intense?</em>. All these things run through my mind. It is all the more important when you are building trust during research. It isn&rsquo;t easy and it has taken years of practice. Ultimately, I try to convey that I really care and I am genuinely interested through my eyes, because I truly am. I am also thankful for web calls where I don&rsquo;t have this problem and can focus on the task of deep listening. This made me think that the following is a good card to add&hellip;</p>
+<p><strong>New card</strong></p>
+<ul>
+<li><em>&hellip;can find it hard to make eye contact</em></li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-new-subject-card-for-making-eye-contact">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="New Subject card described in the text above" srcset="
+               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp 400w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7476996878649953868.webp 760w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu4683675281643390975.webp 1200w"
+               src="/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp"
+               width="450"
+               height="600"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      New subject card for making eye contact
+    </figcaption></figure>
+</p>
+<h3 id="cards-in-the-ux-trait-deck">Cards in the <strong>UX Trait</strong> deck</h3>
+<p>Based on the playtest at UX Camp Brighton, I removed one card: <em>&ldquo;They are an experience designer with emotional cloud&rdquo;</em>. The card required a bit too much explanation and similar themes are covered by other cards in the deck.</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&ldquo;They manage meetings with finesse&rdquo;</em> - I realised that I didn&rsquo;t have a good project management card and it is such a core skill in design (and beyond).</li>
+<li><em>&ldquo;They facilitate meetings with purpose&rdquo;</em> - Inspired by <a href="https://www.peterwinchester.co.uk/" target="_blank" rel="noopener">Peter Winchester&rsquo;s</a> <em>Facilitation Fundamentals</em> talk at UX Camp Brighton.</li>
+<li><em>&ldquo;They help people feel comfortable and okay during sensitive research&rdquo;</em> - inspired by Charlotte Parker&rsquo;s talk <em>How to handle difficult situations in User Research</em> and Lou Carroll&rsquo;s talk on co-design, both at UX Camp Brighton.</li>
+<li><em>&ldquo;They share and explain their tools, methods, and resources&rdquo;</em> - inspired by Aaron Cameron&rsquo;s talk <em>&ldquo;Democratising Human-Centred Design&rdquo;</em> also at UX Camp Brighton.</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-new-ux-trait-cards">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="New UX Trait cards described in the text above" srcset="
+               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp 400w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu7943134916643807312.webp 760w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu579047236684706828.webp 1200w"
+               src="/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      New UX Trait cards
+    </figcaption></figure>
+</p>
+<h3 id="cards-added-to-the-barrier-deck">Cards added to the <strong>Barrier</strong> deck</h3>
+<p>Two new cards are inspired by AI. I am generally pro-AI but it is not without it&rsquo;s foibles and I felt it was important to represent some of the understandable anxiety and also the downsides.</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&rdquo;&hellip;is worried about being replaced by AI&quot;</em></li>
+<li><em>&quot;&hellip;takes information at face value without checking it&quot;</em></li>
+</ul>
+<p>Having had amazing discussions in preparation for a discussion panel for Ladies that UX Brighton later in the year on &lsquo;fem-coded&rsquo; work and <a href="https://www.theguardian.com/society/2022/may/09/they-feel-guilty-why-women-should-say-no-to-office-housework" target="_blank" rel="noopener">non-promotable work</a>. I added a couple of cards to help think about these types of tasks and how they might have an impact over time.</p>
+<p><strong>New cards</strong></p>
+<ul>
+<li><em>&ldquo;always end up writing the meeting notes&rdquo;</em></li>
+<li><em>&ldquo;they&rsquo;ll only blame themselves&rdquo;</em></li>
+<li><em>&ldquo;handles all the leaving cards and gifts&rdquo;</em></li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  id="figure-new-barrier-cards">
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="New Barrier cards described in the text above" srcset="
+               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp 400w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu11397865665750429692.webp 760w,
+               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu6556066273068473953.webp 1200w"
+               src="/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp"
+               width="760"
+               height="570"
+               loading="lazy" data-zoomable /></div>
+  </div><figcaption>
+      New Barrier cards
+    </figcaption></figure>
+</p>
+<p>That is version 2.0 with a rationale for each addition. Let&rsquo;s see how it plays out!</p>
+
+      </div>
+
+      
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2023-07-16T18:50:06.000Z">
+    <span>Last updated on</span>
+    Jul 16, 2023</time>
+
+      <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
+        
+        <div class="max-w-prose print:hidden">
+  
+  
+
+  
+
+<div class="flex justify-center">
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ux-camp-brighton/">Ux Camp Brighton</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ltux/">Ltux</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/ladies-that-ux/">Ladies That Ux</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/these-uxers-need-help/">These Uxers Need Help</a>
+  
+  <a class="no-underline bg-primary-100 hover:bg-primary-300 text-primary-800 text-xs font-medium mr-2 px-2.5 py-0.5 lg:px-5 lg:py-2 rounded dark:bg-primary-900 dark:hover:bg-primary-700 dark:text-primary-300" href="/tags/uxup/">UXup</a>
+  
+</div>
+
+
+  
+<section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2023%2F07%2Fthese-uxers-need-help---version-2.0%2F&amp;text=These&#43;UXers&#43;Need&#43;Help&#43;-&#43;Version&#43;2.0"
+    title="X"
+    aria-label="X"
+    id="share-link-x"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2023%2F07%2Fthese-uxers-need-help---version-2.0%2F&amp;t=These&#43;UXers&#43;Need&#43;Help&#43;-&#43;Version&#43;2.0"
+    title="Facebook"
+    aria-label="Facebook"
+    id="share-link-facebook"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12c0 4.84 3.44 8.87 8 9.8V15H8v-3h2V9.5C10 7.57 11.57 6 13.5 6H16v3h-2c-.55 0-1 .45-1 1v2h3v3h-3v6.95c5.05-.5 9-4.76 9-9.95z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+    
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="mailto:?subject=These%20UXers%20Need%20Help%20-%20Version%202.0&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2023%2F07%2Fthese-uxers-need-help---version-2.0%2F"
+    title="Email"
+    aria-label="Email"
+    id="share-link-email"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M16.5 12a4.5 4.5 0 1 1-9 0a4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2023%2F07%2Fthese-uxers-need-help---version-2.0%2F&amp;title=These&#43;UXers&#43;Need&#43;Help&#43;-&#43;Version&#43;2.0"
+    title="LinkedIn"
+    aria-label="LinkedIn"
+    id="share-link-linkedin"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+  </a>
+  
+
+  
+  
+  
+  
+  
+  
+  <a
+    target="_blank" rel="noopener"
+    class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+    href="whatsapp://send?text=These&#43;UXers&#43;Need&#43;Help&#43;-&#43;Version&#43;2.0%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2023%2F07%2Fthese-uxers-need-help---version-2.0%2F"
+    title="WhatsApp"
+    aria-label="WhatsApp"
+    id="share-link-whatsapp"
+  >
+    <svg style="height: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="currentColor"><path d="m187.58 144.84-32-16a8 8 0 0 0-8 .5l-14.69 9.8a40.55 40.55 0 0 1-16-16l9.8-14.69a8 8 0 0 0 .5-8l-16-32A8 8 0 0 0 104 64a40 40 0 0 0-40 40 88.1 88.1 0 0 0 88 88 40 40 0 0 0 40-40 8 8 0 0 0-4.42-7.16ZM152 176a72.08 72.08 0 0 1-72-72 24 24 0 0 1 19.29-23.54l11.48 23L101 118a8 8 0 0 0-.73 7.51 56.47 56.47 0 0 0 30.15 30.15A8 8 0 0 0 138 155l14.61-9.74 23 11.48A24 24 0 0 1 152 176ZM128 24a104 104 0 0 0-91.82 152.88l-11.35 34.05a16 16 0 0 0 20.24 20.24l34.05-11.35A104 104 0 1 0 128 24Zm0 192a87.87 87.87 0 0 1-44.06-11.81 8 8 0 0 0-6.54-.67L40 216l12.47-37.4a8 8 0 0 0-.66-6.54A88 88 0 1 1 128 216Z"/></svg>
+  </a>
+  
+</section>
+
+
+  
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+
+<div class="flex pt-12 pb-4">
+  
+  
+  <img
+    class="mr-4 h-24 w-24 rounded-full"
+    width="96"
+    height="96"
+    alt="Fiona MacNeill"
+  src="/author/fiona-macneill/avatar_hu15775133914349557226.jpg"
+  loading="lazy"
+  />
+  
+  <div class="place-self-center">
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Authors
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      <a href="http://localhost:1313/" class="no-underline">
+      Fiona MacNeill
+      </a>
+    </div>
+
+    
+    <div class="text-sm font-bold text-neutral-700 dark:text-neutral-300">
+    UX Researcher, Learning Designer, Technologist
+    </div>
+    
+
+
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-300">Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.</div>
+    
+
+    <div class="text-2xl sm:text-lg pt-1">
+
+      
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+  
+  
+    
+    
+    
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+        <a class="group flex no-underline" href="/post/2023/11/overdue-reflections/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Overdue reflections: playing games and taking walks </span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Nov 5, 2023
+              
+            </span>
+          </span>
+        </a>
+      
+    </div>
+    <div class="">
+      
+        <a class="group flex text-right no-underline" href="/post/2023/04/ux-camp-brighton-game-on/">
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >UX Camp Brighton 2023 - Game on!</span
+            >
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Apr 9, 2023
+              
+            </span>
+          </span>
+          <span
+            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline">&rarr;</span></span>
+        </a>
+      
+    </div>
+  </div>
+</div>
+
+
+
+  
+
+
+  
+
+
+
+</div>
+
+      </div>
+
+    </main>
+  </article>
+</div>
+
+    </div>
+    <div class="page-footer">
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
+  <div id="wcb" class="carbonbadge"></div>
+  <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by text-center">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by text-center">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+
+</footer>
+
+  
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

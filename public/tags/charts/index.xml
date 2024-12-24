@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charts | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/charts/</link>
+      <atom:link href="http://localhost:1313/tags/charts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Charts</title>
+      <link>http://localhost:1313/tags/charts/</link>
+    </image>
+    
+    <item>
+      <title>Charty McCharterson</title>
+      <link>http://localhost:1313/post/2017/01/charty-mccharterson/</link>
+      <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2017/01/charty-mccharterson/</guid>
+      <description>&lt;p&gt;I knew that all of that work that I did on polls would come in handy at some point. The &lt;em&gt;time&lt;/em&gt; arrived, as displaying data was something that seemed important from the beginning, to support the goals for the project. I wanted to support the information about &amp;lsquo;UK smart device ownership&amp;rsquo; with some data. Having spent quite a bit of time &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/24/on-the-importance-of-self-discipline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looking at polling options&lt;/a&gt; and trying things out, I felt sure that the the Google Charts api (n.d.) would give me the level of interactivity and customisation required.&lt;/p&gt;
+&lt;h3 id=&#34;something-i-changed&#34;&gt;Something I changed&lt;/h3&gt;
+&lt;p&gt;Like the tools I had used already (see earlier entries including Flickity by metafizzy (2016), smooth-scroll by cfernandi (2016)) the instructions always say to call the JavaScript package in the header. This is something that my instructor, Marcus, had pointed out as bad practice. Therefore, I created a new eventlistener in my JavaScript file in order to load google&amp;rsquo;s &amp;ldquo;loader.js&amp;rdquo; script. This allowed me to place the &lt;script&gt;&amp;quot;&lt;script&gt;&amp;quot;&lt;/script&gt;&amp;rsquo; tag at the bottom of my index.html file. However, unlike the other widgets and code snippets that I have used, I cannot compile Google&amp;rsquo;s JavaScript as part of my own script (Google, 2016a), it has to be loaded from Google servers (licensed under Apache license version 2.0 (2004) ). For this reason I reused the loading GIF from the contact form, to show while the chart loads. The data itself is from Offcom&amp;rsquo;s report entitled, The Communications Market, 5 Internet and Online Content (2016a, p. 191). What is great about their site is that they make the raw data available in Microsoft Excel format, so I was able to construct the chart based on a subset of data (Ofcom, 2016b). In order to show the age versus ownership I selected a stacked barchart as a space efficient way to show the data.&lt;/p&gt;
+&lt;h3 id=&#34;prepping-the-chart-for-print&#34;&gt;Prepping the chart for print&lt;/h3&gt;
+&lt;p&gt;I have still to create my print stylesheet, which is something that I will do towards the end of the project. In the meantime it made sense to make sure that the chart was prepped for printing to png. I am not going to make a link to the png available as that function will run in browsers which support the HTML5 &lt;script&gt;&amp;quot;&lt;canvas&gt;&amp;quot;&lt;/script&gt; element (Google, 2016c). However, what customising this script did do, was create a static view of the chart showing it in suitable format for printing.&lt;/p&gt;
+&lt;h3 id=&#34;tab-clear&#34;&gt;Tab clear&lt;/h3&gt;
+\[/caption\]&lt;p&gt; Ultimately, I will need to go back to an svg solution, but I will draw it to look like what I came up with using the CSS.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;Apache Software Foundation. (2004). Apache license version 2.0. Retrieved January 7, 2017, from Apache Software Foundation website, &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Can I use&amp;hellip; (2016, October 23). Retrieved January 7, 2017, from &lt;a href=&#34;http://caniuse.com/#search=transform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=transform&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cferdinandi. (2016, December 11). Cferdinandi/smooth-scroll. Retrieved December 11, 2016, from &lt;a href=&#34;https://github.com/cferdinandi/smooth-scroll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cferdinandi/smooth-scroll&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (n.d.). Charts | Google developers. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016a, September 12). Load the libraries. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/basic_load_libs#limitations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/basic_load_libs#limitations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016b, September 12). Bar charts. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016c, October 12). Printing PNG charts. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/printing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/printing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;metafizzy. (2016). Flickity. Retrieved January 15, 2017, from &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ofcom. (2016a). &lt;em&gt;The Communications Market 2016: 5 Internet and online content.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/the-communications-market-report-uk#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/the-communications-market-report-uk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ofcom. (2016b, August 4). Data downloads. Retrieved January 7, 2017, from Ofcom.org.uk, &lt;a href=&#34;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/downloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/downloads&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

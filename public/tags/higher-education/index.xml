@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higher-Education | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/higher-education/</link>
+      <atom:link href="http://localhost:1313/tags/higher-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Higher-Education</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Higher-Education</title>
+      <link>http://localhost:1313/tags/higher-education/</link>
+    </image>
+    
+    <item>
+      <title>[Talk] Gamification in Higher Education</title>
+      <link>http://localhost:1313/post/2016/03/gamification-in-higher-education/</link>
+      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/03/gamification-in-higher-education/</guid>
+      <description>&lt;h2 id=&#34;references-and-resources&#34;&gt;References and resources&lt;/h2&gt;
+&lt;h1 id=&#34;games-and-gamification-for-learning-and-elearning&#34;&gt;Games and Gamification for Learning and eLearning&lt;/h1&gt;
+&lt;p&gt;Talk given at the Brighton Gamification Meetup on the 9th of March, 2016. &lt;a href=&#34;http://www.meetup.com/Brighton-Gamification-Meetup/events/226393358/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.meetup.com/Brighton-Gamification-Meetup/events/226393358/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slide-1&#34;&gt;Slide 1&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 1 - title slide showing a awele board game&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu17324062090442176165.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu6251879632139772456.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu15203940443958195075.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu17324062090442176165.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt; image of Awele board game by rkit on &lt;a href=&#34;https://pixabay.com/en/awele-board-game-game-board-play-1007635/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Pixabay (image link)&lt;/a&gt;. CC0 Public domain.&lt;/p&gt;
+&lt;h2 id=&#34;slide-2&#34;&gt;Slide 2&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 2 - Educause and NMC Horizon report 2016 image of the report cover&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu15639720153489121954.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu4622934335871568598.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu12568732502650002209.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu15639720153489121954.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt; @NMCorg on Twitter. Original Tweet embedded below. Visit the Educause site for archived NMC reports. Reports referenced in presentation: Johnson, L., Adams Becker, S., Cummins, M., Estrada, V., Freeman, A., and Hall, C. (2016). _NMC Horizon Report: 2016 Higher Education Edition. _Austin, Texas: The New Media Consortium. 2015, 2014, 2013, 2012.&lt;/p&gt;
+&lt;p&gt;Linden Research, Inc. (2016). Second Life [Computer software]. Retrieved from &lt;a href=&#34;http://secondlife.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://secondlife.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slide-3&#34;&gt;Slide 3&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 3 - empty lecture hall with the heading &amp;rsquo;lectures&amp;rsquo;&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7814469453137469547.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7431453616214284753.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu5967113426146821963.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7814469453137469547.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Image source: image of auditorium by &lt;a href=&#34;https://pixabay.com/en/auditorium-classroom-lecture-572776/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISDiva on Pixabay&lt;/a&gt;. CC0 Public domain.&lt;/p&gt;
+&lt;p&gt;Kahoot. (2016). Kahoot [Computer software]. Retrieved from &lt;a href=&#34;https://getkahoot.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://getkahoot.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Poll Everywhere. (2016). Poll Everywhere [Computer software]. Retrieved from &lt;a href=&#34;https://www.polleverywhere.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.polleverywhere.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nearpod. (2016). Nearpod [Computer software]. Retrieved from &lt;a href=&#34;http://www.nearpod.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nearpod.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional related links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mediaspace.city.ac.uk/media/Leading&amp;#43;by&amp;#43;Example&amp;#43;-&amp;#43;Dr&amp;#43;Rachael-Anne&amp;#43;Knight&amp;#43;Poll&amp;#43;Everywhere&amp;#43;/1_la0re03s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Rachel Knight from City University London on using Poll Everywhere. Video&lt;/a&gt;. &lt;a href=&#34;https://blogs.city.ac.uk/educationalvignettes/2015/12/10/audience-response-using-poll-everywhere/#.VsG6neZWkVQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Associated blog post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mediaspace.city.ac.uk/media/Leading&amp;#43;by&amp;#43;Example&amp;#43;-&amp;#43;Jayne&amp;#43;Morgan&amp;#43;Poll&amp;#43;Everywhere/1_9l0kq2d1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jayne Morgan, Senior Lecturer in Diagnostic Radiography at City University London on using Poll Everywhere&lt;/a&gt;. Special thanks to Santanu Vasant for sharing these resources.&lt;/p&gt;
+&lt;p&gt;Moscrop, C. (2015). Improving student engagement in lectures through the use of free mobile applications. &lt;em&gt;Proceedings of the 7th International Conference on Education and New Learning Technologies, Barcelona, Spain&lt;/em&gt; (EDULEAN15). Retrieved from &lt;a href=&#34;http://repository.edgehill.ac.uk/6922/1/EDULEARN15_-_MOSCROP.doc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://repository.edgehill.ac.uk/6922/1/EDULEARN15_-_MOSCROP.doc&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;text-message-gamified-quiz-system-slide&#34;&gt;Text message gamified quiz system slide&lt;/h3&gt;
+&lt;p&gt;Reimers, S. (2015). Text message gamified quiz system [Computer software]. &lt;a href=&#34;http://www.reimers.co.uk/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Stian Reimer&amp;rsquo;s website&lt;/a&gt; (Dept. of Psychology, City University London)&lt;/p&gt;
+&lt;h2 id=&#34;slide-5&#34;&gt;Slide 5&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 5 - Simulation and problem based learning with a resusitation doll shown&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu4997829527978330393.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu3040963801061338844.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu6276470943991524548.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu4997829527978330393.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://flic.kr/p/8CPgSP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dummy&lt;/a&gt;” by &lt;a href=&#34;https://www.flickr.com/photos/xbasti1102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xBasti1102&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 2.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC (2011, December 11). The apprentice used by Brighton students. &lt;em&gt;BBC Sussex&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/uk-england-sussex-16130509&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/uk-england-sussex-16130509&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clouston, T., Westcott, L., &amp;amp; Whitcombe, S. W. (Eds.). (2010). &lt;em&gt;Problem based learning in health and social care&lt;/em&gt;. United Kingdom: Wiley-Blackwell (an imprint of John Wiley &amp;amp; Sons Ltd).&lt;/p&gt;
+&lt;p&gt;Schild, E. O., &amp;amp; Boocock, S. S. (Eds.). (1968). &lt;em&gt;Simulation games in learning&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://eric.ed.gov/?id=ED026857&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://eric.ed.gov/?id=ED026857&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://digitalstudent.jiscinvolve.org/wp/exemplars/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc Digital Student Case Exemplars&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://digitalstudent.jiscinvolve.org/wp/files/2015/02/DS15-A-space-to-play-with-disruptive-technologies-for-learning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;A space to play with &amp;lsquo;disruptive&amp;rsquo; technologies for learning&amp;rdquo;&lt;/a&gt; about Coventry University&amp;rsquo;s Disruptive Media Learning Lab.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.brighton.ac.uk/simulationhub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Sussex Simulation hub blog site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Problem-based learning at University of Brighton: Sue Greener(http://about.brighton.ac.uk/bbs/contact/details.php?uid=slg)&lt;/p&gt;
+&lt;p&gt;Sadlo, G. (2014). Creating interactive multi-media Problem-Based Learning cases to enhance student cognition. &lt;em&gt;Evolving experiences: Articles from the learning and teaching conference: 2013&lt;/em&gt;. 36-47.&lt;/p&gt;
+&lt;p&gt;Willmer, M., Stanley, H., &amp;amp; Cheales, C. (2014). The Apprentice – you’re hired!. &lt;em&gt;Evolving experiences: Articles from the learning and teaching conference: 2013&lt;/em&gt;. 68-75.&lt;/p&gt;
+&lt;h2 id=&#34;slide-6&#34;&gt;Slide 6&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 6 - Incentivise and motivate in online environments, a person is teaching online in an office environment&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu11207624429427809563.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu7446640820272460443.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu13180995867112244362.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu11207624429427809563.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Csikszentmihalyi, M. (1990). &lt;em&gt;Flow: The psychology of optimal experience&lt;/em&gt;. New York: HarperCollins Publishers.&lt;/p&gt;
+&lt;p&gt;De Freitas, S. (2006). &lt;em&gt;Learning in Immersive worlds A review of game-based learning prepared for the JISC e-learning Programme learning in Immersive worlds: A review of game-based learning&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.webarchive.org.uk/wayback/archive/20140615100504/http://www.jisc.ac.uk/media/documents/programmes/elearninginnovation/gamingreport_v3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.webarchive.org.uk/wayback/archive/20140615100504/http://www.jisc.ac.uk/media/documents/programmes/elearninginnovation/gamingreport_v3.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FutureLearn. (2016, April 18). &lt;em&gt;Introduction to forensic science&lt;/em&gt;. Retrieved March 7, 2016, from &lt;a href=&#34;https://www.futurelearn.com/courses/introduction-to-forensic-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.futurelearn.com/courses/introduction-to-forensic-science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kapp, K. M. (2012). &lt;em&gt;The gamification of learning and instruction: Game-based methods and strategies for training and education&lt;/em&gt;. San Francisco, CA: Wiley, John &amp;amp; Sons.&lt;/p&gt;
+&lt;p&gt;Macdonald, K. (2014, January 6). CSI Scotland: Learning lessons from an online murder mystery. &lt;em&gt;BBC Glasgow &amp;amp; West Scotland&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/uk-scotland-glasgow-west-25621746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/uk-scotland-glasgow-west-25621746&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Williamson Shaffer, D., Squire, K. R., Halverson, R., &amp;amp; Gee, J. P. (2005). Video Games and the Future of Learning. &lt;em&gt;Phi Delta Kappan, 87&lt;/em&gt;(02), 104-111. Retrieved from &lt;a href=&#34;http://website.education.wisc.edu/~kdsquire/tenure-files/23-pdk-VideoGamesAndFutureOfLearning.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://website.education.wisc.edu/~kdsquire/tenure-files/23-pdk-VideoGamesAndFutureOfLearning.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Whitton, N. (2016, February 22). &lt;em&gt;The importance of play: What universities can learn from preschools&lt;/em&gt;. Retrieved March 7, 2016, from [https://theconversation.com/the-importance-of-play-what-universities-can-learn-from-preschools-53007] (&lt;a href=&#34;https://theconversation.com/the-importance-of-play-what-universities-can-learn-from-preschools-53007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://theconversation.com/the-importance-of-play-what-universities-can-learn-from-preschools-53007&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;librarygame-slide&#34;&gt;Librarygame slide&lt;/h3&gt;
+&lt;p&gt;Gamification for public and academic libraries. (2015). Retrieved March 7, 2016, from &lt;a href=&#34;http://librarygame.co.uk/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://librarygame.co.uk/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lemontree - university of Huddersfield. Retrieved March 7, 2016, from &lt;a href=&#34;https://library.hud.ac.uk/lemontree/about.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://library.hud.ac.uk/lemontree/about.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenTree. (2016). Retrieved March 7, 2016, from &lt;a href=&#34;http://www.open.ac.uk/library/opentree/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.open.ac.uk/library/opentree/about&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tay, A., &amp;amp; profile, V. my complete. (2009). &lt;em&gt;Musings about librarianship&lt;/em&gt;. Retrieved March 7, 2016, from &lt;a href=&#34;http://musingsaboutlibrarianship.blogspot.co.uk/2012/01/adding-social-gamification-to-library.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://musingsaboutlibrarianship.blogspot.co.uk/2012/01/adding-social-gamification-to-library.html&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slide-7&#34;&gt;Slide 7&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 7 - Learning analytics and personalised learning with a decorative image of a laptop with a dashboard shown on screen with a projector remote next to it&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu16876000556581059367.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu17046904799755503671.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu1706613452671529172.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu16876000556581059367.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt; &lt;a href=&#34;https://pixabay.com/en/analytics-charts-traffic-marketing-925379/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;image of analytics by StockSnap on Pixabay&lt;/a&gt;. CC0 Public domain.&lt;/p&gt;
+&lt;p&gt;McGonigal, J. (2012). &lt;em&gt;Reality is Broken: Why Games Make Us Better and How They Can Change the World&lt;/em&gt;. London: Vintage.&lt;/p&gt;
+&lt;p&gt;Sclater, N. (2015, April 29). &lt;em&gt;What do students want from a learning analytics app?&lt;/em&gt;. Retrieved March 8, 2016, from &lt;a href=&#34;http://sclater.com/blog/what-do-students-want-from-a-learning-analytics-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sclater.com/blog/what-do-students-want-from-a-learning-analytics-app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chou, Y.-K. (2015). &lt;em&gt;Actionable Gamification: Beyond points, badges and Leaderboards&lt;/em&gt;. United States: Createspace Independent Publishing Platform.&lt;/p&gt;
+&lt;h3 id=&#34;wireframes-slide&#34;&gt;Wireframes slide&lt;/h3&gt;
+&lt;p&gt;McGonigal, J. (2012). &lt;em&gt;Reality is Broken: Why Games Make Us Better and How They Can Change the World&lt;/em&gt;. London: Vintage.&lt;/p&gt;
+&lt;p&gt;Sclater, N. (2015, April 29). &lt;em&gt;What do students want from a learning analytics app?&lt;/em&gt;. Retrieved March 8, 2016, from &lt;a href=&#34;http://sclater.com/blog/what-do-students-want-from-a-learning-analytics-app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sclater.com/blog/what-do-students-want-from-a-learning-analytics-app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chou, Y.-K. (2015). &lt;em&gt;Actionable Gamification: Beyond points, badges and Leaderboards&lt;/em&gt;. United States: Createspace Independent Publishing Platform.&lt;/p&gt;
+&lt;h2 id=&#34;slide-8&#34;&gt;Slide 8&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 8 - Low tech and no tech&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu8239072821770098819.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu1301898118951611730.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu13681280690183853116.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu8239072821770098819.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt; &lt;a href=&#34;https://pixabay.com/en/wood-goal-barn-old-input-boards-1086486/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;image of wood by Stux on Pixabay&lt;/a&gt;. CC0 Public domain.&lt;/p&gt;
+&lt;p&gt;Using gamification elements with careful planning but not necessarily with lots of technology involved (referred to the work of Hannah Frith).&lt;/p&gt;
+&lt;p&gt;Gordon, N., Brayshaw, M., &amp;amp; Grey, S. (2013). Maximising gain for minimal pain: Utilising natural game mechanics. &lt;em&gt;Innovation in Teaching and Learning in Information and Computer Sciences&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(1), 27–38. doi:10.11120/ital.2013.00004 Available at: &lt;a href=&#34;http://www.tandfonline.com/doi/pdf/10.11120/ital.2013.00004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.tandfonline.com/doi/pdf/10.11120/ital.2013.00004&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slide-9&#34;&gt;Slide 9&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 9 - Cost of time, four international time clocks are shown&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu15444274553633496244.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu4746910332311273096.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu4265403205455383237.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu15444274553633496244.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt; &lt;a href=&#34;https://pixabay.com/en/business-time-clock-clocks-257911/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;image of business time clocks by jarmoluk on Pixabay&lt;/a&gt;. CC0 Public domain.&lt;/p&gt;
+&lt;p&gt;Scramboo. (2016). Playmaker [Computer software].&lt;/p&gt;
+&lt;p&gt;Actionbound. (2016). Actionbound [Computer software].&lt;/p&gt;
+&lt;h2 id=&#34;slide-10&#34;&gt;Slide 10&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 10 - differing motivation, sew on girl scout badges are shown&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu16603247201458763610.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu8852479205880535263.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu1516042567358654219.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu16603247201458763610.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Image source:&lt;/strong&gt;
+&amp;ldquo;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Girl_Scout_Patches.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Girl Scout Patches&lt;/a&gt;” by Elizabeth Godspeed licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Computer Gamification and instruction - university of hull. (2015, October 19). Retrieved March 9, 2016, from &lt;a href=&#34;http://www2.hull.ac.uk/science/computer-science/research/cgi.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www2.hull.ac.uk/science/computer-science/research/cgi.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to the serious games institute. (2016, July 21). Retrieved March 9, 2016, from &lt;a href=&#34;http://www.seriousgamesinstitute.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.seriousgamesinstitute.co.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;slide-11&#34;&gt;Slide 11&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide 11 - Conclusion&#34; srcset=&#34;
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu6592472122184719349.webp 400w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu16472527263723454518.webp 760w,
+               /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu10927196767775448935.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu6592472122184719349.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;plug&#34;&gt;Plug&lt;/h2&gt;
+&lt;p&gt;Playful Learning Conference, Manchester, 13-15 July, 2016 &lt;a href=&#34;http://conference.playthinklearn.net/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://conference.playthinklearn.net/blog/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/playing-conference-altcgame-rosie-jones&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SEE ALTC game for example a GLSIG project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ucisa.ac.uk/groups/dsdg/Events/2016/digcaps.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spotlight on Digital Capabilities 2&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;other-links-of-interest&#34;&gt;Other links of interest:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://gameslearningsociety.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Games and Learning Society (US)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;European Conference on Games Based Learning 6-7th October 2016, Paisley, Scotland.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

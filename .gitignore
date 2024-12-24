@@ -1,0 +1,9 @@
+
+assets/.DS_Store
+assets/media/.DS_Store
+assets/media/albums/.DS_Store
+assets/media/albums/work/.DS_Store
+*.jpeg
+*.png
+*.jpg
+*.pdf

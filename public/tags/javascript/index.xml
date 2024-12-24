@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+      <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Javascript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 11 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+    </image>
+    
+    <item>
+      <title>Cellular concerns</title>
+      <link>http://localhost:1313/post/2016/12/cellular-concerns/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/12/cellular-concerns/</guid>
+      <description>&lt;p&gt;I have been plugging away at the portfolio site with the primary aim of getting a semi-functional prototype version to Dr. Theo Fotis on Monday 12th of December. There is a still a huge amount of stuff to do, fix-up and streamline I will add these tasks to my Trello board. This journal entry provides a rundown of the decisions that I have this week.&lt;/p&gt;
+&lt;h3 id=&#34;flickity-carousel&#34;&gt;Flickity carousel&lt;/h3&gt;
+\[caption id=&#34;attachment\_245&#34; align=&#34;alignnone&#34; width=&#34;471&#34;\]\[/caption\]\[caption id=&#34;attachment\_244&#34; align=&#34;alignnone&#34; width=&#34;453&#34;\]\[/caption\]&lt;h3 id=&#34;here-be-the-stuff-of-nightmares&#34;&gt;Here be the stuff of nightmares&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;I have to admit that I spent way too much time on this issue, but it was honestly driving me to distraction. So having fixed my grid so that it was had even widths and looked lovely as I started to use my grids I found that I needed to add unique classes for the blocks that appear in each &lt;section&gt; of the html file. The grid structure is left in place as a logical point of reference. Then I found that my written content in the grid was overflowing beyond the height of the sections. This was relatively easy to fix by setting the classes for the sections to have relative positions and have overflow set to auto. Phew. However, as I added some placeholder content to my grid blocks I found that the widths were still perfect but the heights of columns were not okay. What I mean by &amp;ldquo;not okay&amp;rdquo; is that if a block had more written content then it was longer to contain this content. Therefore blocks positioned adjacent to each other looked askew. &lt;code&gt;/* tried this and hated it .is-table-row { display: table; } .is-table-row [class*=&amp;quot;col-&amp;quot;] { float: none; display: table-cell; vertical-align: top; border: solid 7px #EEEEEE; border-radius: 0; } */&lt;/code&gt; This was strangely very hard to fix. I tried several methods. First I tried fool it into thinking it was a table, but I lost my gutter and I worried about responsive accessibility. I also tried CSS pseudo classes (which I now have a little bit of experience with after customising the dots), but it didn&amp;rsquo;t provide the desired look either. I also tried adding attributes to the section container and the &amp;ldquo;One True Layout Method&amp;rdquo; (Coyier, 2010) where the margin-bottom is set to -99999px and the padding-bottom is set to 99999px and the overflow is hidden. This feels like brushing the problem under the carpet and it looks like it too as it cut off the bottom of my block outline and I like the outline. In the end I used row class for my grid defined to display &lt;em&gt;flex&lt;/em&gt; and and then use the flex-wrap &lt;em&gt;wrap&lt;/em&gt; setting. Alas, with one fell swoop my dream of full functionality in Internet Explorer is dashed as Flexible Box Layout module is not supported in IE9 at all (&lt;a href=&#34;http://caniuse.com/#search=flex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=flex&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;smoothscroll-and-the-navigation&#34;&gt;SmoothScroll and the Navigation&lt;/h3&gt;
+&lt;p&gt;In an &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/04/moving-things-along/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier journal entry&lt;/a&gt; I had cited this fixed navigation example on codepen (&lt;a href=&#34;http://codepen.io/anon/pen/QGQPmX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/anon/pen/QGQPmX&lt;/a&gt;) as being close to what I would like for the navigation on my site, however I have also been devouring a book on web accessibility, &lt;em&gt;Inclusive Design Patterns Coding Accessibility Into Web Design&lt;/em&gt; and anything fixed in the CSS was identified as a no-no in the book (Pickering, 2016). I had also found that the fixed header height meant was causing issues with the distance of the smoothScroll function. I was able to fix this by checking their documentation and adding the labeling the header as &lt;em&gt;data-scroll-header&lt;/em&gt; and then specifying this in the initiation script. Previously I had defined a spacer div for this purpose, it didn&amp;rsquo;t work perfectly for the smoothScroll function, but it ended up being handy for defining white space between the timeline and the about area (in addition to the use of margin settings it was helpful to have something that was independent). In the end I didn&amp;rsquo;t need most of this work as due to the advice in Pickering&amp;rsquo;s book, I decided that the navigation header needed to have a relative position instead of being fixed.&lt;/p&gt;
+&lt;h3 id=&#34;anxiety-levels&#34;&gt;Anxiety levels&lt;/h3&gt;
+&lt;p&gt;As I mentioned at the beginning of this post, I wanted to give the carousel/timeline a long image that continued along the base of cells showing the anxiety levels of the fictional patient during the story (this was shown in &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wireframe version 3&lt;/a&gt;). I started by testing with a .png image and as I anticipated it looked awful but I was most interested in getting the positioning setup correctly. The issue was that the image kept showing up above or in front of the text inside the description div. Also as the window was resized the image floated upward from its initial position. The only way that I could fix this was to use z-index and a fixed position for the image container (I already broke the rules about &lt;em&gt;fixed&lt;/em&gt; items - see above) and then added a unique style id called #anxiety to specify how my image was shown in the container (as a background image). Initially I thought that I might need to specify one strip of the image per cell in the Flickity, but they kept overlapping and having layering issues. The logical approach in the end is to have one very long SVG. I need to optimise the SVG prior to the final release of the site, but at the moment I am still adding to it in Adobe Illustrator as I need to finish writing the patient story prior to finalising the graphic. As this graphic only serves an aesthetic purpose I think it is alright that it is both fixed and defined as a background image (and therefore cannot have an alt tag applied for accessibility reasons).&lt;/p&gt;
+&lt;h3 id=&#34;bios-section&#34;&gt;Bios section&lt;/h3&gt;
+&lt;p&gt;I added box-shading to the photos - they needed a little something to differentiate them against the background. Once again this is not supported in IE9 although it is less critical than the flex-box issue outlined above.&lt;/p&gt;
+&lt;h3 id=&#34;responsive-adjustments&#34;&gt;Responsive adjustments&lt;/h3&gt;
+&lt;p&gt;I worked on the mobile phone break point for the media queries first. Specifically, &lt;code&gt;@media (max-width: 414px)&lt;/code&gt; I based this size on the Google Nexus 6P and the Apple iPhone 6 plus as although these are both phablet sized I certainly need the grid blocks to be shown in a single column at this size not in rows. In general I would like to steer clear of too many device specific breakpoints as it is better to think about the legibility of the design rather than get too obsessed this (an article by Justin Avery (2013) supports this view: &lt;a href=&#34;https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints&lt;/a&gt; - not everyone agrees on this). Also, I realise that I need to go through the code and consolidate my classes and ensure that my units are standardised as % and &lt;em&gt;em&lt;/em&gt; prior to doing too much work on this. So the rest of the styling and layout needs to be completed first, based on a desktop first mentality.&lt;/p&gt;
+&lt;h3 id=&#34;thinking-about-the-patient&#34;&gt;Thinking about the patient&lt;/h3&gt;
+&lt;p&gt;I found myself rethinking the fictional patient&amp;rsquo;s name, based on the ever helpful Wolfram Alpha. It seems that women named &lt;em&gt;Ruth&lt;/em&gt; are demographically older than the fictional patient should be (roughly 55-65yrs although I need more data on this - more on this in my next post). Although Wolfram Alpha is based on demographic information from the United States it is a good basic litmus test for this. Here is my comparison, &lt;em&gt;Carol&lt;/em&gt; may be a better name: &lt;a href=&#34;https://www.wolframalpha.com/input/?i=name&amp;#43;ruth&amp;#43;compared&amp;#43;to&amp;#43;carol&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.wolframalpha.com/input/?i=name+ruth+compared+to+carol&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Avery, J. (2014, October 28). Why you don’t need device specific breakpoints. Retrieved December 11, 2016, from &lt;a href=&#34;https://css-tricks.com/almanac/properties/w/whitespace/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints&lt;/a&gt; Background-repeat. (2016, December 3). Retrieved December 11, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat&lt;/a&gt; Background-size. (2016, December 3). Retrieved December 11, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-size&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-size&lt;/a&gt; Blender. (2016). Force a div to contain floated child divs. Retrieved 11 December 2016, from &lt;a href=&#34;http://stackoverflow.com/questions/11964696/force-a-div-to-contain-floated-child-divs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/11964696/force-a-div-to-contain-floated-child-divs&lt;/a&gt; Bos, B., Etemad, E. J., &amp;amp; Kemper, B. (2014, September 9). CSS backgrounds and borders module level 3. Retrieved December 11, 2016, from &lt;a href=&#34;https://www.w3.org/TR/css3-background/#box-shadow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/css3-background/#box-shadow&lt;/a&gt; Box-shadow. Retrieved December 11, 2016, from &lt;a href=&#34;http://tests.themasta.com/blogstuff/boxshadowdemo.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://tests.themasta.com/blogstuff/boxshadowdemo.html&lt;/a&gt; Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved December 11, 2016, from &lt;a href=&#34;http://caniuse.com/#search=box-shadow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=box-shadow&lt;/a&gt; cferdinandi. (2016, December 11). Cferdinandi/smooth-scroll. Retrieved December 11, 2016, from &lt;a href=&#34;https://github.com/cferdinandi/smooth-scroll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cferdinandi/smooth-scroll&lt;/a&gt; Cope, S. (2011a, September 6). Z-index. Retrieved December 11, 2016, from &lt;a href=&#34;https://css-tricks.com/almanac/properties/z/z-index/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/almanac/properties/z/z-index/&lt;/a&gt; Cope, S. (2011b, September 6). White-space. Retrieved December 11, 2016, from &lt;a href=&#34;https://css-tricks.com/almanac/properties/w/whitespace/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/almanac/properties/w/whitespace/&lt;/a&gt; Coyier, C. (2010, October 8). Media queries for standard devices. Retrieved December 11, 2016, from &lt;a href=&#34;https://css-tricks.com/snippets/css/media-queries-for-standard-devices/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/media-queries-for-standard-devices/&lt;/a&gt; Danilo, A. Splash vector graphics on your responsive site. Retrieved December 11, 2016, from &lt;a href=&#34;https://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/&lt;/a&gt; Kraken.io image Optimizer. (2013). Retrieved December 11, 2016, from &lt;a href=&#34;https://kraken.io/web-interface&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kraken.io/web-interface&lt;/a&gt; LePage, P. (2016, December 16). Responsive web design patterns. Retrieved December 16, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns&lt;/a&gt; Lumsden, A. (2012, June 27). Getting started with Scalable vector graphics (SVG). Retrieved December 11, 2016, from &lt;a href=&#34;https://webdesign.tutsplus.com/articles/getting-started-with-scalable-vector-graphics-svg--webdesign-7515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://webdesign.tutsplus.com/articles/getting-started-with-scalable-vector-graphics-svg&amp;ndash;webdesign-7515&lt;/a&gt; metafizzy. (2016). Callback when Flickity is initialized? · issue #269 · metafizzy/flickity. Retrieved December 11, 2016, from &lt;a href=&#34;https://github.com/metafizzy/flickity/issues/269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/metafizzy/flickity/issues/269&lt;/a&gt; metafizzy. Options. Retrieved December 11, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/options.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/options.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pickering, H. (2016). &lt;em&gt;Inclusive design patterns&lt;/em&gt; (Kindle ed.). Freiburg, Germany: Smashing Magazine GmbH.&lt;/p&gt;
+&lt;p&gt;Quick and simple image placeholders. Retrieved December 11, 2016 (UPDATED: May 5, 2019), from &lt;a href=&#34;https://placeholder.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://placeholder.com/&lt;/a&gt; Salloum, N. (2014, April 4). CSS equal height columns, Three different ways. Retrieved December 11, 2016, from &lt;a href=&#34;http://callmenick.com/post/css-equal-height-columns-three-different-ways&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://callmenick.com/post/css-equal-height-columns-three-different-ways&lt;/a&gt; van Gemert, V. (2013, March 1). Logical Breakpoints for your responsive design – smashing magazine. Retrieved December 12, 2016, from Design, &lt;a href=&#34;https://www.smashingmagazine.com/2013/03/logical-breakpoints-responsive-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2013/03/logical-breakpoints-responsive-design/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress on the grid and layout</title>
+      <link>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt;&lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
+&lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
+&lt;p&gt;Now that my grid is in situ, I am able to base layout elements on  it. I do think that in most cases I will need to make unique versions of the columns and tweak the row layout, but keeping the grid architecture in place and temporarily adding the rows/columns to the html has been really helpful for planning out the sections (as shown in the screenshot below). I used my grid to start planning the layout of the content on the Flickity carousel cells - as it turns out this took quite a bit of work (more on that in my next post). I also had my first go at creating an SVG, albeit a very simple one as a placeholder for the first cell in the carousel. The SVG shows the outline of a head and I made it in Adobe Illustrator, this will need to be replaced by more of a photographic image for needs of the project.&lt;/p&gt;
+&lt;h3 id=&#34;about-about&#34;&gt;about-About&lt;/h3&gt;
+&lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQNj8SiUKWqBOTRTo5rnLcG8NxToeAJ7B9Q1eWWRDdl-_Z-dCbCG-E8xzjOhSWc86TWtNntOcL7K84F/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;task list&lt;/a&gt; to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
+&lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
+\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;One of the sites that I have mentioned before, &lt;a href=&#34;https://gamificationplus.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamification+&lt;/a&gt; has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Basques, K. (2016, December 8). How to use the Timeline tool. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&lt;/a&gt; Common CSS questions. (2015, October 26). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&lt;/a&gt; daneden. (2016, September 27). Daneden/animate.Css. Retrieved December 8, 2016, from &lt;a href=&#34;https://github.com/daneden/animate.css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/daneden/animate.css&lt;/a&gt; Grids. (2016, October 7). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt; Lewis, P. (2016, December 8). Rendering performance. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/performance/rendering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/performance/rendering/&lt;/a&gt; SVG and CSS. (2016, January 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&lt;/a&gt; Z-index. (2016, December 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Timeline tool identified</title>
+      <link>http://localhost:1313/post/2016/11/timeline-tool-identified/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/timeline-tool-identified/</guid>
+      <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): &lt;a href=&#34;https://jsfiddle.net/43gg6x3v/7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jsfiddle.net/43gg6x3v/7/&lt;/a&gt; Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery vs. Javascript gist&lt;/a&gt; and then the From &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery to Javascript: A Reference&lt;/a&gt; - vanilla makes much more sense to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;jQuery example 1: horizontal timeline (&lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/horizontal-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;jQuery example 2: vertical timeline (&lt;a href=&#34;https://codyhouse.co/gem/vertical-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/vertical-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After looking at these and searching quite a bit, I came across a tool called lory (&lt;a href=&#34;http://meandmax.github.io/lory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://meandmax.github.io/lory/&lt;/a&gt;). It is essentially a code package or widget for creating interactive slideshows or gallery. I thought that there might be some milleage in creating a slideshow or gallery and somehow customising it as a timeline. After testing I found that lory also was overly complex for my needs. Then I came across a really helpful article about a widget tool called &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flickity&lt;/a&gt; on css-tricks.com (&lt;a href=&#34;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&lt;/a&gt;). It was love at first sight! Here is an example on codepen showing how the Flickity slideshow originally looked: &lt;a href=&#34;http://codepen.io/desandro/pen/bNLGNZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/desandro/pen/bNLGNZ&lt;/a&gt; - Flickity is both responsive and touch optimised and had a vanilla option in addition to jQuery. It seemed like a good solution. Before my modifications: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/25/timeline-tool-identified/flickityorig/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the freescroll Flickity slide carousel&#34; srcset=&#34;
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp 400w,
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu1941371233609075102.webp 760w,
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu7932386095536438164.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;177&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; After my modifications: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/25/timeline-tool-identified/flickityedit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the edited version of the Flickity carousel&#34; srcset=&#34;
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp 400w,
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu882150914599356930.webp 760w,
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu595354637712614238.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;331&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&amp;rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPLv3 license&lt;/a&gt;. I am passionate about open source and was already licensing my work under an &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT license&lt;/a&gt; so I have decided to set the rest of my project to &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;comply with the GPLv3 license&lt;/a&gt;. This means that the license information needs to be included in the header of each source file. As the portfolio site will not contain any original research and will only provide an overview of the project this will also comply with the University&amp;rsquo;s Intellectual Property rules&lt;fn&gt;As a student and employee I need to be aware of the university&amp;rsquo;s Intellectual Property rules, which are available here: &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; . However as portfolio site will not provide software with potential for commercial value and the project information itself is in the early stages it complies with the rules.&lt;/fn&gt;. Also in the markup of the html, CSS and Javascript I have indicated where pieces of code have come from and if/when licenses apply. &lt;strong&gt;Update:&lt;/strong&gt; Shortly after writing this post I solved the issues outlined above (see: &amp;ldquo;There is still a lot to do&amp;hellip;&amp;rdquo;) and these discoveries are outlined in the next couple of posts. I realise that I forgot to mention how I solved the issue of the number labels on the dots below the Flickity carousel. This problem turned out to offer me a very valuable lesson in the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pseudo element &amp;ldquo;before::&amp;rdquo; or &amp;ldquo;before:&amp;rdquo;&lt;/a&gt;. I have used the former, &amp;ldquo;before::&amp;rdquo; as this was introduced in CSS3 and is compatible with IE9 based on my testing. I figured out that the dots themselves could be used as a counter-increment for the addition of the number labels. &lt;code&gt;.dot { position: relative; overflow: hidden; display: inline-block; width: 40px; height: 40px; margin: 0 20px; background: #a9a9a9; border-radius: 50%; cursor: pointer; counter-increment: flickity-page-dots; }&lt;/code&gt; &lt;code&gt;.dot::before { display: block; text-align: center; content: counter(flickity-page-dots); padding-top: 11px; font-size: 20px; color: #FFF; }&lt;/code&gt; As the dots themselves are automatically produced by the Flickity Javascript, this meant that my number labels were now produced too. A nice solution.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&lt;/a&gt; Flickity - freeScroll. Retrieved November 26, 2016, from &lt;a href=&#34;http://codepen.io/desandro/pen/bNLGNZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/desandro/pen/bNLGNZ&lt;/a&gt; Flickity License. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/license.html&lt;/a&gt; Flickity. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/&lt;/a&gt; Free Software Foundation. (2007). GNU General Public License. Retrieved November 26, 2016, from &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gnu.org/licenses/gpl-3.0.html&lt;/a&gt; Heinz, M. (2015). Lory minimalistic slider. Retrieved November 26, 2016, from &lt;a href=&#34;http://meandmax.github.io/lory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://meandmax.github.io/lory/&lt;/a&gt; Horizontal Timeline in CSS and jQuery. (2014, February 28). Retrieved November 26, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/horizontal-timeline/&lt;/a&gt; Mozilla Developer Network. (2016, July 24). :Before (:Before). Retrieved November 26, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&lt;/a&gt; Open Source Initiative. The MIT license. Retrieved November 26, 2016, from &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opensource.org/licenses/MIT&lt;/a&gt; Saunders, S. ​Intellectual property (IP). Retrieved January 4, 2017, from &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; Vanilla JS vs jQuery. (2017). &lt;em&gt;Gist&lt;/em&gt;. Retrieved 26 November 2016, from &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gist.github.com/liamcurry/2597326&lt;/a&gt; Vertical Timeline. (2014, June 12). Retrieved November 16, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/vertical-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/vertical-timeline/&lt;/a&gt; Way, J. (2012, January 19). From jQuery to JavaScript: A reference. Retrieved November 26, 2016, from &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference&amp;ndash;net-23703&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio site concept and other news</title>
+      <link>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
+&lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
+&lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A concept document in a bare bones form aka this journal entry!&lt;/li&gt;
+&lt;li&gt;Task scenarios - &lt;a href=&#34;https://docs.google.com/document/d/1Nxisu8BaAGM3iaJ1r7oZv4b-XAM59ZMapdnNgK0rQzc/edit&#34; title=&#34;a long link to a Google document viewer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this document&lt;/a&gt; is the first version.&lt;/li&gt;
+&lt;li&gt;Business Model Canvas&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; - an artefact template that I found via Cao &amp;amp; Bank&amp;rsquo;s, &lt;em&gt;The Guide to UX Design Process &amp;amp; Documentation&lt;/em&gt; (n.d.). This will be in a forthcoming journal entry.&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups - this will also be in a forthcoming journal entry. Due to time contraints and available information, it is not possible to build thorough characteristics lists for all potential users. I am however, fortunate to have a real stakeholder who can provide feedback on my work and it&amp;rsquo;s hypothetical usefulness. (more on this later on in this entry).&lt;/li&gt;
+&lt;li&gt;\[Tentative plan\] create a UML&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; diagram to ensure that each page and section of the site includes the correct information and functions. I personally find UML diagrams to be very helpful for archictectural planning. It can be a fairly basic model for this project, but I do find that the process of making the models uncovers things that you haven&amp;rsquo;t thought about! I may find that this isn&amp;rsquo;t needed, but I won&amp;rsquo;t know until I start making it.&lt;/li&gt;
+&lt;li&gt;A paper prototype - as I am working with a real stakeholder, I want to show him something quick and easy so that he can visualise the concept and ensure that my representation and approach to the domain is accurate. I think that a paper prototype is the best way to do that, in order to move to the coding phase as quickly as possible.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;concept&#34;&gt;Concept&lt;/h3&gt;
+&lt;p&gt;The wait is over! Here is the concept. The project&amp;rsquo;s working title is &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt;. It is a website structured around a central page, which leads the viewer through a fictional narrative of a patient&amp;rsquo;s experience of anxiety while awaiting a medical operation or procedure. In the narrative the patient will be using an electronic wearable device to track their own vital signs and also for logging their anxiety levels - the influence of this countermeasure will be explored. The narrative is represented through a navigable timeline enriched with the use of graphical, written and statistical information. The underlying project, to use wearable devices to measure patient pre-operative anxiety is attributed to and courtesy of Dr. Theofanis Fotis (School of Health Sciences, University of Brighton), whom I am collaborating with at this time.&lt;/p&gt;
+&lt;h3 id=&#34;scope&#34;&gt;Scope&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;deliver an approachable overview of aresearch project - the proposed research project is to design a user interface for a medical wearable device to measure anxiety;&lt;/li&gt;
+&lt;li&gt;explain the issues that can result from pre-operative stress in patients;&lt;/li&gt;
+&lt;li&gt;provide a point of entry for those with little or no knowledge of the subject as well as explain the potential benefits of the project to experienced medical professionals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will not:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;provide indepth medical information;&lt;/li&gt;
+&lt;li&gt;provide any fully formed solutions or recommendations for implementation of wearable devices in a medical setting;&lt;/li&gt;
+&lt;li&gt;provide advice or suggestions for the production of patient care plans. As a narrative scenario it is exploring a hypothetical scenario in which a wearable device is used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will provide the following benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it will provide a valuable resource for explaining the research project to potential funders and future stakeholders;&lt;/li&gt;
+&lt;li&gt;it will help to raise awareness of the potential issues related to patient pre-operative anxiety;&lt;/li&gt;
+&lt;li&gt;it will highlight potential ways that increased knowledge of a patient&amp;rsquo;s vital signs and self-reported anxiety could improve patient care;&lt;/li&gt;
+&lt;li&gt;it will provide an accompanying contextual information for the proposed future interface design project;&lt;/li&gt;
+&lt;li&gt;it will be a publicity tool, that can be used to explain the project within the academic and medical online communities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;goals&#34;&gt;Goals&lt;/h3&gt;
+&lt;p&gt;The following goals are related to the successful creation of the &lt;em&gt;patient pre-op anxiety infographic:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;provide a valuable portfolio piece, not only in terms of web development, but also as a tool for the research team and collaborators;&lt;/li&gt;
+&lt;li&gt;contribute to the approval and ethics approval of this as a concept for F.MacNeill&amp;rsquo;s final graduating project;&lt;/li&gt;
+&lt;li&gt;stimulate dialogue around the issues and ideas raised by the &lt;em&gt;patient pre-op anxiety infographic;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;encourage potential funders and stakeholders to invest in the project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an accurate portrayal of a possible patient care scenario.&lt;/li&gt;
+&lt;li&gt;Provide information highlighting the benefits of the proposed project.&lt;/li&gt;
+&lt;li&gt;Pose the project concept as an open question in order to gauge feedback and interest from the medical community and potential funders and/or stakeholders.&lt;/li&gt;
+&lt;li&gt;The user audiences for this are diverse but have one thing in common, they have very limited time to engage with a website of this kind. This website should take no longer than 10-15mins to navigate, the equivalent of a typical coffee/tea break.&lt;/li&gt;
+&lt;li&gt;To be shared via social media between interested parties.&lt;/li&gt;
+&lt;li&gt;To be adaptive and easily viewed and navigated on mobile devices.&lt;/li&gt;
+&lt;li&gt;To be accessible to those on older web browsers (as far as possible).&lt;/li&gt;
+&lt;li&gt;To be accessible to users with disabilities, allowing for personal customisation (as far as possible).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-research-team&#34;&gt;The Research Team&lt;/h3&gt;
+&lt;p&gt;Right now this is just me, however Dr. Fotis has agreed to review the materials and my hope is that if the site meets his approval then we will be able to use it to promote the real project. In the first instance it is a hypothetical project site, but that doesn&amp;rsquo;t mean that you cannot aim high as I have outlined in the objectives above.&lt;/p&gt;
+&lt;h3 id=&#34;audience&#34;&gt;Audience&lt;/h3&gt;
+&lt;p&gt;More detail on this in a future entry. The user groups are: funding review panel members, academic staff at multiple Higher Education Institutions (HEIs), medical professionals.&lt;/p&gt;
+&lt;h3 id=&#34;stakeholders&#34;&gt;Stakeholders&lt;/h3&gt;
+&lt;p&gt;Intially Dr. Fotis is the main stakeholder, however I would take this site forward as evidence to support my final project proposal. In that sense academic staff in the School of Computing are also future stakeholders.&lt;/p&gt;
+&lt;h2 id=&#34;research-of-the-domain-and-existing-websites&#34;&gt;Research of the domain and existing websites&lt;/h2&gt;
+&lt;p&gt;I have been using my &lt;a href=&#34;https://trello.com/b/4a20fYpf/web-development-portfolio-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trello project board&lt;/a&gt; as a place to collect links and resources. On the one hand I have been looking at the specs for potential wearable devices, it is out of scope to suggest an actual solution but I would like to supply some possibilities in terms of device form so that the project is tangible. I have also been reviewing materials that Dr. Fotis provided to help gain domain knowledge of a patient&amp;rsquo;s pre-operative experience. I have listed these sources in my reference list below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of a sketch book page, including pencil drawing for the patient journey&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu1130946275505023832.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu16595894639492752873.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;537&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ Sketch of patient journey ideas.&lt;/p&gt;
+&lt;h3 id=&#34;existing-websites&#34;&gt;Existing websites&lt;/h3&gt;
+&lt;p&gt;As a general observation medical websites tend to be firmly on the utilitarian end of the scale. This is understandable as information is usually important and needs to be delivered quickly. So it will be important to strike a balance between something eye-catching, which is also substantive. Here is are few examples that I came across and wrote notes about (transferred from my trello board).&lt;/p&gt;
+&lt;h3 id=&#34;notesobservations&#34;&gt;Notes/Observations&lt;/h3&gt;
+&lt;p&gt;This &lt;a href=&#34;http://www.hongkiat.com/blog/timeline-in-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collection of timeline based websites and infographics is really helpful&lt;/a&gt;. Some of the examples are a bit old and don&amp;rsquo;t work as well in contemporary browsers. This is something to consider. Most of these sites are in a long-form vertical format. This is great and modern, but considering the audio for this site, this obscures some key aspects of the journey. Viewers will be time-pressured and need to see the journey/timeline elements as succinctly as possible. The following sites are closest to what I want to design:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rodania.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rodania.com&lt;/a&gt;. This example is not very responsive, so that would be something to consider.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://minimalmonkey.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MinalMonkey.com&lt;/a&gt;. This blog is quite nice but the scrolling right function would need to be made much more obvious.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Vertical timeline examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I like the intro page segment on &lt;a href=&#34;http://www.akita.co.uk/computing-history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Akita history of computing site.&lt;/a&gt;. It isn&amp;rsquo;t keyboard navigable though which is not great in terms of my accessibility goals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uk.protectyourbubble.com/iphone-timeline/#iphone-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This example is keyboard navigable&lt;/a&gt; and it aesthetically simple and user-friendly.&lt;/li&gt;
+&lt;li&gt;I quite like &lt;a href=&#34;https://mixpanel.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the simplicity of this one&lt;/a&gt;, it is text heavy, but it gets the message across quickly.&lt;/li&gt;
+&lt;li&gt;I like the use of months on the timeline on &lt;a href=&#34;http://www.czk.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this portfolio site&lt;/a&gt;, although accessibility and control might be an issue here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://webdesignledger.com/40-of-the-best-horizontal-scrolling-websites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A collection of horizontal scrolling sites&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Many of these are quite old or have changed format since the post was written. &lt;strong&gt;I found myself considering a horizontal layout due to the need to display data and the need for it to be readable, however horizontal layouts pose some real accessibility and navigation issues.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.siegemedia.com/creation/best-infographics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recently updated list of infographics, including many interactive examples&lt;/a&gt;. An oldie, but a goodie &lt;a href=&#34;http://www.evolutionoftheweb.com/#/evolution/day&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Evolution of the Web&amp;rdquo; as an example of a horizontal layout&lt;/a&gt; &amp;hellip;and some justification for my concept! &lt;a href=&#34;http://neomam.com/interactive/13reasons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;13 Reasons Why Your Brain Craves Infographics&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This site uses the &lt;a href=&#34;https://timeline.knightlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knightlab&amp;rsquo;s Timeline JS tool&lt;/a&gt;, which I have used many times, mostly in WordPress sites. This is &lt;a href=&#34;http://www.centenary.mrc.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a nice medical example&lt;/a&gt;, but I want something a bit more contemporary.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This site has the kind of section feel that I am looking for, although I still wonder how I can visualise anxiety in a vertical layout versus horizontal. [This site]((&lt;a href=&#34;http://www.kocha.com.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.kocha.com.au/&lt;/a&gt;) has nice comment mark-up and makes clear use of the &lt;section&gt; element.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;journal-development&#34;&gt;Journal development&lt;/h2&gt;
+&lt;p&gt;A quick run down of learning journal development activities. A full rundown can be found on my github development page, I have added a handy link to to this in the &amp;ldquo;social menu&amp;rdquo; on the right-hand footer of this journal site (circular icon with octo-cat logo).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Created an iframe embed in a widget for my trello board&lt;/strong&gt; so that I can display it in the sidebar. In order to create this I referred to this example on &lt;a href=&#34;http://jsfiddle.net/danlec/hmQJP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSFiddle&lt;/a&gt; and &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network docs&lt;/a&gt;. Tomorrow I am attending a &lt;a href=&#34;http://www.meetup.com/WordUp-Brighton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress Meet-up at Barclay&amp;rsquo;s Eagle Lab&lt;/a&gt; in Brighton and as part of the event they will offer user testing. I thought why not add some functionality that I have always wanted to include AND get some tips.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have added the option for visitors to this site to change the colour of the background (behind the text) for accessibility reasons.&lt;/strong&gt; I did this as by creating alternate child-theme style sheet and by installing the &lt;a href=&#34;https://wordpress.org/plugins/wp-user-stylesheet-switcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WP User Stylesheet Switcher plugin&lt;/a&gt;. This idea is inspired by software like of Adobe Acrobat Pro and GoodReader App (for iPad) which allow you to customise background colours. I referenced &lt;a href=&#34;http://irlen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://irlen.com&lt;/a&gt; for colour-palette inspiration. Visual stress when reading and/or perception of colour contrast are reasons why a user might wish to alter background colours.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hexidecimal colours used for initial function:
+&lt;ul&gt;
+&lt;li&gt;blue 1: #dfeced&lt;/li&gt;
+&lt;li&gt;blue 2: #9ab8fc&lt;/li&gt;
+&lt;li&gt;green 1: #a6f8e3&lt;/li&gt;
+&lt;li&gt;green 2: #aaf2a0&lt;/li&gt;
+&lt;li&gt;yellow 1: #ffff8f&lt;/li&gt;
+&lt;li&gt;yellow 2: #ffde75&lt;/li&gt;
+&lt;li&gt;purple: #bf95df&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ll write about any resulting feedback and actions on this site later. &lt;strong&gt;I added Google Analytics code to my version of the header.php file&lt;/strong&gt;, this was not added to GitHub as it is specific to my version of the child theme. I decided against a plugin as I looked at a couple of options, but I didn&amp;rsquo;t feel that having access to a Google Analytics data on the dashboard of WordPress was that important as compared to the account authorisation that plugins require to run (e.g. &lt;a href=&#34;https://wordpress.org/plugins/google-analytics-dashboard-for-wp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics plugin&lt;/a&gt; that I looked at). I like to keep an eye on web traffic for security and publicity reasons.&lt;/p&gt;
+&lt;h3 id=&#34;coding-practice&#34;&gt;Coding practice&lt;/h3&gt;
+&lt;p&gt;I have a Lynda.com course to wrap-up and I will post the details here when I finish. In the meantime, collectively I have now completed 200 exercises in Code Academy! I didn&amp;rsquo;t do them all since the start of this module, but here is a screenshot of my badge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of badge from Code Academy&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu9492374361594400666.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu1915982765814953062.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
+               width=&#34;286&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Just putting this here for later reference - found on my travels&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-10-commandments-of-user-interface-design&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;10 Commandments of User Interface Design&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu1887641144764334058.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu15126336435686968483.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;457&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      10 Commandments of User Interface Design
+    &lt;/figcaption&gt;&lt;/figure&gt;
+](&lt;a href=&#34;https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/&lt;/a&gt;) Courtesy of: &lt;a href=&#34;https://www.designmantic.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Designmantic.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Cao, J. &amp;amp; Bank, C. (n.d.). &lt;em&gt;The guide to UX design &amp;amp; documentation process.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gothelf, J. (2013). &lt;em&gt;Lean UX: Applying Lean Principles to Improve User Experience&lt;/em&gt; (1st ed.). United States: O’Reilly Media, Inc, USA.&lt;/p&gt;
+&lt;p&gt;Prichard, M. J. (2009). Identifying and assessing anxiety in pre-operative patients. _Nursing Standard 23(_51), 25-40. Retrieved from &lt;a href=&#34;https://rcni.com/nursing-standard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rcni.com/nursing-standard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What can help relieve anxiety before surgery? (2014, May 21). In &lt;em&gt;PubMed Health&lt;/em&gt;. Retrieved October 15, 2016, from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Business Model Canvas (&lt;a href=&#34;http://www.businessmodelcanvas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.businessmodelcanvas.com&lt;/a&gt;), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Unified Modeling Language - more information at wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Modeling_Language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Unified_Modeling_Language&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theme testing</title>
+      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
+      <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
+&lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
+&lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight (Automattic, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon (Keijonen, 2016a)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma (Lüken, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka (Keijonen, 2016b)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen (WordPress.org, 2016a)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen (WordPress.org, 2016b)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As part of the testing plan I used a several tools, listed at the bottom of this post, to analyse the best themes. Please note, that some themes did not reach the full testing phase due to issues that I would term as &lt;em&gt;deal breakers&lt;/em&gt;; the issues identified were troublesome enough where it was not worth continuing with those themes. I also entered into this testing process with an intention to attain a WCAG 2.0 Level AA (W3C, 2016a) accessibility rating for my journal site. This is largely because accessibility is a budding specialism of mine and I wanted an excuse to delve around in the innards of the newest WordPress themes!&lt;/p&gt;
+&lt;h4 id=&#34;testing-results-andobservations&#34;&gt;Testing results and observations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight&lt;/a&gt; I decided not to install this theme. Although &amp;lsquo;afterlight&amp;rsquo; had the accessibility tag, I found on inspection of its specifications that it is based on having a background image throughout each area of its architecture (landing page, pages, posts - all had to have a single background image). Upon previewing this with my content, using the WordPress theme preview tool, I found that this negatively impacted readability. As the purpose of this blog is to engage in reflection, it seems important not to distract from that at the design level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon&lt;/a&gt; This theme has (or rather had) a lot of potential and is coded according to best practice (e.g. accessibility tagging) outlined in the WordPress Accessibility Handbook (WordPress.org, 2014).&lt;/p&gt;
+&lt;p&gt;I realised later on looking at in-code documentation that this theme is based on a starter theme, Underscores (or “_s”). A bare bones CSS starter theme (Underscores, 2016).&lt;/p&gt;
+&lt;p&gt;Unfortunately after venturing as far as creating a child theme, I found issues in the some of the front-page template functionality. I also discovered that the links through to the theme documentation were broken and as a result I decided cease using the theme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma&lt;/a&gt; I do like the clean lines and simplicity of enigma, even in light of the negative points outlined in the slideshow below, it is certainly a worthy candidate. However, the dependence on the burger-style menu (the three lines) although often essential on mobile versions of a site, is less effective when viewed in a conventional web browser. I decided to seek out a theme that offered more versatility for delivery of the navigation menu/s.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka&lt;/a&gt; Initially I really liked the simplicity of this theme design and it is very responsive, however in terms of accessibility it has some problems. Namely, it does not support reader view in Firefox 49 or Safari 10 and also was not good in terms of respecting the heading levels for the screen reader. I did not complete the other tests as these two issues were deal breakers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate in clean and simple. Although as a seasoned WordPress user the annual core template always &lt;em&gt;looks&lt;/em&gt; like the annual core template, even with customisation. Twentyfifteen is quite book-like in its bi-fold layout and this doesn&amp;rsquo;t strike the desired tone. As I tend to be quite verbose in my writing, I think that a theme with better except support is better. Having said that, the core templates can provide excellent bases for creation of child themes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen&lt;/a&gt; A fresh approach to a traditional blog layout with some very nice built-in features. Highlights include the support of the &lt;em&gt;read more&lt;/em&gt; tag for determining the length of post/entry excerpts shown on the front page. I also like the presentation of the author avatar, together with post tags on the left-hand side of each post. This theme has good customisation options and good widget support (the tools that you can place in the aside-style columns in the layout). A solid theme, not the most riveting to look at, but it ticks all of my accessibility boxes!&lt;/p&gt;
+&lt;h5 id=&#34;the-final-two-contenders&#34;&gt;The final two contenders&lt;/h5&gt;
+&lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools section&lt;/a&gt; for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
+&lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacNeill, 2016&lt;/a&gt;) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
+&lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
+\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
+&lt;p&gt;The server was down this weekend so I used this as an excuse to implement some technical tools which will help further down the line. First of all as I mentioned in my last entry I installed MAMP on my development computer. MAMP, stands for Macintosh, Apache, MySQL, PHP (&amp;ldquo;MAMP&amp;rdquo;, 2016) and allows to setup a local copy of WordPress on your computer. I find having access to a local installation to be helpful for two reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I can work on my child theme tweaks without having access to the server and test them out in a controlled environment.&lt;/li&gt;
+&lt;li&gt;I can test out themes and plugins without muddying my installation. Sometimes everything about a plugin can look good and then you install it and there are things are about it that don&amp;rsquo;t work or the coding isn&amp;rsquo;t up to scratch. So again it is good to have a test environment for that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project. Here is my repository for this site: &lt;a href=&#34;https://github.com/FionaMacNeill/learningjournal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/FionaMacNeill/learningjournal&lt;/a&gt; - it seemed like the ideal opportunity to practice using a version control tool. It has been really useful thus far! &lt;strong&gt;Thinking long and hard about plugin installation is a good idea&amp;hellip;&lt;/strong&gt; I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks&lt;fn&gt;Why not use a footnote to explain what I did! I changed .footnote_plugin_text to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the .footnote_plugin_link, .footnote_plugin_index. Finally I needed to manually change the position of the superscript figures as I wasn&amp;rsquo;t happy with the distance of the figure numbers from the text characters, for this I changed the .footnote_plugin_tooltip_text class&lt;/fn&gt; due to how the footnotes were shown in the twentysixteen theme.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;analysis-tools-used&#34;&gt;&lt;strong&gt;Analysis tools used:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;IDI Web Accessibility checker (AChecker, 2011).&lt;/li&gt;
+&lt;li&gt;Snook colour contrast checker (Snook, 2015).&lt;/li&gt;
+&lt;li&gt;Sim Daltonism colour blindness simulator (Wickline, 2000).&lt;/li&gt;
+&lt;li&gt;Accessibility evaluation toolbar by John Gunderson (Gunderson, 2011).&lt;/li&gt;
+&lt;li&gt;Apple and Firefox text-to-speech tools.&lt;/li&gt;
+&lt;li&gt;Keyboard-only navigation of site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;guidelines-used-and-referred-to&#34;&gt;&lt;strong&gt;Guidelines used and referred to:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web Content Accessibility Guidelines (WCAG) (W3C, 2016a).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Techniques for WCAG 2.0 (W3C, 2016b).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BBC Future Media Standards and Guidelines (BBC, 2008).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mozilla Developer Network documentation (Mozilla, 2016).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WordPress Accessibility Handbook (WordPress.org, 2014):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifically I found this page very helpful - Questions to ask - &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&lt;/a&gt; The &amp;lsquo;questions&amp;rsquo; are derived from the four principles of WCAG and they are immensely helpful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;software-and-developer-tools-used&#34;&gt;&lt;strong&gt;Software and developer tools used&lt;/strong&gt;**:**&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;MAMP (appsolute GmbH, 2016).&lt;/li&gt;
+&lt;li&gt;Github - version control and code repository (GitHub, 2016).&lt;/li&gt;
+&lt;li&gt;WebStorm - editor: (JetBrains, 2016).&lt;/li&gt;
+&lt;li&gt;Textwrangler (Bare Bones Software, 2016).&lt;/li&gt;
+&lt;li&gt;Chrome developer tools (Google, 2016).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;AChecker. (2011). IDI web accessibility checker: Web accessibility checker. Retrieved October 7, 2016, from AChecker website, &lt;a href=&#34;http://achecker.ca/checker/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://achecker.ca/checker/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;appsolute GmbH. (2016). MAMP &amp;amp; MAMP PRO. Retrieved October 7, 2016, from MAMP website, &lt;a href=&#34;https://www.mamp.info/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mamp.info/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Automattic. (2015, October 7). Afterlight. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/afterlight/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bare Bones Software. (2016). Bare bones software. Retrieved October 13, 2016, from &lt;a href=&#34;http://www.barebones.com/products/TextWrangler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.barebones.com/products/TextWrangler/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC. (2008, June 24). Future media standards &amp;amp; guidelines - accessibility guidelines v2.0. Retrieved October 7, 2016, from BBC website, &lt;a href=&#34;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub. (2016). Build software better, together. Retrieved October 13, 2016, from &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.chrome.com/devtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.chrome.com/devtools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&lt;/a&gt;&lt;/p&gt;
+\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jetbrains.com/webstorm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016a, September 16). Chuchadon. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/chuchadon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/kuorinka/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/e-nigma-2015/&lt;/a&gt;&lt;/p&gt;
+\[Talk\]\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from &lt;a href=&#34;https://en.wikipedia.org/wiki/MAMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/MAMP&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Underscores. (2016). Retrieved October 7, 2016, from Underscores website, &lt;a href=&#34;http://underscores.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://underscores.me/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016a). How to Meet WCAG 2.0. Retrieved October 13, 2016, from W3C Web Accessibility Initiative website, &lt;a href=&#34;https://www.w3.org/WAI/WCAG20/quickref/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/WAI/WCAG20/quickref/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016b). Techniques for WCAG 2.0. Retrieved October 13, 2016, from W3C Working Group website, &lt;a href=&#34;https://www.w3.org/TR/WCAG20-TECHS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/WCAG20-TECHS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wickline, M. (2000). Sim Daltonism for Mac. Retrieved October 13, 2016, from &lt;a href=&#34;https://michelf.ca/projects/mac/sim-daltonism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://michelf.ca/projects/mac/sim-daltonism/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2014, October 11). Accessibility handbook. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016a, December 6). Twenty Fifteen. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentyfifteen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016b, December 6). Twenty Sixteen. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentysixteen/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

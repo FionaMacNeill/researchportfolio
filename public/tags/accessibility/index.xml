@@ -1,0 +1,1493 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accessibility | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/tags/accessibility/</link>
+      <atom:link href="http://localhost:1313/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accessibility</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/tags/accessibility/</link>
+    </image>
+    
+    <item>
+      <title>Reblog - What makes an online space inclusive?</title>
+      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
+&lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
+&lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Session description:&lt;/strong&gt;
+Think about the last online event you attended. Was there anything that made you feel included, or excluded? Did you have the option to add your pronouns? Were you actively invited to turn on your webcam, but only if you wanted to? You might even have become immersed in a collaborative exercise, almost forgetting you were on a video call! This session is a discussion focusing on how to support accessibility and inclusion in online learning spaces. Thinking about what works and what does not work and what is needed before, during, and after an online session to make it successful.
+This post is split into two sections, &lt;em&gt;what happened at the event?&lt;/em&gt; and the &lt;em&gt;meta level&lt;/em&gt;. The first section, &lt;em&gt;what happened&amp;hellip;&lt;/em&gt; summarises aspects of the discussion and the activity in the meeting chat. This is very much a crowdsourced blog post and I owe the vast majority of the helpful and acutely observed content to my fantastically engaged audience during the event. The second section is a reflection on my own practice and the steps that Jisc organisers took behind the scenes to support the event.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1xidGq_5d4OYedys5emfgYirDAiwCGbMWxeSGhFBVsAI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access the slides used during the session at Google Slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-happened-during-the-event&#34;&gt;What happened during the event?&lt;/h2&gt;
+&lt;h3 id=&#34;setting-the-scene&#34;&gt;Setting the scene:&lt;/h3&gt;
+&lt;p&gt;What do I mean by an online space?
+At the beginning of the event, I needed to establish what I meant by this term as it is a slightly lateral way of thinking about situations/events which may defined in a technical sense as webinars, online lessons, or online meetings. This is a big ask of an audience, but I wanted to encourage them to think about online space in broader terms rather than using siloed categorisations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;My definition:&lt;/strong&gt;
+An online space is where groups of 3 or more people come together to meet online.
+These spaces are facilitated via meeting and webinar tools and the format is governed by the people who facilitate and/or attend.
+The format can replicate in-person meeting styles or can be specific to online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_ingredients-for-an-online-space-as-an-algorithm-diagram_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               width=&#34;266&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Ingredients for an online space as an algorithm diagram&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;examples-to-illustrate-format&#34;&gt;Examples to illustrate &amp;lsquo;format&amp;rsquo;&lt;/h3&gt;
+&lt;p&gt;I provided two categories of format with examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;In-person formats:&lt;/strong&gt; online spaces which attempt to replicate an in-person meeting format/experience. Here are just a few of those that I listed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Round table, with the example meeting tool &lt;em&gt;Wonder&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Large group meeting, with example tool &lt;em&gt;Microsoft Teams&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Conference or lecture presentation&lt;/li&gt;
+&lt;li&gt;Watch Party, with example tool &lt;em&gt;Backyard.co&lt;/em&gt; (no longer available as of 26/06/21 - sunset due to being bought out by Discord).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uniquely online formats:&lt;/strong&gt; online spaces which present new modes of interaction or collaboration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio-only large group meeting, with the example of &lt;em&gt;Twitter Rooms&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Collaboration in real-time with interspersed audio, with example tool &lt;em&gt;Mural&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_a-twitter-room-featuring-hundreds-of-attendees-with-the-director-edgar-wright-and-the-original-cast-of-scott-pilgrim-vs-the-world-discussing-the-film-the-subtitle-function-is-shown-on-screen-making-the-event-accessible-to-all_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;A Twitter Room featuring hundreds of attendees with the director Edgar Wright and the original cast of Scott Pilgrim vs. the World discussing the film. The subtitle function is shown on screen, making the event accessible to all.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;questions-for-the-audience&#34;&gt;Questions for the audience&lt;/h3&gt;
+&lt;h4 id=&#34;1-what-was-it-like-at-the-last-online-learning-event-that-you-attended&#34;&gt;1. What was it like at the last online learning event that you attended?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Some folks taking part in the discussion, had just come from delivering their own training sessions with staff.&lt;/li&gt;
+&lt;li&gt;One person noted that the format of the Jisc Connect More conference was good because presenters were speaking for 20mins and then there were questions and answers for the remaining 10mins.&lt;/li&gt;
+&lt;li&gt;Another person noted that they had attended a long online event featuring multiple presenters. Some of the presenters were engaging for them, some were not. Therefore, they would have found it helpful to have a schedule for the speakers so that they could drop-in to the call when specific people were presenting.&lt;/li&gt;
+&lt;li&gt;Some folks felt that the range of tools being used during an online meeting/event, in addition to the main online meeting/webinar software, could be a little bit overwhelming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2a-what-supported-your-focus-at-the-online-learning-event&#34;&gt;2a. What supported your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Being asked to do something interactive or to respond to questions.&lt;/li&gt;
+&lt;li&gt;For a person who had been teaching an online learning event beforehand, they felt that being a little nervous helped to sharpen their focus (I completely agree!).&lt;/li&gt;
+&lt;li&gt;Including a personal story or experience can help to humanise an online presentation and bring people back into the room.&lt;/li&gt;
+&lt;li&gt;Team teaching can help to support the presenter&amp;rsquo;s focus and to ensure that questions typed into the chat are addressed promptly.&lt;/li&gt;
+&lt;li&gt;Being able to see attendees&amp;rsquo; webcam video can help when you are presenting. However, as an attendee you might not always want to share your webcam video. Sometimes there can be a mismatch in expectations or perspectives between the presenter and the attendees or participants.&lt;/li&gt;
+&lt;li&gt;Collaborating in real-time on a document with people who were equally interested/focused on a project-related goal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2b-was-there-anything-that-disrupted-your-focus-at-the-online-learning-event&#34;&gt;2b. Was there anything that disrupted your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lack of closed captions being available.&lt;/li&gt;
+&lt;li&gt;No opportunity to ask questions.&lt;/li&gt;
+&lt;li&gt;Internet breaking up at the presenter&amp;rsquo;s end.&lt;/li&gt;
+&lt;li&gt;Mics left on so you get background noise from attendees&amp;rsquo; environments.&lt;/li&gt;
+&lt;li&gt;Feeling alone at the event, like I am the only person there.&lt;/li&gt;
+&lt;li&gt;Those in shared office spaces could find their environment distracting and/or worry about background sound during an online call/session/event.&lt;/li&gt;
+&lt;li&gt;Some commentary on verbal ticks and overuse of certain terms such, as &amp;lsquo;so&amp;rsquo;*, &amp;rsquo;like&amp;rsquo;, &amp;lsquo;you know&amp;rsquo;, &amp;rsquo;em/um&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*I am so guilty of too many &amp;lsquo;so&amp;rsquo;s&amp;rsquo;, something I try desperately to edit out in my own video tutorials and vlog entries!&lt;/p&gt;
+&lt;h4 id=&#34;3-think-of-a-positive-experience-at-an-online-event-what-helped-you-to-feel-engaged&#34;&gt;3. Think of a positive experience at an online event. What helped you to feel engaged?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Someone recounted that they had attended a conference where alpacas (as in the animals) had joined during the opening session.&lt;/li&gt;
+&lt;li&gt;Using people&amp;rsquo;s names to &amp;ldquo;connect with people over the abyss&amp;rdquo; (I loved this turn of phrase).&lt;/li&gt;
+&lt;li&gt;A person noted that being asked to manage the chat for an event, had provided them with insight into the way that attendees were connecting with each other. Although while they were engaged in that they could not focus with the speaker&amp;rsquo;s content.&lt;/li&gt;
+&lt;li&gt;Several people spoke to the importance of receiving an agenda. Especially knowing the agenda beforehand and when the breaks would take place.&lt;/li&gt;
+&lt;li&gt;Knowing or hoping that there would be a follow-up email including any supporting materials and things that might have been missed.&lt;/li&gt;
+&lt;li&gt;Someone mentioned an event where the keynote panellist presented while outdoors. They said that this provided a stronger emotional engagement [comment: very interesting approach, a bit like a political speech or rally].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-what-helped-you-to-feel-included-at-the-event&#34;&gt;4. What helped you to feel included at the event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to like or react to comments. Some noted hesitancy with use of emojis to begin with, but now it is an expectation and an important part of acknowledging the value of someone else&amp;rsquo;s comment. A chat reaction is like the type of non-verbal cues that build connection in the real world; a nod, a thumbs up, clapping, a shake of the head, a shared glance.&lt;/li&gt;
+&lt;li&gt;Someone using your name when you have made a comment in the chat. A couple of folks agreed that this was important.&lt;/li&gt;
+&lt;li&gt;A best practice tip when running training sessions was to try to welcome everyone by name as they came in. Although this can be challenging in large sessions.&lt;/li&gt;
+&lt;li&gt;Having chat questions and comments included and acknowledged by the presenters.&lt;/li&gt;
+&lt;li&gt;Being able to specify gendered or non-gendered pronouns and preferred name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5-what-excludes-you-or-makes-you-feel-excluded-during-an-online-event&#34;&gt;5. What excludes you or makes you feel excluded during an online event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenters speaking too fast.&lt;/li&gt;
+&lt;li&gt;Not allowing time for questions or providing space where the audience can think through what has been said.&lt;/li&gt;
+&lt;li&gt;Events where questions in the chat are not followed-up on and are just left floating.&lt;/li&gt;
+&lt;li&gt;Even in an online meeting space there can be a sort of feeling of an in-crowd where it can feel exclusive. Something to avoid is having a side conversation with a colleague while attendees are arriving and instead keep it more neutral and welcoming. Even if your colleague wants to chat, encourage them to wrap it up.&lt;/li&gt;
+&lt;li&gt;Folks noted events where the chat is disabled, so there was no option to engage other than when invited to ask questions at the end. This felt quite disengaging.&lt;/li&gt;
+&lt;li&gt;Not being able to see the speaker. So, no picture-in-picture option for the speaker&amp;rsquo;s camera with only the slides shown on screen.&lt;/li&gt;
+&lt;li&gt;There can be elements in the user interface for webinar tools that can be very distracting. For example, animated GIFs and animated UI elements that serve no functional purposes.&lt;/li&gt;
+&lt;li&gt;Heeding the audience when they cite audio-visual problems and immediately seeking to correct the issue/s. Having a critical &lt;em&gt;friend&lt;/em&gt; or co-teacher who can verify and flag any sound/video issues.&lt;/li&gt;
+&lt;li&gt;Speed of speaker&amp;rsquo;s talking can make it difficult for attendees to follow. Especially in situations where bandwidth is low (so synchronisation between audio and video may not be great) and captions are limited. This can be challenging to interpret and tiring for those who rely on captions for the key information.&lt;/li&gt;
+&lt;li&gt;Too many slides with too much detail or content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;personal-introspective&#34;&gt;Personal Introspective&lt;/h3&gt;
+&lt;h4 id=&#34;part-1-human-factors&#34;&gt;Part 1: Human Factors&lt;/h4&gt;
+&lt;p&gt;What should event organisers or teachers do to help people feel included?
+I have paraphrased the answers below and added some commentary. You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be friendly, approachable, be human.&lt;/li&gt;
+&lt;li&gt;Ask if attendees have any accessibility requirements. Provide pre-event details about how the event will run&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Do not say &amp;lsquo;we don&amp;rsquo;t have much time today&amp;rsquo;. This can be a stressor for attendees&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Allow time for any technical issues.&lt;/li&gt;
+&lt;li&gt;Make the session relevant to the group whom you are meeting with, so that the experience does not feel generic.&lt;/li&gt;
+&lt;li&gt;Greet and welcome people who attend. Remember to smile!&lt;/li&gt;
+&lt;li&gt;Provide opportunities for attendees to do something creative together (e.g., doodling)&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Let attendees know how they should engage with the session. Provide an agenda as well beforehand.&lt;/li&gt;
+&lt;li&gt;Ask about what tech folks are planning to use beforehand to support forward planning (e.g., audio, video, 4g, Wi-Fi).&lt;/li&gt;
+&lt;li&gt;Respect the decision of attendees to keep their webcam turned off.&lt;/li&gt;
+&lt;li&gt;Provide an icebreaker or warm-up activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h4 id=&#34;part-2-technology-factors&#34;&gt;Part 2: Technology Factors&lt;/h4&gt;
+&lt;p&gt;What accessibility features or tools should be in-place during an event to help people feel included?
+You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Closed captions.&lt;/li&gt;
+&lt;li&gt;British Sign Language (BSL) interpreter&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Sending slides in advance and/or sending them afterwards.&lt;/li&gt;
+&lt;li&gt;Being told if you will receive the slides after the event.&lt;/li&gt;
+&lt;li&gt;Providing support for presenters prior to the event&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Someone to help manage contributions in the chat if the speaker is mainly engaged with the live audio contributions.&lt;/li&gt;
+&lt;li&gt;Provide different ways for people to answer questions and interact during the meeting/session/event.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h3 id=&#34;results-and-summary&#34;&gt;Results and Summary&lt;/h3&gt;
+&lt;h3 id=&#34;things-that-help&#34;&gt;Things that help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Entries added in the chat pane are included by the presenter and acknowledged.&lt;/li&gt;
+&lt;li&gt;Open questions allowing engagement.&lt;/li&gt;
+&lt;li&gt;An agenda is sent in advance of the session.&lt;/li&gt;
+&lt;li&gt;Emojis and reactions tools.&lt;/li&gt;
+&lt;li&gt;Webcams on and off - have clear prompts and expectations for when webcams should be turned on.&lt;/li&gt;
+&lt;li&gt;Having moderators to help manage the chat.&lt;/li&gt;
+&lt;li&gt;Being able to vote-up, respond or react to other folks’ comments in the chat.&lt;/li&gt;
+&lt;li&gt;Being able to include pronouns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;things-that-do-not-help&#34;&gt;Things that do not help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Too many slides with too much detail.&lt;/li&gt;
+&lt;li&gt;Presenter speaking too fast.&lt;/li&gt;
+&lt;li&gt;Questions in the chat pane that are not followed up.&lt;/li&gt;
+&lt;li&gt;No option for written chat.&lt;/li&gt;
+&lt;li&gt;Animated GIFs which run in the background with the user interface or in the chat and do not cease looping.&lt;/li&gt;
+&lt;li&gt;Distracting sounds such as typing in the background and noisy offices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;meta-level&#34;&gt;Meta Level&lt;/h2&gt;
+&lt;p&gt;This section is about reflecting on how things went from my perspective as the presenter and discussion facilitator.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-myself&#34;&gt;How I positioned myself&lt;/h3&gt;
+&lt;p&gt;From the start, I wanted to be clear that I did not have all the answers and that I was the discussion facilitator. I introduced my role within the space and Laura Hutton&amp;rsquo;s (Jisc) who was helping to oversee the chat and take notes for the final summary slide. Laura and I debriefed beforehand to ensure that we were both clear on how the session would work.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-the-format-of-the-space-itself&#34;&gt;How I positioned the format of the space itself&lt;/h3&gt;
+&lt;p&gt;I created a virtual version of the &lt;em&gt;Long Table,&lt;/em&gt; which was devised by performance artist, Lois Weaver (2013). I wanted my imaginary room to include everyone and provide ways for attendees to be creative.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;661&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How I verbally described my imaginary room:&lt;/strong&gt;
+A long table with a paper tablecloth is shown in the centre of the room. There are pens and two microphones on the table. There are four chairs on either side of the table. The table is surrounded by chairs in an amphitheatre format, half-circle format. There is a video camera and a British Sign Language interpreter in the corner of the room with a live feed to a protector in the room. A table of drinks and refreshments are in the corner of the room. If folks cannot come to the table, then a microphone is passed to them.
+When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at the table. When people wrote in the chat, they were writing on the tablecloth. Changing the feeling of &amp;lsquo;being&amp;rsquo; in a space, through use of furniture, technology, or projection, and rules of engagement has long been a preoccupation of mine and virtual spaces are no different. As I noted in the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/05/29/a-reflection-on-the-dl-tel-fireside-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fireside chat post&lt;/a&gt;, Dave White&amp;rsquo;s blog post (White, 2021) was the inspiration for my use of imaginary floor plans which have become a staple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;things-that-i-did-to-help-make-this-session-feel-inclusive&#34;&gt;Things that I did to help make this session feel inclusive&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I spent some time summarising the accessibility and response features that are available in Zoom at the beginning.&lt;/li&gt;
+&lt;li&gt;I provided a link to the Google Slides featuring all the questions (props to Miranda Melcher for this idea; Melcher, 2021).&lt;/li&gt;
+&lt;li&gt;I provided clear guidance for how to engage during the session and provided more than one mode for answering questions (verbally by putting hand-up, via chat - this also applied during the use of polls).&lt;/li&gt;
+&lt;li&gt;Designed the slides for accessibility with minimal and concise content. Using simple clear fonts and no white backgrounds on slides. I also used simple graphics to reinforce concepts.&lt;/li&gt;
+&lt;li&gt;I provided a warm-up question to provide folks with a trial of engagement.&lt;/li&gt;
+&lt;li&gt;I read out the content from each of the slides to the audience and verbally described the images on slides.&lt;/li&gt;
+&lt;li&gt;Reading the chat messages out by paraphrasing and acknowledging the names of the authors. Acknowledging a name pronunciation mistake.&lt;/li&gt;
+&lt;li&gt;Providing social interaction (chat and verbal), then encouraged use of the polls for more personal introspection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ways-that-jisc-supported-this-session&#34;&gt;Ways that Jisc supported this session&lt;/h3&gt;
+&lt;p&gt;Jisc&amp;rsquo;s pre-event speaker briefing document was excellent. Providing clear expectations, an overview of the technology, and recommendations for optimising your presentation setting (e.g., lighting, sound, optimising your internet connection etc.). I was asked to join the session half an hour early and was greeted by a very helpful session facilitator (thank you George!) who ensured that the technology was working as it should and provided me with host permissions on Zoom. As mentioned, Laura Hutton from Jisc was also on-hand during the session, which was great and is essential in case of any loss of connectivity. This is yet another reason why sharing slides either via a link (e.g., Zoom) or via a files area and then posting to the chat (e.g., MS Teams) is a good idea.&lt;/p&gt;
+&lt;h3 id=&#34;things-that-i-would-do-differently-next-time&#34;&gt;Things that I would do differently next time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve the wording of the first question slide. As I needed to clarify the question in the chat.&lt;/li&gt;
+&lt;li&gt;Show the question slide to ask the question and then switch to the webcam view to support better discussion. Therefore, perhaps one question less to allow for that as it would take more time to switch. Although this is a function for the Wishlist as switching between sharing to webcam mosaic view is never as smooth as I would like.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wishlist webinar function&lt;/strong&gt; - a keyboard shortcut to switch between screensharing the thing that you last shared and the webcam-based mosaic view. I want to be able to ask the question and then prioritise the webcam display without stopping sharing completely. When you stop sharing and re-share over and over per question it leads to a delay when you are multitasking.&lt;/p&gt;
+&lt;h3 id=&#34;considerations-for-teaching&#34;&gt;Considerations for teaching&lt;/h3&gt;
+&lt;p&gt;There are so many takeaways here. I think the big one for me is not feeling rushed when teaching in an online format by designing my content accordingly. I did not feel rushed in this session, but it is easy to misjudge the pace and timing. Therefore, having a practice is always a good idea. I will certainly consider the speed of my verbal delivery and try to work on minimising my verbal tick of starting sentences with the word &amp;lsquo;so&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;One more point is that I have found myself wondering if there will be greater expectations from students in terms of technology use when we return to teaching in-person. For example, the chat and inclusive nature of the chat were mentioned a lot. For people who find it hard to formulate their thoughts and/or figure out where to come into a conversation chat has been a transformative function allowing them to express themselves. There are also occasions where students or attendees may feel embarrassed to ask a question verbally. So how can we take the things that work well in online spaces and allow them to augment our in-person classrooms? Providing multimodal means to respond may need to become as much a part of our in-person practice as it has with online teaching practice; solutions to this could be analogue or digital.&lt;/p&gt;
+&lt;h2 id=&#34;bonus-content&#34;&gt;Bonus content&lt;/h2&gt;
+&lt;p&gt;In the process of researching content for this post I came across this brilliant video about BSL for popular technology terms. I love the ways that technology words and concepts have been translated into signs. I particularly loved &amp;lsquo;Internet&amp;rsquo; and &amp;lsquo;Google&amp;rsquo;.&lt;/p&gt;
+&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/AqhZUXXlY6s&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Eventbrite (2019) ‘&lt;a href=&#34;https://www.eventbrite.co.uk/blog/formats-to-refresh-your-conference-ds00/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20 Interactive Conference Ideas and Formats&lt;/a&gt;’, &lt;em&gt;EventBrite Blog&lt;/em&gt;, 23 June (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;Melcher, M. (2021) &lt;em&gt;CPD Webinar: What students actually want from online learning: results from a university-wide study of student digital accessibility needs&lt;/em&gt; [Google doc]. Available at: &lt;a title=&#34;Link to the Google doc used for M. Melcher&#39;s presentation&#34; href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34;&gt;&lt;a href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&lt;/a&gt;&lt;/a&gt; (Accessed: 31 May 2021).&lt;/p&gt;
+&lt;p&gt;Weaver, L. (2013) ‘&lt;a href=&#34;https://www.thisisliveart.co.uk/projects/long-table-on-feminism-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long Table on Feminism Documentation&lt;/a&gt;’,  &lt;i&gt;LADA Live Art Development Agency&lt;/i&gt; (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;White, D. (2021) ‘&lt;a href=&#34;http://daveowhite.com/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial collaboration: how to escape the webcam&lt;/a&gt;’, &lt;i&gt;David White&lt;/i&gt;, 1 February (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; this should be done prior to a meeting/session/event. During the meeting/session/event start by providing an overview of the general accessibility features of the tool that you are using.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This is such a brilliant observation as we all know that online events need to be shorter due to screen-time. However, we need to design and create content for the medium rather than trying to cram too much in - this is my key piece of learning from this event. I have been guilty of this on occasion, and I am going to work on designing my sessions to feel content-rich without coming across as time-poor.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;This was something that I thought about doing during this session but decided against it as I try to stick to a rule of two when it comes to using technology in sessions. So, when you have a webinar/online meeting tool you are already using one piece of technology, during Jisc Connect More this was Zoom. My second technology was the polling software, Poll Everywhere, as I wanted the audience to think about their answers individually and then vote up others&amp;rsquo; answers as well. This is easier to achieve in MS Teams with the chat reaction buttons, but not possible in the Zoom chat and polling tools that we were using that day. I was also providing access to my slides on Google slides which could be taking up another browser tab or window if folks chose to have that open. I am not counting that as an extra, but it is always worth trying to mentally picture the context and content of your attendees&amp;rsquo; screens when you are designing an online session.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;This was done very well at the &lt;a href=&#34;https://www.meetup.com/London-Accessibility-Meetup/events/278102089/&#34;&gt;Accessibility London event for Global Accessibility Awareness Day 2021&lt;/a&gt;, here is another example of a &lt;a href=&#34;https://youtu.be/1-IJzpTJYMU&#34;&gt;bilingual design webinar&lt;/a&gt; where two languages were signed.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;I think that that the team at Jisc did a fantastic job of this and it is something that I have commented in my reflection.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Striving for accessibility - Eval pt 1</title>
+      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
+&lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
+&lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
+&lt;h3 id=&#34;keystone-texts&#34;&gt;Keystone texts&lt;/h3&gt;
+&lt;p&gt;While engaging in this in-depth investigation into the accessibility, I found myself referring to the following keystone texts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accessible Rich Internet Applications (WAI-ARIA) Roles Model (n.d.)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paciellogroup.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Paciello group&amp;rsquo;s blog&lt;/a&gt; - UX accessibility specialists an amazing resource&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network Accessibility Guides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nngroup.com/articles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nielsen Norman Group blog&lt;/a&gt; - a frequent go-to of mine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I feel like I have only scratched the surface with the WAI-ARIA roles, but based on testing I feel that the site is accessible as I could get it within the allotted time. In the end I found a blog post on the subject by a rather brilliant developer, Aaron Krauss (2016) who did a great job of how to practically use certain ARIA labels and roles. What I did find is that there is quite a lot of redundancy in the code, but you need to have it there as the screenreader doesn&amp;rsquo;t necessarily pick up the semantics in the page construction as you might intend. Here is a video of my screenreader testing in action with tab key only - tabindex (Mozilla Developer Network, 2017)&lt;/p&gt;
+&lt;iframe style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=0&amp;amp;height=0&amp;amp;videoId=6936&amp;amp;quality=hd&amp;amp;captions=n&amp;amp;chapterId=0&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;what-the-font&#34;&gt;What the font?&lt;/h3&gt;
+&lt;p&gt;I conducted some reading (Nielsen, 2002; Martin, 2009; Franz, 2014; ) around legible fonts and font sizes and optimal line height. I have tried my best to work with the best practices, although that does get tricky with the mobile screen size. However, the attention that I have paid to optimising the CSS stylesheet for plain readers should help those who use accessibility features on mobile devices. &lt;strong&gt;Added a fix to the superscript&lt;/strong&gt; I found a very helpful snippet for fixing line height for superscript (used for references) and subscript. Thank you to the -ever helpful- CSS Tricks site (Coyier, 2009a). &lt;strong&gt;Contrast&lt;/strong&gt; As much as I loved the white headers along the timeline the contrast was not sufficient. The colour scheme is themed around blues and purples and unfortunately white on blue doesn&amp;rsquo;t comply with WCAG 2.0 unless the blue shade is very dark or the white font is very large (Snook, 2015; WAVE, n.d.).&lt;/p&gt;
+&lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
+&lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
+&lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
+&lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
+&lt;p&gt;I tried my best to standardise all the units in the CSS although if I were to do it all again with hindsight I think that I might design my grid to work with ems or rems (once they are widely compatible or older browsers fall out of use). I&amp;rsquo;m sure that I have missed things in spite of several thorough read-throughs. It all validated okay. &lt;strong&gt;CSS code block structure:&lt;/strong&gt; e.g. div class or id - this resembles the layout of a div .div { display: block; position: relative; width: 90% height: 60% color: #000; margin: 2% auto 2% auto padding: 2% 4%; (shortenings used where possible) } e.g. typography class or id - this resembles the layout h2 { font-family: &amp;ldquo;Helvetica Neue&amp;rdquo;, Helvetica, Arial, sans-serif; text-align: center; font-size: 1.5em; line-height: 1.25; font-weight: 300; } In the HTML where white-space pre-line formatting was needed for the Goals and the references sections, I included comments to help indicate why the formatting was different in the markup. Also regarding the CSS as I was going through it, to weed it a bit, I asked myself a series of questions to help determine which units to use and such. I have included these below.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Is it text? = ems&lt;/li&gt;
+&lt;li&gt;If it moves it is em or %. If it doesn&amp;rsquo;t or cannot move it is pixels&lt;/li&gt;
+&lt;li&gt;Is it in a column in the grid - then margins and padding are percentages (unless there is a very good reason for them not to be)&lt;/li&gt;
+&lt;li&gt;Is it in the grid - then margins and padding are percentages&lt;/li&gt;
+&lt;li&gt;Is it used in the html? No, then get rid of it Could it be consolidated in any way? Does it share the same values as another class and/or id?&lt;fn&gt;I would have liked to do more on this, but I ran out of time. Did my best to do it as I went along.&lt;/fn&gt;&lt;/li&gt;
+&lt;li&gt;Does it need to be a negative value (particularly in the media queries)? Then it is in ems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When it is something that needs to have set dimensions such as a button, I am using pixels.&lt;/li&gt;
+&lt;li&gt;For text I am using ems to ensure compatibility with older browsers&lt;/li&gt;
+&lt;li&gt;For table related items and blocks which reside in divs I have used percentages.&lt;/li&gt;
+&lt;li&gt;Used hexadecimal shortenings when it made sense to do so and it did not change the hue of the colour (three digits rather than the standard 6). I prefer digits rather than word descriptions, due to colour precision.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;media-queries&#34;&gt;Media queries&lt;/h3&gt;
+&lt;p&gt;Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp;amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016b, November 17). CSS values and units. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessibility and responsive bits</title>
+      <link>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I developed and added the patient story.&lt;/strong&gt; This was based on a characteristics list which I worked through rather vigorously on the afternoon of the 25th. This is still in handwritten form, so I will link to it as a google doc later on. I have included some key references for that process below. I want to highlight the National Joint Registry (2016) data, which was particularly helpful during the process of defining the patient story. Also the specific images that I used will be cited on the portfolio site (including cc0 works; royalty-free works) as I feel it is always very important to include the provenance of images in any context, but especially when engaging in a thought process based on a fictional patient/nurse interaction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I added images to support the patient story.&lt;/strong&gt; These images were sourced from pixabay and one of my all-time faves, Creative Commons search as a means to filter Flickr images by license (&lt;a href=&#34;http://search.creativecommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search.creativecommons.org&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I recreated the images that I found for the patient story as drawings in Adobe Illustrator.&lt;/strong&gt; I wanted the images in the timeline to be small (100px x 100px); this is a limited amount of &amp;lsquo;bandwidth&amp;rsquo; to communicate a visual concept. For this reason I decided to use Adobe Illustrator to trace the images and then re-paint them, so that I could accentuate certain aspects through the use of selective colour. This worked well and I did investigate whether these images could be included as svgs, but the visual information was too complex as they were based on photographic materials. As a result I stuck with .png format as the final output. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg version of image - less visual information&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu3193635436544001950.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu16391398717144244650.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
+               width=&#34;607&#34;
+               height=&#34;563&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+] .svg version of a timeline image - quite a bit of artifacting (tech-speak for mess) in the image render and it looks too sketchy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screenshot of the png version image&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu15444704337815661328.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu16685531038401827356.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
+               width=&#34;693&#34;
+               height=&#34;584&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+.png version of the same image in Adobe Illustrator - more of the visual information from the original photograph is retained. This version has the right level of abstraction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;All of the images were optimised using &lt;a href=&#34;https://kraken.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kracken.io&lt;/a&gt;.&lt;/strong&gt; Honestly, I absolutely love this tool and will be using this from now on for all my images. Their algorithm somehow trims off the excess while keeping the core visual information.&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Accessibility.&lt;/strong&gt; I ran an accessibility analysis on the site using the WAVE Web Accessibility Tool (&lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;). It is pretty good, I still have a few aria, alt and title tags to include here or there but I have made progress in this area.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/08/lots-of-changes-to-this-version-of-the-css/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this development post&lt;/a&gt;, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I ran the Google mobile accessibility test on the site - It passed!&lt;/strong&gt; Here is the proof: &lt;a href=&#34;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&lt;/a&gt; There is still a lot of content to add, but it is great to know that I am on the right track.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;BBC (2013, January 16). Going paperless “would save NHS billions.” BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-21033984&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-21033984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC (2016, September 7). NHS: Health apps to inform patient records. BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-37290126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-37290126&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Booth, R. (2016, December 13). The doctor on your Xbox? The NHS needs more digital ambition. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS EN ISO 13485:2016 Medical devices. Quality management systems. Requirements for regulatory purposes. (2016). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS ISO 13606-2:2008 Health informatics. Electronic health record communication. Archetype interchange specification. (2008). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Choices, N. (2016, November 1). Health and fitness trackers. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dolatabadi, E., Babak, T., &amp;amp; Alex, M. (2014). Vision-based approach for long-term mobility monitoring: Single case study following total hip replacement. Journal of Rehabilitation Research and Development, 51(7), 1165–76.&lt;/p&gt;
+&lt;p&gt;Farmer, A. Wearables sector grows as smartwatches increase in popularity. Retrieved January 2, 2017, from &lt;a href=&#34;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heartfield, R., Loukas, G., &amp;amp; Gan, D. (2016). You are probably not the weakest link: Towards practical prediction of susceptibility to semantic social engineering attacks. IEEE Access, 4, 6910–6928. doi:10.1109/access.2016.2616285&lt;/p&gt;
+&lt;p&gt;Institute for Quality and Efficiency in Health Care (2014). What can help relieve anxiety before surgery? - PubMed health - national library of medicine - PubMed health. Retrieved from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Johansson Stark, Å., Charalambous, A., Istomina, N., Salanterä, S., Sigurdardottir, A. K., Sourtzi, P., … Bachrach-Lindström, M. (2016). The quality of recovery on discharge from hospital, a comparison between patients undergoing hip and knee replacement - a European study. Journal of Clinical Nursing, 25(17-18), 2489–2501. doi:10.1111/jocn.13278&lt;/p&gt;
+&lt;p&gt;Nasr, N., &amp;amp; Enderby, P. (2014). Redefinition of life experience following total hip replacement: Analysis of narrative as performance. International Journal of Orthopaedic and Trauma Nursing, 18(2), 89–98. doi:10.1016/j.ijotn.2013.07.005&lt;/p&gt;
+&lt;p&gt;National Information Board. (2015, March 4). National information board’s workstreams. Retrieved January 2, 2017, from &lt;a href=&#34;https://www.gov.uk/government/publications/national-information-boards-workstreams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gov.uk/government/publications/national-information-boards-workstreams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;National Joint Registry. (2016). 13th Annual Report 2016 National Joint Registry for England, Wales, Northern Ireland and the Isle of Man Surgical data to 31 December 2015. Retrieved from &lt;a href=&#34;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NHS Choices. (2015, November 3). Health Apps library - NHS choices. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/pages/healthappslibrary.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/pages/healthappslibrary.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Press Association (2016, September 7). NHS to have one website for appointments, prescriptions and advice. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pulkkinen, M., Junttila, K., &amp;amp; Lindwall, L. (2015). The perioperative dialogue - a model of caring for the patient undergoing a hip or a knee replacement surgery under spinal anaesthesia. Scandinavian Journal of Caring Sciences, 30(1), 145–153. doi:10.1111/scs.12233&lt;/p&gt;
+&lt;p&gt;Rudolfsson, G. (2013). Being altered by the unexpected: Understanding the perioperative patient’s experience: A case study. International Journal of Nursing Practice, 20(4), 433–437. doi:10.1111/ijn.12195&lt;/p&gt;
+&lt;p&gt;Wilson, D. (2016). An overview of the application of Wearable technology to nursing practice. Nursing Forum. doi:10.1111/nuf.12177&lt;/p&gt;
+&lt;p&gt;Wilson, C. J., Mitchelson, A. J., Tzeng, T. H., El-Othmani, M. M., Saleh, J., Vasdev, S., … Saleh, K. J. (2015). Caring for the surgically anxious patient: A review of the interventions and a guide to optimizing surgical outcomes. The American Journal of Surgery, 212(1), 151–159. doi:10.1016/j.amjsurg.2015.03.023&lt;/p&gt;
+&lt;p&gt;Image source: &amp;ldquo;&lt;a href=&#34;https://pixabay.com/en/calendar-days-day-of-the-week-487695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar days of the week&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://pixabay.com/en/users/422737-422737/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;422737&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 1.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building the grid</title>
+      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <description>\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from &lt;a href=&#34;http://caniuse.com/#search=calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=calc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gamache, D. (2016) A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Imling, M. (2016). One% CSS Grid. Retrieved November 25, 2016, from &lt;a href=&#34;http://onepcssgrid.mattimling.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://onepcssgrid.mattimling.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rand-Hendriksen, M. (2015, July 16). Making sense of the CSS box model. Retrieved November 25, 2016, from &lt;a href=&#34;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Model Canvas and more tweaks</title>
+      <link>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;lean business canvas V1&#34; srcset=&#34;
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp 400w,
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu6099917122085690639.webp 760w,
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu8301082217797738470.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; &lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; title=&#34;PDF copy of Business Canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the PDF version of the Business Canvas&lt;/a&gt;&lt;fn&gt; Business Model Canvas (&lt;a href=&#34;http://www.businessmodelcanvas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.businessmodelcanvas.com&lt;/a&gt;), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;).&lt;/fn&gt; A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I have completed an initial version of the Lean Business Model Canvas, as mentioned &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/23/portfolio-site-concept-and-other-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in my earlier post&lt;/a&gt; referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation (the template is available at this URL: &lt;a href=&#34;http://www.uoguelph.ca/cbase/resource-library/wp-content/uploads/2014/05/Lean-Business-Model-Canvas-template.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.uoguelph.ca/cbase/resource-library/wp-content/uploads/2014/05/Lean-Business-Model-Canvas-template.pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;I have asked my friend Jason to take a look at my code for the arrow button navigation, so I will work on some more tweaks to that tomorrow.&lt;/li&gt;
+&lt;li&gt;Due to extremely limited time this week as a result of some unanticipated work commitments, I haven&amp;rsquo;t got as much development work in as I would like. So I have focused on a few fixes on this site as they were smaller thinks that I could achieve in the time that I had.
+&lt;ul&gt;
+&lt;li&gt;I removed a superfluous hyperlink in the footer.php - it was a &lt;em&gt;copy and paste&lt;/em&gt; mistake.&lt;/li&gt;
+&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; (see &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/31/development-prototypes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last post&lt;/a&gt;) as it felt like it might offer too many options.&lt;/li&gt;
+&lt;li&gt;I decided to install the &lt;a href=&#34;https://en-gb.wordpress.org/plugins/wp-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WP Accessibility Plugin&lt;/a&gt; - I have worked with it before and found it to be one of the best plugins in this area. It offers user-facing tools and some javascript additions to fix common issues in WordPress. Even though I have an accessibility tagged theme, there are additional tweaks that can be completed such as removing title attributes in areas where they aren&amp;rsquo;t needed and enforcing alt tags. It also allows you to add an active link highlight, which I am initially trying out with a contrast tested purple colour (essentially it puts a box around any active element).&lt;/li&gt;
+&lt;li&gt;I worked on a few customisations of the plugin:
+&lt;ul&gt;
+&lt;li&gt;I added it to a sidebar widget instead of the toolbar that is typically used with the plugin. This is mainly due to some issue with the display of the toolbar and also it made sense to present the accessibility options above the background colour options.&lt;/li&gt;
+&lt;li&gt;I customised the font-family and font-size of the text in the accessibility widget.&lt;/li&gt;
+&lt;li&gt;I enabled the high-contrast and font-size (large text) options as part of the WP Accessibility Plugin.&lt;/li&gt;
+&lt;li&gt;I customised aspects of the large text display so that it worked better with the theme, initially some text was too and some was too small. For example, H2 was a too small in comparison to the paragraph text and stylistically and readability-wise it wasn&amp;rsquo;t great.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I also changed the text-transform settings on the widgets header text as I noticed that these were all uppercase. This is not the best for Dyslexic readers according to Gov.uk&amp;rsquo;s recent accessibility posters (&lt;a href=&#34;https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK&lt;/a&gt;). I find this series of posters to be very helpful cheat-sheets for accessible design.
+&lt;ul&gt;
+&lt;li&gt;Related findings:
+&lt;ul&gt;
+&lt;li&gt;Gov.uk Accessible Blog: &lt;a href=&#34;https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dos and don&amp;rsquo;ts on designing for accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gov.uk Government Digital Service: &lt;a href=&#34;https://gds.blog.gov.uk/2012/01/20/user-testing-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;User testing accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gov.uk Advisory: &lt;a href=&#34;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making your service accessible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Also in my travels I found the Web Accessibility Evaluation Tool (WAVE) - this was recommended both by the WP Accessibility Plugin authors in the documentation and on the Gov.uk page above on the &amp;ldquo;making your service accessible&amp;rdquo; page.&lt;/li&gt;
+&lt;li&gt;The report (although it will change as the site is being updated) &lt;a href=&#34;http://wave.webaim.org/report#/http://www.fionamacneill.co.uk/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/report#/http://www.fionamacneill.co.uk/blog/&lt;/a&gt; WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: &lt;a href=&#34;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&lt;/a&gt;). So I need to ensure that I don&amp;rsquo;t regard these tests as exhaustive moving forward.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I feel that I have learned quite a bit about accessibility through my work on this journal site, as well as honing my existing skills. So I will take these ideas and techniques forward with me as I continue to work on my portfolio project.&lt;/p&gt;
+&lt;h3 id=&#34;more-to-come-on-the-to-do-list&#34;&gt;More to come on the to-do list:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;concept document&lt;/li&gt;
+&lt;li&gt;Task scenarios&lt;/li&gt;
+&lt;li&gt;Business Model Canvas&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups&lt;/li&gt;
+&lt;li&gt;\[Tentative plan\] create a UML2 diagram&lt;/li&gt;
+&lt;li&gt;A paper prototype – the prototype may actually need to be made in a prototyping tool so that Theo and I can discuss it via email. So probably a change of plan on this one.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Cao, J. &amp;amp; Bank, C. (n.d.). &lt;em&gt;The guide to UX design &amp;amp; documentation process.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio site concept and other news</title>
+      <link>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</link>
+      <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
+&lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
+&lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A concept document in a bare bones form aka this journal entry!&lt;/li&gt;
+&lt;li&gt;Task scenarios - &lt;a href=&#34;https://docs.google.com/document/d/1Nxisu8BaAGM3iaJ1r7oZv4b-XAM59ZMapdnNgK0rQzc/edit&#34; title=&#34;a long link to a Google document viewer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this document&lt;/a&gt; is the first version.&lt;/li&gt;
+&lt;li&gt;Business Model Canvas&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; - an artefact template that I found via Cao &amp;amp; Bank&amp;rsquo;s, &lt;em&gt;The Guide to UX Design Process &amp;amp; Documentation&lt;/em&gt; (n.d.). This will be in a forthcoming journal entry.&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups - this will also be in a forthcoming journal entry. Due to time contraints and available information, it is not possible to build thorough characteristics lists for all potential users. I am however, fortunate to have a real stakeholder who can provide feedback on my work and it&amp;rsquo;s hypothetical usefulness. (more on this later on in this entry).&lt;/li&gt;
+&lt;li&gt;\[Tentative plan\] create a UML&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; diagram to ensure that each page and section of the site includes the correct information and functions. I personally find UML diagrams to be very helpful for archictectural planning. It can be a fairly basic model for this project, but I do find that the process of making the models uncovers things that you haven&amp;rsquo;t thought about! I may find that this isn&amp;rsquo;t needed, but I won&amp;rsquo;t know until I start making it.&lt;/li&gt;
+&lt;li&gt;A paper prototype - as I am working with a real stakeholder, I want to show him something quick and easy so that he can visualise the concept and ensure that my representation and approach to the domain is accurate. I think that a paper prototype is the best way to do that, in order to move to the coding phase as quickly as possible.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;concept&#34;&gt;Concept&lt;/h3&gt;
+&lt;p&gt;The wait is over! Here is the concept. The project&amp;rsquo;s working title is &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt;. It is a website structured around a central page, which leads the viewer through a fictional narrative of a patient&amp;rsquo;s experience of anxiety while awaiting a medical operation or procedure. In the narrative the patient will be using an electronic wearable device to track their own vital signs and also for logging their anxiety levels - the influence of this countermeasure will be explored. The narrative is represented through a navigable timeline enriched with the use of graphical, written and statistical information. The underlying project, to use wearable devices to measure patient pre-operative anxiety is attributed to and courtesy of Dr. Theofanis Fotis (School of Health Sciences, University of Brighton), whom I am collaborating with at this time.&lt;/p&gt;
+&lt;h3 id=&#34;scope&#34;&gt;Scope&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;deliver an approachable overview of aresearch project - the proposed research project is to design a user interface for a medical wearable device to measure anxiety;&lt;/li&gt;
+&lt;li&gt;explain the issues that can result from pre-operative stress in patients;&lt;/li&gt;
+&lt;li&gt;provide a point of entry for those with little or no knowledge of the subject as well as explain the potential benefits of the project to experienced medical professionals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will not:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;provide indepth medical information;&lt;/li&gt;
+&lt;li&gt;provide any fully formed solutions or recommendations for implementation of wearable devices in a medical setting;&lt;/li&gt;
+&lt;li&gt;provide advice or suggestions for the production of patient care plans. As a narrative scenario it is exploring a hypothetical scenario in which a wearable device is used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;benefits&#34;&gt;Benefits&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;patient pre-op anxiety infographic&lt;/em&gt; will provide the following benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it will provide a valuable resource for explaining the research project to potential funders and future stakeholders;&lt;/li&gt;
+&lt;li&gt;it will help to raise awareness of the potential issues related to patient pre-operative anxiety;&lt;/li&gt;
+&lt;li&gt;it will highlight potential ways that increased knowledge of a patient&amp;rsquo;s vital signs and self-reported anxiety could improve patient care;&lt;/li&gt;
+&lt;li&gt;it will provide an accompanying contextual information for the proposed future interface design project;&lt;/li&gt;
+&lt;li&gt;it will be a publicity tool, that can be used to explain the project within the academic and medical online communities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;goals&#34;&gt;Goals&lt;/h3&gt;
+&lt;p&gt;The following goals are related to the successful creation of the &lt;em&gt;patient pre-op anxiety infographic:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;provide a valuable portfolio piece, not only in terms of web development, but also as a tool for the research team and collaborators;&lt;/li&gt;
+&lt;li&gt;contribute to the approval and ethics approval of this as a concept for F.MacNeill&amp;rsquo;s final graduating project;&lt;/li&gt;
+&lt;li&gt;stimulate dialogue around the issues and ideas raised by the &lt;em&gt;patient pre-op anxiety infographic;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;encourage potential funders and stakeholders to invest in the project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create an accurate portrayal of a possible patient care scenario.&lt;/li&gt;
+&lt;li&gt;Provide information highlighting the benefits of the proposed project.&lt;/li&gt;
+&lt;li&gt;Pose the project concept as an open question in order to gauge feedback and interest from the medical community and potential funders and/or stakeholders.&lt;/li&gt;
+&lt;li&gt;The user audiences for this are diverse but have one thing in common, they have very limited time to engage with a website of this kind. This website should take no longer than 10-15mins to navigate, the equivalent of a typical coffee/tea break.&lt;/li&gt;
+&lt;li&gt;To be shared via social media between interested parties.&lt;/li&gt;
+&lt;li&gt;To be adaptive and easily viewed and navigated on mobile devices.&lt;/li&gt;
+&lt;li&gt;To be accessible to those on older web browsers (as far as possible).&lt;/li&gt;
+&lt;li&gt;To be accessible to users with disabilities, allowing for personal customisation (as far as possible).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-research-team&#34;&gt;The Research Team&lt;/h3&gt;
+&lt;p&gt;Right now this is just me, however Dr. Fotis has agreed to review the materials and my hope is that if the site meets his approval then we will be able to use it to promote the real project. In the first instance it is a hypothetical project site, but that doesn&amp;rsquo;t mean that you cannot aim high as I have outlined in the objectives above.&lt;/p&gt;
+&lt;h3 id=&#34;audience&#34;&gt;Audience&lt;/h3&gt;
+&lt;p&gt;More detail on this in a future entry. The user groups are: funding review panel members, academic staff at multiple Higher Education Institutions (HEIs), medical professionals.&lt;/p&gt;
+&lt;h3 id=&#34;stakeholders&#34;&gt;Stakeholders&lt;/h3&gt;
+&lt;p&gt;Intially Dr. Fotis is the main stakeholder, however I would take this site forward as evidence to support my final project proposal. In that sense academic staff in the School of Computing are also future stakeholders.&lt;/p&gt;
+&lt;h2 id=&#34;research-of-the-domain-and-existing-websites&#34;&gt;Research of the domain and existing websites&lt;/h2&gt;
+&lt;p&gt;I have been using my &lt;a href=&#34;https://trello.com/b/4a20fYpf/web-development-portfolio-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trello project board&lt;/a&gt; as a place to collect links and resources. On the one hand I have been looking at the specs for potential wearable devices, it is out of scope to suggest an actual solution but I would like to supply some possibilities in terms of device form so that the project is tangible. I have also been reviewing materials that Dr. Fotis provided to help gain domain knowledge of a patient&amp;rsquo;s pre-operative experience. I have listed these sources in my reference list below. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of a sketch book page, including pencil drawing for the patient journey&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu1130946275505023832.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu16595894639492752873.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;537&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ Sketch of patient journey ideas.&lt;/p&gt;
+&lt;h3 id=&#34;existing-websites&#34;&gt;Existing websites&lt;/h3&gt;
+&lt;p&gt;As a general observation medical websites tend to be firmly on the utilitarian end of the scale. This is understandable as information is usually important and needs to be delivered quickly. So it will be important to strike a balance between something eye-catching, which is also substantive. Here is are few examples that I came across and wrote notes about (transferred from my trello board).&lt;/p&gt;
+&lt;h3 id=&#34;notesobservations&#34;&gt;Notes/Observations&lt;/h3&gt;
+&lt;p&gt;This &lt;a href=&#34;http://www.hongkiat.com/blog/timeline-in-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;collection of timeline based websites and infographics is really helpful&lt;/a&gt;. Some of the examples are a bit old and don&amp;rsquo;t work as well in contemporary browsers. This is something to consider. Most of these sites are in a long-form vertical format. This is great and modern, but considering the audio for this site, this obscures some key aspects of the journey. Viewers will be time-pressured and need to see the journey/timeline elements as succinctly as possible. The following sites are closest to what I want to design:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://rodania.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rodania.com&lt;/a&gt;. This example is not very responsive, so that would be something to consider.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://minimalmonkey.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MinalMonkey.com&lt;/a&gt;. This blog is quite nice but the scrolling right function would need to be made much more obvious.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Vertical timeline examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I like the intro page segment on &lt;a href=&#34;http://www.akita.co.uk/computing-history/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Akita history of computing site.&lt;/a&gt;. It isn&amp;rsquo;t keyboard navigable though which is not great in terms of my accessibility goals.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://uk.protectyourbubble.com/iphone-timeline/#iphone-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This example is keyboard navigable&lt;/a&gt; and it aesthetically simple and user-friendly.&lt;/li&gt;
+&lt;li&gt;I quite like &lt;a href=&#34;https://mixpanel.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the simplicity of this one&lt;/a&gt;, it is text heavy, but it gets the message across quickly.&lt;/li&gt;
+&lt;li&gt;I like the use of months on the timeline on &lt;a href=&#34;http://www.czk.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this portfolio site&lt;/a&gt;, although accessibility and control might be an issue here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://webdesignledger.com/40-of-the-best-horizontal-scrolling-websites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A collection of horizontal scrolling sites&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Many of these are quite old or have changed format since the post was written. &lt;strong&gt;I found myself considering a horizontal layout due to the need to display data and the need for it to be readable, however horizontal layouts pose some real accessibility and navigation issues.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.siegemedia.com/creation/best-infographics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recently updated list of infographics, including many interactive examples&lt;/a&gt;. An oldie, but a goodie &lt;a href=&#34;http://www.evolutionoftheweb.com/#/evolution/day&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Evolution of the Web&amp;rdquo; as an example of a horizontal layout&lt;/a&gt; &amp;hellip;and some justification for my concept! &lt;a href=&#34;http://neomam.com/interactive/13reasons/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;13 Reasons Why Your Brain Craves Infographics&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This site uses the &lt;a href=&#34;https://timeline.knightlab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knightlab&amp;rsquo;s Timeline JS tool&lt;/a&gt;, which I have used many times, mostly in WordPress sites. This is &lt;a href=&#34;http://www.centenary.mrc.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a nice medical example&lt;/a&gt;, but I want something a bit more contemporary.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This site has the kind of section feel that I am looking for, although I still wonder how I can visualise anxiety in a vertical layout versus horizontal. [This site]((&lt;a href=&#34;http://www.kocha.com.au/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.kocha.com.au/&lt;/a&gt;) has nice comment mark-up and makes clear use of the &lt;section&gt; element.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;journal-development&#34;&gt;Journal development&lt;/h2&gt;
+&lt;p&gt;A quick run down of learning journal development activities. A full rundown can be found on my github development page, I have added a handy link to to this in the &amp;ldquo;social menu&amp;rdquo; on the right-hand footer of this journal site (circular icon with octo-cat logo).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Created an iframe embed in a widget for my trello board&lt;/strong&gt; so that I can display it in the sidebar. In order to create this I referred to this example on &lt;a href=&#34;http://jsfiddle.net/danlec/hmQJP/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JSFiddle&lt;/a&gt; and &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network docs&lt;/a&gt;. Tomorrow I am attending a &lt;a href=&#34;http://www.meetup.com/WordUp-Brighton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WordPress Meet-up at Barclay&amp;rsquo;s Eagle Lab&lt;/a&gt; in Brighton and as part of the event they will offer user testing. I thought why not add some functionality that I have always wanted to include AND get some tips.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have added the option for visitors to this site to change the colour of the background (behind the text) for accessibility reasons.&lt;/strong&gt; I did this as by creating alternate child-theme style sheet and by installing the &lt;a href=&#34;https://wordpress.org/plugins/wp-user-stylesheet-switcher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WP User Stylesheet Switcher plugin&lt;/a&gt;. This idea is inspired by software like of Adobe Acrobat Pro and GoodReader App (for iPad) which allow you to customise background colours. I referenced &lt;a href=&#34;http://irlen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://irlen.com&lt;/a&gt; for colour-palette inspiration. Visual stress when reading and/or perception of colour contrast are reasons why a user might wish to alter background colours.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hexidecimal colours used for initial function:
+&lt;ul&gt;
+&lt;li&gt;blue 1: #dfeced&lt;/li&gt;
+&lt;li&gt;blue 2: #9ab8fc&lt;/li&gt;
+&lt;li&gt;green 1: #a6f8e3&lt;/li&gt;
+&lt;li&gt;green 2: #aaf2a0&lt;/li&gt;
+&lt;li&gt;yellow 1: #ffff8f&lt;/li&gt;
+&lt;li&gt;yellow 2: #ffde75&lt;/li&gt;
+&lt;li&gt;purple: #bf95df&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ll write about any resulting feedback and actions on this site later. &lt;strong&gt;I added Google Analytics code to my version of the header.php file&lt;/strong&gt;, this was not added to GitHub as it is specific to my version of the child theme. I decided against a plugin as I looked at a couple of options, but I didn&amp;rsquo;t feel that having access to a Google Analytics data on the dashboard of WordPress was that important as compared to the account authorisation that plugins require to run (e.g. &lt;a href=&#34;https://wordpress.org/plugins/google-analytics-dashboard-for-wp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics plugin&lt;/a&gt; that I looked at). I like to keep an eye on web traffic for security and publicity reasons.&lt;/p&gt;
+&lt;h3 id=&#34;coding-practice&#34;&gt;Coding practice&lt;/h3&gt;
+&lt;p&gt;I have a Lynda.com course to wrap-up and I will post the details here when I finish. In the meantime, collectively I have now completed 200 exercises in Code Academy! I didn&amp;rsquo;t do them all since the start of this module, but here is a screenshot of my badge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of badge from Code Academy&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu9492374361594400666.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu1915982765814953062.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
+               width=&#34;286&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Just putting this here for later reference - found on my travels&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-10-commandments-of-user-interface-design&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;10 Commandments of User Interface Design&#34; srcset=&#34;
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp 400w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu1887641144764334058.webp 760w,
+               /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu15126336435686968483.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;457&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      10 Commandments of User Interface Design
+    &lt;/figcaption&gt;&lt;/figure&gt;
+](&lt;a href=&#34;https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.designmantic.com/blog/infographics/the-10-commandments-of-ui-design/&lt;/a&gt;) Courtesy of: &lt;a href=&#34;https://www.designmantic.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Designmantic.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Cao, J. &amp;amp; Bank, C. (n.d.). &lt;em&gt;The guide to UX design &amp;amp; documentation process.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gothelf, J. (2013). &lt;em&gt;Lean UX: Applying Lean Principles to Improve User Experience&lt;/em&gt; (1st ed.). United States: O’Reilly Media, Inc, USA.&lt;/p&gt;
+&lt;p&gt;Prichard, M. J. (2009). Identifying and assessing anxiety in pre-operative patients. _Nursing Standard 23(_51), 25-40. Retrieved from &lt;a href=&#34;https://rcni.com/nursing-standard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rcni.com/nursing-standard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What can help relieve anxiety before surgery? (2014, May 21). In &lt;em&gt;PubMed Health&lt;/em&gt;. Retrieved October 15, 2016, from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Business Model Canvas (&lt;a href=&#34;http://www.businessmodelcanvas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.businessmodelcanvas.com&lt;/a&gt;), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;).&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Unified Modeling Language - more information at wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Unified_Modeling_Language&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Unified_Modeling_Language&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theme testing</title>
+      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
+      <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
+&lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
+&lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight (Automattic, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon (Keijonen, 2016a)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma (Lüken, 2015)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka (Keijonen, 2016b)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen (WordPress.org, 2016a)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen (WordPress.org, 2016b)&lt;/a&gt; (WordPress core theme)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As part of the testing plan I used a several tools, listed at the bottom of this post, to analyse the best themes. Please note, that some themes did not reach the full testing phase due to issues that I would term as &lt;em&gt;deal breakers&lt;/em&gt;; the issues identified were troublesome enough where it was not worth continuing with those themes. I also entered into this testing process with an intention to attain a WCAG 2.0 Level AA (W3C, 2016a) accessibility rating for my journal site. This is largely because accessibility is a budding specialism of mine and I wanted an excuse to delve around in the innards of the newest WordPress themes!&lt;/p&gt;
+&lt;h4 id=&#34;testing-results-andobservations&#34;&gt;Testing results and observations&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;afterlight&lt;/a&gt; I decided not to install this theme. Although &amp;lsquo;afterlight&amp;rsquo; had the accessibility tag, I found on inspection of its specifications that it is based on having a background image throughout each area of its architecture (landing page, pages, posts - all had to have a single background image). Upon previewing this with my content, using the WordPress theme preview tool, I found that this negatively impacted readability. As the purpose of this blog is to engage in reflection, it seems important not to distract from that at the design level.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/search/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chuchadon&lt;/a&gt; This theme has (or rather had) a lot of potential and is coded according to best practice (e.g. accessibility tagging) outlined in the WordPress Accessibility Handbook (WordPress.org, 2014).&lt;/p&gt;
+&lt;p&gt;I realised later on looking at in-code documentation that this theme is based on a starter theme, Underscores (or “_s”). A bare bones CSS starter theme (Underscores, 2016).&lt;/p&gt;
+&lt;p&gt;Unfortunately after venturing as far as creating a child theme, I found issues in the some of the front-page template functionality. I also discovered that the links through to the theme documentation were broken and as a result I decided cease using the theme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-nigma&lt;/a&gt; I do like the clean lines and simplicity of enigma, even in light of the negative points outlined in the slideshow below, it is certainly a worthy candidate. However, the dependence on the burger-style menu (the three lines) although often essential on mobile versions of a site, is less effective when viewed in a conventional web browser. I decided to seek out a theme that offered more versatility for delivery of the navigation menu/s.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;kuorinka&lt;/a&gt; Initially I really liked the simplicity of this theme design and it is very responsive, however in terms of accessibility it has some problems. Namely, it does not support reader view in Firefox 49 or Safari 10 and also was not good in terms of respecting the heading levels for the screen reader. I did not complete the other tests as these two issues were deal breakers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentyfifteen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate in clean and simple. Although as a seasoned WordPress user the annual core template always &lt;em&gt;looks&lt;/em&gt; like the annual core template, even with customisation. Twentyfifteen is quite book-like in its bi-fold layout and this doesn&amp;rsquo;t strike the desired tone. As I tend to be quite verbose in my writing, I think that a theme with better except support is better. Having said that, the core templates can provide excellent bases for creation of child themes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;twentysixteen&lt;/a&gt; A fresh approach to a traditional blog layout with some very nice built-in features. Highlights include the support of the &lt;em&gt;read more&lt;/em&gt; tag for determining the length of post/entry excerpts shown on the front page. I also like the presentation of the author avatar, together with post tags on the left-hand side of each post. This theme has good customisation options and good widget support (the tools that you can place in the aside-style columns in the layout). A solid theme, not the most riveting to look at, but it ticks all of my accessibility boxes!&lt;/p&gt;
+&lt;h5 id=&#34;the-final-two-contenders&#34;&gt;The final two contenders&lt;/h5&gt;
+&lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools section&lt;/a&gt; for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
+&lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacNeill, 2016&lt;/a&gt;) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
+&lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
+\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
+&lt;p&gt;The server was down this weekend so I used this as an excuse to implement some technical tools which will help further down the line. First of all as I mentioned in my last entry I installed MAMP on my development computer. MAMP, stands for Macintosh, Apache, MySQL, PHP (&amp;ldquo;MAMP&amp;rdquo;, 2016) and allows to setup a local copy of WordPress on your computer. I find having access to a local installation to be helpful for two reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I can work on my child theme tweaks without having access to the server and test them out in a controlled environment.&lt;/li&gt;
+&lt;li&gt;I can test out themes and plugins without muddying my installation. Sometimes everything about a plugin can look good and then you install it and there are things are about it that don&amp;rsquo;t work or the coding isn&amp;rsquo;t up to scratch. So again it is good to have a test environment for that.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project. Here is my repository for this site: &lt;a href=&#34;https://github.com/FionaMacNeill/learningjournal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/FionaMacNeill/learningjournal&lt;/a&gt; - it seemed like the ideal opportunity to practice using a version control tool. It has been really useful thus far! &lt;strong&gt;Thinking long and hard about plugin installation is a good idea&amp;hellip;&lt;/strong&gt; I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks&lt;fn&gt;Why not use a footnote to explain what I did! I changed .footnote_plugin_text to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the .footnote_plugin_link, .footnote_plugin_index. Finally I needed to manually change the position of the superscript figures as I wasn&amp;rsquo;t happy with the distance of the figure numbers from the text characters, for this I changed the .footnote_plugin_tooltip_text class&lt;/fn&gt; due to how the footnotes were shown in the twentysixteen theme.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;analysis-tools-used&#34;&gt;&lt;strong&gt;Analysis tools used:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;IDI Web Accessibility checker (AChecker, 2011).&lt;/li&gt;
+&lt;li&gt;Snook colour contrast checker (Snook, 2015).&lt;/li&gt;
+&lt;li&gt;Sim Daltonism colour blindness simulator (Wickline, 2000).&lt;/li&gt;
+&lt;li&gt;Accessibility evaluation toolbar by John Gunderson (Gunderson, 2011).&lt;/li&gt;
+&lt;li&gt;Apple and Firefox text-to-speech tools.&lt;/li&gt;
+&lt;li&gt;Keyboard-only navigation of site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;guidelines-used-and-referred-to&#34;&gt;&lt;strong&gt;Guidelines used and referred to:&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web Content Accessibility Guidelines (WCAG) (W3C, 2016a).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Techniques for WCAG 2.0 (W3C, 2016b).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BBC Future Media Standards and Guidelines (BBC, 2008).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mozilla Developer Network documentation (Mozilla, 2016).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WordPress Accessibility Handbook (WordPress.org, 2014):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifically I found this page very helpful - Questions to ask - &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/&lt;/a&gt; The &amp;lsquo;questions&amp;rsquo; are derived from the four principles of WCAG and they are immensely helpful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;software-and-developer-tools-used&#34;&gt;&lt;strong&gt;Software and developer tools used&lt;/strong&gt;**:**&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;MAMP (appsolute GmbH, 2016).&lt;/li&gt;
+&lt;li&gt;Github - version control and code repository (GitHub, 2016).&lt;/li&gt;
+&lt;li&gt;WebStorm - editor: (JetBrains, 2016).&lt;/li&gt;
+&lt;li&gt;Textwrangler (Bare Bones Software, 2016).&lt;/li&gt;
+&lt;li&gt;Chrome developer tools (Google, 2016).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;AChecker. (2011). IDI web accessibility checker: Web accessibility checker. Retrieved October 7, 2016, from AChecker website, &lt;a href=&#34;http://achecker.ca/checker/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://achecker.ca/checker/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;appsolute GmbH. (2016). MAMP &amp;amp; MAMP PRO. Retrieved October 7, 2016, from MAMP website, &lt;a href=&#34;https://www.mamp.info/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mamp.info/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Automattic. (2015, October 7). Afterlight. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/afterlight/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/afterlight/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bare Bones Software. (2016). Bare bones software. Retrieved October 13, 2016, from &lt;a href=&#34;http://www.barebones.com/products/TextWrangler/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.barebones.com/products/TextWrangler/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC. (2008, June 24). Future media standards &amp;amp; guidelines - accessibility guidelines v2.0. Retrieved October 7, 2016, from BBC website, &lt;a href=&#34;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/guidelines/futuremedia/accessibility/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub. (2016). Build software better, together. Retrieved October 13, 2016, from &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.chrome.com/devtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.chrome.com/devtools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&lt;/a&gt;&lt;/p&gt;
+\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jetbrains.com/webstorm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016a, September 16). Chuchadon. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/chuchadon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/kuorinka/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/e-nigma-2015/&lt;/a&gt;&lt;/p&gt;
+\[Talk\]\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from &lt;a href=&#34;https://en.wikipedia.org/wiki/MAMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/MAMP&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Underscores. (2016). Retrieved October 7, 2016, from Underscores website, &lt;a href=&#34;http://underscores.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://underscores.me/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016a). How to Meet WCAG 2.0. Retrieved October 13, 2016, from W3C Web Accessibility Initiative website, &lt;a href=&#34;https://www.w3.org/WAI/WCAG20/quickref/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/WAI/WCAG20/quickref/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016b). Techniques for WCAG 2.0. Retrieved October 13, 2016, from W3C Working Group website, &lt;a href=&#34;https://www.w3.org/TR/WCAG20-TECHS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/WCAG20-TECHS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wickline, M. (2000). Sim Daltonism for Mac. Retrieved October 13, 2016, from &lt;a href=&#34;https://michelf.ca/projects/mac/sim-daltonism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://michelf.ca/projects/mac/sim-daltonism/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2014, October 11). Accessibility handbook. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://make.wordpress.org/accessibility/handbook/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/handbook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016a, December 6). Twenty Fifteen. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentyfifteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentyfifteen/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WordPress.org. (2016b, December 6). Twenty Sixteen. Retrieved October 7, 2016, from Wordpress.org website, &lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentysixteen/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
+      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
+&lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014). This research is aligned with the SenSe research Cluster at the University of Brighton (secure and dependable software systems).&lt;/p&gt;
+&lt;h2 id=&#34;about-sense&#34;&gt;About SenSe&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.brighton.ac.uk/research/our-research/life-health-and-physical-sciences/research-groups/computing/index.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The SenSe cluster&lt;/a&gt; aims to develop novel and pragmatic ways to assure the dependability of software systems with particular emphasis on security, trust and risk. We focus on theories from model-based engineering and analysis-based assurance to develop methods, models, practices and tools that promote the provision of security and dependability in complex interconnected and heterogeneous systems and information infrastructures that underpin our economy and society.&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-recommendations&#34;&gt;Preliminary recommendations:&lt;/h2&gt;
+&lt;p&gt;UX Questions to Ask in Relation to IoT Apps&lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;#&lt;/td&gt;&lt;td&gt;Category&lt;/td&gt;&lt;td&gt;Questions to ask&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;strong&gt;System dialogues and Semantics&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are system dialogues consistent?&lt;ul&gt;&lt;li&gt;For data permissions&lt;/li&gt;&lt;li&gt;for use tips&lt;/li&gt;&lt;li&gt;for motivational messages&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are all the settings housed together? Are items like the privacy policy and standards adherence available from this area? Can the Terms of Service (or a shortened format of ToSs) be accessed from within the app? Can connected apps and devices be reviewed/managed from within the app? Can support documentation be accessed from within the app?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Checkups for Setup/Workflow/Privacy &lt;/strong&gt;An essential part of onboarding. Also a method for supporting trust and helping users to invest time in learning the higher-level functions of an app, which promotes realisation of app benefits and long-term commitment to use of the app (Brignull, 2013).&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Periodic reminders about setup:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Can the setup be improved?&lt;/li&gt;&lt;li&gt;What devices could be added safely?&lt;/li&gt;&lt;li&gt;What benefits might be available as part of the system that the user may be unaware of?&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Periodic review of workflow: &lt;/strong&gt;ask users to review the workflow in the system to add a level of human oversight. If the app is not accessed frequently then email and text message may be effective ways to prompt engagement. Think of it like entering a monthly gas meter reading.&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Is an automated workflow still operating as intended?&lt;/li&gt;&lt;li&gt;Is the function still needed?&lt;/li&gt;&lt;/ul&gt;A possible incentive could be that the workflow will stop/timeout if it is not reviewed a la IFTTT.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Periodic review of p&lt;/strong&gt;&lt;strong&gt;rivacy: &lt;/strong&gt;privacy overview and audit tools within the app.&lt;ul&gt;&lt;li&gt;What information is shared with third-party developers?&lt;/li&gt;&lt;li&gt;For what purpose/s is it shared?&lt;/li&gt;&lt;/ul&gt;Non-legalese overview of changes to T&amp;Cs should be included in privacy checks.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Role/function of the app &lt;/strong&gt;Applies to central app and third-party apps.&lt;/td&gt;&lt;td&gt;This sounds really obvious, but a lot of primary IoT apps don&#39;t actually explain their purpose within the system. What service does the app offer? What need does the app fulfill? What does the app do? How important is the app to the operation of the system? E.g. is it the primary interface or management tool for the system? What data does it need? - Make it clear what is used and why, in plain English.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Health/status of hub/sensor/device &lt;/strong&gt;At any point in time the user should be able to view a basic log of what is currently going on in the system.&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;What is going on in the system right now? Is recent system activity accessible? Is it possible to access logs from other time periods? Is it possible to see what communication channels are in operation? What third-party apps are connected to the system, what are they doing? What third-party devices are connected to the system, what are they doing? This should be more like what you expect from your banking app when it comes to overseeing the operation of high-importance health, home/business automation IoT systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;&lt;strong&gt;OAUTH and API: secondary app data use&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Respect users and prove that your app is more trustworthy by only calling data that you are actually using. What data is needed into order to provide the desired third-party service? How is the data used to provide the service? &lt;strong&gt;Note:&lt;/strong&gt; platform manufacturers/developers need to ensure that third-party apps aren&#39;t over-privileged in terms of the data they access and the calls they can make via APIs (See the work of  Fernandes, Jung and Prakesh, 2016). Developers need to state their intention when it comes to use of information that they call via the API. This doesn&#39;t stop those with malicious intent, but it helps users to distinguish between those who pay due diligence to privacy and those who are either malicious or sloppy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt; &lt;strong&gt;What is shared?&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Can data access be allowed/disallowed? Once disallowed from the primary app, is this decision upheld? &lt;strong&gt;Ideal world:&lt;/strong&gt; provide granular options for allowing/disallowing access to data which is not necessary for the operation of the service offered by the app. Better yet, don&#39;t ask for the data at all if it isn&#39;t essential to operation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Access control&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Is two-step authentication an option for the web app and login from a new device? Does the smartphone/tablet app offer biometric authentication? Does the app offer the option of setting a passcode for auto screen lock? Particularly if the app controls home appliances.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Dependency and operational relationship&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As systems become more complicated it is crucial that the user is aided in building a mental picture of the basic configuration of the system. I [keep thinking of Max](https://cycling74.com/products/max/) when I think of this issue. Is logging available? What is going on in the system right now? What is attached to this system (devices/sensors/users)? Is the system visualised in any way?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Try before you buy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Wearables have the right idea on this one, allowing you to trial a wearable companion app using your smartphone&#39;s built-in sensors. What if you could try out the perks of the system before you buy the actual device? Is a preview of how the app will operate with devices, provided as part of onboarding? Can you try of some of the functionality of the system without buying a system-specific device?&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+\[alex\]&lt;p&gt;. (2016, May 2). &lt;em&gt;SmartThings platform security - response from Alex&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from &lt;a href=&#34;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC (2016). &lt;em&gt;Hidden killers, series 1: 2. The Edwardian home&lt;/em&gt; Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bradbury, D. (2015, November 26). Usability v safety: How to design our way to better security. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from &lt;a href=&#34;http://uxbrighton.org.uk/Personalisation-the-Experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/Personalisation-the-Experience/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brignull, H. (2016). &lt;em&gt;User interfaces designed to trick people&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://darkpatterns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://darkpatterns.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://mahara.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mahara.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chen, E. Y., Pei, Y., Chen, S., Tian, Y., Kotcher, R., &amp;amp; Tague, P. (2014). OAuth Demystified for mobile application developers. &lt;em&gt;CCS ’14 Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2660267.2660323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2660267.2660323&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://cycling74.com/products/max/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cycling74.com/products/max/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ericsson. (2016, June). &lt;em&gt;Wearable technology and the Internet of things&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp;amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Felt, A. P., Egelman, S., &amp;amp; Wagner, D. (2012). I’ve got 99 problems, but vibration ain’t one. &lt;em&gt;Proceedings of the second ACM workshop on Security and privacy in smartphones and mobile devices - SPSM ’12&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2381934.2381943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2381934.2381943&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Field, C. (2004, January 23). Danger high voltage! Edwardian electric Tablecloth uncovered Retrieved from &lt;a href=&#34;http://www.culture24.org.uk/history-and-heritage/art19432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.culture24.org.uk/history-and-heritage/art19432&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Guadamuz, A. (2015). The monkey selfie: Copyright lessons for originality in photographs and internet jurisdiction. &lt;em&gt;Internet Policy Review&lt;/em&gt;. doi:&lt;a href=&#34;http://policyreview.info/articles/analysis/monkey-selfie-copyright-lessons-originality-photographs-and-internet-jurisdiction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14763/2016.1.398&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp;amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832&lt;/p&gt;
+&lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Higginbotham, S. (2016, January 22). Episode 42: These are the two biggest challenges facing the smart home Retrieved from &lt;a href=&#34;http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Higginbotham, S. (2016, March 17). &lt;em&gt;Episode 50: Are your devices being held hostage?&lt;/em&gt;. Retrieved March 28, 2016, from &lt;a href=&#34;http://iotpodcast.com/2016/03/nest-hostage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://iotpodcast.com/2016/03/nest-hostage/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Internet Policy Review. (2013). &lt;em&gt;Privacy &amp;amp; security&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://policyreview.info/categories/privacy-security&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://policyreview.info/categories/privacy-security&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;IoT security research at university of Michigan. (2016). Retrieved June 13, 2016, from &lt;a href=&#34;https://iotsecurity.eecs.umich.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://iotsecurity.eecs.umich.edu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kastrenakes, J. (2016, March 10). Nest can now use your phone to tell when you’ve left the house Retrieved from &lt;a href=&#34;http://www.theverge.com/2016/3/10/11188888/nest-now-uses-location-for-home-away-states-launches-family-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.theverge.com/2016/3/10/11188888/nest-now-uses-location-for-home-away-states-launches-family-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kalloniatis, C., Mouratidis, H., Vassilis, M., Islam, S., Gritzalis, S., &amp;amp; Kavakli, E. (2014). Towards the design of secure and privacy-oriented Information Systems in the Cloud: Identifying the major concepts. Computer Stan- dards &amp;amp; Interfaces, 36(4), 759–775. doi:10.1016/j.csi.2013.12.010&lt;/p&gt;
+&lt;p&gt;Krok, A. (2016, June 6). &lt;em&gt;British security firm hacks Mitsubishi Outlander via mobile app, Wi-Fi - Roadshow&lt;/em&gt;. Retrieved June 12, 2016, from &lt;a href=&#34;http://www.cnet.com/roadshow/news/british-security-firm-hacks-mitsubishi-outlander-via-mobile-app-wi-fi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cnet.com/roadshow/news/british-security-firm-hacks-mitsubishi-outlander-via-mobile-app-wi-fi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lohr, S. (2016, June 9). Tony Fadell steps down amid tumult at nest, a Google acquisition. &lt;em&gt;Technology&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://www.cayenne-mydevices.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cayenne-mydevices.com/&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](&lt;a href=&#34;http://blog.ted.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.ted.com/&lt;/a&gt; how-to-trust-intelligently/)&lt;/p&gt;
+&lt;p&gt;Pavlidis, M., Islam, S., Mouratidis, H., &amp;amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102&lt;/p&gt;
+&lt;p&gt;openHAB. (2016). &lt;em&gt;OpenHAB&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://www.openhab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.openhab.org/&lt;/a&gt; Rogers, C. Martha Lane Fox interviewed by the house magazine Retrieved from &lt;a href=&#34;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp;amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65&lt;/p&gt;
+&lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from &lt;a href=&#34;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.omilab.org/web/secure-tropos/environment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.omilab.org/web/secure-tropos/environment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=UmqmpJg_xFA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=UmqmpJg_xFA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seuss (1999). &lt;em&gt;The cat in the hat&lt;/em&gt; (5th ed.). New York: Random House USA Children’s Books.&lt;/p&gt;
+&lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from &lt;a href=&#34;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wollerton, M. (2016, May 23). The best smart hub. Retrieved from &lt;a href=&#34;http://thewirecutter.com/reviews/best-smart-hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thewirecutter.com/reviews/best-smart-hub/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Woods, B. (2016, January 19). &lt;em&gt;Hippocratic oath for connected medical devices&lt;/em&gt;. Retrieved June 12, 2016, from &lt;a href=&#34;https://www.iamthecavalry.org/domains/medical/oath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.iamthecavalry.org/domains/medical/oath/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;my-current-personal-hero&#34;&gt;My current personal hero:&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.youtube.com/embed/Hxdqp3N_ymU&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflection: The search for the best notetaking -or rather handwriting- app</title>
+      <link>http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In February I shall be starting an MSc in User Experience Design and as a consequence my thoughts have turned to the study tools, which I wish to make use of as a student. As part of this process I have been considering my arsenal of apps. I&amp;rsquo;ll likely talk about the full extent of my app choice plotting in future posts. In this post I shall provide my reflections on notetaking apps in-particular. In my experience early preparation has always been the best strategy when considering any new academic venture, so I look forward to sharing some of my findings on this blog in the lead up to and during my forthcoming period of study.&lt;/p&gt;
+&lt;h2 id=&#34;productivity-and-notetaking-apps-that-i-use&#34;&gt;Productivity and notetaking apps that I use&lt;/h2&gt;
+&lt;p&gt;In my professional life I have become a devotee of &lt;a href=&#34;https://evernote.com&#34; title=&#34;Evernote website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evernote&lt;/a&gt;. I was not by any means an early adopter or rather I was but I got burned by a glitch circa 2009 which resulted in the loss on my web-based notes (at that time using it in-browser). I must stress that such a loss is not likely to happen with Evernote now but back then it was a relatively new thing and when on the cutting edge you may occasionally experience virtual paper cuts (thankfully I only lost a few notes)! However last year Evernote won my heart again when I decided that I wanted a solution with note tagging (keywords), multi-platform compatibility (in my case, Mac, PC, iOS, Android) and OCR capabilities (text recognition). After looking at a few app-based solutions it was the only option which gave me the flexibility I was craving. In my work I have come to rely on Evernote as an excellent option for recording meetings and consultations, being able to send a record of what was discussed and any actions to a staff person immediately after the meeting. I then link this information to my to-dos in &lt;a href=&#34;https://trello.com&#34; title=&#34;Trello website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trello&lt;/a&gt; (I&amp;rsquo;ll write about the wonders of Trello some other time). Sometimes when I&amp;rsquo;m particularly busy I quickly jot ideas or tasks down on paper and then use Evernote&amp;rsquo;s document capture function to take a photo. I am always impressed by the OCR capabilities of Evernote when it comes to recognising my squiggly handwriting and making it searchable (the detects words in handwriting rather than converting handwriting to type). Also when you add in the photo annotation tools made possible through Evenote&amp;rsquo;s partner app &lt;a href=&#34;https://evernote.com/skitch/&#34; title=&#34;Skitch App&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skitch&lt;/a&gt; I am one happy customer. But&amp;hellip;and you knew that this was coming, there is something to be said for handwriting and when it comes to deeper notetaking and truly learning concepts; I personally need to write concepts down to retain and understand them. When the iPad first came out in 2010 (Apple, 2010).&lt;/p&gt;
+&lt;h2 id=&#34;handwriting-in-apps&#34;&gt;Handwriting in apps&lt;/h2&gt;
+&lt;h3 id=&#34;file-management&#34;&gt;File management&lt;/h3&gt;
+&lt;p&gt;I was an early adopter and one of the first apps I fell in love with was &lt;a href=&#34;https://evernote.com/penultimate/&#34; title=&#34;Penultimate app site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Penultimate&lt;/a&gt;. This app lets you draw or write with a stylus or your finger in virtual notebooks, later they added being able to add photos and voila it became a virtual sketchbook! I no longer wanted to carry a moleskin and an iPad and for a while Penultimate served me well for quick notetaking. Penultimate was acquired by Evernote in 2012 (Libin, 2012) and with that came the OCR capability of being able to &amp;lsquo;search&amp;rsquo; your handwritten notes. However there were three functions which I have always felt are missing from Penultimate app which eventually caused me to abandon it. The first is the absence of a adequate notebook file management system, in apps like &lt;a href=&#34;http://www.goodiware.com&#34; title=&#34;Goodreader site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Goodreader&lt;/a&gt;, &lt;a href=&#34;http://www.branchfire.com/iannotate/#makepaperjealous&#34; title=&#34;iAnnotatePDF site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iAnnotatePDF&lt;/a&gt; and &lt;a href=&#34;http://www.gingerlabs.com&#34; title=&#34;Notability site - Gingerlabs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notability&lt;/a&gt;, although more strictly for annotation of imported files, these apps allowed a far superior filing system. For example in iAnnotatePDF you can tag files with keywords, create folders and connect to Sharepoint (MyFiles) via WebDAV for backup purposes. In Penultimate, you just have an ever growing pile of notebooks.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-iannotatepdf-the-tagging-function-is-shown&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;File Management in iAnnotatePDF. The tagging function is shown.&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu12807094036435207633.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu15011298927149977963.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu4226811903267698644.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu12807094036435207633.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iAnnotatePDF, the tagging function is shown.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;background-colour&#34;&gt;Background colour&lt;/h3&gt;
+&lt;p&gt;The second issue is the background colour, from my &lt;a href=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/&#34; title=&#34;The Adjustment Bureau: The Case for Adjustment in Mobile Apps&#34;&gt;previous post&lt;/a&gt; you&amp;rsquo;ll know that background colour is very important to my efficiency when reading and writing. You do have the option of importing a photo to use as a background, so in theory that is a workaround and you can purchase notepaper types from Evernote Market, there are some good ones but these are more to do with line based layouts than page background colour. I have also found this &lt;a href=&#34;http://ipadpapers.com/tag.asp?tag=1&#34; title=&#34;iPadPapers site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;enterprising site&lt;/a&gt; which allows you to create your own templates for Penultimate as well as use templates which other&amp;rsquo;s have created, in particular I was happy to find a &lt;a href=&#34;http://lsc.cornell.edu/LSC_Resources/cornellsystem.pdf&#34; title=&#34;Cornell PDF tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Notes format&lt;/a&gt; template after the recent &lt;a href=&#34;http://melsig.shu.ac.uk/?page_id=645&#34; title=&#34;MELSIG event page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MELSIG&lt;/a&gt; presentation about it. With any drawing/handwriting app, as a workaround, you could draw a template on the page, but then it becomes tricky when you need to cut and paste your written sections as the background gets confused with your written content.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-notes-plus---the-background-colours-and-template-options-available-in-notes-plus&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Notes Plus shows the list of background colours avaialble for selection.&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu2265773471322898315.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu4347387209421056565.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu13991976000300352766.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu2265773471322898315.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Notes Plus - the background colours and template options available in Notes Plus.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;on-screen-wrist-protector&#34;&gt;On-screen wrist protector&lt;/h3&gt;
+&lt;p&gt;The third issue is the lack of an adjustable on-screen wrist protector. Penultimate allows you to define your wrist position but as you will see from the image below, it has trouble deciding which marks my stylus is making and which marks my wrist is making. This was the deal-breaker, I&amp;rsquo;d be mid-flow in writing and half of what I&amp;rsquo;d written would fail to show up as in Penultimate&amp;rsquo;s view my wrist had been doing the writing!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-penultimate---the-effect-of-wrist-shown&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;penultimate app with handwriting and wrist created scribbles shown&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu7813867120087861887.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu9819877047968716509.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu15740681595085380977.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu7813867120087861887.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Penultimate - the effect of wrist shown.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+  Cornell Notes template shown above from &lt;a href=&#34;http://ipadpapers.com/tag.asp?tag=1&#34; title=&#34;iPadPapers.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iPadPapers.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So after four years of on and off trial and error, with periodic abandonment of the idea of handwriting on my iPad other than using very helpful PDF annotation apps for small comments (another post about these apps specifically in the future), I think that I have finally come up with my ideal list of functions which a handwriting app needs - and one app fits almost all of them - Notes Plus with Notability taking a close second place.&lt;/p&gt;
+&lt;h2 id=&#34;my-ideal-list-of-functions&#34;&gt;My ideal list of functions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;File management&lt;/strong&gt; and ideally creation of folders or notebooks for storage of different note types&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background page colour&lt;/strong&gt; and template adjustment&lt;/li&gt;
+&lt;li&gt;Adjustable &lt;strong&gt;&lt;strong&gt;on-screen wristguard&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-iannotatepdf---this-is-a-pretty-typical-wristguard-which-you-can-adjust-downward-as-you-fill-the-page-a-simple-thing-but-important&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;iAnnotatePDF wristguard as a grey bar at the bottom of the screen&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu9092842524778152688.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu1906471932391787416.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu2502447035188529674.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu9092842524778152688.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      iAnnotatePDF - this is a pretty typical wristguard which you can adjust downward as you fill the page. A simple thing, but important.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Good&lt;/strong&gt; &lt;strong&gt;virtual ink flow&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ink customisation and style&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Two-fingered scroll and zoom&lt;/strong&gt; support&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Easy drag and drop&lt;/strong&gt; customisation of already written text&lt;/li&gt;
+&lt;li&gt;Dropbox and/or WebDAV &lt;strong&gt;backup&lt;/strong&gt; support - just in case&lt;/li&gt;
+&lt;li&gt;Hand-drawn &lt;strong&gt;shape recognition&lt;/strong&gt; - I draw a circle or square and the app tidies it up for me automatically&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Close-up mode&lt;/strong&gt; - I not good at keeping to the lines or within box areas otherwise due to my squiggly writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;two-examples-of-close-up-mode&#34;&gt;Two Examples of Close-up mode&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Notes Plus&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-also-shows-the-excellent-ink-customisation-options&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Notes Plus Ink customisation options&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1659594699378141920.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1783602999698365653.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu10511894242127053962.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1659594699378141920.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Also shows the excellent Ink customisation options.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Notability&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-notability---close-up-writing-mode-both-notes-plus-and-notability-have-great-navigation-tools-within-the-close-up-pane&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Notability close-up writing mode&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu17159613927376255355.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu6911884893237836370.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu9103010468178717855.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu17159613927376255355.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Notability - close-up writing mode. Both Notes Plus and Notability have great navigation tools within the close-up pane.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Audio memos&lt;/strong&gt; - for when my writing isn&amp;rsquo;t fast enough!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Presentation mode&lt;/strong&gt;: can this app be shown in a classroom, to demonstrate annotation or to draw quick diagrams?&lt;/li&gt;
+&lt;li&gt;Good &lt;strong&gt;tutorial materials&lt;/strong&gt; to make the most of the app
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bonus:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PDF and word doc import&lt;/strong&gt; - is it an annotation app too!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Layers&lt;/strong&gt; - &amp;lsquo;send to back&amp;rsquo; and locking options&lt;/li&gt;
+&lt;li&gt;Built-in &lt;strong&gt;Cornell Notes&lt;/strong&gt; template&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Handwriting to text converter&lt;/strong&gt; (!) - in app purchase available in Notes Plus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Handwriting to Text Converter in Notes Plus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-select-the-text-by-drawing-a-circle-around-it-select-the-conversion-option&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Handwritten text is selected by drawing around it&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12883295579470706210.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12777023895509602039.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12185869796047159795.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12883295579470706210.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Select the text by drawing a circle around it. Select the conversion option.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-it-is-accurate-even-with-my-horrendous-handwriting&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;The handwriting has been converted to type&#34; srcset=&#34;
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu17885775460158832950.webp 400w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu15586093525143976995.webp 760w,
+               /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu13281849859973244989.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu17885775460158832950.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      It is accurate even with my horrendous handwriting.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;analysis&#34;&gt;Analysis&lt;/h2&gt;
+&lt;p&gt;I analysed four apps based on these criteria: Notes Plus, Notability, iAnnotatePDF and Penultimate. The results are below, I have awarded 2 point for each &amp;ldquo;X&amp;rdquo;, the &amp;ldquo;+&amp;rdquo; signs indicate exemplary functionality. Bonus features are not counted towards possible total of 26.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New:&lt;/strong&gt; Notability have just released a &lt;a href=&#34;https://itunes.apple.com/us/app/notability/id736189492?mt=12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;companion app for for Mac&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Criteria&lt;/th&gt;
+          &lt;th&gt;Apps&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Notes&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Notes Plus&lt;/td&gt;
+          &lt;td&gt;Notability&lt;/td&gt;
+          &lt;td&gt;iAnnotatePDF&lt;/td&gt;
+          &lt;td&gt;Penultimate&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;File Management&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;iAnnotatePDF:has excellent file management options - tagging, folders, search etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Background page colour&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Notability: will even allow you to change the background colour of PDFs.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;On-screen wristguard (adjustable)&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Good virtual ink flow&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;iAnnotate is not quite as good as the others on this point.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ink customisation&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;Notes Plus has highly customisable and rather beautiful ink - it actually improves my handwriting.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Two-fingered scroll and zoom&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Easy drag and drop of text&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Backup options&lt;/td&gt;
+          &lt;td&gt;X Dropbox Google Drive&lt;/td&gt;
+          &lt;td&gt;X WebDAV Dropbox&lt;/td&gt;
+          &lt;td&gt;X Dropbox Box Google Drive OneDrive WebDAV&lt;/td&gt;
+          &lt;td&gt;X Evernote Dropbox&lt;/td&gt;
+          &lt;td&gt;Of course I would love all these apps to be able to sync with Evernote some how, but I would like to see all of them offer a WebDAV option and ideally also Microsoft OneDrive.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Drawn shape recognition&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Notability does offer a nice function for drawing shapes and figures, but no shape recognition. This is where iAnnotate is more of an annotation programme, the &amp;lsquo;stamp&amp;rsquo; tool has some shapes but it is limited.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Close-up mode&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;iAnnotatePDF: does let you zoom in and type and it also has a signature tool for close-up signing on PDFs, but these are less well suited to original notetaking. Penultimate: has drift mode for this kind of writing experience, but I found the enforced motion quite difficult and also frustrating to get out of.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Audio memos&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;iAnnotatePDF: lets you place notes in-context throughout your document (in-place, a microphone icon is shown next to areas of text). Really helpful for formative feedback. Notes Plus and Notability: will link audio notes to the specific pages rather than areas of the page.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Presentation mode or allows projection&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Further testing needed: Notes Plus has a VGA connection view which is great. Notability does not have a specific mode, but does project well, as is the case with iAnnotate. Penultimate in my experience has a strange presentation mode and in prior versions would not show when connected via VGA to a projector.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tutorial materials&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;Notes Plus: has a lovely developer website as well with a forum and they have responded very positively to my features suggestions in the past. iAnnotate: also have a superb website with tutorials and FAQs.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bonus&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PDF and Word document import&lt;/td&gt;
+          &lt;td&gt;X Converts to PDF&lt;/td&gt;
+          &lt;td&gt;X Converts to PDF&lt;/td&gt;
+          &lt;td&gt;X Converts to PDF&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Layers&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cornell Notes Template (built-in)&lt;/td&gt;
+          &lt;td&gt;X&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Handwriting to text converter&lt;/td&gt;
+          &lt;td&gt;X+&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Notes Plus: offers an in-app purchase for handwriting to text conversion. It is very accurate for small sections of text and immensely useful.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Totals (26)&lt;/td&gt;
+          &lt;td&gt;26&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;For written notes Notes Plus wins hands-down and it is also superb for combining PDFs, Word documents and written notes into self-contained notebooks or virtual binders. I have resolved to use it for the purpose of textbook related notes over the next few months. I&amp;rsquo;ll report back on how it goes. For decent notetaking and excellent PDF annotation Notability has clear benefits. iAnnotatePDF&amp;rsquo;s clear advantage over the other apps is its excellent file management  system and also the ability to place audio comments in context within a document.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;Apple, Inc. (2010) &lt;em&gt;Apple Launches iPad&lt;/em&gt; [Online]. Available: &lt;a href=&#34;https://www.apple.com/uk/pr/library/2010/01/27Apple-Launches-iPad.html&#34; title=&#34;Apple Launches iPad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.apple.com/uk/pr/library/2010/01/27Apple-Launches-iPad.html&lt;/a&gt; (Accessed: 28 September 2014).&lt;/p&gt;
+&lt;p&gt;Libin, P. (2012) Evernote Acquires Penultimate. &lt;em&gt;Evernote Blog&lt;/em&gt; [Online]. Available from: &lt;a href=&#34;http://blog.evernote.com/blog/2012/05/07/evernote-acquires-penultimate/&#34; title=&#34;Evernote Acquires Penultimate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.evernote.com/blog/2012/05/07/evernote-acquires-penultimate/&lt;/a&gt; (Accessed: 28 September 2014).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
