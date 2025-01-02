@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/learning/</link>
-      <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/learning/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Nov 2022 18:21:29 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
+      <link>https://fionamacneill.co.uk/tags/learning/</link>
     </image>
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
+      <link>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -41,7 +41,7 @@
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp 400w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu12041081289063751725.webp 760w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu1819990805462986231.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -101,7 +101,7 @@
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp 400w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu13825797174012674249.webp 760w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu7659303798439612904.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -155,7 +155,7 @@
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp 400w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu8933792402176026399.webp 760w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu7299809568709912682.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>http://localhost:1313/post/2022/10/cufflinks-1022/</link>
+      <link>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/10/cufflinks-1022/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -238,7 +238,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp 400w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu3542266375365254829.webp 760w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu12678372389051257266.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -300,7 +300,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp 400w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu6039912154369726025.webp 760w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu3295236739691401557.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
                width=&#34;760&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -323,9 +323,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Cufflinks - Edition 1 - 24th April</title>
-      <link>http://localhost:1313/post/2022/04/cufflinks-0422/</link>
+      <link>https://fionamacneill.co.uk/post/2022/04/cufflinks-0422/</link>
       <pubDate>Sat, 23 Apr 2022 19:00:05 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/04/cufflinks-0422/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/04/cufflinks-0422/</guid>
       <description>&lt;h2 id=&#34;what-are-these-cufflinks&#34;&gt;What are these &lt;em&gt;Cufflinks&lt;/em&gt;?&lt;/h2&gt;
 &lt;p&gt;Cufflinks is the title for recurring blog posts where I share some of my favourite links. I plan to write these posts on a semi-regular basis. The inspiration came from the fantastic, Stéphanie Walter&amp;rsquo;s &lt;em&gt;&amp;ldquo;Pixels of the Week&amp;rdquo;&lt;/em&gt; which is an amazing resource. Do check out &lt;a href=&#34;https://stephaniewalter.design/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stéphanie&amp;rsquo;s blog here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Welcome to the first edition of &lt;em&gt;Cufflinks&lt;/em&gt;!&lt;/p&gt;
@@ -358,7 +358,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu17767185873283745112.webp 400w,
                /post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu16467559069576534380.webp 760w,
                /post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu13214807739101786795.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu17767185873283745112.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu17767185873283745112.webp&#34;
                width=&#34;760&#34;
                height=&#34;542&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -433,9 +433,9 @@ A fascinating article providing insight into working artists from a range of dis
     
     <item>
       <title>UX Camp Sticking Power</title>
-      <link>http://localhost:1313/post/2022/04/ux-camp-brighton-sticking-power/</link>
+      <link>https://fionamacneill.co.uk/post/2022/04/ux-camp-brighton-sticking-power/</link>
       <pubDate>Sun, 10 Apr 2022 16:42:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/04/ux-camp-brighton-sticking-power/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/04/ux-camp-brighton-sticking-power/</guid>
       <description>&lt;h2 id=&#34;what-i-did&#34;&gt;What I did&lt;/h2&gt;
 &lt;p&gt;On the 26th of March 2022 I attended UX Camp Brighton for the first time in three years. In 2019, I could not attend due to other commitments and for the past two years the event has not run due to the pandemic. The momentous return of UX Camp gave me an opportunity to refresh my in-person presentation skills by hosting a talk about my new found career as a Learning Experience Designer&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The talk took a metacognitive approach by first looking at what a Learning Experience Designer (LXer) does. I then applied my discipline by using a LX lens to deconstruct the UX Camp format. Specifically, I provided a short demo of &lt;a href=&#34;https://blog.cathy-moore.com/action-mapping-a-visual-approach-to-training-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cathy Moore&amp;rsquo;s Action Mapping method&lt;/a&gt; as it would apply to the event. From an Learning Experience (LX) perspective, UX Camp can be seen as a chance to learn about and, most importantly practise, UX and user research skills in a safe space.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;m here for the title &lt;a href=&#34;https://twitter.com/hashtag/uxcb22?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#uxcb22&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fmacneill?ref_src=twsrc%5Etfw&#34;&gt;@fmacneill&lt;/a&gt; &lt;a href=&#34;https://t.co/72SB6cW7iz&#34;&gt;pic.twitter.com/72SB6cW7iz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rebecca Hugo (@becstex) &lt;a href=&#34;https://twitter.com/becstex/status/1507699064682467345?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;

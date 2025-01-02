@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugins | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/plugins/</link>
-      <atom:link href="http://localhost:1313/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/plugins/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
     <description>Plugins</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Plugins</title>
-      <link>http://localhost:1313/tags/plugins/</link>
+      <link>https://fionamacneill.co.uk/tags/plugins/</link>
     </image>
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -39,7 +39,7 @@
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp 400w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu6099917122085690639.webp 760w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu8301082217797738470.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>Theme testing</title>
-      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
+      <link>https://fionamacneill.co.uk/post/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
+      <guid>https://fionamacneill.co.uk/post/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
 &lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;

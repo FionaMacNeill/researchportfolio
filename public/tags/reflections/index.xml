@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflections | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/reflections/</link>
-      <atom:link href="http://localhost:1313/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/reflections/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
     <description>Reflections</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 21 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Reflections</title>
-      <link>http://localhost:1313/tags/reflections/</link>
+      <link>https://fionamacneill.co.uk/tags/reflections/</link>
     </image>
     
     <item>
       <title>Major discoveries, minor anguish</title>
-      <link>http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/</link>
+      <link>https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/</guid>
+      <guid>https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/</guid>
       <description>&lt;p&gt;You may ask, what happened to you Fiona, between 6/12 and 20/12? Well this is what happened. I was teaching an online course called the 12 Apps of Christmas (a satellite of course run at Regent&amp;rsquo;s University, London) and it was ALL consuming. I was also working on my Learning Object project during this time (and you thought I was slacking!) however, for the most part I have to admit to reverting to paper reflections for a while, due to sheer convenience. Currently my notes are collectively living on bits of scrap-paper, serviettes/napkins, and Evernote entries. I plan to pull them together here over the next few days, a process that I have started with the inclusion of &lt;a href=&#34;https://fionamacneill.co.uk/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my reflection of using a learning object as an end user&lt;/a&gt;, I will include more on that later in the post.&lt;/p&gt;
 &lt;h2 id=&#34;first-a-few-relevant-reflections-from-my-experience-working-on-12-apps-of-christmas&#34;&gt;First a few relevant reflections from my experience working on 12 Apps of Christmas&lt;/h2&gt;
 &lt;p&gt;After the course we ran a completion survey. Although there is only a small number of responses so far (11 respondents out of 192 course subscribers; survey is open until the end of January), the responses do correlate with some of the observations that I had made. As the course was designed as an opportunity for academic staff, the insights into that population are helpful as I move forward with the Learning Object design, that is geared to the same community. &lt;em&gt;Course subscribers really appreciated clear image-based instructions with accompanying step-by-step written annotation.&lt;/em&gt; Commentary: This could inform aspects of user documentation for the Learning Object. Specifically, the idea to include accompanying PDF guides for topics is supported by this anecdotal evidence. &lt;em&gt;Four learning activities or exercises is about the right number to minimise time and interest drop-off.&lt;/em&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu1696597203425239464.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu3782701086059396519.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp&#34;
                width=&#34;760&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -72,7 +72,7 @@
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu8936587814933441788.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu16853473938062625621.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp&#34;
                width=&#34;693&#34;
                height=&#34;464&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -117,7 +117,7 @@
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu17279453447118292333.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu5760305753375578163.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -160,7 +160,7 @@
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu12591134592983709389.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu17136798741151885040.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp&#34;
                width=&#34;760&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -194,7 +194,7 @@
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu14640306667514818415.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu16094974436031137054.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp&#34;
                width=&#34;453&#34;
                height=&#34;502&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

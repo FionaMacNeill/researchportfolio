@@ -5,7 +5,7 @@ event_url: https://playfullearningassoc.co.uk/
 
 location: University of Sussex
 
-summary: A session is led by Rochelle Livingstone and Fiona MacNeill, designers from Solvd Together, an award-winning learning consultancy.
+summary: A session led by Rochelle Livingstone and Fiona MacNeill, designers from Solvd Together, an award-winning learning consultancy.
 abstract: 'Adults may well be natural sceptics while in their working habitat; how can we entice them into learning something? Scepticism is natural when you consider all their previous experiences of learning at work… that informative slideshow that many will not remember, that riveting policy talk, that essential e-learning package.' 
 
 # Talk start and end times.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poll | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/poll/</link>
-      <atom:link href="http://localhost:1313/tags/poll/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/poll/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/poll/index.xml" rel="self" type="application/rss+xml" />
     <description>Poll</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 07 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Poll</title>
-      <link>http://localhost:1313/tags/poll/</link>
+      <link>https://fionamacneill.co.uk/tags/poll/</link>
     </image>
     
     <item>
       <title>Charty McCharterson</title>
-      <link>http://localhost:1313/post/2017/01/charty-mccharterson/</link>
+      <link>https://fionamacneill.co.uk/post/2017/01/charty-mccharterson/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/charty-mccharterson/</guid>
+      <guid>https://fionamacneill.co.uk/post/2017/01/charty-mccharterson/</guid>
       <description>&lt;p&gt;I knew that all of that work that I did on polls would come in handy at some point. The &lt;em&gt;time&lt;/em&gt; arrived, as displaying data was something that seemed important from the beginning, to support the goals for the project. I wanted to support the information about &amp;lsquo;UK smart device ownership&amp;rsquo; with some data. Having spent quite a bit of time &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/24/on-the-importance-of-self-discipline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looking at polling options&lt;/a&gt; and trying things out, I felt sure that the the Google Charts api (n.d.) would give me the level of interactivity and customisation required.&lt;/p&gt;
 &lt;h3 id=&#34;something-i-changed&#34;&gt;Something I changed&lt;/h3&gt;
 &lt;p&gt;Like the tools I had used already (see earlier entries including Flickity by metafizzy (2016), smooth-scroll by cfernandi (2016)) the instructions always say to call the JavaScript package in the header. This is something that my instructor, Marcus, had pointed out as bad practice. Therefore, I created a new eventlistener in my JavaScript file in order to load google&amp;rsquo;s &amp;ldquo;loader.js&amp;rdquo; script. This allowed me to place the &lt;script&gt;&amp;quot;&lt;script&gt;&amp;quot;&lt;/script&gt;&amp;rsquo; tag at the bottom of my index.html file. However, unlike the other widgets and code snippets that I have used, I cannot compile Google&amp;rsquo;s JavaScript as part of my own script (Google, 2016a), it has to be loaded from Google servers (licensed under Apache license version 2.0 (2004) ). For this reason I reused the loading GIF from the contact form, to show while the chart loads. The data itself is from Offcom&amp;rsquo;s report entitled, The Communications Market, 5 Internet and Online Content (2016a, p. 191). What is great about their site is that they make the raw data available in Microsoft Excel format, so I was able to construct the chart based on a subset of data (Ofcom, 2016b). In order to show the age versus ownership I selected a stacked barchart as a space efficient way to show the data.&lt;/p&gt;
@@ -41,9 +41,9 @@
     
     <item>
       <title>On the importance of self-discipline</title>
-      <link>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</link>
+      <link>https://fionamacneill.co.uk/post/2016/12/on-the-importance-of-self-discipline/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</guid>
+      <guid>https://fionamacneill.co.uk/post/2016/12/on-the-importance-of-self-discipline/</guid>
       <description>&lt;h3 id=&#34;update-on-the-previously-mentioned-to-do-list&#34;&gt;Update on the previously mentioned to-do list:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/23/portfolio-site-concept-and-other-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;concept document&lt;/a&gt;&lt;/li&gt;

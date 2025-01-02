@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning-Technologies | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/learning-technologies/</link>
-      <atom:link href="http://localhost:1313/tags/learning-technologies/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/learning-technologies/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/learning-technologies/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning-Technologies</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Learning-Technologies</title>
-      <link>http://localhost:1313/tags/learning-technologies/</link>
+      <link>https://fionamacneill.co.uk/tags/learning-technologies/</link>
     </image>
     
     <item>
       <title>COVID-19 three months in: what have we learned?</title>
-      <link>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</link>
+      <link>https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
+      <guid>https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This post is a personal reflection in response to a question posed by &lt;a href=&#34;https://twitter.com/TomEduTrainer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Langston&lt;/a&gt; on Twitter as a retweet of &lt;a href=&#34;https://twitter.com/CleggDr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Andy Clegg&lt;/a&gt;. Observing that other individuals tagged in the tweet have more involvement in policy and management, I was both humbled and interested in why my opinion might be sought. Deliberately I have chosen not to read the answers of others, such as &lt;a href=&#34;https://twitter.com/jamesclay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jamesclay&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://elearningstuff.net/2020/06/05/what-have-we-learnt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;, as I wanted to provide my own perspective. I shall be sure to read that after-the-fact of course and thank you for asking Tom!&lt;/p&gt;
 &lt;p&gt;To provide some context I have been working as a learning technologist for almost 10 years and my perspective comes from that space: the direct solution space. Although I am occasionally consulted on policy decisions, I am rarely a decision maker and I do not manage people, I do manage systems as a product owner of sorts. In addition to my learning technologist &amp;lsquo;hat&amp;rsquo;, I am an accessibility advocate and a trained User Experience researcher. I am passionate about inclusive design, moral transparency and pragmatic teaching and learning.&lt;/p&gt;
@@ -71,7 +71,7 @@
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp 400w,
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu5047572959678693268.webp 760w,
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu5981666045376353248.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

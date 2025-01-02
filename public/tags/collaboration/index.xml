@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/collaboration/</link>
-      <atom:link href="http://localhost:1313/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/collaboration/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaboration</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Collaboration</title>
-      <link>http://localhost:1313/tags/collaboration/</link>
+      <link>https://fionamacneill.co.uk/tags/collaboration/</link>
     </image>
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -59,7 +59,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -88,7 +88,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -117,7 +117,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -142,9 +142,9 @@
     
     <item>
       <title>Vlog 1: introducing a personal challenge</title>
-      <link>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</link>
+      <link>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
+      <guid>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
       <description>&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/YHKYFsowRRE&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;800&#34; height=&#34;400&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;what-does-an-inclusive-and-successful-online-event-look-like-setting-a-personal-challenge&#34;&gt;What does an inclusive and successful online event look like? Setting a personal challenge&lt;/h2&gt;
 &lt;h3 id=&#34;the-short-version-rather-than-the-4min-vlog&#34;&gt;\[The short version rather than the 4min vlog\]&lt;/h3&gt;
@@ -185,7 +185,7 @@
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp 400w,
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu15896906827204781959.webp 760w,
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu14277973832495104214.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp&#34;
                width=&#34;760&#34;
                height=&#34;740&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

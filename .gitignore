@@ -7,3 +7,5 @@ assets/media/albums/work/.DS_Store
 *.png
 *.jpg
 *.pdf
+*.zip 
+*.yaml

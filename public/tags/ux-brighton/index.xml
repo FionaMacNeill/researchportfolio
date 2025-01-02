@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ux Brighton | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/ux-brighton/</link>
-      <atom:link href="http://localhost:1313/tags/ux-brighton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/ux-brighton/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/ux-brighton/index.xml" rel="self" type="application/rss+xml" />
     <description>Ux Brighton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Nov 2022 18:21:29 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Ux Brighton</title>
-      <link>http://localhost:1313/tags/ux-brighton/</link>
+      <link>https://fionamacneill.co.uk/tags/ux-brighton/</link>
     </image>
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
+      <link>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -41,7 +41,7 @@
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp 400w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu12041081289063751725.webp 760w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu1819990805462986231.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -101,7 +101,7 @@
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp 400w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu13825797174012674249.webp 760w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu7659303798439612904.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -155,7 +155,7 @@
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp 400w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu8933792402176026399.webp 760w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu7299809568709912682.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -224,7 +224,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -253,7 +253,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -282,7 +282,7 @@
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
