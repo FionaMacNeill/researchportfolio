@@ -96,7 +96,7 @@ sections:
       text: |-
         <div style="text-align:center;"> 
         <a href="mailto:hello@fionamacneill.co.uk">hello@fionamacneill.co.uk</a>
-        <p>Macknowlogist Ltd. <br>83 Queens Road <br>Brighton <br>BN1 3XE</p> 
+        <p>Macknowlogist Ltd <br>83 Queens Road <br>Brighton <br>BN1 3XE</p> 
         <strong>Company number:</strong> 16146243
         </div>
     design:

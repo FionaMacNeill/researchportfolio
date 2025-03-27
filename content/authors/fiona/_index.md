@@ -62,9 +62,9 @@ highlight_name: true
 
 # Greetings 🌊 
 
-I am a problem solver who makes everyday interactions better, whether in the pursuit of learning or doing.
+I create meaningful experiences for learning and doing.
 
-I enjoy immersing myself in complexity and collaborating with people who want to discover more and create meaningful change. 
+You'll find me immersing myself in complexity and collaborating with people who want to discover more and create positive change. 
 <br> 
 <br>
 {{% callout note %}}
