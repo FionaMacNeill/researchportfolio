@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todo | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/todo/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/todo/</link>
+      <atom:link href="http://localhost:1313/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <description>Todo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Todo</title>
-      <link>https://fionamacneill.co.uk/tags/todo/</link>
+      <link>http://localhost:1313/tags/todo/</link>
     </image>
     
     <item>
       <title>On the importance of self-discipline</title>
-      <link>https://fionamacneill.co.uk/post/2016/12/on-the-importance-of-self-discipline/</link>
+      <link>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/12/on-the-importance-of-self-discipline/</guid>
+      <guid>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</guid>
       <description>&lt;h3 id=&#34;update-on-the-previously-mentioned-to-do-list&#34;&gt;Update on the previously mentioned to-do list:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/23/portfolio-site-concept-and-other-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;concept document&lt;/a&gt;&lt;/li&gt;

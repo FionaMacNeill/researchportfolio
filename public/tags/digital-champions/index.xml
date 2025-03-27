@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital-Champions | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/digital-champions/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/digital-champions/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/digital-champions/</link>
+      <atom:link href="http://localhost:1313/tags/digital-champions/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital-Champions</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Digital-Champions</title>
-      <link>https://fionamacneill.co.uk/tags/digital-champions/</link>
+      <link>http://localhost:1313/tags/digital-champions/</link>
     </image>
     
     <item>
       <title>Attempting to live blog while running a twitter competition</title>
-      <link>https://fionamacneill.co.uk/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/</link>
+      <link>http://localhost:1313/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/</guid>
+      <guid>http://localhost:1313/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/</guid>
       <description>&lt;p&gt;
 
 
@@ -39,7 +39,7 @@
                /post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/images/twelfieFisml-1srnjl9_hu3912308651348771574.webp 400w,
                /post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/images/twelfieFisml-1srnjl9_hu3411609287705555347.webp 760w,
                /post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/images/twelfieFisml-1srnjl9_hu4977430925989995020.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/images/twelfieFisml-1srnjl9_hu3912308651348771574.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/images/twelfieFisml-1srnjl9_hu3912308651348771574.webp&#34;
                width=&#34;500&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

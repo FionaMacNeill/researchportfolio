@@ -68,5 +68,5 @@ I enjoy immersing myself in complexity and collaborating with people who want to
 <br> 
 <br>
 {{% callout note %}}
-December 2024–January 2025: this site is being updated. <br>New case studies and work samples coming soon!
+This site is being updated over the next few months. <br>New case studies and work samples coming soon!
 {{% /callout %}}

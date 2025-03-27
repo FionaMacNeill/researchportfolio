@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Viewx | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/viewx/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/viewx/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/viewx/</link>
+      <atom:link href="http://localhost:1313/tags/viewx/index.xml" rel="self" type="application/rss+xml" />
     <description>Viewx</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Viewx</title>
-      <link>https://fionamacneill.co.uk/tags/viewx/</link>
+      <link>http://localhost:1313/tags/viewx/</link>
     </image>
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
 &lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
@@ -58,7 +58,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,7 +108,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -256,7 +256,7 @@ In case you cannot access the embedded content above, &lt;a href=&#34;https://ww
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -322,9 +322,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -367,7 +367,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -396,7 +396,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,7 +425,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

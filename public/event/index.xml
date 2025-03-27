@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/event/</link>
-      <atom:link href="https://fionamacneill.co.uk/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 04 Jul 2024 16:15:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://fionamacneill.co.uk/event/</link>
+      <link>http://localhost:1313/event/</link>
     </image>
     
     <item>
       <title>Put the learning into work; take the work out of learning - Playful Learning 2024</title>
-      <link>https://fionamacneill.co.uk/event/playfullearning2024-copy/</link>
+      <link>http://localhost:1313/event/playfullearning2024-copy/</link>
       <pubDate>Thu, 04 Jul 2024 16:15:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/event/playfullearning2024-copy/</guid>
+      <guid>http://localhost:1313/event/playfullearning2024-copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research Hacking - UX Camp Brighton 2024</title>
-      <link>https://fionamacneill.co.uk/event/uxcamp2024/</link>
+      <link>http://localhost:1313/event/uxcamp2024/</link>
       <pubDate>Sat, 27 Apr 2024 14:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/event/uxcamp2024/</guid>
+      <guid>http://localhost:1313/event/uxcamp2024/</guid>
       <description>&lt;p&gt;Project pages will be added for each of the methods shown over the coming weeks. Please visit again soon to get more goodies and tutorials.&lt;/p&gt;
 &lt;h4 id=&#34;literature-review&#34;&gt;Literature review&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: &lt;a href=&#34;https://fionamacneill.co.uk/uploads/templates/ResearchList_Starter.xltx&#34;&gt;ResearchList_Starter.xltx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: &lt;a href=&#34;https://fionamacneill.co.uk/uploads/templates/ResearchList_ConcatenateTemplate.xltx&#34;&gt;ResearchList_ConcatenateTemplate.xltx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Template for formatting the references in Microsoft Word: &lt;a href=&#34;https://fionamacneill.co.uk/uploads/templates/WordFormatTemplate.dotx&#34;&gt;WordFormatTemplate.dotx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: &lt;a href=&#34;http://localhost:1313/uploads/templates/ResearchList_Starter.xltx&#34;&gt;ResearchList_Starter.xltx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: &lt;a href=&#34;http://localhost:1313/uploads/templates/ResearchList_ConcatenateTemplate.xltx&#34;&gt;ResearchList_ConcatenateTemplate.xltx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Template for formatting the references in Microsoft Word: &lt;a href=&#34;http://localhost:1313/uploads/templates/WordFormatTemplate.dotx&#34;&gt;WordFormatTemplate.dotx&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Creating truly accessible forms - SD in Gov (Virtual)</title>
-      <link>https://fionamacneill.co.uk/event/sdingovvirtual/</link>
+      <link>http://localhost:1313/event/sdingovvirtual/</link>
       <pubDate>Thu, 07 Mar 2024 15:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/event/sdingovvirtual/</guid>
+      <guid>http://localhost:1313/event/sdingovvirtual/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual-Space | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/virtual-space/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/virtual-space/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/virtual-space/</link>
+      <atom:link href="http://localhost:1313/tags/virtual-space/index.xml" rel="self" type="application/rss+xml" />
     <description>Virtual-Space</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Virtual-Space</title>
-      <link>https://fionamacneill.co.uk/tags/virtual-space/</link>
+      <link>http://localhost:1313/tags/virtual-space/</link>
     </image>
     
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</link>
+      <link>http://localhost:1313/post/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</guid>
-      <description>&lt;p&gt;This post relates to &lt;a href=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2021/10/magical-meetings-a-review/</guid>
+      <description>&lt;p&gt;This post relates to &lt;a href=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
 &lt;p&gt;The book, &lt;em&gt;Magical Meetings&lt;/em&gt; was discussed by one of the authors, Douglas Ferguson on &lt;a href=&#34;https://uibreakfast.com/216-meeting-facilitation-with-douglas-ferguson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UI Breakfast podcast with Jane Portman&lt;/a&gt;. Ferguson founded &lt;em&gt;Voltage Control&lt;/em&gt; a company that focuses on facilitation including meetings, workshops, and team dynamics. They also look at workflow and transformation, considering for example how to optimise agile sprint cycles within different organisations. All of this sounded fascinating and quite different from my current work in Higher Education.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;&lt;br&gt;
@@ -150,9 +150,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
 &lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
@@ -194,7 +194,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,7 +244,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,7 +392,7 @@ In case you cannot access the embedded content above, &lt;a href=&#34;https://ww
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -458,9 +458,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -503,7 +503,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -532,7 +532,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -561,7 +561,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -586,9 +586,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Vlog 1: introducing a personal challenge</title>
-      <link>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</link>
+      <link>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
+      <guid>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
       <description>&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/YHKYFsowRRE&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;800&#34; height=&#34;400&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;what-does-an-inclusive-and-successful-online-event-look-like-setting-a-personal-challenge&#34;&gt;What does an inclusive and successful online event look like? Setting a personal challenge&lt;/h2&gt;
 &lt;h3 id=&#34;the-short-version-rather-than-the-4min-vlog&#34;&gt;\[The short version rather than the 4min vlog\]&lt;/h3&gt;
@@ -629,7 +629,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp 400w,
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu15896906827204781959.webp 760w,
                /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu14277973832495104214.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp&#34;
                width=&#34;760&#34;
                height=&#34;740&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

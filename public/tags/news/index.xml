@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/news/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/news/</link>
+      <atom:link href="http://localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 11 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>News</title>
-      <link>https://fionamacneill.co.uk/tags/news/</link>
+      <link>http://localhost:1313/tags/news/</link>
     </image>
     
     <item>
       <title>Cellular concerns</title>
-      <link>https://fionamacneill.co.uk/post/2016/12/cellular-concerns/</link>
+      <link>http://localhost:1313/post/2016/12/cellular-concerns/</link>
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/12/cellular-concerns/</guid>
+      <guid>http://localhost:1313/post/2016/12/cellular-concerns/</guid>
       <description>&lt;p&gt;I have been plugging away at the portfolio site with the primary aim of getting a semi-functional prototype version to Dr. Theo Fotis on Monday 12th of December. There is a still a huge amount of stuff to do, fix-up and streamline I will add these tasks to my Trello board. This journal entry provides a rundown of the decisions that I have this week.&lt;/p&gt;
 &lt;h3 id=&#34;flickity-carousel&#34;&gt;Flickity carousel&lt;/h3&gt;
 \[caption id=&#34;attachment\_245&#34; align=&#34;alignnone&#34; width=&#34;471&#34;\]\[/caption\]\[caption id=&#34;attachment\_244&#34; align=&#34;alignnone&#34; width=&#34;453&#34;\]\[/caption\]&lt;h3 id=&#34;here-be-the-stuff-of-nightmares&#34;&gt;Here be the stuff of nightmares&amp;hellip;&lt;/h3&gt;
