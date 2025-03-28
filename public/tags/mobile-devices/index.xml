@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile-Devices | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/mobile-devices/</link>
-      <atom:link href="http://localhost:1313/tags/mobile-devices/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/mobile-devices/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/mobile-devices/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile-Devices</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Mobile-Devices</title>
-      <link>http://localhost:1313/tags/mobile-devices/</link>
+      <link>https://fionamacneill.co.uk/tags/mobile-devices/</link>
     </image>
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>The Adjustment Bureau: The Case for Adjustment in Mobile Apps</title>
-      <link>http://localhost:1313/post/2014/09/the-adjustment-bureau/</link>
+      <link>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2014/09/the-adjustment-bureau/</guid>
+      <guid>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</guid>
       <description>&lt;p&gt;
 
 
@@ -108,7 +108,7 @@
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu541171070284257285.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu7725335066671611.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp&#34;
                width=&#34;760&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -230,7 +230,7 @@
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu13104540372091023234.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu67222787888612795.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,7 +260,7 @@
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu206784104716909973.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu18345416300174672855.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -290,7 +290,7 @@
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu7139798004525784413.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu15258927823427455060.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -320,7 +320,7 @@
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu6699368185882607105.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu8148589128215595172.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -350,7 +350,7 @@
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu7108261367581230340.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu8212669824273940615.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,7 +380,7 @@
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu3645930520753675654.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu18379832534251029919.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -410,7 +410,7 @@
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu4434944031755846067.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu17272607717072261790.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
                width=&#34;760&#34;
                height=&#34;84&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -440,7 +440,7 @@
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu6657934438276066609.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3101211655162556713.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -470,7 +470,7 @@
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu15393699447292095779.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu1365990334634118828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -500,7 +500,7 @@
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu11964095565605199451.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12573814998558151024.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -530,7 +530,7 @@
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu14473746506689262433.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu982689408096270454.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

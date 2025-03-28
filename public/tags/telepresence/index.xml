@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Telepresence | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/telepresence/</link>
-      <atom:link href="http://localhost:1313/tags/telepresence/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/telepresence/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/telepresence/index.xml" rel="self" type="application/rss+xml" />
     <description>Telepresence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Telepresence</title>
-      <link>http://localhost:1313/tags/telepresence/</link>
+      <link>https://fionamacneill.co.uk/tags/telepresence/</link>
     </image>
     
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>http://localhost:1313/post/2021/10/magical-meetings-a-review/</link>
+      <link>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/10/magical-meetings-a-review/</guid>
-      <description>&lt;p&gt;This post relates to &lt;a href=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
+      <guid>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</guid>
+      <description>&lt;p&gt;This post relates to &lt;a href=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
 &lt;p&gt;The book, &lt;em&gt;Magical Meetings&lt;/em&gt; was discussed by one of the authors, Douglas Ferguson on &lt;a href=&#34;https://uibreakfast.com/216-meeting-facilitation-with-douglas-ferguson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UI Breakfast podcast with Jane Portman&lt;/a&gt;. Ferguson founded &lt;em&gt;Voltage Control&lt;/em&gt; a company that focuses on facilitation including meetings, workshops, and team dynamics. They also look at workflow and transformation, considering for example how to optimise agile sprint cycles within different organisations. All of this sounded fascinating and quite different from my current work in Higher Education.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;&lt;br&gt;
@@ -150,9 +150,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
 &lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
@@ -194,7 +194,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,7 +244,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,7 +392,7 @@ In case you cannot access the embedded content above, &lt;a href=&#34;https://ww
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -458,9 +458,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>A technical perspective on a telepresence robot</title>
-      <link>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
+      <link>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
+      <guid>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
       <description>&lt;p&gt;From January until May 2019 the eLearning team evaluated the AV1 robot avatar, a telepresence robot manufactured by the company &lt;em&gt;No Isolation&lt;/em&gt;, based in Norway. This post aims to provide a brief overview of what we learned during our pilot project.&lt;/p&gt;
 &lt;p&gt;
 
@@ -484,7 +484,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5126102033402840294.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu3711007996298212263.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
                width=&#34;760&#34;
                height=&#34;555&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -515,7 +515,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;figure  id=&#34;figure-_av1-robot_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;ldquo;An animated GIF showing the robot&amp;rsquo;s happy and questioning facial expressions.&amp;rdquo;&#34;
-           src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
+           src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;AV1 Robot&lt;/em&gt;
@@ -585,7 +585,7 @@ To understand the student experience of using the telepresence robot from a loca
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu6765897239600815503.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu456783232181794910.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
                width=&#34;760&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

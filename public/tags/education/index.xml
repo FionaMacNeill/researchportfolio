@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/education/</link>
-      <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/education/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <link>https://fionamacneill.co.uk/tags/education/</link>
     </image>
     
     <item>
       <title>[Talk] Gamification in Higher Education</title>
-      <link>http://localhost:1313/post/2016/03/gamification-in-higher-education/</link>
+      <link>https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/</link>
       <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/03/gamification-in-higher-education/</guid>
+      <guid>https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/</guid>
       <description>&lt;h2 id=&#34;references-and-resources&#34;&gt;References and resources&lt;/h2&gt;
 &lt;h1 id=&#34;games-and-gamification-for-learning-and-elearning&#34;&gt;Games and Gamification for Learning and eLearning&lt;/h1&gt;
 &lt;p&gt;Talk given at the Brighton Gamification Meetup on the 9th of March, 2016. &lt;a href=&#34;http://www.meetup.com/Brighton-Gamification-Meetup/events/226393358/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.meetup.com/Brighton-Gamification-Meetup/events/226393358/&lt;/a&gt;&lt;/p&gt;
@@ -43,7 +43,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu17324062090442176165.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu6251879632139772456.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu15203940443958195075.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu17324062090442176165.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.001-qd8rti-300x225_hu17324062090442176165.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -73,7 +73,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu15639720153489121954.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu4622934335871568598.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu12568732502650002209.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu15639720153489121954.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.002-1a676na-300x225_hu15639720153489121954.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,7 +104,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7814469453137469547.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7431453616214284753.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu5967113426146821963.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7814469453137469547.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.003-1jzjpaa-300x225_hu7814469453137469547.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -143,7 +143,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu4997829527978330393.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu3040963801061338844.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu6276470943991524548.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu4997829527978330393.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.005-2mhgpwx-300x225_hu4997829527978330393.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -182,7 +182,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu11207624429427809563.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu7446640820272460443.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu13180995867112244362.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu11207624429427809563.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.006-23pzdxz-300x225_hu11207624429427809563.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -223,7 +223,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu16876000556581059367.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu17046904799755503671.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu1706613452671529172.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu16876000556581059367.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.007-1pob641-300x225_hu16876000556581059367.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,7 +260,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu8239072821770098819.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu1301898118951611730.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu13681280690183853116.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu8239072821770098819.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.008-pjxa4v-300x225_hu8239072821770098819.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -292,7 +292,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu15444274553633496244.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu4746910332311273096.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu4265403205455383237.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu15444274553633496244.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.009-13qlb8o-300x225_hu15444274553633496244.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -324,7 +324,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu16603247201458763610.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu8852479205880535263.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu1516042567358654219.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu16603247201458763610.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.010-2mloryc-300x225_hu16603247201458763610.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -357,7 +357,7 @@
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu6592472122184719349.webp 400w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu16472527263723454518.webp 760w,
                /post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu10927196767775448935.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu6592472122184719349.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/03/gamification-in-higher-education/images/snapshot-of-gamification-in-HE.011-26c3gf1-300x225_hu6592472122184719349.webp&#34;
                width=&#34;300&#34;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

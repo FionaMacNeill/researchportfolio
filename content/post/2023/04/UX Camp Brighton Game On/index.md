@@ -64,13 +64,13 @@ We need to be careful with this as history tells us that when work get associate
 ## Get to the point Fiona... 
 This year I have designed a game to playtest. The game encourages reflection on power and social capital in UX. Some people enter UX with more power automatically, some with less. How can we help within the community to not only level the playing field but start the race from the same starter mark on 'said' field? The game is losely inspired by [Cards Against Humanity](https://www.cardsagainsthumanity.com/), but has a four deck structure. 
 
-The cards create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them is designed to stimulate conversation. The game probes the fascade of being a designer and is about helping us to empathise with struggles which are internal and external to a person.
+The cards create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them is designed to stimulate conversation. The game probes the facade of being a designer and is about helping us to empathise with struggles which are internal and external to a person.
 
 - **Deck 1: Situation** - this is how much power you bring to this situation. This could be a positive, neutral or negative value. For example, positive could be you know influential people, negative would be that you grew up in a poor family. 
 
 - **Deck 2: Subject** - this is 'subject' as in subjectivity of a UXer . Again this could be a positive, neutral or negative. So neutral could be "is a boxset binger" and negative could be, "is a solutioniser". 
 
-- **Deck 3: UX Trait** - this is thing that they do in UX. However, it is all not all kittens and puppies, sometimes they aren't happy in their field or are unsure of what to do next. 
+- **Deck 3: UX Trait** - this is the thing that they do in UX, or want to do in UX. However, it is all not all kittens and puppies, sometimes they aren't happy in their field or are unsure of what to do next. 
 
 - **Deck 4: Barrier** - this is something that is preventing them from being the best they can be. For example, they "don't have a portfolio", or "have very little money".
 

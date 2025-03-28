@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Usability | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/usability/</link>
-      <atom:link href="http://localhost:1313/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/usability/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/usability/index.xml" rel="self" type="application/rss+xml" />
     <description>Usability</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Usability</title>
-      <link>http://localhost:1313/tags/usability/</link>
+      <link>https://fionamacneill.co.uk/tags/usability/</link>
     </image>
     
     <item>
       <title>ePortfolio System (2017-20)</title>
-      <link>http://localhost:1313/project/eportfolio-system/</link>
+      <link>https://fionamacneill.co.uk/project/eportfolio-system/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/eportfolio-system/</guid>
+      <guid>https://fionamacneill.co.uk/project/eportfolio-system/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This usability evaluation was part of an annual report and was repeated over two years. The evaluation looked at the experience of three groups of ePortfolio system users, across two universities’ Social Work programmes and their external student work placement providers. The anonymised data which was collected and analysed allowed for improvements to user journeys, processes, and system information architecture. The changes made led to an increased usability rating from the user groups based on the scale used.&lt;/p&gt;
 &lt;h2 id=&#34;client&#34;&gt;Client&lt;/h2&gt;
@@ -48,8 +48,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2018.&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018_hu5783171331070367548.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2018.&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2018.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2018.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2018_hu5783171331070367548.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2018.&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -61,8 +61,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2019.&#34;&gt;
-      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019_hu15210847420127480277.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2019.&#34; width=&#34;141&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2019.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2019.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2019_hu15210847420127480277.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2019.&#34; width=&#34;141&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -110,7 +110,7 @@
                /project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp 400w,
                /project/eportfolio-system/usermenu-updates_hu937627463332696901.webp 760w,
                /project/eportfolio-system/usermenu-updates_hu2722556973076434641.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp&#34;
                width=&#34;760&#34;
                height=&#34;681&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

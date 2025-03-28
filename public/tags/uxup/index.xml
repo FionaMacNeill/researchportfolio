@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UXup | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/uxup/</link>
-      <atom:link href="http://localhost:1313/tags/uxup/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/uxup/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/uxup/index.xml" rel="self" type="application/rss+xml" />
     <description>UXup</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 05 Nov 2023 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>UXup</title>
-      <link>http://localhost:1313/tags/uxup/</link>
+      <link>https://fionamacneill.co.uk/tags/uxup/</link>
     </image>
     
     <item>
       <title>Overdue reflections: playing games and taking walks </title>
-      <link>http://localhost:1313/post/2023/11/overdue-reflections/</link>
+      <link>https://fionamacneill.co.uk/post/2023/11/overdue-reflections/</link>
       <pubDate>Sun, 05 Nov 2023 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023/11/overdue-reflections/</guid>
+      <guid>https://fionamacneill.co.uk/post/2023/11/overdue-reflections/</guid>
       <description>&lt;h2 id=&#34;previously-on-fionas-blog&#34;&gt;Previously on Fiona&amp;rsquo;s blog&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My last post&lt;/a&gt; was immediately before trying out a new version of the &amp;lsquo;These UXers Need Help&amp;rsquo; game. This post follows that and reflects on a recent Design Walk I devised and led.&lt;/p&gt;
 &lt;h2 id=&#34;todays-method-via-aristotle&#34;&gt;Today&amp;rsquo;s method via Aristotle&lt;/h2&gt;
@@ -158,7 +158,7 @@ The walk was structured as a story with a series of interventions along a planne
                /post/2023/11/overdue-reflections/images/mapimage09092023_hu17423346154976758025.webp 400w,
                /post/2023/11/overdue-reflections/images/mapimage09092023_hu9787682084289514564.webp 760w,
                /post/2023/11/overdue-reflections/images/mapimage09092023_hu9096938696180662751.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu17423346154976758025.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/11/overdue-reflections/images/mapimage09092023_hu17423346154976758025.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -235,7 +235,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/11/overdue-reflections/images/gelatoBrighton_hu3020362555727438274.webp 400w,
                /post/2023/11/overdue-reflections/images/gelatoBrighton_hu6418175485095250525.webp 760w,
                /post/2023/11/overdue-reflections/images/gelatoBrighton_hu8007787256140156424.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu3020362555727438274.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/11/overdue-reflections/images/gelatoBrighton_hu3020362555727438274.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -272,9 +272,9 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
     
     <item>
       <title>These UXers Need Help - Version 2.0</title>
-      <link>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</link>
+      <link>https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/</link>
       <pubDate>Sun, 16 Jul 2023 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</guid>
+      <guid>https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/</guid>
       <description>&lt;h2 id=&#34;previously-on-fionas-blog&#34;&gt;Previously on Fiona&amp;rsquo;s blog&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in &lt;a href=&#34;https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my last blog post&lt;/a&gt;, some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by &lt;a href=&#34;https://www.cardsagainsthumanity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cards Against Humanity&lt;/a&gt; and has a four deck structure.&lt;/p&gt;
 &lt;h2 id=&#34;how-did-it-go&#34;&gt;How did it go?&lt;/h2&gt;
@@ -304,7 +304,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu5452410757399018035.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu9058367740732236880.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -396,7 +396,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu9003669930572965202.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu1183660955067304430.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -432,7 +432,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7476996878649953868.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu4683675281643390975.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp&#34;
                width=&#34;450&#34;
                height=&#34;600&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -471,7 +471,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu7943134916643807312.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu579047236684706828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -515,7 +515,7 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu11397865665750429692.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu6556066273068473953.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

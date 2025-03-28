@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screenreader | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/screenreader/</link>
-      <atom:link href="http://localhost:1313/tags/screenreader/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/screenreader/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/screenreader/index.xml" rel="self" type="application/rss+xml" />
     <description>Screenreader</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Screenreader</title>
-      <link>http://localhost:1313/tags/screenreader/</link>
+      <link>https://fionamacneill.co.uk/tags/screenreader/</link>
     </image>
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;

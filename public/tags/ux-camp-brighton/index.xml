@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ux Camp Brighton | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/ux-camp-brighton/</link>
-      <atom:link href="http://localhost:1313/tags/ux-camp-brighton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/ux-camp-brighton/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/ux-camp-brighton/index.xml" rel="self" type="application/rss+xml" />
     <description>Ux Camp Brighton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 16 Jul 2023 17:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Ux Camp Brighton</title>
-      <link>http://localhost:1313/tags/ux-camp-brighton/</link>
+      <link>https://fionamacneill.co.uk/tags/ux-camp-brighton/</link>
     </image>
     
     <item>
       <title>These UXers Need Help - Version 2.0</title>
-      <link>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</link>
+      <link>https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/</link>
       <pubDate>Sun, 16 Jul 2023 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</guid>
+      <guid>https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/</guid>
       <description>&lt;h2 id=&#34;previously-on-fionas-blog&#34;&gt;Previously on Fiona&amp;rsquo;s blog&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in &lt;a href=&#34;https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my last blog post&lt;/a&gt;, some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by &lt;a href=&#34;https://www.cardsagainsthumanity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cards Against Humanity&lt;/a&gt; and has a four deck structure.&lt;/p&gt;
 &lt;h2 id=&#34;how-did-it-go&#34;&gt;How did it go?&lt;/h2&gt;
@@ -46,7 +46,7 @@
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu5452410757399018035.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu9058367740732236880.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -138,7 +138,7 @@
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu9003669930572965202.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu1183660955067304430.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -174,7 +174,7 @@
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7476996878649953868.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu4683675281643390975.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp&#34;
                width=&#34;450&#34;
                height=&#34;600&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -213,7 +213,7 @@
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu7943134916643807312.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu579047236684706828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -257,7 +257,7 @@
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp 400w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu11397865665750429692.webp 760w,
                /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu6556066273068473953.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -271,9 +271,9 @@
     
     <item>
       <title>UX Camp Brighton 2023 - Game on!</title>
-      <link>http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/</link>
+      <link>https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/</link>
       <pubDate>Sun, 09 Apr 2023 18:50:06 +0100</pubDate>
-      <guid>http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/</guid>
+      <guid>https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/</guid>
       <description>&lt;h2 id=&#34;today-is-ux-camp-brighton&#34;&gt;Today is UX Camp Brighton!&lt;/h2&gt;
 &lt;p&gt;It is is 6.30am on the day of UX Camp Brighton 2023, one of my favourite days of the year! It is also the event&amp;rsquo;s 10th anniversary. I starting attending back in 2014; we go back a long way. Check out &lt;a href=&#34;https://www.uxcampbrighton.org/history&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UX Camp Brighton&amp;rsquo;s history page&lt;/a&gt; for a flavour - I just noticed that I am on there!&lt;/p&gt;
 &lt;h2 id=&#34;what-is-ux-camp-brighton&#34;&gt;What is UX Camp Brighton?&lt;/h2&gt;
@@ -306,7 +306,7 @@
                /post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu13721310628434127772.webp 400w,
                /post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu6892823359747270884.webp 760w,
                /post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu15631320791414348530.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu13721310628434127772.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu13721310628434127772.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -329,7 +329,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;get-to-the-point-fiona&#34;&gt;Get to the point Fiona&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;This year I have designed a game to playtest. The game encourages reflection on power and social capital in UX. Some people enter UX with more power automatically, some with less. How can we help within the community to not only level the playing field but start the race from the same starter mark on &amp;lsquo;said&amp;rsquo; field? The game is losely inspired by &lt;a href=&#34;https://www.cardsagainsthumanity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cards Against Humanity&lt;/a&gt;, but has a four deck structure.&lt;/p&gt;
-&lt;p&gt;The cards create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them is designed to stimulate conversation. The game probes the fascade of being a designer and is about helping us to empathise with struggles which are internal and external to a person.&lt;/p&gt;
+&lt;p&gt;The cards create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them is designed to stimulate conversation. The game probes the facade of being a designer and is about helping us to empathise with struggles which are internal and external to a person.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Deck 1: Situation&lt;/strong&gt; - this is how much power you bring to this situation. This could be a positive, neutral or negative value. For example, positive could be you know influential people, negative would be that you grew up in a poor family.&lt;/p&gt;
@@ -338,7 +338,7 @@
 &lt;p&gt;&lt;strong&gt;Deck 2: Subject&lt;/strong&gt; - this is &amp;lsquo;subject&amp;rsquo; as in subjectivity of a UXer . Again this could be a positive, neutral or negative. So neutral could be &amp;ldquo;is a boxset binger&amp;rdquo; and negative could be, &amp;ldquo;is a solutioniser&amp;rdquo;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Deck 3: UX Trait&lt;/strong&gt; - this is thing that they do in UX. However, it is all not all kittens and puppies, sometimes they aren&amp;rsquo;t happy in their field or are unsure of what to do next.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deck 3: UX Trait&lt;/strong&gt; - this is the thing that they do in UX, or want to do in UX. However, it is all not all kittens and puppies, sometimes they aren&amp;rsquo;t happy in their field or are unsure of what to do next.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Deck 4: Barrier&lt;/strong&gt; - this is something that is preventing them from being the best they can be. For example, they &amp;ldquo;don&amp;rsquo;t have a portfolio&amp;rdquo;, or &amp;ldquo;have very little money&amp;rdquo;.&lt;/p&gt;

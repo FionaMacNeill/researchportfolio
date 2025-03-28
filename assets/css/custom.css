@@ -15,8 +15,8 @@
 
 /* Links and navigation styles */
 
-.dark a.summary-link, a:hover, a:focus {
-    color: #dafcff;
+.dark a.summary-link, a:hover, .group:hover, a:focus {
+    color: #FFF;
 }
 
 .dark .nav-link:active {
@@ -37,6 +37,13 @@
     text-decoration: underline;
   } 
 
+.to-primary-100 {
+	--tw-gradient-to: rgb(16, 190, 206) var(--tw-gradient-to-position);
+} 
+
+.from-primary-200 {
+	--tw-gradient-from: rgb(179, 247, 255) var(--tw-gradient-from-position);
+}
 
 /* Bio section */ 
 
@@ -146,10 +153,15 @@
 
 .quotation {
     color: #333;
+} 
+
+figcaption {
+    font-style: italic;
 }
 
 .dark figcaption { 
-    color: #575757;
+    color:#b0b0b0; 
+    
 }
 
 .prose :where(figcaption):not(:where([class~="not-prose"], [class~="not-prose"] *)) {

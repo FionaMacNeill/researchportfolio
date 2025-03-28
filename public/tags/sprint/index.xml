@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sprint | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/sprint/</link>
-      <atom:link href="http://localhost:1313/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fionamacneill.co.uk/tags/sprint/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Sprint</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 23 Oct 2022 18:21:29 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
       <title>Sprint</title>
-      <link>http://localhost:1313/tags/sprint/</link>
+      <link>https://fionamacneill.co.uk/tags/sprint/</link>
     </image>
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>http://localhost:1313/post/2022/10/cufflinks-1022/</link>
+      <link>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/10/cufflinks-1022/</guid>
+      <guid>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -73,7 +73,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp 400w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu3542266375365254829.webp 760w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu12678372389051257266.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,7 +135,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp 400w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu6039912154369726025.webp 760w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu3295236739691401557.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
                width=&#34;760&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
