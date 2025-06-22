@@ -120,7 +120,7 @@ In a similar vein I can recommend the work of Stefaan van Hooyd, author of [The 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you  <a href="https://twitter.com/brightonalumni?ref_src=twsrc%5Etfw">@brightonalumni</a> for making this possible! <a href="https://t.co/Y2KrmoUnup">pic.twitter.com/Y2KrmoUnup</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1554933626609041410?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- Going to the theatre more. The show that caused to me to think, learn and reflect this week was [Ifrah Mansour]([Facebook](https://www.facebook.com/ifrahmansour/))'s one-woman show, "How to have fun in a Civil War". Which effectively and poignantly retold her own experiences as a young child in Somalia. 
+- Going to the theatre more. The show that caused to me to think, learn and reflect this week was Ifrah Mansour's one-woman show, "How to have fun in a Civil War". Which effectively and poignantly retold her own experiences as a young child in Somalia. 
 
 - I have been drawing again and will be trying to attend life drawing sessions at least once every couple of months. It is clear to me that the intense observation required in drawing supports my practice as a designer. It is a muscle I definitely need to continue flexing. 
 

@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -45,7 +45,7 @@
 " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2016/11/timeline-tool-identified/" />
 
   
   
@@ -58,7 +58,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -165,7 +165,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/" />
+  <link rel="canonical" href="http://localhost:1313/post/2016/11/timeline-tool-identified/" />
 
   
   
@@ -187,10 +187,10 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/" />
+  <meta property="og:url" content="http://localhost:1313/post/2016/11/timeline-tool-identified/" />
   <meta property="og:title" content="Timeline tool identified | Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:description" content="After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): https://jsfiddle.net/43gg6x3v/7/ Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly get the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: jQuery vs. Javascript gist and then the From jQuery to Javascript: A Reference - vanilla makes much more sense to me." /><meta property="og:image" content="https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/featured.png" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/featured.png" /><meta property="og:locale" content="en-gb" />
+  <meta property="og:description" content="After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): https://jsfiddle.net/43gg6x3v/7/ Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly get the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: jQuery vs. Javascript gist and then the From jQuery to Javascript: A Reference - vanilla makes much more sense to me." /><meta property="og:image" content="http://localhost:1313/post/2016/11/timeline-tool-identified/featured.png" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2016/11/timeline-tool-identified/featured.png" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -588,40 +588,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -649,8 +676,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -785,9 +812,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -804,8 +831,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1535,6 +1580,7 @@
   </div></figure>
 </a> Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener">GPLv3 license</a>. I am passionate about open source and was already licensing my work under an <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT license</a> so I have decided to set the rest of my project to <a href="http://flickity.metafizzy.co/license.html" target="_blank" rel="noopener">comply with the GPLv3 license</a>. This means that the license information needs to be included in the header of each source file. As the portfolio site will not contain any original research and will only provide an overview of the project this will also comply with the University&rsquo;s Intellectual Property rules<fn>As a student and employee I need to be aware of the university&rsquo;s Intellectual Property rules, which are available here: <a href="https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx" target="_blank" rel="noopener">https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx</a> . However as portfolio site will not provide software with potential for commercial value and the project information itself is in the early stages it complies with the rules.</fn>. Also in the markup of the html, CSS and Javascript I have indicated where pieces of code have come from and if/when licenses apply. <strong>Update:</strong> Shortly after writing this post I solved the issues outlined above (see: &ldquo;There is still a lot to do&hellip;&rdquo;) and these discoveries are outlined in the next couple of posts. I realise that I forgot to mention how I solved the issue of the number labels on the dots below the Flickity carousel. This problem turned out to offer me a very valuable lesson in the <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/::before" target="_blank" rel="noopener">pseudo element &ldquo;before::&rdquo; or &ldquo;before:&rdquo;</a>. I have used the former, &ldquo;before::&rdquo; as this was introduced in CSS3 and is compatible with IE9 based on my testing. I figured out that the dots themselves could be used as a counter-increment for the addition of the number labels. <code>.dot { position: relative; overflow: hidden; display: inline-block; width: 40px; height: 40px; margin: 0 20px; background: #a9a9a9; border-radius: 50%; cursor: pointer; counter-increment: flickity-page-dots; }</code> <code>.dot::before { display: block; text-align: center; content: counter(flickity-page-dots); padding-top: 11px; font-size: 20px; color: #FFF; }</code> As the dots themselves are automatically produced by the Flickity Javascript, this meant that my number labels were now produced too. A nice solution.</p>
 <h3 id="references">References</h3>
+<p>Coyier, C. (2015, March 5). Creating responsive, touch-friendly carousels with Flickity </p>
 \[Blog post\]<p>. Retrieved from <a href="https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/" target="_blank" rel="noopener">https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/</a> Flickity - freeScroll. Retrieved November 26, 2016, from <a href="http://codepen.io/desandro/pen/bNLGNZ" target="_blank" rel="noopener">http://codepen.io/desandro/pen/bNLGNZ</a> Flickity License. Retrieved November 26, 2016, from <a href="http://flickity.metafizzy.co/license.html" target="_blank" rel="noopener">http://flickity.metafizzy.co/license.html</a> Flickity. Retrieved November 26, 2016, from <a href="http://flickity.metafizzy.co/" target="_blank" rel="noopener">http://flickity.metafizzy.co/</a> Free Software Foundation. (2007). GNU General Public License. Retrieved November 26, 2016, from <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener">https://www.gnu.org/licenses/gpl-3.0.html</a> Heinz, M. (2015). Lory minimalistic slider. Retrieved November 26, 2016, from <a href="http://meandmax.github.io/lory/" target="_blank" rel="noopener">http://meandmax.github.io/lory/</a> Horizontal Timeline in CSS and jQuery. (2014, February 28). Retrieved November 26, 2016, from <a href="https://codyhouse.co/gem/horizontal-timeline/" target="_blank" rel="noopener">https://codyhouse.co/gem/horizontal-timeline/</a> Mozilla Developer Network. (2016, July 24). :Before (:Before). Retrieved November 26, 2016, from <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/::before" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/CSS/::before</a> Open Source Initiative. The MIT license. Retrieved November 26, 2016, from <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">https://opensource.org/licenses/MIT</a> Saunders, S. ​Intellectual property (IP). Retrieved January 4, 2017, from <a href="https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx" target="_blank" rel="noopener">https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx</a> Vanilla JS vs jQuery. (2017). <em>Gist</em>. Retrieved 26 November 2016, from <a href="https://gist.github.com/liamcurry/2597326" target="_blank" rel="noopener">https://gist.github.com/liamcurry/2597326</a> Vertical Timeline. (2014, June 12). Retrieved November 16, 2016, from <a href="https://codyhouse.co/gem/vertical-timeline/" target="_blank" rel="noopener">https://codyhouse.co/gem/vertical-timeline/</a> Way, J. (2012, January 19). From jQuery to JavaScript: A reference. Retrieved November 26, 2016, from <a href="https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703" target="_blank" rel="noopener">https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference&ndash;net-23703</a></p>
 
       </div>
@@ -1582,7 +1628,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;text=Timeline&#43;tool&#43;identified"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;text=Timeline&#43;tool&#43;identified"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1600,7 +1646,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;t=Timeline&#43;tool&#43;identified"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;t=Timeline&#43;tool&#43;identified"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1620,7 +1666,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Timeline%20tool%20identified&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F"
+    href="mailto:?subject=Timeline%20tool%20identified&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1638,7 +1684,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;title=Timeline&#43;tool&#43;identified"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F&amp;title=Timeline&#43;tool&#43;identified"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1656,7 +1702,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Timeline&#43;tool&#43;identified%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F"
+    href="whatsapp://send?text=Timeline&#43;tool&#43;identified%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Ftimeline-tool-identified%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1706,7 +1752,7 @@
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

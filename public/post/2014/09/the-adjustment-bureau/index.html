@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -45,7 +45,7 @@
 " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2014/09/the-adjustment-bureau/" />
 
   
   
@@ -58,7 +58,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -165,7 +165,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/" />
+  <link rel="canonical" href="http://localhost:1313/post/2014/09/the-adjustment-bureau/" />
 
   
   
@@ -187,7 +187,7 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/" />
+  <meta property="og:url" content="http://localhost:1313/post/2014/09/the-adjustment-bureau/" />
   <meta property="og:title" content="The Adjustment Bureau: The Case for Adjustment in Mobile Apps | Fiona MacNeill Portfolio and Blog" />
   <meta property="og:description" content="
 
@@ -213,8 +213,8 @@
     
 
 Introduction
-Recently I was asked to present at the Media-Enhanced Learning Special Interest Group (MELSIG) event hosted by the University of Sussex. MELSIG is a special interest group originally formed in 2008 (MELSIG, 2014). The group&rsquo;s focus has evolved, alongside contemporary developments in technology, to include investigation of a wide variety of digital media when applied to the support of learning and teaching. The theme for the University of Sussex event was Digital Media Interaction and Inclusivity and this was exactly the prompt I needed to engage in more thorough research of in-app adjustment functions which has been preoccupation of mine for a while." /><meta property="og:image" content="https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/featured.jpg" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/featured.jpg" /><meta property="og:locale" content="en-gb" />
+Recently I was asked to present at the Media-Enhanced Learning Special Interest Group (MELSIG) event hosted by the University of Sussex. MELSIG is a special interest group originally formed in 2008 (MELSIG, 2014). The group&rsquo;s focus has evolved, alongside contemporary developments in technology, to include investigation of a wide variety of digital media when applied to the support of learning and teaching. The theme for the University of Sussex event was Digital Media Interaction and Inclusivity and this was exactly the prompt I needed to engage in more thorough research of in-app adjustment functions which has been preoccupation of mine for a while." /><meta property="og:image" content="http://localhost:1313/post/2014/09/the-adjustment-bureau/featured.jpg" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2014/09/the-adjustment-bureau/featured.jpg" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -612,40 +612,67 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -673,8 +700,8 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -809,9 +836,9 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -828,8 +855,26 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1469,6 +1514,20 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   
     
     
+    <div class="backlinks">
+      <div class="mb-1 font-semibold tracking-tight">
+        Backlinks
+      </div>
+      <ul>
+        
+        
+        <li>
+          <a href="/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/" class="backlink">Reflection: The search for the best notetaking -or rather handwriting- app</a>
+        </li>
+        
+      </ul>
+    </div>
+    
   
 
 
@@ -1504,7 +1563,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          12 min read
+          13 min read
         </span>
         
         </div>
@@ -2001,23 +2060,37 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
 </p>
 <p>This screenshot shows the reader mode adjustments which are available when you turn a page to reader mode. You can save pages to PDF with these settings.</p>
 <h3 id="references"><strong>References:</strong></h3>
+<p>Apple Inc., <em>Accessibility Programming Guide for iOS: Introduction</em> </p>
 \[Online\]<p>. Available: <a href="https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html" title="accessibility programming guide for iOS - document link" target="_blank" rel="noopener">https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html</a> (Accessed: 23 August 2014).</p>
+<p>Bluefire (2014) <em>Bluefire Reader Apps</em> </p>
 \[Online\]<p>. Available: <a href="http://www.bluefirereader.com/" title="bluefire reader" target="_blank" rel="noopener">http://www.bluefirereader.com/</a> (Accessed: 7 September 2014).</p>
 <p>Coyle, B. (1995) USE OF FILTERS TO TREAT VISUAL-PERCEPTION PROBLEM CREATES ADHERENTS AND SKEPTICS. <em>Canadian Medical Association journal,</em> 152**,** 749-750.</p>
+<p>Dredge, S. (2011) <em>Top 10 steps towards making your mobile apps more accessible</em> </p>
 \[Online\]<p>. theguardian.com. Available: <a href="http://www.theguardian.com/smart-accessibility/making-your-mobile-apps-more-accessible" title="top 10 steps - article link" target="_blank" rel="noopener">http://www.theguardian.com/smart-accessibility/making-your-mobile-apps-more-accessible</a> (Accessed: 23 August 2014).</p>
+<p>European Commission (2014) <em>Information Providers Guide - The EU Internet Handbook</em> </p>
 \[Online\]<p>. Available: <a href="http://ec.europa.eu/ipg/standards/accessibility/index_en.htm" title="The EU Internet Handbook" target="_blank" rel="noopener">http://ec.europa.eu/ipg/standards/accessibility/index_en.htm</a> (Accessed: 7 September 2014).</p>
+<p>Good.iWare (2014) <em>Goodreader</em> </p>
 \[Online\]<p>. Available: <a href="http://www.goodiware.com/" title="Good.iWare developer website" target="_blank" rel="noopener">http://www.goodiware.com/</a> (Accessed: 7 September 2014).</p>
 <p>Ingber, J. (2013) Using VoiceOver with the Accessible Amazon iOS Kindle App. <em>AFB AccessWorld Magazine,</em> 14.</p>
+<p>Kobo (2014) <em>eReading Apps - Kobo</em> </p>
 \[Online\]<p>. Available: <a href="http://www.kobo.com/apps" title="Kobo" target="_blank" rel="noopener">http://www.kobo.com/apps</a> (Accessed: 7 September 2014).</p>
 <p>Lawrence, J. (2008) <em>Research into Meares-Irlen syndrome</em>. Sutton: Reed Business Information UK.</p>
+<p>Lewis, T. (2014) <em>Paddy Considine: ‘I was always portrayed as angry, but I was just ill’</em> </p>
 \[Online\]<p>. theguardian.com. Available: <a href="http://www.theguardian.com/film/2014/sep/07/paddy-considine-actor-i-was-portrayed-angry-i-was-just-ill" title="I was portrayed as angry - article link" target="_blank" rel="noopener">http://www.theguardian.com/film/2014/sep/07/paddy-considine-actor-i-was-portrayed-angry-i-was-just-ill</a> (Accessed: 7 September 2014).</p>
+<p>MELSIG (2014) <em>About MELSIG</em> </p>
 \[Online\]<p>. Available: <a href="http://melsig.shu.ac.uk/?page_id=2" title="MELSIG link" target="_blank" rel="noopener">http://melsig.shu.ac.uk/?page_id=2</a> (Accessed: 7 September 2014).</p>
+<p>MELSIG (2014) <em>Digital Media Interaction and Inclusivity</em> </p>
 \[Online\]<p>. Available: <a href="http://melsig.shu.ac.uk/?page_id=645" title="Digital Media Interaction and Inclusivity - link" target="_blank" rel="noopener">http://melsig.shu.ac.uk/?page_id=645</a> (Accessed: 7 September 2014).</p>
+<p>Microsoft. <em>Guidelines for designing accessible apps - Windows app development</em> </p>
 \[Online\]<p>. Available: <a href="http://msdn.microsoft.com/en-GB/library/windows/apps/hh700407.aspx" title="Guidelines for designing accessible apps - document link" target="_blank" rel="noopener">http://msdn.microsoft.com/en-GB/library/windows/apps/hh700407.aspx</a> (Accessed: 23 August 2014).</p>
+<p>Moren, D. (2012) <em>iOS 5 Review: Ambitious update rings in the changes</em> </p>
 \[Online\]<p>. macworld.com. Available: <a href="http://www.macworld.com/article/1162962/ios_5_review_ambitious_update_rings_in_the_changes.html" title="iOS 5 review from 2012" target="_blank" rel="noopener">http://www.macworld.com/article/1162962/ios_5_review_ambitious_update_rings_in_the_changes.html</a> (Accessed: 7 September 2014).</p>
 <p>Ritchie, S. J., Della Sala, S. &amp; McIntosh, R. D. (2011) Irlen colored overlays do not alleviate reading difficulties. <em>Pediatrics,</em> 128**,** e932-E938.</p>
+<p>Schofield, J. (2009) Amazon caves to Authors Guild over Kindle&rsquo;s text-to-speech reading. <em>The Guardian Technology Blog</em> </p>
 \[Online\]<p>. Available from: <a href="http://www.theguardian.com/technology/blog/2009/mar/01/authors-guild-blocks-kindle-voice" title="The Guardian Technology Blog" target="_blank" rel="noopener">http://www.theguardian.com/technology/blog/2009/mar/01/authors-guild-blocks-kindle-voice</a> (Accessed: 7 September 2014).</p>
+<p>World Wide Web Consortium (WC3) (2014) <em>Web Accessibility initiative (WAI)</em> </p>
 \[Online\]<p>. Available: <a href="http://www.w3.org/WAI/" title="WC3 WAI site" target="_blank" rel="noopener">http://www.w3.org/WAI/</a> (Accessed: 7 September 2014).</p>
+<p>Wenger, E. 1998. <em>Communities of practice: learning, meaning, and identity,</em> Cambridge, Cambridge University Press. Wikipedia. 2014. <em>Software development kit</em> </p>
 \[Online\]<p>. Available: <a href="http://en.wikipedia.org/wiki/Software_development_kit" title="Software Development Kit definition" target="_blank" rel="noopener">http://en.wikipedia.org/wiki/Software_development_kit</a> (Accessed: 7 September 2014).</p>
 
       </div>
@@ -2065,7 +2138,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;text=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;text=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -2083,7 +2156,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;t=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;t=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -2103,7 +2176,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=The%20Adjustment%20Bureau%3A%20The%20Case%20for%20Adjustment%20in%20Mobile%20Apps&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F"
+    href="mailto:?subject=The%20Adjustment%20Bureau%3A%20The%20Case%20for%20Adjustment%20in%20Mobile%20Apps&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -2121,7 +2194,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;title=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F&amp;title=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -2139,7 +2212,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F"
+    href="whatsapp://send?text=The&#43;Adjustment&#43;Bureau%3A&#43;The&#43;Case&#43;for&#43;Adjustment&#43;in&#43;Mobile&#43;Apps%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2014%2F09%2Fthe-adjustment-bureau%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -2189,7 +2262,7 @@ Recently I was asked to present at the Media-Enhanced Learning Special Interest 
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

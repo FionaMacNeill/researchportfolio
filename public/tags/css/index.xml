@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/css/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/css/</link>
+      <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <description>Css</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Css</title>
-      <link>https://fionamacneill.co.uk/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
     </image>
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -35,7 +35,36 @@
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
 &lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
-\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 - public domain&lt;/a&gt; apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; srcset=&#34;
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;122&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The complete sprite for the devices in all of its glory&lt;/p&gt;
+\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
 &lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
 &lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
@@ -59,15 +88,21 @@
 &lt;p&gt;Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp;amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
 &lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
@@ -75,45 +110,169 @@
 &lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (1996, October 1). Accessible design for users with disabilities &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (2002). Let users control font size &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015). Colour Contrast Check &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Watson, L. (2014, August 4). Using the tabindex attribute &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WAVE web accessibility tool. &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The weekend of doom</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/the-weekend-of-doom/</link>
+      <link>http://localhost:1313/post/2017/01/the-weekend-of-doom/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/the-weekend-of-doom/</guid>
-      <description>\[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Altering the Flickity Carousel/Timeline&lt;/strong&gt; So changing the height of the Flickity carousel used for the patient timeline meant that the &amp;ldquo;dot&amp;rdquo; buttons had to be moved upwards otherwise they would be off the bottom of the visible area on most standard screen sizes. For reference, I have included a long screenshot that I made of the site prior to this work, on the right. So I decided that the dots should reside on-top of the carousel and then they would also be spatially connected to the navigation of the timeline. This is not really how Flickity carousels are really designed to exist (metafizzy, 2016), but it is closer to the original inspiration for my site the DuckDuckGo about page (DuckDuckGo, 2014). The main issue that I ran into was that the carousel needed to resize itself dynamically and I had media queries which hid the dots on mobile devices (as they were no longer very useful as buttons at that size). However, as the dots themselves are rendered automatically by the JavaScript, they were rendering much more quickly than the resizing. So I upon sizing-up a responsive browser window the dots and timeline appeared on top of everything and looked awful. I tried everything I could think of to fix this issue. I attempted to delay the dots in the JavaScript. I also tried writing a script which watched for the window size. I tried positioning the dots so that they moved upwards. I also tried creating condition code which watched for various conditions to be met prior to triggering the dots. Things I wrote worked to an extent, but not sufficiently or reliably enough to depend on them. In the end I had to temporarily hide the dots by setting them and the timeline to &amp;lsquo;display: none&amp;rsquo;. I also had to hide the spot where they generated by moving the about section upwards. Essentially the solution&amp;rsquo;s analogue equivalent is that the rabbit is being hidden in a compartment of the hat the whole time (oh wait&amp;hellip;is that how they do it?). &lt;strong&gt;Performance Issues&lt;/strong&gt; I am actually grateful that all of this happened as once I had cracked the rendering issue I realised that there were some major performance issues with the carousel/timeline. It took a bit of time to get to the bottom of it,  but in the end I realised that it was the long svg that I had included to indicate the patient&amp;rsquo;s anxiety levels. Through testing in multiple browsers, on Mac, PC and mobile I realised that the image also wasn&amp;rsquo;t loading anywhere other than in Chrome for Mac. Everywhere it was just gumming up the works. I reassessed the need for the anxiety level gauge/image and decided that it was important to keep it. So through trial and error I ended up loading with an image tag in the html as a very, very long svg. This is the only svg in the site that I could not optimise as it resulted in optimisation errors because it was too long dimensions-wise. Also, I realised that I did not really want to optimise it as I would result in losing the drop shadow detail which I had added to a new version of the design.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2017/01/the-weekend-of-doom/</guid>
+      <description>&lt;p&gt;In &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/12/final-meeting-with-stakeholder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my last entry&lt;/a&gt; I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
+\[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/precarousel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing site pre-14th of Jan&#34; srcset=&#34;
+               /post/2017/01/the-weekend-of-doom/images/precarousel_hu14473937338990126973.webp 400w,
+               /post/2017/01/the-weekend-of-doom/images/precarousel_hu5015065230792960571.webp 760w,
+               /post/2017/01/the-weekend-of-doom/images/precarousel_hu9434093652980094937.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/precarousel_hu14473937338990126973.webp&#34;
+               width=&#34;87&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; An image showing how the site looked prior to the changes to the carousel.&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;strong&gt;Altering the Flickity Carousel/Timeline&lt;/strong&gt; So changing the height of the Flickity carousel used for the patient timeline meant that the &amp;ldquo;dot&amp;rdquo; buttons had to be moved upwards otherwise they would be off the bottom of the visible area on most standard screen sizes. For reference, I have included a long screenshot that I made of the site prior to this work, on the right. So I decided that the dots should reside on-top of the carousel and then they would also be spatially connected to the navigation of the timeline. This is not really how Flickity carousels are really designed to exist (metafizzy, 2016), but it is closer to the original inspiration for my site the DuckDuckGo about page (DuckDuckGo, 2014). The main issue that I ran into was that the carousel needed to resize itself dynamically and I had media queries which hid the dots on mobile devices (as they were no longer very useful as buttons at that size). However, as the dots themselves are rendered automatically by the JavaScript, they were rendering much more quickly than the resizing. So I upon sizing-up a responsive browser window the dots and timeline appeared on top of everything and looked awful. I tried everything I could think of to fix this issue. I attempted to delay the dots in the JavaScript. I also tried writing a script which watched for the window size. I tried positioning the dots so that they moved upwards. I also tried creating condition code which watched for various conditions to be met prior to triggering the dots. Things I wrote worked to an extent, but not sufficiently or reliably enough to depend on them. In the end I had to temporarily hide the dots by setting them and the timeline to &amp;lsquo;display: none&amp;rsquo;. I also had to hide the spot where they generated by moving the about section upwards. Essentially the solution&amp;rsquo;s analogue equivalent is that the rabbit is being hidden in a compartment of the hat the whole time (oh wait&amp;hellip;is that how they do it?). &lt;strong&gt;Performance Issues&lt;/strong&gt; I am actually grateful that all of this happened as once I had cracked the rendering issue I realised that there were some major performance issues with the carousel/timeline. It took a bit of time to get to the bottom of it,  but in the end I realised that it was the long svg that I had included to indicate the patient&amp;rsquo;s anxiety levels. Through testing in multiple browsers, on Mac, PC and mobile I realised that the image also wasn&amp;rsquo;t loading anywhere other than in Chrome for Mac. Everywhere it was just gumming up the works. I reassessed the need for the anxiety level gauge/image and decided that it was important to keep it. So through trial and error I ended up loading with an image tag in the html as a very, very long svg. This is the only svg in the site that I could not optimise as it resulted in optimisation errors because it was too long dimensions-wise. Also, I realised that I did not really want to optimise it as I would result in losing the drop shadow detail which I had added to a new version of the design.&lt;/p&gt;
 &lt;h3 id=&#34;the-new-design&#34;&gt;&lt;strong&gt;The new design&lt;/strong&gt;&lt;/h3&gt;
-\[caption id=&#34;attachment\_384&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]\[caption id=&#34;attachment\_385&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;h3 id=&#34;space-economy&#34;&gt;&lt;strong&gt;Space economy&lt;/strong&gt;&lt;/h3&gt;
-\[caption id=&#34;attachment\_386&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;h3 id=&#34;the-contact-form-actually-works-now&#34;&gt;The contact form actually works now&lt;/h3&gt;
+&lt;p&gt;The performance issues highlighted that the design of the patient anxiety-level link was in fact creating an optical illusion and making the carousel look guddery/jerky even once the problems with it were fixed. The new design not only looked more streamlined, but it &lt;em&gt;moved&lt;/em&gt; more smoothly simply by virtue of its aesthetics. &lt;/p&gt;
+\[caption id=&#34;attachment\_384&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-17-at-14-41-34/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the original flickity anxiety level image which was a series of coloured bars&#34; srcset=&#34;
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu10641617840391563913.webp 400w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu12300977603194677669.webp 760w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu616785827098561202.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu10641617840391563913.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;142&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 1 - This screenshot deliberately shows the progress between two slides. This version of the anxiety level image had a visual effect akin to passing a row of trees with bright light behind them. It became very jarring when viewed at-speed&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_385&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-17-at-21-53-02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the second version of the patient anxiety level image this looks more like a wobbly graph line&#34; srcset=&#34;
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu12588143370985650092.webp 400w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu3926500114366226013.webp 760w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu10023495850637389306.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu12588143370985650092.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;171&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 2: I created a long svg in Adobe Illustrator with a greater level of logic. Attempting to map the story thematically to a graphical interpretation of the patient stress levels. This link is on the one-hand more graph-like but also more oraganic as I made it from scratch by drawing and manipulating a continuous line&amp;hellip;Can you tell I went to art school?&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;space-economy&#34;&gt;&lt;strong&gt;Space economy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This entry represents the end of a period where I added a lot of content to the site. This was a good thing, but it also meant that there were areas that felt overly heavy like the devices area. I decided to try adding a collapsible accordion as a container for the information, using a tutorial from Codrops (Mary Lou, 2012). The tutorial was bit old but I liked how it used CSS and I felt that I could build on it. The accordion looked quite nice too, I&amp;rsquo;m sure that you can sense a &amp;lsquo;but&amp;hellip;&amp;rsquo; coming on here? Well I will explain it in the next journal entry. I have however included a screenshot the accordion so that it can live on it perpetuity. &lt;/p&gt;
+\[caption id=&#34;attachment\_386&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-19-at-23-28-05/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing collapsible accordion sections of the site&#34; srcset=&#34;
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu10750906775078462425.webp 400w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu13497284203342604695.webp 760w,
+               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu13783834743057585401.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu10750906775078462425.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; This is where I got to with them. Partially styled, but a nice efficient use of space. I would have added svg &amp;ldquo;+&amp;ldquo;s on the right to indicate their interactivity.&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;the-contact-form-actually-works-now&#34;&gt;The contact form actually works now&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/09/new-files-added-to-support-the-contact-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I wrote a dev post about this&lt;/a&gt;, but &lt;em&gt;yes&lt;/em&gt; the contact form is now working as it should. I just need to enhance the warning/alert aspects and add aria labels etc. And so does the back-to-top the button as in it only appears when one is sufficiently far from the top of the page for it to be useful. &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/18/got-rid-of-some-extras-and-wrote-some-new-script/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This took a couple of iterations of code to get right&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;finally&#34;&gt;Finally&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;I had come up with a CSS style for reference sections and I decided to add it to this journal as well as part of my custom child theme. I am going to &lt;em&gt;try&lt;/em&gt; (time allowing) to add it to my all my posts retroactively, but it is a big job and I have surprised myself at the sheer number of posts that I have amassed here in the past few months.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt;Coyier, C. (2013, March 5). Using SVG &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/using-svg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/using-svg/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;DuckDuckGo. (2014, February 20). About DuckDuckGo. Retrieved January 15, 2017, from DuckDuckGo.com website: &lt;a href=&#34;https://duckduckgo.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com/about&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;metafizzy. (2016). Options. Retrieved January 15, 2017, from metafizzy website: &lt;a href=&#34;http://flickity.metafizzy.co/options.html#prevnextbuttons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/options.html#prevnextbuttons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sowmya. (2013). Re: Nesting an svg inside a div &lt;/p&gt;
 \[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/15474306/nesting-an-svg-inside-a-div&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/15474306/nesting-an-svg-inside-a-div&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</link>
+      <link>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -145,7 +304,7 @@
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp 400w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu3193635436544001950.webp 760w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu16391398717144244650.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -172,7 +331,7 @@
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp 400w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu15444704337815661328.webp 760w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu16685531038401827356.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -219,12 +378,70 @@
     
     <item>
       <title>Cellular concerns</title>
-      <link>https://fionamacneill.co.uk/post/2016/12/cellular-concerns/</link>
+      <link>http://localhost:1313/post/2016/12/cellular-concerns/</link>
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/12/cellular-concerns/</guid>
+      <guid>http://localhost:1313/post/2016/12/cellular-concerns/</guid>
       <description>&lt;p&gt;I have been plugging away at the portfolio site with the primary aim of getting a semi-functional prototype version to Dr. Theo Fotis on Monday 12th of December. There is a still a huge amount of stuff to do, fix-up and streamline I will add these tasks to my Trello board. This journal entry provides a rundown of the decisions that I have this week.&lt;/p&gt;
 &lt;h3 id=&#34;flickity-carousel&#34;&gt;Flickity carousel&lt;/h3&gt;
-\[caption id=&#34;attachment\_245&#34; align=&#34;alignnone&#34; width=&#34;471&#34;\]\[/caption\]\[caption id=&#34;attachment\_244&#34; align=&#34;alignnone&#34; width=&#34;453&#34;\]\[/caption\]&lt;h3 id=&#34;here-be-the-stuff-of-nightmares&#34;&gt;Here be the stuff of nightmares&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;I decided to make the &lt;em&gt;carousel-cell&lt;/em&gt; 100% width due to the need for a more immersive timeline. What I mean by this is that I felt that the cells were too modular before and the greater width (formerly 66%) makes more sense in terms of showing the long anxiety levels .svg file. I still have lot of work to do in terms of consolidating my JavaScript and CSS files into one of each and then also minimising my JavaScript file. One of the things that Marcus brought to my attention was that my script sources should not be loaded in the header of my index.html and that this was bad practice. They now reside under the footer, but this presented some new challenges. For example the smoothScroll function had issues loading so I added a new main.js file (this is will become the final master js file) and added a window EventListener and then added an init function - to initialise SmoothScroll after the load is completed. The other issue is that Flickity Carousel for the timeline started to flash up momentarily as a column until it found it&amp;rsquo;s &lt;em&gt;brain&lt;/em&gt; (aka the script actually loaded). I actually only discovered this due to using my mobile broadband stick in a cafe and noticed the latency. The Flickity Carousel is currently initialized at the bottom of a unique flickity.js file&lt;fn&gt;I needed to keep the smoothScroll.js and flickity.js separated while I figured out how to get things working harmoniously.&lt;/fn&gt;. What I needed to do to solve this was to set the carousel opacity as 0 until the window has loaded and as the carousel is not a function in the same way as smoothScroll it was a bit trickier for me; there wasn&amp;rsquo;t something straightforward for me to work with. What I ended up doing was adding a new variable for carousel immediately after initialising flickity (entails designating the css selector as a flickity carousel) and then applying a style to make the opacity 1&lt;fn&gt;I had to consult github for help with this as I was at a loss for a bit: &lt;a href=&#34;https://github.com/metafizzy/flickity/issues/269&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/metafizzy/flickity/issues/269&lt;/a&gt;.&lt;/fn&gt;. This is working nicely, however the delay or a white screen may be improved by a momentary loading GIF in order to explain what is going on for a slower connection - one to add to the to do list! I quite like the Buffer GIF animation and this helpful tutorial explains how to code something like this with an SVG file as opposed to GIF, I&amp;rsquo;ll give it a go: &lt;a href=&#34;https://cssanimation.rocks/buffer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cssanimation.rocks/buffer/&lt;/a&gt;. Also due to the audience of this site, I think that it is important to include the word &amp;ldquo;Loading&amp;rdquo; alongside any GIF or animated SVG. As part of the process above I added the cellSelector option to the carousel in JSON format, as initially I thought that I might want an EventListener. It seems that this might be useful later on, so I have left it in place for now. e.g. &lt;code&gt;data-flickity=&#39;{ &amp;quot;cellSelector&amp;quot;: &amp;quot;.carousel-cell&amp;quot;, &amp;quot;freeScroll&amp;quot;: true}&#39;&lt;/code&gt; Another issue was with the customised Flickity dots (used for timeline navigation) was that I had set the position of their container to &lt;em&gt;absolute&lt;/em&gt; and the overflow to &lt;em&gt;hidden&lt;/em&gt; as a solution for smaller screens or browser windows (the dots disappear entirely on a mobile phone sized screen). However, I noticed a sort of ghosting issue as a consequence of the overflow. &lt;/p&gt;
+\[caption id=&#34;attachment\_245&#34; align=&#34;alignnone&#34; width=&#34;471&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/11/cellular-concerns/ghostydots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the dots with the ghosting overflow issue&#34; srcset=&#34;
+               /post/2016/12/cellular-concerns/images/ghostydots_hu11926925531766237830.webp 400w,
+               /post/2016/12/cellular-concerns/images/ghostydots_hu7126604143290240175.webp 760w,
+               /post/2016/12/cellular-concerns/images/ghostydots_hu6826172663410602639.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/12/cellular-concerns/images/ghostydots_hu11926925531766237830.webp&#34;
+               width=&#34;471&#34;
+               height=&#34;154&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; It is quite subtle, but can you see those little grey lines between 2 and 3 and also between 3 and 4? There be the ghosties!&lt;/p&gt;
+\[/caption\]&lt;p&gt; I fixed this by adding &amp;ldquo;white-space: nowrap;&amp;rdquo; to the dots themselves so that the wrapping was disabled. &lt;strong&gt;Result!&lt;/strong&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_244&#34; align=&#34;alignnone&#34; width=&#34;453&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/11/cellular-concerns/fixednonghostydots/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the fixed dots&#34; srcset=&#34;
+               /post/2016/12/cellular-concerns/images/fixednonghostydots_hu17954360989627063535.webp 400w,
+               /post/2016/12/cellular-concerns/images/fixednonghostydots_hu8537454626979619053.webp 760w,
+               /post/2016/12/cellular-concerns/images/fixednonghostydots_hu9396399131592382074.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/12/cellular-concerns/images/fixednonghostydots_hu17954360989627063535.webp&#34;
+               width=&#34;453&#34;
+               height=&#34;149&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Yay, no more ghosties!&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;here-be-the-stuff-of-nightmares&#34;&gt;Here be the stuff of nightmares&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;I have to admit that I spent way too much time on this issue, but it was honestly driving me to distraction. So having fixed my grid so that it was had even widths and looked lovely as I started to use my grids I found that I needed to add unique classes for the blocks that appear in each &lt;section&gt; of the html file. The grid structure is left in place as a logical point of reference. Then I found that my written content in the grid was overflowing beyond the height of the sections. This was relatively easy to fix by setting the classes for the sections to have relative positions and have overflow set to auto. Phew. However, as I added some placeholder content to my grid blocks I found that the widths were still perfect but the heights of columns were not okay. What I mean by &amp;ldquo;not okay&amp;rdquo; is that if a block had more written content then it was longer to contain this content. Therefore blocks positioned adjacent to each other looked askew. &lt;code&gt;/* tried this and hated it .is-table-row { display: table; } .is-table-row [class*=&amp;quot;col-&amp;quot;] { float: none; display: table-cell; vertical-align: top; border: solid 7px #EEEEEE; border-radius: 0; } */&lt;/code&gt; This was strangely very hard to fix. I tried several methods. First I tried fool it into thinking it was a table, but I lost my gutter and I worried about responsive accessibility. I also tried CSS pseudo classes (which I now have a little bit of experience with after customising the dots), but it didn&amp;rsquo;t provide the desired look either. I also tried adding attributes to the section container and the &amp;ldquo;One True Layout Method&amp;rdquo; (Coyier, 2010) where the margin-bottom is set to -99999px and the padding-bottom is set to 99999px and the overflow is hidden. This feels like brushing the problem under the carpet and it looks like it too as it cut off the bottom of my block outline and I like the outline. In the end I used row class for my grid defined to display &lt;em&gt;flex&lt;/em&gt; and and then use the flex-wrap &lt;em&gt;wrap&lt;/em&gt; setting. Alas, with one fell swoop my dream of full functionality in Internet Explorer is dashed as Flexible Box Layout module is not supported in IE9 at all (&lt;a href=&#34;http://caniuse.com/#search=flex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=flex&lt;/a&gt;).&lt;/p&gt;
 &lt;h3 id=&#34;smoothscroll-and-the-navigation&#34;&gt;SmoothScroll and the Navigation&lt;/h3&gt;
 &lt;p&gt;In an &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/04/moving-things-along/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;earlier journal entry&lt;/a&gt; I had cited this fixed navigation example on codepen (&lt;a href=&#34;http://codepen.io/anon/pen/QGQPmX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/anon/pen/QGQPmX&lt;/a&gt;) as being close to what I would like for the navigation on my site, however I have also been devouring a book on web accessibility, &lt;em&gt;Inclusive Design Patterns Coding Accessibility Into Web Design&lt;/em&gt; and anything fixed in the CSS was identified as a no-no in the book (Pickering, 2016). I had also found that the fixed header height meant was causing issues with the distance of the smoothScroll function. I was able to fix this by checking their documentation and adding the labeling the header as &lt;em&gt;data-scroll-header&lt;/em&gt; and then specifying this in the initiation script. Previously I had defined a spacer div for this purpose, it didn&amp;rsquo;t work perfectly for the smoothScroll function, but it ended up being handy for defining white space between the timeline and the about area (in addition to the use of margin settings it was helpful to have something that was independent). In the end I didn&amp;rsquo;t need most of this work as due to the advice in Pickering&amp;rsquo;s book, I decided that the navigation header needed to have a relative position instead of being fixed.&lt;/p&gt;
@@ -245,16 +462,45 @@
     
     <item>
       <title>Progress on the grid and layout</title>
-      <link>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <link>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <guid>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</guid>
       <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt;&lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
 &lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
 &lt;p&gt;Now that my grid is in situ, I am able to base layout elements on  it. I do think that in most cases I will need to make unique versions of the columns and tweak the row layout, but keeping the grid architecture in place and temporarily adding the rows/columns to the html has been really helpful for planning out the sections (as shown in the screenshot below). I used my grid to start planning the layout of the content on the Flickity carousel cells - as it turns out this took quite a bit of work (more on that in my next post). I also had my first go at creating an SVG, albeit a very simple one as a placeholder for the first cell in the carousel. The SVG shows the outline of a head and I made it in Adobe Illustrator, this will need to be replaced by more of a photographic image for needs of the project.&lt;/p&gt;
 &lt;h3 id=&#34;about-about&#34;&gt;about-About&lt;/h3&gt;
 &lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQNj8SiUKWqBOTRTo5rnLcG8NxToeAJ7B9Q1eWWRDdl-_Z-dCbCG-E8xzjOhSWc86TWtNntOcL7K84F/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;task list&lt;/a&gt; to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
 &lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
-\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; &lt;/p&gt;
+\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/08/progress-on-the-grid-and-layout/journalimage81216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the site on 9/12&#34; srcset=&#34;
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp 400w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu9391513708935188990.webp 760w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12670540155037678186.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
 &lt;p&gt;One of the sites that I have mentioned before, &lt;a href=&#34;https://gamificationplus.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamification+&lt;/a&gt; has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Basques, K. (2016, December 8). How to use the Timeline tool. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&lt;/a&gt; Common CSS questions. (2015, October 26). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&lt;/a&gt; daneden. (2016, September 27). Daneden/animate.Css. Retrieved December 8, 2016, from &lt;a href=&#34;https://github.com/daneden/animate.css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/daneden/animate.css&lt;/a&gt; Grids. (2016, October 7). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt; Lewis, P. (2016, December 8). Rendering performance. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/performance/rendering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/performance/rendering/&lt;/a&gt; SVG and CSS. (2016, January 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&lt;/a&gt; Z-index. (2016, December 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&lt;/a&gt;&lt;/p&gt;
@@ -263,9 +509,9 @@
     
     <item>
       <title>Timeline tool identified</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</link>
+      <link>http://localhost:1313/post/2016/11/timeline-tool-identified/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</guid>
+      <guid>http://localhost:1313/post/2016/11/timeline-tool-identified/</guid>
       <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): &lt;a href=&#34;https://jsfiddle.net/43gg6x3v/7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jsfiddle.net/43gg6x3v/7/&lt;/a&gt; Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery vs. Javascript gist&lt;/a&gt; and then the From &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery to Javascript: A Reference&lt;/a&gt; - vanilla makes much more sense to me.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;jQuery example 1: horizontal timeline (&lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/horizontal-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
@@ -293,7 +539,7 @@
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp 400w,
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu1941371233609075102.webp 760w,
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu7932386095536438164.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
                width=&#34;760&#34;
                height=&#34;177&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -320,23 +566,82 @@
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp 400w,
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu882150914599356930.webp 760w,
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu595354637712614238.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
                width=&#34;760&#34;
                height=&#34;331&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/a&gt; Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&amp;rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPLv3 license&lt;/a&gt;. I am passionate about open source and was already licensing my work under an &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT license&lt;/a&gt; so I have decided to set the rest of my project to &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;comply with the GPLv3 license&lt;/a&gt;. This means that the license information needs to be included in the header of each source file. As the portfolio site will not contain any original research and will only provide an overview of the project this will also comply with the University&amp;rsquo;s Intellectual Property rules&lt;fn&gt;As a student and employee I need to be aware of the university&amp;rsquo;s Intellectual Property rules, which are available here: &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; . However as portfolio site will not provide software with potential for commercial value and the project information itself is in the early stages it complies with the rules.&lt;/fn&gt;. Also in the markup of the html, CSS and Javascript I have indicated where pieces of code have come from and if/when licenses apply. &lt;strong&gt;Update:&lt;/strong&gt; Shortly after writing this post I solved the issues outlined above (see: &amp;ldquo;There is still a lot to do&amp;hellip;&amp;rdquo;) and these discoveries are outlined in the next couple of posts. I realise that I forgot to mention how I solved the issue of the number labels on the dots below the Flickity carousel. This problem turned out to offer me a very valuable lesson in the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pseudo element &amp;ldquo;before::&amp;rdquo; or &amp;ldquo;before:&amp;rdquo;&lt;/a&gt;. I have used the former, &amp;ldquo;before::&amp;rdquo; as this was introduced in CSS3 and is compatible with IE9 based on my testing. I figured out that the dots themselves could be used as a counter-increment for the addition of the number labels. &lt;code&gt;.dot { position: relative; overflow: hidden; display: inline-block; width: 40px; height: 40px; margin: 0 20px; background: #a9a9a9; border-radius: 50%; cursor: pointer; counter-increment: flickity-page-dots; }&lt;/code&gt; &lt;code&gt;.dot::before { display: block; text-align: center; content: counter(flickity-page-dots); padding-top: 11px; font-size: 20px; color: #FFF; }&lt;/code&gt; As the dots themselves are automatically produced by the Flickity Javascript, this meant that my number labels were now produced too. A nice solution.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Coyier, C. (2015, March 5). Creating responsive, touch-friendly carousels with Flickity &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&lt;/a&gt; Flickity - freeScroll. Retrieved November 26, 2016, from &lt;a href=&#34;http://codepen.io/desandro/pen/bNLGNZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/desandro/pen/bNLGNZ&lt;/a&gt; Flickity License. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/license.html&lt;/a&gt; Flickity. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/&lt;/a&gt; Free Software Foundation. (2007). GNU General Public License. Retrieved November 26, 2016, from &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gnu.org/licenses/gpl-3.0.html&lt;/a&gt; Heinz, M. (2015). Lory minimalistic slider. Retrieved November 26, 2016, from &lt;a href=&#34;http://meandmax.github.io/lory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://meandmax.github.io/lory/&lt;/a&gt; Horizontal Timeline in CSS and jQuery. (2014, February 28). Retrieved November 26, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/horizontal-timeline/&lt;/a&gt; Mozilla Developer Network. (2016, July 24). :Before (:Before). Retrieved November 26, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&lt;/a&gt; Open Source Initiative. The MIT license. Retrieved November 26, 2016, from &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opensource.org/licenses/MIT&lt;/a&gt; Saunders, S. ​Intellectual property (IP). Retrieved January 4, 2017, from &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; Vanilla JS vs jQuery. (2017). &lt;em&gt;Gist&lt;/em&gt;. Retrieved 26 November 2016, from &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gist.github.com/liamcurry/2597326&lt;/a&gt; Vertical Timeline. (2014, June 12). Retrieved November 16, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/vertical-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/vertical-timeline/&lt;/a&gt; Way, J. (2012, January 19). From jQuery to JavaScript: A reference. Retrieved November 26, 2016, from &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference&amp;ndash;net-23703&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Building the grid</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/building-the-grid/</link>
+      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/building-the-grid/</guid>
-      <description>\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
+      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
+\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/gridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the issue with column alignment&#34; srcset=&#34;
+               /post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp 400w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu14804606934697340935.webp 760w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu15848247851095780487.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;710&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/fixthegridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the grid system with a photoshop grid/guides overlaid&#34; srcset=&#34;
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp 400w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu1070020113502324923.webp 760w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu17399902365246210049.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp&#34;
+               width=&#34;613&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.&lt;/p&gt;
+\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from &lt;a href=&#34;http://caniuse.com/#search=calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=calc&lt;/a&gt;&lt;/p&gt;
@@ -350,12 +655,157 @@
     
     <item>
       <title>Wireframes 2&#43;</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/wireframes-2/</link>
+      <link>http://localhost:1313/post/2016/11/wireframes-2/</link>
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/wireframes-2/</guid>
-      <description>\[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_187&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_188&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]\[caption id=&#34;attachment\_189&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; The new iteration of the design seemed cleaner and more focused in the sense that any page visitor would be immediately be shown the patient&amp;rsquo;s story as an interactive narrative. However, this also meant that all my prior work on the smooth scrolling was for naught. I did try to see if I could tweak it to go from left-to-right or rather back and forth, but that was a futile effort. A related attempt at this was to look at transition whether I could build the timeline itself in CSS by creating a &lt;div&gt; for the line itself and a &lt;div&gt; for the timeline circles but adding them as squares and then using the border-radius at 100% made them into circle. As you can see from the video below, this is ended in a vomit-inducing interface.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2016/11/wireframes-2/</guid>
+      <description>&lt;p&gt;This post displays iterations of wireframe 2. In this wireframe, I took ideas from wireframes 0 and 1, but removed the next buttons in favour of a timeline at the top of the page. The top section of the page, containing the timeline, is shown as overflow (beyond the width) of the page to indicate the dynamic content. Clicking on the &lt;em&gt;years&lt;/em&gt;, and circles on the timeline is intended to swap out the slide content and information in the centre of the timeline section. The arrow buttons on the left and right were also intended to switch between the content slides. These buttons ideally would also be operable via arrow keys on the keyboard. &lt;/p&gt;
+\[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2noguide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe version 2 &#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu2709013059958648621.webp 400w,
+               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu274115532482618926.webp 760w,
+               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu3341853332575024121.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu2709013059958648621.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 1 - the top timeline is shown double-width in order to indicate the movement of the information.&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_187&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2withwave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with anxiety levels visualisation shown&#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu10667234205202929275.webp 400w,
+               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu6056677294156001082.webp 760w,
+               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu3212075373960824977.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu10667234205202929275.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 2: this version of the felt too blue - although I did like the way that the anxiety levels traversed the sections linking them together&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_188&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2_5doublewave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with two versions of the anxiety levels displayed&#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu2861950245597653339.webp 400w,
+               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu14337542002684500177.webp 760w,
+               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu7166947805392567190.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu2861950245597653339.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 3: similar idea except this wireframe includes the colourful anxiety levels visualisation under the timeline. This works better as the anxiety levels directly relate the the narrative. If the anxiety levels under the timeline could be animated to appear as the timeline is navigated that would look great. I&amp;rsquo;ll have to think about how best to do that (CSS3 I think).&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_189&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2withcolourwave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with two layers of levels&#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu14981991328797088671.webp 400w,
+               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu12808361173473519731.webp 760w,
+               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu6841940826976567252.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu14981991328797088671.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Version 4 - this wireframe shows both versions of Anxiety levels (they look more like waves!) overlaid. It is a bit busy.&lt;/p&gt;
+\[/caption\]&lt;p&gt; The new iteration of the design seemed cleaner and more focused in the sense that any page visitor would be immediately be shown the patient&amp;rsquo;s story as an interactive narrative. However, this also meant that all my prior work on the smooth scrolling was for naught. I did try to see if I could tweak it to go from left-to-right or rather back and forth, but that was a futile effort. A related attempt at this was to look at transition whether I could build the timeline itself in CSS by creating a &lt;div&gt; for the line itself and a &lt;div&gt; for the timeline circles but adding them as squares and then using the border-radius at 100% made them into circle. As you can see from the video below, this is ended in a vomit-inducing interface.&lt;/p&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/G0GsablXPlk?rel=0&amp;amp;showinfo=0&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
-\[caption id=&#34;attachment\_191&#34; align=&#34;alignnone&#34; width=&#34;230&#34;\]\[/caption\]&lt;p&gt; Further to this as I was influenced by the DuckDuck About page&amp;rsquo;s interactive timeline (Titlow, 2014) I recreated it locally on mydevelopment computer. I then added it to my web space using the source files - stripping all that I could until it was only the timeline. However, I discovered that the coding and structure was not idea for this project. The code (CSS and Javascript particularly) had a lot of vague naming making it hard to follow and there was a LOT to strip out. So, the search for a solution continues, I think that I need to take a different approach to this problem&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t get me started on how dreadful this looked when I looked at it on my phone. &lt;/p&gt;
+\[caption id=&#34;attachment\_191&#34; align=&#34;alignnone&#34; width=&#34;230&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/mobilefail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing the mockup on a phone sized screen&#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/mobileFAIL_hu14473470898992305488.webp 400w,
+               /post/2016/11/wireframes-2/images/mobileFAIL_hu11417728148898564762.webp 760w,
+               /post/2016/11/wireframes-2/images/mobileFAIL_hu16833672309203064766.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/mobileFAIL_hu14473470898992305488.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;489&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Mobile responsive fail&lt;/p&gt;
+\[/caption\]&lt;p&gt; Further to this as I was influenced by the DuckDuck About page&amp;rsquo;s interactive timeline (Titlow, 2014) I recreated it locally on mydevelopment computer. I then added it to my web space using the source files - stripping all that I could until it was only the timeline. However, I discovered that the coding and structure was not idea for this project. The code (CSS and Javascript particularly) had a lot of vague naming making it hard to follow and there was a LOT to strip out. So, the search for a solution continues, I think that I need to take a different approach to this problem&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;consideringcolour&#34;&gt;Considering colour&lt;/h3&gt;
 &lt;p&gt;Upon looking at a number of medical websites for journals, professional bodies and organisations including:&lt;/p&gt;
 &lt;ul&gt;
@@ -368,7 +818,36 @@
 &lt;li&gt;&lt;a href=&#34;http://www.msf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Médecins Sans Frontieres&lt;/a&gt; (red and black&lt;fn&gt;An outlier with the red and black theme, however this would underline the critical nature of the work they do providing aid in emergency situations.&lt;/fn&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.bmj.com/thebmj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The British Medical Journal&lt;/a&gt; (blue and white, orange callouts)&lt;/li&gt;
 &lt;/ul&gt;
-\[caption id=&#34;attachment\_190&#34; align=&#34;alignnone&#34; width=&#34;400&#34;\]\[/caption\]&lt;p&gt; The challenge with this medical site is that I feel I need to avoid a number of colours that may evoke negative associations. For example, hues of red might suggest blood and certain hues of yellow should be avoided due to the &lt;em&gt;hospital-yellow&lt;/em&gt; association. The blues above seemed a bit dark, so I tried some lighter hues for Wireframe 2, paying attention to the contrast between the text colour and the background colour.&lt;/p&gt;
+&lt;p&gt;The colour schemes contain a lot of blue and this influenced me to look at some different colour combinations. I used the palletton colour selector web application (&lt;a href=&#34;http://paletton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://paletton.com/&lt;/a&gt;) to try a few bold colour combinations. I also tried it with some vision simulations (available on the bottom right) to see how the contrast behaved for different types of colour blindness. The swatches below show one of the better combinations I came up with, although it still needs work. &lt;/p&gt;
+\[caption id=&#34;attachment\_190&#34; align=&#34;alignnone&#34; width=&#34;400&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/01palettonswatches/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing a colour scheme created using paletton&#34; srcset=&#34;
+               /post/2016/11/wireframes-2/images/01palettonswatches_hu14778145161080712181.webp 400w,
+               /post/2016/11/wireframes-2/images/01palettonswatches_hu2515909679670101355.webp 760w,
+               /post/2016/11/wireframes-2/images/01palettonswatches_hu7324242730516230507.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/01palettonswatches_hu14778145161080712181.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;80&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Paletton colour scheme 1&lt;/p&gt;
+\[/caption\]&lt;p&gt; The challenge with this medical site is that I feel I need to avoid a number of colours that may evoke negative associations. For example, hues of red might suggest blood and certain hues of yellow should be avoided due to the &lt;em&gt;hospital-yellow&lt;/em&gt; association. The blues above seemed a bit dark, so I tried some lighter hues for Wireframe 2, paying attention to the contrast between the text colour and the background colour.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;These are resources that I referred to beyond what I have linked to in the content above.&lt;/p&gt;
 &lt;p&gt;Border-radius. (2016, November 13). Retrieved November 27, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&lt;/a&gt;&lt;/p&gt;
@@ -379,10 +858,39 @@
     
     <item>
       <title>Wireframe 0</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/wireframe0/</link>
+      <link>http://localhost:1313/post/2016/11/wireframe0/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/wireframe0/</guid>
-      <description>\[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+      <guid>http://localhost:1313/post/2016/11/wireframe0/</guid>
+      <description>&lt;p&gt;This post shows the initial low fidelity wireframe that I created after meeting with Dr. Theo Fotis on 16/11/16. I decided on a 12 column layout due to the need to have different formats in each section. It seemed to offer a high degree of flexibility. &lt;/p&gt;
+\[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/18/wireframe0/wireframeinfo0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of initial wireframe and settings&#34; srcset=&#34;
+               /post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp 400w,
+               /post/2016/11/wireframe0/images/wireframeinfo0_hu4686597743897109336.webp 760w,
+               /post/2016/11/wireframe0/images/wireframeinfo0_hu11935148952110235015.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp&#34;
+               width=&#34;663&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The first wireframe showing the 12 column layout&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gamache, D. A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
@@ -391,19 +899,77 @@
     
     <item>
       <title>Wireframe 1</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/wireframe-1/</link>
+      <link>http://localhost:1313/post/2016/11/wireframe-1/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/wireframe-1/</guid>
-      <description>\[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]\[/caption\]\[caption id=&#34;attachment\_182&#34; align=&#34;alignnone&#34; width=&#34;335&#34;\]\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+      <guid>http://localhost:1313/post/2016/11/wireframe-1/</guid>
+      <description>&lt;p&gt;This post shows the second iteration of the initial wireframe. This version is slightly higher fidelity and is still based on the idea that users would make use of the &lt;em&gt;smooth scroll&lt;/em&gt; &amp;ldquo;next&amp;rdquo; buttons to transition from section to section. Navigating the information in chronological order. &lt;/p&gt;
+\[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/12/wireframe1noguide-515x1024.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing wireframe 1&#34; srcset=&#34;
+               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp 400w,
+               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu2051711272190561931.webp 760w,
+               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu14122947245791720063.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp&#34;
+               width=&#34;382&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; A higher fidelity version of wireframe 1 - also featuring the anxiety levels visualisation, which is both decorative and function&lt;/p&gt;
+\[/caption\]&lt;p&gt; Screenshot showing the 12 grid layout &lt;/p&gt;
+\[caption id=&#34;attachment\_182&#34; align=&#34;alignnone&#34; width=&#34;335&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/18/wireframe-1/wireframeguides1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing wireframe 1 with grid overlay&#34; srcset=&#34;
+               /post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp 400w,
+               /post/2016/11/wireframe-1/images/wireframeguides1_hu10586903255765685010.webp 760w,
+               /post/2016/11/wireframe-1/images/wireframeguides1_hu15586239784140717357.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp&#34;
+               width=&#34;335&#34;
+               height=&#34;554&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Screenshot showing wireframe 1 with 12 column grid overlay&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Schoeffel, S. (2011, November 9). Establishing your grid in Photoshop – smashing magazine. Retrieved November 27, 2016, from Graphics, &lt;a href=&#34;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -487,7 +1053,7 @@
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu1130946275505023832.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu16595894639492752873.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -562,7 +1128,7 @@
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu9492374361594400666.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu1915982765814953062.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -591,7 +1157,7 @@
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu1887641144764334058.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu15126336435686968483.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -620,9 +1186,9 @@
     
     <item>
       <title>Theme testing</title>
-      <link>https://fionamacneill.co.uk/post/2016/10/theme-testing/</link>
+      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/10/theme-testing/</guid>
+      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
 &lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
@@ -661,7 +1227,37 @@
 &lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools section&lt;/a&gt; for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
 &lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacNeill, 2016&lt;/a&gt;) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
 &lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
-\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;p&gt;I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. &lt;/p&gt;
+\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/twentysixteen_img/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the Twenty Sixteen theme&#34; srcset=&#34;
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp 400w,
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu1497848547428044539.webp 760w,
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu7927230413657889747.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Image source: WordPress.org, &lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentysixteen/&lt;/a&gt;&lt;br&gt;
+(Worpress.org, 2016b)&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
@@ -720,14 +1316,18 @@
 &lt;p&gt;GitHub. (2016). Build software better, together. Retrieved October 13, 2016, from &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.chrome.com/devtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.chrome.com/devtools&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Herbert, C. (2016, October 8). Where does “hello world” come from? &lt;/p&gt;
 \[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jetbrains.com/webstorm/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Keijonen, S. (2016a, September 16). Chuchadon. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/chuchadon/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/kuorinka/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/e-nigma-2015/&lt;/a&gt;&lt;/p&gt;
-\[Talk\]\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MacNeill, F. (2016, June 14). &lt;/p&gt;
+\[Talk\]&lt;p&gt; factors of trust in IoT App interfaces Redux &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from &lt;a href=&#34;https://en.wikipedia.org/wiki/MAMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/MAMP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rietveld, R. (2016, March 21). WordPress goes WCAG &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Underscores. (2016). Retrieved October 7, 2016, from Underscores website, &lt;a href=&#34;http://underscores.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://underscores.me/&lt;/a&gt;&lt;/p&gt;

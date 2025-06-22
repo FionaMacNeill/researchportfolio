@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accessibility | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/accessibility/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/accessibility/</link>
+      <atom:link href="http://localhost:1313/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
     <description>Accessibility</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Accessibility</title>
-      <link>https://fionamacneill.co.uk/tags/accessibility/</link>
+      <link>http://localhost:1313/tags/accessibility/</link>
     </image>
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
 &lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
@@ -58,7 +58,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -108,7 +108,7 @@ The format can replicate in-person meeting styles or can be specific to online.&
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -256,7 +256,7 @@ In case you cannot access the embedded content above, &lt;a href=&#34;https://ww
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
                /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -322,9 +322,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -343,7 +343,36 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
 &lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
-\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 - public domain&lt;/a&gt; apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; srcset=&#34;
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;122&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The complete sprite for the devices in all of its glory&lt;/p&gt;
+\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
 &lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
 &lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
@@ -367,15 +396,21 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp;amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
 &lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
@@ -383,24 +418,29 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (1996, October 1). Accessible design for users with disabilities &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (2002). Let users control font size &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015). Colour Contrast Check &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Watson, L. (2014, August 4). Using the tabindex attribute &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WAVE web accessibility tool. &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</link>
+      <link>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -432,7 +472,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp 400w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu3193635436544001950.webp 760w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu16391398717144244650.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -459,7 +499,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp 400w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu15444704337815661328.webp 760w,
                /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu16685531038401827356.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -506,10 +546,68 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Building the grid</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/building-the-grid/</link>
+      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/building-the-grid/</guid>
-      <description>\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
+      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
+\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/gridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the issue with column alignment&#34; srcset=&#34;
+               /post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp 400w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu14804606934697340935.webp 760w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu15848247851095780487.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;710&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;/p&gt;
+\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/fixthegridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the grid system with a photoshop grid/guides overlaid&#34; srcset=&#34;
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp 400w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu1070020113502324923.webp 760w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu17399902365246210049.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp&#34;
+               width=&#34;613&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.&lt;/p&gt;
+\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from &lt;a href=&#34;http://caniuse.com/#search=calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=calc&lt;/a&gt;&lt;/p&gt;
@@ -523,9 +621,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -548,7 +646,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp 400w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu6099917122085690639.webp 760w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu8301082217797738470.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -604,9 +702,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -690,7 +788,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu1130946275505023832.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu16595894639492752873.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -765,7 +863,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu9492374361594400666.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu1915982765814953062.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -794,7 +892,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu1887641144764334058.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu15126336435686968483.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -823,9 +921,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Theme testing</title>
-      <link>https://fionamacneill.co.uk/post/2016/10/theme-testing/</link>
+      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/10/theme-testing/</guid>
+      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;&lt;a href=&#34;https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First thoughts related to this journal site&lt;/a&gt;&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
 &lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
@@ -864,7 +962,37 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tools section&lt;/a&gt; for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
 &lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacNeill, 2016&lt;/a&gt;) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
 &lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
-\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;p&gt;I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. &lt;/p&gt;
+\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/twentysixteen_img/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the Twenty Sixteen theme&#34; srcset=&#34;
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp 400w,
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu1497848547428044539.webp 760w,
+               /post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu7927230413657889747.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Image source: WordPress.org, &lt;a href=&#34;https://wordpress.org/themes/twentysixteen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/twentysixteen/&lt;/a&gt;&lt;br&gt;
+(Worpress.org, 2016b)&lt;/p&gt;
+\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
@@ -923,14 +1051,18 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;GitHub. (2016). Build software better, together. Retrieved October 13, 2016, from &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.chrome.com/devtools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.chrome.com/devtools&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Herbert, C. (2016, October 8). Where does “hello world” come from? &lt;/p&gt;
 \[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/602237/where-does-hello-world-come-from&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from &lt;a href=&#34;https://www.jetbrains.com/webstorm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jetbrains.com/webstorm/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Keijonen, S. (2016a, September 16). Chuchadon. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/chuchadon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/chuchadon/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/kuorinka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/kuorinka/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, &lt;a href=&#34;https://wordpress.org/themes/e-nigma-2015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wordpress.org/themes/e-nigma-2015/&lt;/a&gt;&lt;/p&gt;
-\[Talk\]\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MacNeill, F. (2016, June 14). &lt;/p&gt;
+\[Talk\]&lt;p&gt; factors of trust in IoT App interfaces Redux &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from &lt;a href=&#34;https://en.wikipedia.org/wiki/MAMP&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/MAMP&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Rietveld, R. (2016, March 21). WordPress goes WCAG &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Underscores. (2016). Retrieved October 7, 2016, from Underscores website, &lt;a href=&#34;http://underscores.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://underscores.me/&lt;/a&gt;&lt;/p&gt;
@@ -945,9 +1077,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
@@ -960,26 +1092,33 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;#&lt;/td&gt;&lt;td&gt;Category&lt;/td&gt;&lt;td&gt;Questions to ask&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;strong&gt;System dialogues and Semantics&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are system dialogues consistent?&lt;ul&gt;&lt;li&gt;For data permissions&lt;/li&gt;&lt;li&gt;for use tips&lt;/li&gt;&lt;li&gt;for motivational messages&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are all the settings housed together? Are items like the privacy policy and standards adherence available from this area? Can the Terms of Service (or a shortened format of ToSs) be accessed from within the app? Can connected apps and devices be reviewed/managed from within the app? Can support documentation be accessed from within the app?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Checkups for Setup/Workflow/Privacy &lt;/strong&gt;An essential part of onboarding. Also a method for supporting trust and helping users to invest time in learning the higher-level functions of an app, which promotes realisation of app benefits and long-term commitment to use of the app (Brignull, 2013).&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Periodic reminders about setup:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Can the setup be improved?&lt;/li&gt;&lt;li&gt;What devices could be added safely?&lt;/li&gt;&lt;li&gt;What benefits might be available as part of the system that the user may be unaware of?&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Periodic review of workflow: &lt;/strong&gt;ask users to review the workflow in the system to add a level of human oversight. If the app is not accessed frequently then email and text message may be effective ways to prompt engagement. Think of it like entering a monthly gas meter reading.&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Is an automated workflow still operating as intended?&lt;/li&gt;&lt;li&gt;Is the function still needed?&lt;/li&gt;&lt;/ul&gt;A possible incentive could be that the workflow will stop/timeout if it is not reviewed a la IFTTT.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Periodic review of p&lt;/strong&gt;&lt;strong&gt;rivacy: &lt;/strong&gt;privacy overview and audit tools within the app.&lt;ul&gt;&lt;li&gt;What information is shared with third-party developers?&lt;/li&gt;&lt;li&gt;For what purpose/s is it shared?&lt;/li&gt;&lt;/ul&gt;Non-legalese overview of changes to T&amp;Cs should be included in privacy checks.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Role/function of the app &lt;/strong&gt;Applies to central app and third-party apps.&lt;/td&gt;&lt;td&gt;This sounds really obvious, but a lot of primary IoT apps don&#39;t actually explain their purpose within the system. What service does the app offer? What need does the app fulfill? What does the app do? How important is the app to the operation of the system? E.g. is it the primary interface or management tool for the system? What data does it need? - Make it clear what is used and why, in plain English.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Health/status of hub/sensor/device &lt;/strong&gt;At any point in time the user should be able to view a basic log of what is currently going on in the system.&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;What is going on in the system right now? Is recent system activity accessible? Is it possible to access logs from other time periods? Is it possible to see what communication channels are in operation? What third-party apps are connected to the system, what are they doing? What third-party devices are connected to the system, what are they doing? This should be more like what you expect from your banking app when it comes to overseeing the operation of high-importance health, home/business automation IoT systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;&lt;strong&gt;OAUTH and API: secondary app data use&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Respect users and prove that your app is more trustworthy by only calling data that you are actually using. What data is needed into order to provide the desired third-party service? How is the data used to provide the service? &lt;strong&gt;Note:&lt;/strong&gt; platform manufacturers/developers need to ensure that third-party apps aren&#39;t over-privileged in terms of the data they access and the calls they can make via APIs (See the work of  Fernandes, Jung and Prakesh, 2016). Developers need to state their intention when it comes to use of information that they call via the API. This doesn&#39;t stop those with malicious intent, but it helps users to distinguish between those who pay due diligence to privacy and those who are either malicious or sloppy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt; &lt;strong&gt;What is shared?&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Can data access be allowed/disallowed? Once disallowed from the primary app, is this decision upheld? &lt;strong&gt;Ideal world:&lt;/strong&gt; provide granular options for allowing/disallowing access to data which is not necessary for the operation of the service offered by the app. Better yet, don&#39;t ask for the data at all if it isn&#39;t essential to operation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Access control&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Is two-step authentication an option for the web app and login from a new device? Does the smartphone/tablet app offer biometric authentication? Does the app offer the option of setting a passcode for auto screen lock? Particularly if the app controls home appliances.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Dependency and operational relationship&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As systems become more complicated it is crucial that the user is aided in building a mental picture of the basic configuration of the system. I [keep thinking of Max](https://cycling74.com/products/max/) when I think of this issue. Is logging available? What is going on in the system right now? What is attached to this system (devices/sensors/users)? Is the system visualised in any way?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Try before you buy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Wearables have the right idea on this one, allowing you to trial a wearable companion app using your smartphone&#39;s built-in sensors. What if you could try out the perks of the system before you buy the actual device? Is a preview of how the app will operate with devices, provided as part of onboarding? Can you try of some of the functionality of the system without buying a system-specific device?&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 \[alex\]&lt;p&gt;. (2016, May 2). &lt;em&gt;SmartThings platform security - response from Alex&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aliph, Inc. (2016). Jawbone UP (Version 4.13) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from &lt;a href=&#34;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BBC (2016). &lt;em&gt;Hidden killers, series 1: 2. The Edwardian home&lt;/em&gt; Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bradbury, D. (2015, November 26). Usability v safety: How to design our way to better security. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brooks, J. (2016, January 8). Fitbit hit with class action lawsuit over alleged misreading of heart rates &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from &lt;a href=&#34;http://uxbrighton.org.uk/Personalisation-the-Experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/Personalisation-the-Experience/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2016). &lt;em&gt;User interfaces designed to trick people&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://darkpatterns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://darkpatterns.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC&lt;/p&gt;
+&lt;p&gt;Catalyst IT. (2016). Mahara (Version 1.10.5) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://mahara.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mahara.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Chen, E. Y., Pei, Y., Chen, S., Tian, Y., Kotcher, R., &amp;amp; Tague, P. (2014). OAuth Demystified for mobile application developers. &lt;em&gt;CCS ’14 Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2660267.2660323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2660267.2660323&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cluley, G. (2013, February 13). Jawbone accounts compromised by hackers - personal info accessed, passwords disabled &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://cycling74.com/products/max/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cycling74.com/products/max/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ericsson. (2016, June). &lt;em&gt;Wearable technology and the Internet of things&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp;amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647&lt;/p&gt;
+&lt;p&gt;Feamster, N. (2016, January 19). Who will secure the Internet of things? &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Felt, A. P., Egelman, S., &amp;amp; Wagner, D. (2012). I’ve got 99 problems, but vibration ain’t one. &lt;em&gt;Proceedings of the second ACM workshop on Security and privacy in smartphones and mobile devices - SPSM ’12&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2381934.2381943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2381934.2381943&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Field, C. (2004, January 23). Danger high voltage! Edwardian electric Tablecloth uncovered Retrieved from &lt;a href=&#34;http://www.culture24.org.uk/history-and-heritage/art19432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.culture24.org.uk/history-and-heritage/art19432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fitbit, inc. (2016). Fitbit (Version 2.18) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Guadamuz, A. (2015). The monkey selfie: Copyright lessons for originality in photographs and internet jurisdiction. &lt;em&gt;Internet Policy Review&lt;/em&gt;. doi:&lt;a href=&#34;http://policyreview.info/articles/analysis/monkey-selfie-copyright-lessons-originality-photographs-and-internet-jurisdiction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14763/2016.1.398&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Glooko, Inc. (2015). Glooko (Version 3.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp;amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832&lt;/p&gt;
 &lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&lt;/a&gt;&lt;/p&gt;
@@ -993,17 +1132,21 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;Lohr, S. (2016, June 9). Tony Fadell steps down amid tumult at nest, a Google acquisition. &lt;em&gt;Technology&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://www.cayenne-mydevices.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cayenne-mydevices.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nest Labs, Inc. (2016). Nest app (Version 5.2.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;O’Neill, O. (2013, September 25). How to trust intelligently &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](&lt;a href=&#34;http://blog.ted.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.ted.com/&lt;/a&gt; how-to-trust-intelligently/)&lt;/p&gt;
 &lt;p&gt;Pavlidis, M., Islam, S., Mouratidis, H., &amp;amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102&lt;/p&gt;
 &lt;p&gt;openHAB. (2016). &lt;em&gt;OpenHAB&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://www.openhab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.openhab.org/&lt;/a&gt; Rogers, C. Martha Lane Fox interviewed by the house magazine Retrieved from &lt;a href=&#34;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp;amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65&lt;/p&gt;
 &lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from &lt;a href=&#34;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Secure Tropos. (2013). SecTro2 (Version 2.1) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.omilab.org/web/secure-tropos/environment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.omilab.org/web/secure-tropos/environment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=UmqmpJg_xFA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=UmqmpJg_xFA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Seuss (1999). &lt;em&gt;The cat in the hat&lt;/em&gt; (5th ed.). New York: Random House USA Children’s Books.&lt;/p&gt;
 &lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from &lt;a href=&#34;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SmartThings, Inc. (2016). SmartThings Mobile (Version 2.0.7) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wollerton, M. (2016, May 23). The best smart hub. Retrieved from &lt;a href=&#34;http://thewirecutter.com/reviews/best-smart-hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thewirecutter.com/reviews/best-smart-hub/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Woods, B. (2016, January 19). &lt;em&gt;Hippocratic oath for connected medical devices&lt;/em&gt;. Retrieved June 12, 2016, from &lt;a href=&#34;https://www.iamthecavalry.org/domains/medical/oath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.iamthecavalry.org/domains/medical/oath/&lt;/a&gt;&lt;/p&gt;
@@ -1014,9 +1157,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Reflection: The search for the best notetaking -or rather handwriting- app</title>
-      <link>https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
+      <link>http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
+      <guid>http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In February I shall be starting an MSc in User Experience Design and as a consequence my thoughts have turned to the study tools, which I wish to make use of as a student. As part of this process I have been considering my arsenal of apps. I&amp;rsquo;ll likely talk about the full extent of my app choice plotting in future posts. In this post I shall provide my reflections on notetaking apps in-particular. In my experience early preparation has always been the best strategy when considering any new academic venture, so I look forward to sharing some of my findings on this blog in the lead up to and during my forthcoming period of study.&lt;/p&gt;
 &lt;h2 id=&#34;productivity-and-notetaking-apps-that-i-use&#34;&gt;Productivity and notetaking apps that I use&lt;/h2&gt;
@@ -1046,7 +1189,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu12807094036435207633.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu15011298927149977963.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu4226811903267698644.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu12807094036435207633.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu12807094036435207633.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1055,7 +1198,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;background-colour&#34;&gt;Background colour&lt;/h3&gt;
-&lt;p&gt;The second issue is the background colour, from my &lt;a href=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/&#34; title=&#34;The Adjustment Bureau: The Case for Adjustment in Mobile Apps&#34;&gt;previous post&lt;/a&gt; you&amp;rsquo;ll know that background colour is very important to my efficiency when reading and writing. You do have the option of importing a photo to use as a background, so in theory that is a workaround and you can purchase notepaper types from Evernote Market, there are some good ones but these are more to do with line based layouts than page background colour. I have also found this &lt;a href=&#34;http://ipadpapers.com/tag.asp?tag=1&#34; title=&#34;iPadPapers site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;enterprising site&lt;/a&gt; which allows you to create your own templates for Penultimate as well as use templates which other&amp;rsquo;s have created, in particular I was happy to find a &lt;a href=&#34;http://lsc.cornell.edu/LSC_Resources/cornellsystem.pdf&#34; title=&#34;Cornell PDF tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Notes format&lt;/a&gt; template after the recent &lt;a href=&#34;http://melsig.shu.ac.uk/?page_id=645&#34; title=&#34;MELSIG event page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MELSIG&lt;/a&gt; presentation about it. With any drawing/handwriting app, as a workaround, you could draw a template on the page, but then it becomes tricky when you need to cut and paste your written sections as the background gets confused with your written content.&lt;/p&gt;
+&lt;p&gt;The second issue is the background colour, from my &lt;a href=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/&#34; title=&#34;The Adjustment Bureau: The Case for Adjustment in Mobile Apps&#34;&gt;previous post&lt;/a&gt; you&amp;rsquo;ll know that background colour is very important to my efficiency when reading and writing. You do have the option of importing a photo to use as a background, so in theory that is a workaround and you can purchase notepaper types from Evernote Market, there are some good ones but these are more to do with line based layouts than page background colour. I have also found this &lt;a href=&#34;http://ipadpapers.com/tag.asp?tag=1&#34; title=&#34;iPadPapers site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;enterprising site&lt;/a&gt; which allows you to create your own templates for Penultimate as well as use templates which other&amp;rsquo;s have created, in particular I was happy to find a &lt;a href=&#34;http://lsc.cornell.edu/LSC_Resources/cornellsystem.pdf&#34; title=&#34;Cornell PDF tutorial&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell Notes format&lt;/a&gt; template after the recent &lt;a href=&#34;http://melsig.shu.ac.uk/?page_id=645&#34; title=&#34;MELSIG event page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MELSIG&lt;/a&gt; presentation about it. With any drawing/handwriting app, as a workaround, you could draw a template on the page, but then it becomes tricky when you need to cut and paste your written sections as the background gets confused with your written content.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1078,7 +1221,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu2265773471322898315.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu4347387209421056565.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu13991976000300352766.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu2265773471322898315.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu2265773471322898315.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1110,7 +1253,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu7813867120087861887.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu9819877047968716509.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu15740681595085380977.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu7813867120087861887.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu7813867120087861887.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1147,7 +1290,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu9092842524778152688.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu1906471932391787416.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu2502447035188529674.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu9092842524778152688.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu9092842524778152688.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1188,7 +1331,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1659594699378141920.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1783602999698365653.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu10511894242127053962.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1659594699378141920.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu1659594699378141920.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1219,7 +1362,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu17159613927376255355.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu6911884893237836370.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu9103010468178717855.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu17159613927376255355.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu17159613927376255355.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1266,7 +1409,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12883295579470706210.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12777023895509602039.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12185869796047159795.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12883295579470706210.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu12883295579470706210.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1296,7 +1439,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu17885775460158832950.webp 400w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu15586093525143976995.webp 760w,
                /post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu13281849859973244989.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu17885775460158832950.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu17885775460158832950.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning-Technologies | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/learning-technologies/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/learning-technologies/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/learning-technologies/</link>
+      <atom:link href="http://localhost:1313/tags/learning-technologies/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning-Technologies</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Learning-Technologies</title>
-      <link>https://fionamacneill.co.uk/tags/learning-technologies/</link>
+      <link>http://localhost:1313/tags/learning-technologies/</link>
     </image>
     
     <item>
       <title>COVID-19 three months in: what have we learned?</title>
-      <link>https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/</link>
+      <link>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
+      <guid>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This post is a personal reflection in response to a question posed by &lt;a href=&#34;https://twitter.com/TomEduTrainer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Langston&lt;/a&gt; on Twitter as a retweet of &lt;a href=&#34;https://twitter.com/CleggDr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Andy Clegg&lt;/a&gt;. Observing that other individuals tagged in the tweet have more involvement in policy and management, I was both humbled and interested in why my opinion might be sought. Deliberately I have chosen not to read the answers of others, such as &lt;a href=&#34;https://twitter.com/jamesclay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jamesclay&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;https://elearningstuff.net/2020/06/05/what-have-we-learnt/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;, as I wanted to provide my own perspective. I shall be sure to read that after-the-fact of course and thank you for asking Tom!&lt;/p&gt;
 &lt;p&gt;To provide some context I have been working as a learning technologist for almost 10 years and my perspective comes from that space: the direct solution space. Although I am occasionally consulted on policy decisions, I am rarely a decision maker and I do not manage people, I do manage systems as a product owner of sorts. In addition to my learning technologist &amp;lsquo;hat&amp;rsquo;, I am an accessibility advocate and a trained User Experience researcher. I am passionate about inclusive design, moral transparency and pragmatic teaching and learning.&lt;/p&gt;
@@ -37,6 +37,7 @@
 &lt;h3 id=&#34;chat-is-my-new-best-friend&#34;&gt;Chat is my new best friend&lt;/h3&gt;
 &lt;p&gt;Thinking of those &amp;lsquo;quick&amp;rsquo; questions, I am pleased that HE is finally starting to adopt chat-based tools. I had been using &lt;a href=&#34;https://slack.com/intl/en-gb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slack&lt;/a&gt; for User Experience (UX) professional networking for a number of years and looked forward to the day when a similar solution would be part of my Learning &lt;em&gt;Experience&lt;/em&gt; work. COVID-19 has hastened this change in work practice and although only a small numbers of my clients use it so far, where it is used it is far more efficient. The tendency to write emails-as-treatise in academia is still quite prevalent and when I have found myself sliding into this habit (e.g. &amp;gt;10mins composing an email), I have saved the email as a note and called the person instead. If you can do this too, your learning technologist will thank you (trust me!). Also as a dyslexic, I have often been concerned about how I perceived via the medium of email. Emails end up being more like letters, language and vocabulary can be judged. Furthermore, my tendency to forget words from sentences as my brain works faster than my personal language centres has been a perpetual source of self-critique. With chat I can write the answer with less fear and can always correct a spelling or add a word after the fact. It makes solutions faster and language less precious.&lt;/p&gt;
 &lt;h3 id=&#34;resourcefulness-vs-idiosyncrasy&#34;&gt;Resourcefulness vs. idiosyncrasy&lt;/h3&gt;
+&lt;p&gt;One of the downsides users sourcing of their own solutions is that the local setup does not always match the technology developer&amp;rsquo;s ideal. For example, folks find exciting help guides which suggest that they can schedule MS Teams meetings via their calendar. These features are not available due to differences in the local setup and this means that some of a learning technologist&amp;rsquo;s job is about tempering expectations. It does point to the end of branding and idiosyncrasy. To support more as learning technologists we potentially need to have fewer home-grown elements and this means that branding the VLE/ePortfolio/&lt;/p&gt;
 \[insert eLearning tool here\]&lt;p&gt; is not as sustainable as it was in the past. This is also true due to the frequency of updates. Vendors are far more responsive to suggestions from users and interfaces change at a steady rate making it tricky to stay on-top of help documentation especially when in a continuous delivery, Software-as-a-Service model.&lt;/p&gt;
 &lt;p&gt;On the notion of home-grown, I would add &amp;lsquo;fudger&amp;rsquo; to my definition of a learning technologist: adviser-integrator-augmenter-translator-&lt;em&gt;fudger&lt;/em&gt;. A learning technologist has MacGyver abilities for sure, &lt;a href=&#34;https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hodges &lt;em&gt;et al.&lt;/em&gt; (2020)&lt;/a&gt; also make this analogy, to transmute existing technologies to fit a need for which the technology was not originally designed. At any given time I am managing and sustaining so many of these &amp;lsquo;solutions&amp;rsquo;. With the increased demand for my services, the &amp;lsquo;paper clips&amp;rsquo; have started to slip and I have come to realise that this is hidden work which could and should be managed using specialist tools. All of these &lt;em&gt;fudges&lt;/em&gt; might actually be more expensive in terms of time expenditure than working on a more holistic solution. Furthermore when &lt;em&gt;fudges&lt;/em&gt; are applied in the learning space, rather than say an administrative space, they can lack digital authenticity as in using a tool designed for one thing as another. The experience of using such a solution may differ from students&amp;rsquo; broader experiences of technology and cause a level of dissatisfaction; a square peg. It is easier to smooth these things over when you are teaching in-person, harder when the interaction is front-and-centre and it doesn&amp;rsquo;t &lt;em&gt;feel&lt;/em&gt; like the right solution.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/09UlB17cgKw?t=110&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/09UlB17cgKw?t=110&lt;/a&gt;&lt;/p&gt;
@@ -71,7 +72,7 @@
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp 400w,
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu5047572959678693268.webp 760w,
                /post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu5981666045376353248.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp&#34;
+               src=&#34;http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu15229660640389902362.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -45,7 +45,7 @@
 " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/" />
 
   
   
@@ -58,7 +58,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -165,7 +165,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/" />
+  <link rel="canonical" href="http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/" />
 
   
   
@@ -187,10 +187,10 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/" />
+  <meta property="og:url" content="http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/" />
   <meta property="og:title" content="Striving for accessibility - Eval pt 1 | Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:description" content="Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along." /><meta property="og:image" content="https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/featured.png" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/featured.png" /><meta property="og:locale" content="en-gb" />
+  <meta property="og:description" content="Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along." /><meta property="og:image" content="http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/featured.png" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/featured.png" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -588,40 +588,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -649,8 +676,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -785,9 +812,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -804,8 +831,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1453,7 +1498,7 @@
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          8 min read
+          9 min read
         </span>
         
         </div>
@@ -1516,7 +1561,36 @@
 <h3 id="the-accordion-had-to-go">The accordion had to go</h3>
 <p>Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: <a href="https://codepen.io/stowball/pen/eZKwRv" target="_blank" rel="noopener">https://codepen.io/stowball/pen/eZKwRv</a></p>
 <h3 id="sprite-fun">Sprite fun</h3>
-\[caption id="attachment\_393" align="alignnone" width="300"\]\[/caption\]<p> Photograph used as the basis for illustration of fasten/clip wearable - <a href="https://flic.kr/p/5Rtzsu" title="Link to image at Flickr.com" target="_blank" rel="noopener">&ldquo;My fave jeans copied&rdquo;</a> by <a href="https://www.flickr.com/photos/ingermaaike2/" title="Link to photographer page at Flickr.com" target="_blank" rel="noopener"> inger maaike</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/" title="Link to CC license" target="_blank" rel="noopener">CC BY 2.0</a> CC0 images sources from Pixabay: <a href="https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/" target="_blank" rel="noopener">https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/</a> <a href="https://pixabay.com/en/apple-watch-smartwatch-watch-828827/" target="_blank" rel="noopener">https://pixabay.com/en/apple-watch-smartwatch-watch-828827/</a> <a href="https://pixabay.com/en/gold-neck-necklaces-style-792002/" target="_blank" rel="noopener">https://pixabay.com/en/gold-neck-necklaces-style-792002/</a></p>
+<p>I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en" target="_blank" rel="noopener">CC0 - public domain</a> apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. </p>
+\[caption id="attachment\_393" align="alignnone" width="300"\]<p><a href="http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Image of sprite file showing the wearable devices" srcset="
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w"
+               src="/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp"
+               width="300"
+               height="122"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a> The complete sprite for the devices in all of its glory</p>
+\[/caption\]<p> Photograph used as the basis for illustration of fasten/clip wearable - <a href="https://flic.kr/p/5Rtzsu" title="Link to image at Flickr.com" target="_blank" rel="noopener">&ldquo;My fave jeans copied&rdquo;</a> by <a href="https://www.flickr.com/photos/ingermaaike2/" title="Link to photographer page at Flickr.com" target="_blank" rel="noopener"> inger maaike</a> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/" title="Link to CC license" target="_blank" rel="noopener">CC BY 2.0</a> CC0 images sources from Pixabay: <a href="https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/" target="_blank" rel="noopener">https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/</a> <a href="https://pixabay.com/en/apple-watch-smartwatch-watch-828827/" target="_blank" rel="noopener">https://pixabay.com/en/apple-watch-smartwatch-watch-828827/</a> <a href="https://pixabay.com/en/gold-neck-necklaces-style-792002/" target="_blank" rel="noopener">https://pixabay.com/en/gold-neck-necklaces-style-792002/</a></p>
 <h3 id="fixing-the-tab-svg">Fixing the tab svg</h3>
 <p>I replaced the svg tab to be a proper thing rather than the Frankenstein&rsquo;s monster-like CSS creation <a href="http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/" target="_blank" rel="noopener">I outlined in an earlier journal entry</a>. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).</p>
 <h3 id="asking-myself-questions">Asking myself questions</h3>
@@ -1540,15 +1614,21 @@
 <p>Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.</p>
 <h4 id="references">References</h4>
 <p> </p>
+<p>Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height </p>
 \[Blog post\]<p>. Retrieved from <a href="https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/" target="_blank" rel="noopener">https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/</a></p>
+<p>Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them </p>
 \[Blog post\]<p>. Retrieved from <a href="https://css-tricks.com/css-sprites/" target="_blank" rel="noopener">https://css-tricks.com/css-sprites/</a></p>
+<p>Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) </p>
 \[Blog post\]<p>. Retrieved from <a href="https://css-tricks.com/svg-tabs-using-svg-shape-template/" target="_blank" rel="noopener">https://css-tricks.com/svg-tabs-using-svg-shape-template/</a></p>
 <p>Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from <a href="http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504" target="_blank" rel="noopener">http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504</a></p>
+<p>Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine </p>
 \[Blog post\]<p>. Retrieved from <a href="https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/" target="_blank" rel="noopener">https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/</a></p>
 <p>Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.</p>
 <p>Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from <a href="https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/" target="_blank" rel="noopener">https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/</a></p>
 <p>Lawson, B. D., &amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.</p>
+<p>Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine </p>
 \[Blog post\]<p>. Retrieved from <a href="https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/" target="_blank" rel="noopener">https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/</a></p>
+<p>Mary Lou. (2012, February 21). Accordion with CSS3 </p>
 \[Blog post\]<p>. Retrieved from <a href="https://tympanus.net/codrops/2012/02/21/accordion-with-css3/" target="_blank" rel="noopener">https://tympanus.net/codrops/2012/02/21/accordion-with-css3/</a></p>
 <p>Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute</a></p>
 <p>Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: <a href="https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics</a></p>
@@ -1556,15 +1636,20 @@
 <p>Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/background-position" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/CSS/background-position</a></p>
 <p>Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex</a></p>
 <p>NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: <a href="https://www.england.nhs.uk/about/" target="_blank" rel="noopener">https://www.england.nhs.uk/about/</a></p>
+<p>Nielsen, J. (1996, October 1). Accessible design for users with disabilities </p>
 \[Blog post\]<p>. Retrieved from <a href="https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/" target="_blank" rel="noopener">https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/</a></p>
+<p>Nielsen, J. (2002). Let users control font size </p>
 \[Blog post\]<p>. Retrieved from <a href="https://www.nngroup.com/articles/let-users-control-font-size/" target="_blank" rel="noopener">https://www.nngroup.com/articles/let-users-control-font-size/</a></p>
+<p>Snook. (2015). Colour Contrast Check </p>
 \[Computer software\]<p>. Retrieved 19 January 2017, from <a href="https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333" target="_blank" rel="noopener">https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333</a></p>
 <p>Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: <a href="https://soap.stanford.edu/tips-and-tools/screen-reader-testing" target="_blank" rel="noopener">https://soap.stanford.edu/tips-and-tools/screen-reader-testing</a></p>
 <p>W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, <a href="https://www.w3.org/TR/wai-aria-1.1/" target="_blank" rel="noopener">https://www.w3.org/TR/wai-aria-1.1/</a></p>
 <p>W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: <a href="https://www.w3.org/TR/wai-aria/roles" target="_blank" rel="noopener">https://www.w3.org/TR/wai-aria/roles</a></p>
 <p>W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: <a href="https://www.w3.org/TR/wai-aria/rdf_model.png" target="_blank" rel="noopener">https://www.w3.org/TR/wai-aria/rdf_model.png</a></p>
 <p>W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: <a href="http://www.w3schools.com/css/css_tooltip.asp" target="_blank" rel="noopener">http://www.w3schools.com/css/css_tooltip.asp</a></p>
+<p>Watson, L. (2014, August 4). Using the tabindex attribute </p>
 \[Blog post\]<p>. Retrieved from <a href="https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/" target="_blank" rel="noopener">https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/</a></p>
+<p>WAVE web accessibility tool. </p>
 \[Computer software\]<p>. Retrieved January 19, 2017, from <a href="http://wave.webaim.org/" target="_blank" rel="noopener">http://wave.webaim.org/</a></p>
 
       </div>
@@ -1616,7 +1701,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;text=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;text=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1634,7 +1719,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;t=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;t=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1654,7 +1739,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Striving%20for%20accessibility%20-%20Eval%20pt%201&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F"
+    href="mailto:?subject=Striving%20for%20accessibility%20-%20Eval%20pt%201&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1672,7 +1757,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;title=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F&amp;title=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1690,7 +1775,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F"
+    href="whatsapp://send?text=Striving&#43;for&#43;accessibility&#43;-&#43;Eval&#43;pt&#43;1%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2017%2F01%2Fstriving-for-accessibility-summary-part-1%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1740,7 +1825,7 @@
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

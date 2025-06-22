@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5a59b569b6c6f7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9ba6fe6e891ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e822601124c845a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023/12/Humble RSS feed/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9d6235f252bdd5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89e3841427c72bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04d807dd541408f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66f9cd9ea32e023c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60d7c9a31d9b4a72",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e83d43625d7f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e8c2643d0682ede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b43790164ad9480a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/2023/12/Humble RSS feed/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "7d77105414a590b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/2023/12/Humble RSS feed/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "f4ae268a13848092",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "196664ee445cb76f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/2023/12/Humble RSS feed/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "20b1b20cc785ac28",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d04d807dd541408f",
+  "lastOpenFiles": [
+    "public/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp",
+    "resources/_gen/images/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp",
+    "public/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp",
+    "resources/_gen/images/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp",
+    "public/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp",
+    "resources/_gen/images/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp",
+    "public/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp",
+    "resources/_gen/images/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp",
+    "public/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp",
+    "resources/_gen/images/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp",
+    "public/post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp",
+    "config/hugo",
+    "hugo",
+    "public/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css",
+    "resources/_gen/images/post/2016/10/theme-testing/images",
+    "resources/_gen/images/post/2016/11/wireframing-sketches/images",
+    "resources/_gen/images/post/2016/11/wireframe-1/images",
+    "resources/_gen/images/post/2016/11/wireframe0/images",
+    "resources/_gen/images/post/2016/11/wireframes-2/images",
+    "resources/_gen/images/post/2016/11/building-the-grid/images",
+    "resources/_gen/images/post/2016/12/progress-on-the-grid-and-layout/images"
+  ]
+}

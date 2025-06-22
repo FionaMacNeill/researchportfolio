@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Screenreader | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/screenreader/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/screenreader/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/screenreader/</link>
+      <atom:link href="http://localhost:1313/tags/screenreader/index.xml" rel="self" type="application/rss+xml" />
     <description>Screenreader</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Screenreader</title>
-      <link>https://fionamacneill.co.uk/tags/screenreader/</link>
+      <link>http://localhost:1313/tags/screenreader/</link>
     </image>
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -35,7 +35,36 @@
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
 &lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
-\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 - public domain&lt;/a&gt; apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; srcset=&#34;
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;122&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The complete sprite for the devices in all of its glory&lt;/p&gt;
+\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
 &lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
 &lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
@@ -59,15 +88,21 @@
 &lt;p&gt;Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp;amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
 &lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
@@ -75,15 +110,20 @@
 &lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (1996, October 1). Accessible design for users with disabilities &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (2002). Let users control font size &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015). Colour Contrast Check &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Watson, L. (2014, August 4). Using the tabindex attribute &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WAVE web accessibility tool. &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

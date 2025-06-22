@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ux | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/ux/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/ux/</link>
+      <atom:link href="http://localhost:1313/tags/ux/index.xml" rel="self" type="application/rss+xml" />
     <description>Ux</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Nov 2022 18:21:29 +0100</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Ux</title>
-      <link>https://fionamacneill.co.uk/tags/ux/</link>
+      <link>http://localhost:1313/tags/ux/</link>
     </image>
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</link>
+      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/</guid>
+      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -41,7 +41,7 @@
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp 400w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu12041081289063751725.webp 760w,
                /post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu1819990805462986231.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu10231105725610361248.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -101,7 +101,7 @@
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp 400w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu13825797174012674249.webp 760w,
                /post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu7659303798439612904.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu12669616015415625707.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -155,7 +155,7 @@
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp 400w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu8933792402176026399.webp 760w,
                /post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu7299809568709912682.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
+               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu6770584174246259865.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</link>
+      <link>http://localhost:1313/post/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/</guid>
+      <guid>http://localhost:1313/post/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -238,7 +238,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp 400w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu3542266375365254829.webp 760w,
                /post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu12678372389051257266.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
+               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu1447441321651271237.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,7 +260,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Going to the theatre more. The show that caused to me to think, learn and reflect this week was &lt;a href=&#34;[Facebook]%28https://www.facebook.com/ifrahmansour/%29&#34;&gt;Ifrah Mansour&lt;/a&gt;&amp;rsquo;s one-woman show, &amp;ldquo;How to have fun in a Civil War&amp;rdquo;. Which effectively and poignantly retold her own experiences as a young child in Somalia.&lt;/p&gt;
+&lt;p&gt;Going to the theatre more. The show that caused to me to think, learn and reflect this week was Ifrah Mansour&amp;rsquo;s one-woman show, &amp;ldquo;How to have fun in a Civil War&amp;rdquo;. Which effectively and poignantly retold her own experiences as a young child in Somalia.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;I have been drawing again and will be trying to attend life drawing sessions at least once every couple of months. It is clear to me that the intense observation required in drawing supports my practice as a designer. It is a muscle I definitely need to continue flexing.&lt;/p&gt;
@@ -300,7 +300,7 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp 400w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu6039912154369726025.webp 760w,
                /post/2022/10/cufflinks-1022/images/CuratingMySpace_hu3295236739691401557.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
+               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu9547979046297449794.webp&#34;
                width=&#34;760&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -323,9 +323,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -368,7 +368,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -397,7 +397,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -426,7 +426,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
                /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -451,9 +451,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18</title>
-      <link>https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
+      <link>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
+      <guid>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
       <description>&lt;h2 id=&#34;why-am-i-here-as-in-you-at-this-blog-and-reading-this-now&#34;&gt;Why am I here (as in you, at this blog, and reading this now)?&lt;/h2&gt;
 &lt;p&gt;I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in &lt;a href=&#34;https://strategyn.com/customer-centered-innovation-map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jobs-To-Be-Done&lt;/a&gt; (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).&lt;/p&gt;
 &lt;h2 id=&#34;what-are-we-going-to-do&#34;&gt;What are we going to do?&lt;/h2&gt;
@@ -494,7 +494,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu7160451143862470047.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu16312118645119623351.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -524,7 +524,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu6343540083054042405.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu5738906302310737442.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -552,7 +552,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu8441131541161243420.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu6905223669964946683.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp&#34;
                width=&#34;240&#34;
                height=&#34;240&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -587,7 +587,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu6238986280423095458.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu838624317351699530.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp&#34;
                width=&#34;760&#34;
                height=&#34;579&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -618,7 +618,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu12536099441163713147.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu846163279079221957.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -691,7 +691,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu2320321359076610231.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu14723826080612170379.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -721,7 +721,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu6338840829146341820.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu13145842533791863457.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -768,7 +768,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu10876822247238170187.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu15977988678247841919.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp&#34;
                width=&#34;760&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -805,7 +805,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu14720792961774716272.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15676726823077579924.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp&#34;
                width=&#34;515&#34;
                height=&#34;339&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -853,7 +853,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu7961699609849074676.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu5849118592068151610.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp&#34;
                width=&#34;760&#34;
                height=&#34;408&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -910,6 +910,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
 &lt;p&gt;Josephy, J. (2016) &amp;lsquo;Jobs to be done - a better way to innovate&amp;rsquo;, &lt;em&gt;Webcredible blog&lt;/em&gt;, 19 May. Available at: &lt;a href=&#34;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&lt;/a&gt; (Accessed: 23 March 2018).&lt;/p&gt;
 &lt;p&gt;Klement, A. (2016) &amp;lsquo;Designing features using job stories&amp;rsquo;, in &lt;em&gt;Intercom on Jobs-to-be-Done&amp;rsquo;.&lt;/em&gt; pp. 28-80. Available at: &lt;a href=&#34;https://www.intercom.com/books/jobs-to-be-done&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.intercom.com/books/jobs-to-be-done&lt;/a&gt; (Downloaded: 24 March 2017).&lt;/p&gt;
 &lt;p&gt;McGovern, G. (2010) &lt;em&gt;The stranger&amp;rsquo;s long neck: How to deliver what your customers really want&lt;/em&gt; &lt;em&gt;online&lt;/em&gt;. London: A &amp;amp; C Black.&lt;/p&gt;
+&lt;p&gt;McGovern, G. (2017) &amp;lsquo;Measuring customer effort with Top Tasks&amp;rsquo; &lt;/p&gt;
 \[_PowerPoint_ presentation\]&lt;p&gt;. Available at: &lt;a href=&#34;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&lt;/a&gt; (Accessed: 23 February 2017).&lt;/p&gt;
 &lt;p&gt;Tufte, E. R. (2001) &lt;em&gt;The visual display of quantitative information&lt;/em&gt;. 2nd edn. USA, CT: Graphics Press. Reprint, 2013.&lt;/p&gt;
 &lt;p&gt;Ulwick, A. W. (2016) &lt;em&gt;Jobs to be Done: Theory to Practice.&lt;/em&gt; Available at: &lt;a href=&#34;http://amzn.eu/7BpXFp0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://amzn.eu/7BpXFp0&lt;/a&gt; (Downloaded: 3 March 2017).&lt;/p&gt;
@@ -939,7 +940,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu8837335831164863444.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu1479922774419710758.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp&#34;
                width=&#34;88&#34;
                height=&#34;31&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -958,9 +959,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
@@ -973,26 +974,33 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
 &lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;#&lt;/td&gt;&lt;td&gt;Category&lt;/td&gt;&lt;td&gt;Questions to ask&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;strong&gt;System dialogues and Semantics&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are system dialogues consistent?&lt;ul&gt;&lt;li&gt;For data permissions&lt;/li&gt;&lt;li&gt;for use tips&lt;/li&gt;&lt;li&gt;for motivational messages&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are all the settings housed together? Are items like the privacy policy and standards adherence available from this area? Can the Terms of Service (or a shortened format of ToSs) be accessed from within the app? Can connected apps and devices be reviewed/managed from within the app? Can support documentation be accessed from within the app?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Checkups for Setup/Workflow/Privacy &lt;/strong&gt;An essential part of onboarding. Also a method for supporting trust and helping users to invest time in learning the higher-level functions of an app, which promotes realisation of app benefits and long-term commitment to use of the app (Brignull, 2013).&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Periodic reminders about setup:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Can the setup be improved?&lt;/li&gt;&lt;li&gt;What devices could be added safely?&lt;/li&gt;&lt;li&gt;What benefits might be available as part of the system that the user may be unaware of?&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Periodic review of workflow: &lt;/strong&gt;ask users to review the workflow in the system to add a level of human oversight. If the app is not accessed frequently then email and text message may be effective ways to prompt engagement. Think of it like entering a monthly gas meter reading.&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Is an automated workflow still operating as intended?&lt;/li&gt;&lt;li&gt;Is the function still needed?&lt;/li&gt;&lt;/ul&gt;A possible incentive could be that the workflow will stop/timeout if it is not reviewed a la IFTTT.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Periodic review of p&lt;/strong&gt;&lt;strong&gt;rivacy: &lt;/strong&gt;privacy overview and audit tools within the app.&lt;ul&gt;&lt;li&gt;What information is shared with third-party developers?&lt;/li&gt;&lt;li&gt;For what purpose/s is it shared?&lt;/li&gt;&lt;/ul&gt;Non-legalese overview of changes to T&amp;Cs should be included in privacy checks.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Role/function of the app &lt;/strong&gt;Applies to central app and third-party apps.&lt;/td&gt;&lt;td&gt;This sounds really obvious, but a lot of primary IoT apps don&#39;t actually explain their purpose within the system. What service does the app offer? What need does the app fulfill? What does the app do? How important is the app to the operation of the system? E.g. is it the primary interface or management tool for the system? What data does it need? - Make it clear what is used and why, in plain English.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Health/status of hub/sensor/device &lt;/strong&gt;At any point in time the user should be able to view a basic log of what is currently going on in the system.&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;What is going on in the system right now? Is recent system activity accessible? Is it possible to access logs from other time periods? Is it possible to see what communication channels are in operation? What third-party apps are connected to the system, what are they doing? What third-party devices are connected to the system, what are they doing? This should be more like what you expect from your banking app when it comes to overseeing the operation of high-importance health, home/business automation IoT systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;&lt;strong&gt;OAUTH and API: secondary app data use&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Respect users and prove that your app is more trustworthy by only calling data that you are actually using. What data is needed into order to provide the desired third-party service? How is the data used to provide the service? &lt;strong&gt;Note:&lt;/strong&gt; platform manufacturers/developers need to ensure that third-party apps aren&#39;t over-privileged in terms of the data they access and the calls they can make via APIs (See the work of  Fernandes, Jung and Prakesh, 2016). Developers need to state their intention when it comes to use of information that they call via the API. This doesn&#39;t stop those with malicious intent, but it helps users to distinguish between those who pay due diligence to privacy and those who are either malicious or sloppy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt; &lt;strong&gt;What is shared?&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Can data access be allowed/disallowed? Once disallowed from the primary app, is this decision upheld? &lt;strong&gt;Ideal world:&lt;/strong&gt; provide granular options for allowing/disallowing access to data which is not necessary for the operation of the service offered by the app. Better yet, don&#39;t ask for the data at all if it isn&#39;t essential to operation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Access control&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Is two-step authentication an option for the web app and login from a new device? Does the smartphone/tablet app offer biometric authentication? Does the app offer the option of setting a passcode for auto screen lock? Particularly if the app controls home appliances.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Dependency and operational relationship&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As systems become more complicated it is crucial that the user is aided in building a mental picture of the basic configuration of the system. I [keep thinking of Max](https://cycling74.com/products/max/) when I think of this issue. Is logging available? What is going on in the system right now? What is attached to this system (devices/sensors/users)? Is the system visualised in any way?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Try before you buy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Wearables have the right idea on this one, allowing you to trial a wearable companion app using your smartphone&#39;s built-in sensors. What if you could try out the perks of the system before you buy the actual device? Is a preview of how the app will operate with devices, provided as part of onboarding? Can you try of some of the functionality of the system without buying a system-specific device?&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 \[alex\]&lt;p&gt;. (2016, May 2). &lt;em&gt;SmartThings platform security - response from Alex&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aliph, Inc. (2016). Jawbone UP (Version 4.13) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from &lt;a href=&#34;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BBC (2016). &lt;em&gt;Hidden killers, series 1: 2. The Edwardian home&lt;/em&gt; Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bradbury, D. (2015, November 26). Usability v safety: How to design our way to better security. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brooks, J. (2016, January 8). Fitbit hit with class action lawsuit over alleged misreading of heart rates &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from &lt;a href=&#34;http://uxbrighton.org.uk/Personalisation-the-Experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/Personalisation-the-Experience/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2016). &lt;em&gt;User interfaces designed to trick people&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://darkpatterns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://darkpatterns.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC&lt;/p&gt;
+&lt;p&gt;Catalyst IT. (2016). Mahara (Version 1.10.5) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://mahara.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mahara.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Chen, E. Y., Pei, Y., Chen, S., Tian, Y., Kotcher, R., &amp;amp; Tague, P. (2014). OAuth Demystified for mobile application developers. &lt;em&gt;CCS ’14 Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2660267.2660323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2660267.2660323&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cluley, G. (2013, February 13). Jawbone accounts compromised by hackers - personal info accessed, passwords disabled &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://cycling74.com/products/max/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cycling74.com/products/max/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ericsson. (2016, June). &lt;em&gt;Wearable technology and the Internet of things&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp;amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647&lt;/p&gt;
+&lt;p&gt;Feamster, N. (2016, January 19). Who will secure the Internet of things? &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Felt, A. P., Egelman, S., &amp;amp; Wagner, D. (2012). I’ve got 99 problems, but vibration ain’t one. &lt;em&gt;Proceedings of the second ACM workshop on Security and privacy in smartphones and mobile devices - SPSM ’12&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2381934.2381943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2381934.2381943&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Field, C. (2004, January 23). Danger high voltage! Edwardian electric Tablecloth uncovered Retrieved from &lt;a href=&#34;http://www.culture24.org.uk/history-and-heritage/art19432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.culture24.org.uk/history-and-heritage/art19432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fitbit, inc. (2016). Fitbit (Version 2.18) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Guadamuz, A. (2015). The monkey selfie: Copyright lessons for originality in photographs and internet jurisdiction. &lt;em&gt;Internet Policy Review&lt;/em&gt;. doi:&lt;a href=&#34;http://policyreview.info/articles/analysis/monkey-selfie-copyright-lessons-originality-photographs-and-internet-jurisdiction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14763/2016.1.398&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Glooko, Inc. (2015). Glooko (Version 3.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp;amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832&lt;/p&gt;
 &lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&lt;/a&gt;&lt;/p&gt;
@@ -1006,17 +1014,21 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
 &lt;p&gt;Lohr, S. (2016, June 9). Tony Fadell steps down amid tumult at nest, a Google acquisition. &lt;em&gt;Technology&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://www.cayenne-mydevices.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cayenne-mydevices.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nest Labs, Inc. (2016). Nest app (Version 5.2.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;O’Neill, O. (2013, September 25). How to trust intelligently &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](&lt;a href=&#34;http://blog.ted.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.ted.com/&lt;/a&gt; how-to-trust-intelligently/)&lt;/p&gt;
 &lt;p&gt;Pavlidis, M., Islam, S., Mouratidis, H., &amp;amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102&lt;/p&gt;
 &lt;p&gt;openHAB. (2016). &lt;em&gt;OpenHAB&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://www.openhab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.openhab.org/&lt;/a&gt; Rogers, C. Martha Lane Fox interviewed by the house magazine Retrieved from &lt;a href=&#34;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp;amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65&lt;/p&gt;
 &lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from &lt;a href=&#34;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Secure Tropos. (2013). SecTro2 (Version 2.1) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.omilab.org/web/secure-tropos/environment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.omilab.org/web/secure-tropos/environment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=UmqmpJg_xFA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=UmqmpJg_xFA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Seuss (1999). &lt;em&gt;The cat in the hat&lt;/em&gt; (5th ed.). New York: Random House USA Children’s Books.&lt;/p&gt;
 &lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from &lt;a href=&#34;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SmartThings, Inc. (2016). SmartThings Mobile (Version 2.0.7) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wollerton, M. (2016, May 23). The best smart hub. Retrieved from &lt;a href=&#34;http://thewirecutter.com/reviews/best-smart-hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thewirecutter.com/reviews/best-smart-hub/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Woods, B. (2016, January 19). &lt;em&gt;Hippocratic oath for connected medical devices&lt;/em&gt;. Retrieved June 12, 2016, from &lt;a href=&#34;https://www.iamthecavalry.org/domains/medical/oath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.iamthecavalry.org/domains/medical/oath/&lt;/a&gt;&lt;/p&gt;
@@ -1027,9 +1039,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Wireframes: Are friends electric</title>
-      <link>https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/</link>
+      <link>http://localhost:1313/post/2016/01/wireframes-are-friends-electric/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/</guid>
+      <guid>http://localhost:1313/post/2016/01/wireframes-are-friends-electric/</guid>
       <description>&lt;p&gt;The title of this blog post is a nod in the direction of &lt;a href=&#34;https://youtu.be/ZF4Z6smOrZw&#34; title=&#34;Gary Numan in 1979&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mr. Gary Numan&lt;/a&gt;. It felt like the right time to get some simple mock-ups ready in Adobe Fireworks; thus we became electric and moved away from paper, but only temporarily as this will speedup some of the low-fi paper prototypes that I plan later on. Fireworks seemed like the best choice as it is javascript-centric and I think that in all likelihood the final product would be coded in &lt;a href=&#34;http://getbootstrap.com/&#34; title=&#34;Bootstrap main site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bootstrap JS&lt;/a&gt; (but that would be up to my hypothetical developer). This is going to be a very long journal entry as there were a lot of decisions involved in taking the jump to the new format. Bear with me. So first on my list, although I did it second (as I &amp;rsquo;think&amp;rsquo; &lt;em&gt;in colour&lt;/em&gt;) was to create a flexible frame-based mock-up of a topic page where learning content would be delivered. The frame size is set to 805 X 604 as this is the size of the window typically specified by &lt;a href=&#34;https://www.nottingham.ac.uk/xerte/index.aspx&#34; title=&#34;Xerte webpage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xerte&lt;/a&gt;, the University of Nottingham&amp;rsquo;s Learning Object creation tool. The specific Xerte example that I drew inspiration from can be found at the following link: &lt;a href=&#34;http://www.nottingham.ac.uk/toolkits/play_8203&#34; title=&#34;Xerte online toolkit example&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nottingham.ac.uk/toolkits/play_8203&lt;/a&gt;. You will see that my progression buttons at the bottom of the page bears some resemblance to theirs, as I felt that it was an elegant solution to the problem in both a browser window and on a mobile device. I would be sure to cite this in my final code! However, I do think that a bit of polishing is needed and possibly an alternative for testing purposes; I think that the &amp;ldquo;2 / 4&amp;rdquo; looks like a button too, which could lead to confusion, so that is something to fix.&lt;/p&gt;
 &lt;p&gt;
 
@@ -1053,7 +1065,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu4755069295801087234.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu5768807124856787339.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu13844897398610554019.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu4755069295801087234.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu4755069295801087234.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1087,7 +1099,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu818319912957950109.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu7166381454353511546.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu16198982411900179215.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu818319912957950109.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu818319912957950109.webp&#34;
                width=&#34;183&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1126,7 +1138,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu17715602071537010788.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu11105332374687761970.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu15186418772630552566.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu17715602071537010788.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu17715602071537010788.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1155,7 +1167,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu6617450510911057937.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu10066276439964552010.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu13290360167631772346.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu6617450510911057937.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu6617450510911057937.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1185,7 +1197,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu3962015454183725247.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu14440175548911936673.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu14510295212529971845.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu3962015454183725247.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu3962015454183725247.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1219,7 +1231,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu2642842995054355694.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu11190625951011260951.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu14459768869655711979.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu2642842995054355694.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu2642842995054355694.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1250,7 +1262,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu4000536106193367363.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu9620818128454166846.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu12622421538842600077.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu4000536106193367363.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu4000536106193367363.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1281,7 +1293,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu17930204210042155405.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu16177096240694772074.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu2130270433694737462.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu17930204210042155405.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu17930204210042155405.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1312,7 +1324,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu3599910284337286609.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu5916020492642913342.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu6359525453526786157.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu3599910284337286609.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu3599910284337286609.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1343,7 +1355,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu1542065031022699807.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu13491192536604010808.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu10168016022324612467.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu1542065031022699807.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu1542065031022699807.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1372,7 +1384,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu8830594416216882377.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu12757116691580997601.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu412093424094026352.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu8830594416216882377.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu8830594416216882377.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1418,7 +1430,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu17812241953243827272.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu14919988859387437834.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu3179356474187420079.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu17812241953243827272.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu17812241953243827272.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1447,7 +1459,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu8677875439306230527.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu17405592025044082399.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu8239819719217970856.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu8677875439306230527.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu8677875439306230527.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1476,7 +1488,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu15999637230729689607.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu3998599831024841306.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu14401875355227057815.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu15999637230729689607.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu15999637230729689607.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1505,7 +1517,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu615165798391736765.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu932288164301224201.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu14665520479591280454.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu615165798391736765.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu615165798391736765.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1535,7 +1547,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu15938526009489904780.webp 400w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu5112154137840759784.webp 760w,
                /post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu3508651775774666395.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu15938526009489904780.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu15938526009489904780.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1563,9 +1575,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Wireframes: Pondering Topic Pages</title>
-      <link>https://fionamacneill.co.uk/post/2015/12/wireframes-pondering-topic-pages/</link>
+      <link>http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/12/wireframes-pondering-topic-pages/</guid>
+      <guid>http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/</guid>
       <description>&lt;p&gt;
 
 
@@ -1588,7 +1600,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu10979425404193427517.webp 400w,
                /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu17593920240945140589.webp 760w,
                /post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu14422716716271756973.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu10979425404193427517.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu10979425404193427517.webp&#34;
                width=&#34;760&#34;
                height=&#34;525&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1601,9 +1613,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Wireframe sketching: looking at the index/home</title>
-      <link>https://fionamacneill.co.uk/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
+      <link>http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
+      <guid>http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
       <description>&lt;p&gt;
 
 
@@ -1626,7 +1638,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu8736382556772067287.webp 400w,
                /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu6739993620829097616.webp 760w,
                /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu3293666610607364015.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu8736382556772067287.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu8736382556772067287.webp&#34;
                width=&#34;760&#34;
                height=&#34;539&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1647,9 +1659,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Major discoveries, minor anguish</title>
-      <link>https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/</link>
+      <link>http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/</guid>
+      <guid>http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/</guid>
       <description>&lt;p&gt;You may ask, what happened to you Fiona, between 6/12 and 20/12? Well this is what happened. I was teaching an online course called the 12 Apps of Christmas (a satellite of course run at Regent&amp;rsquo;s University, London) and it was ALL consuming. I was also working on my Learning Object project during this time (and you thought I was slacking!) however, for the most part I have to admit to reverting to paper reflections for a while, due to sheer convenience. Currently my notes are collectively living on bits of scrap-paper, serviettes/napkins, and Evernote entries. I plan to pull them together here over the next few days, a process that I have started with the inclusion of &lt;a href=&#34;https://fionamacneill.co.uk/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my reflection of using a learning object as an end user&lt;/a&gt;, I will include more on that later in the post.&lt;/p&gt;
 &lt;h2 id=&#34;first-a-few-relevant-reflections-from-my-experience-working-on-12-apps-of-christmas&#34;&gt;First a few relevant reflections from my experience working on 12 Apps of Christmas&lt;/h2&gt;
 &lt;p&gt;After the course we ran a completion survey. Although there is only a small number of responses so far (11 respondents out of 192 course subscribers; survey is open until the end of January), the responses do correlate with some of the observations that I had made. As the course was designed as an opportunity for academic staff, the insights into that population are helpful as I move forward with the Learning Object design, that is geared to the same community. &lt;em&gt;Course subscribers really appreciated clear image-based instructions with accompanying step-by-step written annotation.&lt;/em&gt; Commentary: This could inform aspects of user documentation for the Learning Object. Specifically, the idea to include accompanying PDF guides for topics is supported by this anecdotal evidence. &lt;em&gt;Four learning activities or exercises is about the right number to minimise time and interest drop-off.&lt;/em&gt;&lt;/p&gt;
@@ -1675,7 +1687,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu1696597203425239464.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu3782701086059396519.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu7113386726983320215.webp&#34;
                width=&#34;760&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1705,7 +1717,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu8936587814933441788.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu16853473938062625621.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu10848913839219444700.webp&#34;
                width=&#34;693&#34;
                height=&#34;464&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1750,7 +1762,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu17279453447118292333.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu5760305753375578163.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu12987883476670449014.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1793,7 +1805,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu12591134592983709389.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu17136798741151885040.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu8497614045190291310.webp&#34;
                width=&#34;760&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1827,7 +1839,7 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp 400w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu14640306667514818415.webp 760w,
                /post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu16094974436031137054.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp&#34;
+               src=&#34;http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu238714783129827700.webp&#34;
                width=&#34;453&#34;
                height=&#34;502&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1844,8 +1856,10 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
 &lt;/ul&gt;
 &lt;p&gt;As for the &amp;ldquo;minor anguish&amp;rdquo; of this post&amp;rsquo;s title, as you can tell from the my writing above, discoveries have resulted in substantial work and with limited time available this has certainly led to a certain level of anguish. This was largely due to the need to back-track in certain areas. However, I now feel that I am almost back on-track, with the aim of completing my wireframes before the Christmas holiday is out.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Derntl, M., Neumann, S., &amp;amp; Oberhuemer, P. (2009). &lt;em&gt;Introduction to IMS Learning Design&lt;/em&gt; &lt;/p&gt;
 \[PowerPoint slides\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.slideshare.net/mikederntl/introduction-to-ims-learning-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.slideshare.net/mikederntl/introduction-to-ims-learning-design&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Garrett, J. J. (2011). &lt;em&gt;The elements of user experience: User-centered design for the web and beyond&lt;/em&gt; (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Gordon, C., Gordon, L. (Producers), &amp;amp; Robinson, P. A. (Director). (1989). &lt;em&gt;Field of dreams&lt;/em&gt; &lt;/p&gt;
 \[Film\]&lt;p&gt;. USA: Universal Pictures. Retrieved from &lt;a href=&#34;http://www.imdb.com/title/tt0097351&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.imdb.com/title/tt0097351&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;IEEE. (1998). I_EEE Recommended Practice for Software Requirements Specifications_,&amp;quot; (IEEE Std 830-1998). doi:10.1109/IEEESTD.1998.88286&lt;/p&gt;
 &lt;p&gt;IMS Global Learning Consortium. (2003a). &lt;em&gt;IMS learning design information model&lt;/em&gt; (Version 1.0). Retrieved from IMS Global Learning Consortium Online.&lt;/p&gt;
@@ -1858,9 +1872,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>Real-time reflection: experience of completing a Learning Object</title>
-      <link>https://fionamacneill.co.uk/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</link>
+      <link>http://localhost:1313/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</guid>
+      <guid>http://localhost:1313/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</guid>
       <description>&lt;img title=&#34;&#34; src=&#34;file:///Users/fiona/Sites/portfolio/content/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx.png&#34; alt=&#34;Complex UML drawing with an annotated printout in my sketchbook&#34; width=&#34;630&#34;&gt;
 &lt;p&gt;As part of my day job, I had to complete a Learning Object (as a learner/student) and decided to take the opportunity to reflect on what the experience was like from an end user perspective. Throughout the process, I considered what went well, what could have worked better and what I felt was missing. This exercise resulted in something of a &lt;em&gt;structural&lt;/em&gt; epiphany. I realised that I had missed some vital steps in the conceptual model, this was further borne out when I started my wireframe drawings and found that there were things that simply did not add up. Below is my, step-by-step written account of my experience in the Learning Object, I have highlighted sections of particular significance. My next post will outline some of the decisions that took place from December 16th onward.&lt;/p&gt;
 &lt;hr&gt;
@@ -1941,9 +1955,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (&lt;a href=&#34;https://go
     
     <item>
       <title>New project = New category</title>
-      <link>https://fionamacneill.co.uk/post/2015/10/new-project-new-category/</link>
+      <link>http://localhost:1313/post/2015/10/new-project-new-category/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2015/10/new-project-new-category/</guid>
+      <guid>http://localhost:1313/post/2015/10/new-project-new-category/</guid>
       <description>&lt;h2 id=&#34;well-almost&#34;&gt;Well almost&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I have had a #UX category on this blog for a while, but I have decided to formalise it as I embark on a grad school module, &lt;em&gt;Interaction Design and Evaluation Process.&lt;/em&gt; The UX category will be a place to collect my thoughts in relation to what I learn on the module and can be viewed in a collated format via the &amp;ldquo;UX&amp;rdquo; tab. Things to comment on this week:&lt;/p&gt;
 &lt;ul&gt;

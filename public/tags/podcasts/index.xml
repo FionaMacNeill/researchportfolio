@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcasts | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/podcasts/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/podcasts/</link>
+      <atom:link href="http://localhost:1313/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <description>Podcasts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 24 Dec 2023 11:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Podcasts</title>
-      <link>https://fionamacneill.co.uk/tags/podcasts/</link>
+      <link>http://localhost:1313/tags/podcasts/</link>
     </image>
     
     <item>
       <title>Falling back in love with the humble RSS feed</title>
-      <link>https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/</link>
+      <link>http://localhost:1313/post/2023/12/humble-rss-feed/</link>
       <pubDate>Sun, 24 Dec 2023 11:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/</guid>
+      <guid>http://localhost:1313/post/2023/12/humble-rss-feed/</guid>
       <description>&lt;h2 id=&#34;kudos&#34;&gt;Kudos&lt;/h2&gt;
 &lt;p&gt;This blog post is inspired by a tip from &lt;a href=&#34;https://www.alpower.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Al Power&lt;/a&gt;, who suggested that I check out &lt;a href=&#34;https://netnewswire.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetNewsWire app&lt;/a&gt; (Mac, iPhone, iPad). Read Al&amp;rsquo;s &lt;a href=&#34;https://www.alpower.com/blog/my-news-feed-reader-setup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post at his blog for more details&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;a-history-of-my-relationship-with-rss&#34;&gt;A history of my relationship with RSS&lt;/h2&gt;
@@ -59,7 +59,7 @@
                /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp 400w,
                /post/2023/12/humble-rss-feed/images/00ForrtExample_hu12930152033908072768.webp 760w,
                /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4333904368738214092.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp&#34;
                width=&#34;760&#34;
                height=&#34;160&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,7 +92,7 @@
                /post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp 400w,
                /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2215385035868816078.webp 760w,
                /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2543788095747838520.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp&#34;
                width=&#34;760&#34;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -138,7 +138,7 @@
                /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp 400w,
                /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu15885409520482720785.webp 760w,
                /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu9232497157064194759.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp&#34;
                width=&#34;400&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -171,7 +171,7 @@
                /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp 400w,
                /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu9261640742618808962.webp 760w,
                /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu11730319665310116983.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp&#34;
                width=&#34;760&#34;
                height=&#34;202&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -204,7 +204,7 @@
                /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp 400w,
                /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu12834360592337868117.webp 760w,
                /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu364207621991485832.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp&#34;
                width=&#34;760&#34;
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -237,7 +237,7 @@
                /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp 400w,
                /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu16309521309018850666.webp 760w,
                /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu17007930714363257810.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -270,7 +270,7 @@
                /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp 400w,
                /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu14681974085558782013.webp 760w,
                /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu6661528749697715151.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp&#34;
                width=&#34;760&#34;
                height=&#34;362&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -303,7 +303,7 @@
                /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp 400w,
                /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu3310196773660815259.webp 760w,
                /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu15269771724924565502.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

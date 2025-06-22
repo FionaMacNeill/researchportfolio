@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -41,11 +41,10 @@
   
     
   
-  <meta name="description" content="\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\] Just putting these calculations here for future reference. Columns: Columns = 12 Gutter = 15px Rows: Rows = 12 Gutter = 15px Margins: Top = 10px Left = 20px Bottom = 10px Right = 20px
-" />
+  <meta name="description" content="After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2016/11/building-the-grid/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2016/11/building-the-grid/" />
 
   
   
@@ -58,7 +57,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -165,7 +164,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2016/11/building-the-grid/" />
+  <link rel="canonical" href="http://localhost:1313/post/2016/11/building-the-grid/" />
 
   
   
@@ -187,10 +186,10 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2016/11/building-the-grid/" />
+  <meta property="og:url" content="http://localhost:1313/post/2016/11/building-the-grid/" />
   <meta property="og:title" content="Building the grid | Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:description" content="\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]\[/caption\]\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]\[/caption\] Just putting these calculations here for future reference. Columns: Columns = 12 Gutter = 15px Rows: Rows = 12 Gutter = 15px Margins: Top = 10px Left = 20px Bottom = 10px Right = 20px" /><meta property="og:image" content="https://fionamacneill.co.uk/post/2016/11/building-the-grid/featured.png" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2016/11/building-the-grid/featured.png" /><meta property="og:locale" content="en-gb" />
+  <meta property="og:description" content="After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. " /><meta property="og:image" content="http://localhost:1313/post/2016/11/building-the-grid/featured.png" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2016/11/building-the-grid/featured.png" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -588,40 +587,67 @@
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -649,8 +675,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -785,9 +811,9 @@
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -804,8 +830,26 @@
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1429,7 +1473,7 @@
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          1 min read
+          2 min read
         </span>
         
         </div>
@@ -1474,7 +1518,65 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        \[caption id="attachment\_200" align="alignnone" width="919"\]\[/caption\]\[caption id="attachment\_202" align="alignnone" width="613"\]\[/caption\]<p> Just putting these calculations here for future reference. <strong>Columns:</strong> Columns = 12 Gutter = 15px <strong>Rows:</strong> Rows = 12 Gutter = 15px <strong>Margins:</strong> Top = 10px Left = 20px Bottom = 10px Right = 20px</p>
+        <p>After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. </p>
+\[caption id="attachment\_200" align="alignnone" width="919"\]<p><a href="http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/gridalignissue/" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Screenshot showing the issue with column alignment" srcset="
+               /post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp 400w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu14804606934697340935.webp 760w,
+               /post/2016/11/building-the-grid/images/gridalignissue_hu15848247851095780487.webp 1200w"
+               src="/post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp"
+               width="760"
+               height="710"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a> The coloured overlay is included to highlight the issue with the column alignment.</p>
+\[/caption\]<p> </p>
+\[caption id="attachment\_202" align="alignnone" width="613"\]<p><a href="http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/fixthegridalignissue/" target="_blank" rel="noopener">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="flex justify-center	">
+    <div class="w-100" ><img alt="Screenshot showing the grid system with a photoshop grid/guides overlaid" srcset="
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp 400w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu1070020113502324923.webp 760w,
+               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu17399902365246210049.webp 1200w"
+               src="/post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp"
+               width="613"
+               height="573"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a> I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.</p>
+\[/caption\]<p> Just putting these calculations here for future reference. <strong>Columns:</strong> Columns = 12 Gutter = 15px <strong>Rows:</strong> Rows = 12 Gutter = 15px <strong>Margins:</strong> Top = 10px Left = 20px Bottom = 10px Right = 20px</p>
 <h3 id="references">References</h3>
 <p>Calc(). (2016, May 17). Retrieved November 22, 2016, from <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/calc" target="_blank" rel="noopener">https://developer.mozilla.org/en-US/docs/Web/CSS/calc</a></p>
 <p>Can I use&hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from <a href="http://caniuse.com/#search=calc" target="_blank" rel="noopener">http://caniuse.com/#search=calc</a></p>
@@ -1527,7 +1629,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;text=Building&#43;the&#43;grid"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;text=Building&#43;the&#43;grid"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1545,7 +1647,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;t=Building&#43;the&#43;grid"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;t=Building&#43;the&#43;grid"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1565,7 +1667,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=Building%20the%20grid&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F"
+    href="mailto:?subject=Building%20the%20grid&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1583,7 +1685,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;title=Building&#43;the&#43;grid"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F&amp;title=Building&#43;the&#43;grid"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1601,7 +1703,7 @@
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=Building&#43;the&#43;grid%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F"
+    href="whatsapp://send?text=Building&#43;the&#43;grid%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F11%2Fbuilding-the-grid%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1651,7 +1753,7 @@
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

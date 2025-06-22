@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Streaming | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/streaming/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/streaming/</link>
+      <atom:link href="http://localhost:1313/tags/streaming/index.xml" rel="self" type="application/rss+xml" />
     <description>Streaming</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Streaming</title>
-      <link>https://fionamacneill.co.uk/tags/streaming/</link>
+      <link>http://localhost:1313/tags/streaming/</link>
     </image>
     
     <item>
       <title>A technical perspective on a telepresence robot</title>
-      <link>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
+      <link>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
+      <guid>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
       <description>&lt;p&gt;From January until May 2019 the eLearning team evaluated the AV1 robot avatar, a telepresence robot manufactured by the company &lt;em&gt;No Isolation&lt;/em&gt;, based in Norway. This post aims to provide a brief overview of what we learned during our pilot project.&lt;/p&gt;
 &lt;p&gt;
 
@@ -40,7 +40,7 @@
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5126102033402840294.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu3711007996298212263.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
                width=&#34;760&#34;
                height=&#34;555&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -71,7 +71,7 @@
 &lt;figure  id=&#34;figure-_av1-robot_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;ldquo;An animated GIF showing the robot&amp;rsquo;s happy and questioning facial expressions.&amp;rdquo;&#34;
-           src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
+           src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;AV1 Robot&lt;/em&gt;
@@ -141,7 +141,7 @@ To understand the student experience of using the telepresence robot from a loca
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu6765897239600815503.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu456783232181794910.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
                width=&#34;760&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

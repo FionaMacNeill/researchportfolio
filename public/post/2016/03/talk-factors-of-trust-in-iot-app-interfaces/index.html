@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -46,7 +46,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
 " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
 
   
   
@@ -59,7 +59,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -166,7 +166,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
+  <link rel="canonical" href="http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
 
   
   
@@ -188,13 +188,13 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
+  <meta property="og:url" content="http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/" />
   <meta property="og:title" content="[Talk] Factors of Trust in IoT App Interfaces | Fiona MacNeill Portfolio and Blog" />
   <meta property="og:description" content="Talk presented at UX Camp Brighton on 19/03/16
 http://www.uxcampbrighton.org/sessions/
 
-FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014)." /><meta property="og:image" content="https://fionamacneill.co.uk/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/featured.png" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/featured.png" /><meta property="og:locale" content="en-gb" />
+FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014)." /><meta property="og:image" content="http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/featured.png" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/featured.png" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -592,40 +592,67 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -653,8 +680,8 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -789,9 +816,9 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -808,8 +835,26 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1451,7 +1496,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          3 min read
+          4 min read
         </span>
         
         </div>
@@ -1505,36 +1550,47 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
 <h2 id="session-description">Session description:</h2>
 <p>Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface.</p>
 <h2 id="references">References</h2>
+<p>Aliph, Inc. (2016). Jawbone UP (Version 4.13) </p>
 \[Mobile application software\]<p>. Retrieved from <a href="https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8</a></p>
 <p>Barcena, M. B., Wueest, C., &amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from <a href="http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf" target="_blank" rel="noopener">http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf</a></p>
 <p>Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from <a href="http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html" target="_blank" rel="noopener">http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html</a></p>
+<p>Brooks, J. (2016, January 8). Fitbit hit with class action lawsuit over alleged misreading of heart rates </p>
 \[Blog post\]<p>. Retrieved from <a href="http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/" target="_blank" rel="noopener">http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/</a></p>
 <p>Brignull, H. (2013, March). <em>Ramp Up</em>. Personalising the experience, Brighton. Retrieved from <a href="http://uxbrighton.org.uk/Personalisation-the-Experience/" target="_blank" rel="noopener">http://uxbrighton.org.uk/Personalisation-the-Experience/</a></p>
 <p>BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evalua- tion (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC Catalyst IT. (2016).</p>
+<p>Cluley, G. (2013, February 13). Jawbone accounts compromised by hackers - personal info accessed, passwords disabled </p>
 \[Blog post\]<p>. Retrieved from <a href="https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/" target="_blank" rel="noopener">https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/</a></p>
 <p>Cycling’74. <em>Max is a visual programming language for media</em>. Retrieved March 19, 2016, from <a href="https://cycling74.com/products/max/" target="_blank" rel="noopener">https://cycling74.com/products/max/</a></p>
 <p>Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647</p>
+<p>Feamster, N. (2016, January 19). Who will secure the Internet of things? </p>
 \[Blog post\]<p>. Retrieved from <a href="https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/" target="_blank" rel="noopener">https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/</a></p>
+<p>Fitbit, inc. (2016). Fitbit (Version 2.18) </p>
 \[Mobile application software\]<p>. Retrieved from <a href="https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8</a></p>
+<p>Glooko, Inc. (2015). Glooko (Version 3.2) </p>
 \[Mobile application software\]<p>. Retrieved from <a href="https://itunes.apple.com/gb/app/glooko/id471942748?mt=8" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/glooko/id471942748?mt=8</a></p>
 <p>Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832</p>
 <p>Hess, W. (2015, May 7). <em>Onboarding: Designing Welcoming First Experiences</em>. Retrieved March 19, 2016, from <a href="http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences" target="_blank" rel="noopener">http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences</a></p>
 <p>Higginbotham, S. (2016, January 22). Episode 42: These are the two biggest challenges facing the smart home Retrieved from <a href="http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/" target="_blank" rel="noopener">http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/</a></p>
 <p>Higginbotham, S. (2016, March 17). <em>Episode 50: Are your devices being held hostage?</em>. Retrieved March 28, 2016, from <a href="http://iotpodcast.com/2016/03/nest-hostage/" target="_blank" rel="noopener">http://iotpodcast.com/2016/03/nest-hostage/</a></p>
 <p>Kalloniatis, C., Mouratidis, H., Vassilis, M., Islam, S., Gritzalis, S., &amp; Kavakli, E. (2014). Towards the design of secure and privacy-oriented Information Systems in the Cloud: Identifying the major concepts. Computer Stan- dards &amp; Interfaces, 36(4), 759–775. doi:10.1016/j.csi.2013.12.010</p>
+<p>Mahara (Version 1.10.5) </p>
 \[Computer software\]<p>. Retrieved from <a href="http://mahara.org" target="_blank" rel="noopener">http://mahara.org</a></p>
 <p>Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. <em>The New Yorker</em>. Retrieved from <a href="http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all" target="_blank" rel="noopener">http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all</a></p>
 <p>myDevices. (2016). <em>First IoT project builder - myDevices cayenne</em>. Retrieved March 19, 2016, from <a href="https://www.cayenne-mydevices.com/" target="_blank" rel="noopener">https://www.cayenne-mydevices.com/</a></p>
+<p>Nest Labs, Inc. (2016). Nest app (Version 5.2.2) </p>
 \[Mobile application software\]<p>. Retrieved from <a href="https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8</a></p>
 <p>O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.</p>
+<p>O’Neill, O. (2013, September 25). How to trust intelligently </p>
 \[Blog post\]<p>. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](<a href="http://blog.ted.com/" target="_blank" rel="noopener">http://blog.ted.com/</a> how-to-trust-intelligently/)</p>
 <p>Pavlidis, M., Islam, S., Mouratidis, H., &amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102</p>
 <p>Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65</p>
 <p>Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from <a href="http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/" target="_blank" rel="noopener">http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/</a></p>
+<p>Secure Tropos. (2013). SecTro2 (Version 2.1) </p>
 \[Computer software\]<p>. Retrieved from <a href="http://www.omilab.org/web/secure-tropos/environment" target="_blank" rel="noopener">http://www.omilab.org/web/secure-tropos/environment</a></p>
 <p>Sempers, P. (2015, October 19). <em>Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings</em> Retrieved from <a href="https://www.youtube.com/watch?v=UmqmpJg_xFA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=UmqmpJg_xFA</a></p>
 <p>Seuss (1999). <em>The cat in the hat</em> (5th ed.). New York: Random House USA Children’s Books.</p>
 <p>Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from <a href="http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts" target="_blank" rel="noopener">http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts</a></p>
+<p>SmartThings, Inc. (2016). SmartThings Mobile (Version 2.0.7) </p>
 \[Mobile application software\]<p>. Retrieved from <a href="https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8" target="_blank" rel="noopener">https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8</a></p>
 
       </div>
@@ -1580,7 +1636,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;text=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;text=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1598,7 +1654,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;t=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;t=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1618,7 +1674,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=%5BTalk%5D%20Factors%20of%20Trust%20in%20IoT%20App%20Interfaces&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F"
+    href="mailto:?subject=%5BTalk%5D%20Factors%20of%20Trust%20in%20IoT%20App%20Interfaces&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1636,7 +1692,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;title=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F&amp;title=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1654,7 +1710,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F"
+    href="whatsapp://send?text=%5BTalk%5D&#43;Factors&#43;of&#43;Trust&#43;in&#43;IoT&#43;App&#43;Interfaces%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2016%2F03%2Ftalk-factors-of-trust-in-iot-app-interfaces%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1704,7 +1760,7 @@ FACTORS OF TRUST IN IOT APP INTERFACES from Fiona MacNeill on Vimeo. Trust defin
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

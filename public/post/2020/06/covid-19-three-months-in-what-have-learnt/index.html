@@ -1,13 +1,13 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 28, 2025 --><html lang="en-gb" dir="ltr"
+<!-- Last Published: June 22, 2025 --><html lang="en-gb" dir="ltr"
       data-wc-theme-default="system">
   
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="generator" content="Hugo Blox Builder 0.3.1" />
+  <meta name="generator" content="Hugo Blox Builder 0.3.2" />
 
   
   
@@ -45,7 +45,7 @@
 " />
 
   
-  <link rel="alternate" hreflang="en-gb" href="https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
 
   
   
@@ -58,7 +58,7 @@
   
   
     
-    <link href="/dist/wc.min.css" rel="stylesheet" />
+    <link href="/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css" rel="stylesheet" />
   
 
   
@@ -165,7 +165,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu84341173633309012.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu18314944693961833009.png" />
 
-  <link rel="canonical" href="https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
+  <link rel="canonical" href="http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
 
   
   
@@ -187,11 +187,11 @@
   <meta property="twitter:card" content="summary_large_image" />
   
   <meta property="og:site_name" content="Fiona MacNeill Portfolio and Blog" />
-  <meta property="og:url" content="https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
+  <meta property="og:url" content="http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/" />
   <meta property="og:title" content="COVID-19 three months in: what have we learned? | Fiona MacNeill Portfolio and Blog" />
   <meta property="og:description" content="Background
-This post is a personal reflection in response to a question posed by Tom Langston on Twitter as a retweet of Dr Andy Clegg. Observing that other individuals tagged in the tweet have more involvement in policy and management, I was both humbled and interested in why my opinion might be sought. Deliberately I have chosen not to read the answers of others, such as @jamesclay&rsquo;s blog post, as I wanted to provide my own perspective. I shall be sure to read that after-the-fact of course and thank you for asking Tom!" /><meta property="og:image" content="https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/featured.jpg" />
-    <meta property="twitter:image" content="https://fionamacneill.co.uk/post/2020/06/covid-19-three-months-in-what-have-learnt/featured.jpg" /><meta property="og:locale" content="en-gb" />
+This post is a personal reflection in response to a question posed by Tom Langston on Twitter as a retweet of Dr Andy Clegg. Observing that other individuals tagged in the tweet have more involvement in policy and management, I was both humbled and interested in why my opinion might be sought. Deliberately I have chosen not to read the answers of others, such as @jamesclay&rsquo;s blog post, as I wanted to provide my own perspective. I shall be sure to read that after-the-fact of course and thank you for asking Tom!" /><meta property="og:image" content="http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/featured.jpg" />
+    <meta property="twitter:image" content="http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/featured.jpg" /><meta property="og:locale" content="en-gb" />
   
     
       <meta
@@ -589,40 +589,67 @@ This post is a personal reflection in response to a question posed by Tom Langst
     --pagefind-ui-border: #152028;
     --pagefind-ui-tag: #152028;
   }
+
+   
+  .search-close > svg {
+    height: calc(64px * var(--pagefind-ui-scale));
+    width: calc(64px * var(--pagefind-ui-scale));
+  }
 </style>
 
 <script>
+  
+  let searchWrapper = null;
+
   window.addEventListener('DOMContentLoaded', (event) => {
+    
     new PagefindUI({
       element: "#search",
       showSubResults: true,
       baseUrl: window.hbb.pagefind.baseUrl,
       bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
     });
+
+    
+    searchWrapper = document.getElementById('search-wrapper');
+
+    
+    let triggers = document.querySelectorAll('[data-search-toggle]');
+    triggers.forEach(trigger =>
+      trigger.addEventListener('click', handleSearchToggle)
+    );
   });
-  document.addEventListener('DOMContentLoaded', () => {
-    let element = document.getElementById('search');
-    let trigger = document.getElementById('search_toggle');
 
-    if (trigger) {
-      trigger.addEventListener('click', () => {
-        element.classList.toggle('hidden');
-        element.querySelector("input").value = ""
-        element.querySelector("input").focus()
+  function handleSearchToggle(event) {
+    if (!searchWrapper) return;
 
-        if (!element.classList.contains('hidden')) {
-          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+    const isHidden = searchWrapper.classList.contains('hidden');
+    searchWrapper.classList.toggle('hidden');
+    document.body.style.overflow = isHidden ? 'hidden' : '';
 
-          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
-            clear_trigger.setAttribute('listenerOnClick', 'true');
+    const searchInput = searchWrapper.querySelector("input");
+    if (searchInput) {
+      searchInput.value = "";
+      searchInput.focus();
+    }
 
-            clear_trigger.addEventListener('click', () => {
-              element.classList.toggle('hidden');
-            });
-          }
-        }
+    if (!searchWrapper.classList.contains('hidden')) {
+      let clearTrigger = document.querySelector('.pagefind-ui__search-clear');
 
-      });
+      if (clearTrigger && !clearTrigger.hasAttribute('listenerOnClick')) {
+        clearTrigger.setAttribute('listenerOnClick', 'true');
+
+        clearTrigger.addEventListener('click', () => {
+          searchInput.focus();
+        });
+      }
+    }
+  }
+
+  
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && searchWrapper && !searchWrapper.classList.contains('hidden')) {
+      searchWrapper.classList.add('hidden');
     }
   });
 </script>
@@ -650,8 +677,8 @@ This post is a personal reflection in response to a question posed by Tom Langst
   
   <script
     defer
-    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
-    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
+    src="/js/hugo-blox-en.min.js"
+    integrity=""
   ></script>
 
   
@@ -786,9 +813,9 @@ This post is a personal reflection in response to a question posed by Tom Langst
       
       
       <button
-        aria-label="search"
+        aria-label="toggle search"
         class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-        id="search_toggle">
+        data-search-toggle>
         <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
       </button>
       
@@ -805,8 +832,26 @@ This post is a personal reflection in response to a question posed by Tom Langst
   </nav>
 </header>
 
+<div
+  id="search-wrapper"
+  class="hidden fixed inset-0 z-50 bg-white dark:bg-gray-900 flex flex-col overflow-hidden"
+>
+  <div class="flex justify-end p-3">
+    <button
+      aria-label="search"
+      class="search-close text-black hover:text-primary dark:text-white"
+      data-search-toggle
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
 
-<div id="search" class="hidden p-3"></div>
+  <div id="search" class="flex-1 overflow-y-auto p-3">
+    
+  </div>
+</div>
 
 
         
@@ -1561,6 +1606,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
 <h3 id="chat-is-my-new-best-friend">Chat is my new best friend</h3>
 <p>Thinking of those &lsquo;quick&rsquo; questions, I am pleased that HE is finally starting to adopt chat-based tools. I had been using <a href="https://slack.com/intl/en-gb/" target="_blank" rel="noopener">Slack</a> for User Experience (UX) professional networking for a number of years and looked forward to the day when a similar solution would be part of my Learning <em>Experience</em> work. COVID-19 has hastened this change in work practice and although only a small numbers of my clients use it so far, where it is used it is far more efficient. The tendency to write emails-as-treatise in academia is still quite prevalent and when I have found myself sliding into this habit (e.g. &gt;10mins composing an email), I have saved the email as a note and called the person instead. If you can do this too, your learning technologist will thank you (trust me!). Also as a dyslexic, I have often been concerned about how I perceived via the medium of email. Emails end up being more like letters, language and vocabulary can be judged. Furthermore, my tendency to forget words from sentences as my brain works faster than my personal language centres has been a perpetual source of self-critique. With chat I can write the answer with less fear and can always correct a spelling or add a word after the fact. It makes solutions faster and language less precious.</p>
 <h3 id="resourcefulness-vs-idiosyncrasy">Resourcefulness vs. idiosyncrasy</h3>
+<p>One of the downsides users sourcing of their own solutions is that the local setup does not always match the technology developer&rsquo;s ideal. For example, folks find exciting help guides which suggest that they can schedule MS Teams meetings via their calendar. These features are not available due to differences in the local setup and this means that some of a learning technologist&rsquo;s job is about tempering expectations. It does point to the end of branding and idiosyncrasy. To support more as learning technologists we potentially need to have fewer home-grown elements and this means that branding the VLE/ePortfolio/</p>
 \[insert eLearning tool here\]<p> is not as sustainable as it was in the past. This is also true due to the frequency of updates. Vendors are far more responsive to suggestions from users and interfaces change at a steady rate making it tricky to stay on-top of help documentation especially when in a continuous delivery, Software-as-a-Service model.</p>
 <p>On the notion of home-grown, I would add &lsquo;fudger&rsquo; to my definition of a learning technologist: adviser-integrator-augmenter-translator-<em>fudger</em>. A learning technologist has MacGyver abilities for sure, <a href="https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning" target="_blank" rel="noopener">Hodges <em>et al.</em> (2020)</a> also make this analogy, to transmute existing technologies to fit a need for which the technology was not originally designed. At any given time I am managing and sustaining so many of these &lsquo;solutions&rsquo;. With the increased demand for my services, the &lsquo;paper clips&rsquo; have started to slip and I have come to realise that this is hidden work which could and should be managed using specialist tools. All of these <em>fudges</em> might actually be more expensive in terms of time expenditure than working on a more holistic solution. Furthermore when <em>fudges</em> are applied in the learning space, rather than say an administrative space, they can lack digital authenticity as in using a tool designed for one thing as another. The experience of using such a solution may differ from students&rsquo; broader experiences of technology and cause a level of dissatisfaction; a square peg. It is easier to smooth these things over when you are teaching in-person, harder when the interaction is front-and-centre and it doesn&rsquo;t <em>feel</em> like the right solution.</p>
 <p><a href="https://youtu.be/09UlB17cgKw?t=110" target="_blank" rel="noopener">https://youtu.be/09UlB17cgKw?t=110</a></p>
@@ -1653,7 +1699,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;text=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;text=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1671,7 +1717,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;t=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;t=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1691,7 +1737,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=COVID-19%20three%20months%20in%3A%20what%20have%20we%20learned%3F&amp;body=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F"
+    href="mailto:?subject=COVID-19%20three%20months%20in%3A%20what%20have%20we%20learned%3F&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1709,7 +1755,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;title=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F&amp;title=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1727,7 +1773,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F%20https%3A%2F%2Ffionamacneill.co.uk%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F"
+    href="whatsapp://send?text=COVID-19&#43;three&#43;months&#43;in%3A&#43;what&#43;have&#43;we&#43;learned%3F%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2F2020%2F06%2Fcovid-19-three-months-in-what-have-learnt%2F"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1777,7 +1823,7 @@ This post is a personal reflection in response to a question posed by Tom Langst
       Authors
     </div>
     <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
-      <a href="https://fionamacneill.co.uk/" class="no-underline">
+      <a href="http://localhost:1313/" class="no-underline">
       Fiona MacNeill
       </a>
     </div>

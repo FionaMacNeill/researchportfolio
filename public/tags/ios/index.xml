@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ios | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/ios/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/ios/</link>
+      <atom:link href="http://localhost:1313/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <description>Ios</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Ios</title>
-      <link>https://fionamacneill.co.uk/tags/ios/</link>
+      <link>http://localhost:1313/tags/ios/</link>
     </image>
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
@@ -29,26 +29,33 @@
 &lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;#&lt;/td&gt;&lt;td&gt;Category&lt;/td&gt;&lt;td&gt;Questions to ask&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;strong&gt;System dialogues and Semantics&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are system dialogues consistent?&lt;ul&gt;&lt;li&gt;For data permissions&lt;/li&gt;&lt;li&gt;for use tips&lt;/li&gt;&lt;li&gt;for motivational messages&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Settings&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Are all the settings housed together? Are items like the privacy policy and standards adherence available from this area? Can the Terms of Service (or a shortened format of ToSs) be accessed from within the app? Can connected apps and devices be reviewed/managed from within the app? Can support documentation be accessed from within the app?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Checkups for Setup/Workflow/Privacy &lt;/strong&gt;An essential part of onboarding. Also a method for supporting trust and helping users to invest time in learning the higher-level functions of an app, which promotes realisation of app benefits and long-term commitment to use of the app (Brignull, 2013).&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Periodic reminders about setup:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Can the setup be improved?&lt;/li&gt;&lt;li&gt;What devices could be added safely?&lt;/li&gt;&lt;li&gt;What benefits might be available as part of the system that the user may be unaware of?&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Periodic review of workflow: &lt;/strong&gt;ask users to review the workflow in the system to add a level of human oversight. If the app is not accessed frequently then email and text message may be effective ways to prompt engagement. Think of it like entering a monthly gas meter reading.&lt;strong&gt;&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Is an automated workflow still operating as intended?&lt;/li&gt;&lt;li&gt;Is the function still needed?&lt;/li&gt;&lt;/ul&gt;A possible incentive could be that the workflow will stop/timeout if it is not reviewed a la IFTTT.&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Periodic review of p&lt;/strong&gt;&lt;strong&gt;rivacy: &lt;/strong&gt;privacy overview and audit tools within the app.&lt;ul&gt;&lt;li&gt;What information is shared with third-party developers?&lt;/li&gt;&lt;li&gt;For what purpose/s is it shared?&lt;/li&gt;&lt;/ul&gt;Non-legalese overview of changes to T&amp;Cs should be included in privacy checks.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Role/function of the app &lt;/strong&gt;Applies to central app and third-party apps.&lt;/td&gt;&lt;td&gt;This sounds really obvious, but a lot of primary IoT apps don&#39;t actually explain their purpose within the system. What service does the app offer? What need does the app fulfill? What does the app do? How important is the app to the operation of the system? E.g. is it the primary interface or management tool for the system? What data does it need? - Make it clear what is used and why, in plain English.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Health/status of hub/sensor/device &lt;/strong&gt;At any point in time the user should be able to view a basic log of what is currently going on in the system.&lt;strong&gt;&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;What is going on in the system right now? Is recent system activity accessible? Is it possible to access logs from other time periods? Is it possible to see what communication channels are in operation? What third-party apps are connected to the system, what are they doing? What third-party devices are connected to the system, what are they doing? This should be more like what you expect from your banking app when it comes to overseeing the operation of high-importance health, home/business automation IoT systems.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;&lt;strong&gt;OAUTH and API: secondary app data use&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Respect users and prove that your app is more trustworthy by only calling data that you are actually using. What data is needed into order to provide the desired third-party service? How is the data used to provide the service? &lt;strong&gt;Note:&lt;/strong&gt; platform manufacturers/developers need to ensure that third-party apps aren&#39;t over-privileged in terms of the data they access and the calls they can make via APIs (See the work of  Fernandes, Jung and Prakesh, 2016). Developers need to state their intention when it comes to use of information that they call via the API. This doesn&#39;t stop those with malicious intent, but it helps users to distinguish between those who pay due diligence to privacy and those who are either malicious or sloppy.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt; &lt;strong&gt;What is shared?&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Can data access be allowed/disallowed? Once disallowed from the primary app, is this decision upheld? &lt;strong&gt;Ideal world:&lt;/strong&gt; provide granular options for allowing/disallowing access to data which is not necessary for the operation of the service offered by the app. Better yet, don&#39;t ask for the data at all if it isn&#39;t essential to operation.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Access control&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Is two-step authentication an option for the web app and login from a new device? Does the smartphone/tablet app offer biometric authentication? Does the app offer the option of setting a passcode for auto screen lock? Particularly if the app controls home appliances.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Dependency and operational relationship&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;As systems become more complicated it is crucial that the user is aided in building a mental picture of the basic configuration of the system. I [keep thinking of Max](https://cycling74.com/products/max/) when I think of this issue. Is logging available? What is going on in the system right now? What is attached to this system (devices/sensors/users)? Is the system visualised in any way?&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Try before you buy&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;Wearables have the right idea on this one, allowing you to trial a wearable companion app using your smartphone&#39;s built-in sensors. What if you could try out the perks of the system before you buy the actual device? Is a preview of how the app will operate with devices, provided as part of onboarding? Can you try of some of the functionality of the system without buying a system-specific device?&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 \[alex\]&lt;p&gt;. (2016, May 2). &lt;em&gt;SmartThings platform security - response from Alex&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://community.smartthings.com/t/smartthings-platform-security-response-from-alex/46878&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aliph, Inc. (2016). Jawbone UP (Version 4.13) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from &lt;a href=&#34;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BBC (2016). &lt;em&gt;Hidden killers, series 1: 2. The Edwardian home&lt;/em&gt; Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/iplayer/episode/b03lyv9x/hidden-killers-series-1-2-the-edwardian-home&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Bradbury, D. (2015, November 26). Usability v safety: How to design our way to better security. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/media-network/2015/nov/26/usability-safety-how-to-design-better-security-technology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brooks, J. (2016, January 8). Fitbit hit with class action lawsuit over alleged misreading of heart rates &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from &lt;a href=&#34;http://uxbrighton.org.uk/Personalisation-the-Experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/Personalisation-the-Experience/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Brignull, H. (2016). &lt;em&gt;User interfaces designed to trick people&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://darkpatterns.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://darkpatterns.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evaluation (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC&lt;/p&gt;
+&lt;p&gt;Catalyst IT. (2016). Mahara (Version 1.10.5) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://mahara.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mahara.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Chen, E. Y., Pei, Y., Chen, S., Tian, Y., Kotcher, R., &amp;amp; Tague, P. (2014). OAuth Demystified for mobile application developers. &lt;em&gt;CCS ’14 Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2660267.2660323&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2660267.2660323&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cluley, G. (2013, February 13). Jawbone accounts compromised by hackers - personal info accessed, passwords disabled &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://cycling74.com/products/max/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cycling74.com/products/max/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ericsson. (2016, June). &lt;em&gt;Wearable technology and the Internet of things&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ericsson.com/thinkingahead/consumerlab/consumer-insights/wearable-technology-and-the-internet-of-things&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp;amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647&lt;/p&gt;
+&lt;p&gt;Feamster, N. (2016, January 19). Who will secure the Internet of things? &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Felt, A. P., Egelman, S., &amp;amp; Wagner, D. (2012). I’ve got 99 problems, but vibration ain’t one. &lt;em&gt;Proceedings of the second ACM workshop on Security and privacy in smartphones and mobile devices - SPSM ’12&lt;/em&gt;. doi:&lt;a href=&#34;http://dl.acm.org/citation.cfm?doid=2381934.2381943&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1145/2381934.2381943&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Field, C. (2004, January 23). Danger high voltage! Edwardian electric Tablecloth uncovered Retrieved from &lt;a href=&#34;http://www.culture24.org.uk/history-and-heritage/art19432&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.culture24.org.uk/history-and-heritage/art19432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fitbit, inc. (2016). Fitbit (Version 2.18) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Guadamuz, A. (2015). The monkey selfie: Copyright lessons for originality in photographs and internet jurisdiction. &lt;em&gt;Internet Policy Review&lt;/em&gt;. doi:&lt;a href=&#34;http://policyreview.info/articles/analysis/monkey-selfie-copyright-lessons-originality-photographs-and-internet-jurisdiction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.14763/2016.1.398&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Glooko, Inc. (2015). Glooko (Version 3.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp;amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832&lt;/p&gt;
 &lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&lt;/a&gt;&lt;/p&gt;
@@ -62,17 +69,21 @@
 &lt;p&gt;Lohr, S. (2016, June 9). Tony Fadell steps down amid tumult at nest, a Google acquisition. &lt;em&gt;Technology&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/06/04/technology/tony-fadell-nest-google-alphabet.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://www.cayenne-mydevices.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cayenne-mydevices.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nest Labs, Inc. (2016). Nest app (Version 5.2.2) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.&lt;/p&gt;
+&lt;p&gt;O’Neill, O. (2013, September 25). How to trust intelligently &lt;/p&gt;
 \[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](&lt;a href=&#34;http://blog.ted.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.ted.com/&lt;/a&gt; how-to-trust-intelligently/)&lt;/p&gt;
 &lt;p&gt;Pavlidis, M., Islam, S., Mouratidis, H., &amp;amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102&lt;/p&gt;
 &lt;p&gt;openHAB. (2016). &lt;em&gt;OpenHAB&lt;/em&gt;. Retrieved June 13, 2016, from &lt;a href=&#34;http://www.openhab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.openhab.org/&lt;/a&gt; Rogers, C. Martha Lane Fox interviewed by the house magazine Retrieved from &lt;a href=&#34;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doteveryone.org.uk/blog/2016/05/martha-lane-fox-in-the-house-magazine/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp;amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65&lt;/p&gt;
 &lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from &lt;a href=&#34;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Secure Tropos. (2013). SecTro2 (Version 2.1) &lt;/p&gt;
 \[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.omilab.org/web/secure-tropos/environment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.omilab.org/web/secure-tropos/environment&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=UmqmpJg_xFA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=UmqmpJg_xFA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Seuss (1999). &lt;em&gt;The cat in the hat&lt;/em&gt; (5th ed.). New York: Random House USA Children’s Books.&lt;/p&gt;
 &lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from &lt;a href=&#34;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SmartThings, Inc. (2016). SmartThings Mobile (Version 2.0.7) &lt;/p&gt;
 \[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wollerton, M. (2016, May 23). The best smart hub. Retrieved from &lt;a href=&#34;http://thewirecutter.com/reviews/best-smart-hub/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thewirecutter.com/reviews/best-smart-hub/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Woods, B. (2016, January 19). &lt;em&gt;Hippocratic oath for connected medical devices&lt;/em&gt;. Retrieved June 12, 2016, from &lt;a href=&#34;https://www.iamthecavalry.org/domains/medical/oath/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.iamthecavalry.org/domains/medical/oath/&lt;/a&gt;&lt;/p&gt;
@@ -83,9 +94,9 @@
     
     <item>
       <title>The Adjustment Bureau: The Case for Adjustment in Mobile Apps</title>
-      <link>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</link>
+      <link>http://localhost:1313/post/2014/09/the-adjustment-bureau/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</guid>
+      <guid>http://localhost:1313/post/2014/09/the-adjustment-bureau/</guid>
       <description>&lt;p&gt;
 
 
@@ -108,7 +119,7 @@
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu541171070284257285.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu7725335066671611.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/asphalt_book-copy-23g1e4c_hu18435825739136844752.webp&#34;
                width=&#34;760&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -230,7 +241,7 @@
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu13104540372091023234.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu67222787888612795.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,7 +271,7 @@
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu206784104716909973.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu18345416300174672855.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -290,7 +301,7 @@
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu7139798004525784413.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu15258927823427455060.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -320,7 +331,7 @@
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu6699368185882607105.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu8148589128215595172.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -350,7 +361,7 @@
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu7108261367581230340.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu8212669824273940615.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,7 +391,7 @@
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu3645930520753675654.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu18379832534251029919.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -410,7 +421,7 @@
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu4434944031755846067.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu17272607717072261790.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
                width=&#34;760&#34;
                height=&#34;84&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -440,7 +451,7 @@
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu6657934438276066609.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3101211655162556713.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -470,7 +481,7 @@
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu15393699447292095779.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu1365990334634118828.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -500,7 +511,7 @@
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu11964095565605199451.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12573814998558151024.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -530,7 +541,7 @@
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu14473746506689262433.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu982689408096270454.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -538,23 +549,37 @@
 &lt;/p&gt;
 &lt;p&gt;This screenshot shows the reader mode adjustments which are available when you turn a page to reader mode. You can save pages to PDF with these settings.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Apple Inc., &lt;em&gt;Accessibility Programming Guide for iOS: Introduction&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html&#34; title=&#34;accessibility programming guide for iOS - document link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/iPhoneAccessibility/Introduction/Introduction.html&lt;/a&gt; (Accessed: 23 August 2014).&lt;/p&gt;
+&lt;p&gt;Bluefire (2014) &lt;em&gt;Bluefire Reader Apps&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://www.bluefirereader.com/&#34; title=&#34;bluefire reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bluefirereader.com/&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
 &lt;p&gt;Coyle, B. (1995) USE OF FILTERS TO TREAT VISUAL-PERCEPTION PROBLEM CREATES ADHERENTS AND SKEPTICS. &lt;em&gt;Canadian Medical Association journal,&lt;/em&gt; 152**,** 749-750.&lt;/p&gt;
+&lt;p&gt;Dredge, S. (2011) &lt;em&gt;Top 10 steps towards making your mobile apps more accessible&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. theguardian.com. Available: &lt;a href=&#34;http://www.theguardian.com/smart-accessibility/making-your-mobile-apps-more-accessible&#34; title=&#34;top 10 steps - article link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.theguardian.com/smart-accessibility/making-your-mobile-apps-more-accessible&lt;/a&gt; (Accessed: 23 August 2014).&lt;/p&gt;
+&lt;p&gt;European Commission (2014) &lt;em&gt;Information Providers Guide - The EU Internet Handbook&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://ec.europa.eu/ipg/standards/accessibility/index_en.htm&#34; title=&#34;The EU Internet Handbook&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ec.europa.eu/ipg/standards/accessibility/index_en.htm&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;Good.iWare (2014) &lt;em&gt;Goodreader&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://www.goodiware.com/&#34; title=&#34;Good.iWare developer website&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.goodiware.com/&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
 &lt;p&gt;Ingber, J. (2013) Using VoiceOver with the Accessible Amazon iOS Kindle App. &lt;em&gt;AFB AccessWorld Magazine,&lt;/em&gt; 14.&lt;/p&gt;
+&lt;p&gt;Kobo (2014) &lt;em&gt;eReading Apps - Kobo&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://www.kobo.com/apps&#34; title=&#34;Kobo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.kobo.com/apps&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
 &lt;p&gt;Lawrence, J. (2008) &lt;em&gt;Research into Meares-Irlen syndrome&lt;/em&gt;. Sutton: Reed Business Information UK.&lt;/p&gt;
+&lt;p&gt;Lewis, T. (2014) &lt;em&gt;Paddy Considine: ‘I was always portrayed as angry, but I was just ill’&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. theguardian.com. Available: &lt;a href=&#34;http://www.theguardian.com/film/2014/sep/07/paddy-considine-actor-i-was-portrayed-angry-i-was-just-ill&#34; title=&#34;I was portrayed as angry - article link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.theguardian.com/film/2014/sep/07/paddy-considine-actor-i-was-portrayed-angry-i-was-just-ill&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;MELSIG (2014) &lt;em&gt;About MELSIG&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://melsig.shu.ac.uk/?page_id=2&#34; title=&#34;MELSIG link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://melsig.shu.ac.uk/?page_id=2&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;MELSIG (2014) &lt;em&gt;Digital Media Interaction and Inclusivity&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://melsig.shu.ac.uk/?page_id=645&#34; title=&#34;Digital Media Interaction and Inclusivity - link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://melsig.shu.ac.uk/?page_id=645&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;Microsoft. &lt;em&gt;Guidelines for designing accessible apps - Windows app development&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://msdn.microsoft.com/en-GB/library/windows/apps/hh700407.aspx&#34; title=&#34;Guidelines for designing accessible apps - document link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://msdn.microsoft.com/en-GB/library/windows/apps/hh700407.aspx&lt;/a&gt; (Accessed: 23 August 2014).&lt;/p&gt;
+&lt;p&gt;Moren, D. (2012) &lt;em&gt;iOS 5 Review: Ambitious update rings in the changes&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. macworld.com. Available: &lt;a href=&#34;http://www.macworld.com/article/1162962/ios_5_review_ambitious_update_rings_in_the_changes.html&#34; title=&#34;iOS 5 review from 2012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.macworld.com/article/1162962/ios_5_review_ambitious_update_rings_in_the_changes.html&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
 &lt;p&gt;Ritchie, S. J., Della Sala, S. &amp;amp; McIntosh, R. D. (2011) Irlen colored overlays do not alleviate reading difficulties. &lt;em&gt;Pediatrics,&lt;/em&gt; 128**,** e932-E938.&lt;/p&gt;
+&lt;p&gt;Schofield, J. (2009) Amazon caves to Authors Guild over Kindle&amp;rsquo;s text-to-speech reading. &lt;em&gt;The Guardian Technology Blog&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available from: &lt;a href=&#34;http://www.theguardian.com/technology/blog/2009/mar/01/authors-guild-blocks-kindle-voice&#34; title=&#34;The Guardian Technology Blog&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.theguardian.com/technology/blog/2009/mar/01/authors-guild-blocks-kindle-voice&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;World Wide Web Consortium (WC3) (2014) &lt;em&gt;Web Accessibility initiative (WAI)&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://www.w3.org/WAI/&#34; title=&#34;WC3 WAI site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3.org/WAI/&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
+&lt;p&gt;Wenger, E. 1998. &lt;em&gt;Communities of practice: learning, meaning, and identity,&lt;/em&gt; Cambridge, Cambridge University Press. Wikipedia. 2014. &lt;em&gt;Software development kit&lt;/em&gt; &lt;/p&gt;
 \[Online\]&lt;p&gt;. Available: &lt;a href=&#34;http://en.wikipedia.org/wiki/Software_development_kit&#34; title=&#34;Software Development Kit definition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://en.wikipedia.org/wiki/Software_development_kit&lt;/a&gt; (Accessed: 7 September 2014).&lt;/p&gt;
 </description>
     </item>

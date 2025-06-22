@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dataviz | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/dataviz/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/dataviz/</link>
+      <atom:link href="http://localhost:1313/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
     <description>Dataviz</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Dataviz</title>
-      <link>https://fionamacneill.co.uk/tags/dataviz/</link>
+      <link>http://localhost:1313/tags/dataviz/</link>
     </image>
     
     <item>
       <title>UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18</title>
-      <link>https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
+      <link>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
+      <guid>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
       <description>&lt;h2 id=&#34;why-am-i-here-as-in-you-at-this-blog-and-reading-this-now&#34;&gt;Why am I here (as in you, at this blog, and reading this now)?&lt;/h2&gt;
 &lt;p&gt;I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in &lt;a href=&#34;https://strategyn.com/customer-centered-innovation-map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jobs-To-Be-Done&lt;/a&gt; (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).&lt;/p&gt;
 &lt;h2 id=&#34;what-are-we-going-to-do&#34;&gt;What are we going to do?&lt;/h2&gt;
@@ -57,7 +57,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu7160451143862470047.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu16312118645119623351.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -87,7 +87,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu6343540083054042405.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu5738906302310737442.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -115,7 +115,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu8441131541161243420.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu6905223669964946683.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp&#34;
                width=&#34;240&#34;
                height=&#34;240&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -150,7 +150,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu6238986280423095458.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu838624317351699530.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp&#34;
                width=&#34;760&#34;
                height=&#34;579&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -181,7 +181,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu12536099441163713147.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu846163279079221957.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -254,7 +254,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu2320321359076610231.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu14723826080612170379.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -284,7 +284,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu6338840829146341820.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu13145842533791863457.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -331,7 +331,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu10876822247238170187.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu15977988678247841919.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp&#34;
                width=&#34;760&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -368,7 +368,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu14720792961774716272.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15676726823077579924.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp&#34;
                width=&#34;515&#34;
                height=&#34;339&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -416,7 +416,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu7961699609849074676.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu5849118592068151610.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp&#34;
                width=&#34;760&#34;
                height=&#34;408&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -473,6 +473,7 @@
 &lt;p&gt;Josephy, J. (2016) &amp;lsquo;Jobs to be done - a better way to innovate&amp;rsquo;, &lt;em&gt;Webcredible blog&lt;/em&gt;, 19 May. Available at: &lt;a href=&#34;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&lt;/a&gt; (Accessed: 23 March 2018).&lt;/p&gt;
 &lt;p&gt;Klement, A. (2016) &amp;lsquo;Designing features using job stories&amp;rsquo;, in &lt;em&gt;Intercom on Jobs-to-be-Done&amp;rsquo;.&lt;/em&gt; pp. 28-80. Available at: &lt;a href=&#34;https://www.intercom.com/books/jobs-to-be-done&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.intercom.com/books/jobs-to-be-done&lt;/a&gt; (Downloaded: 24 March 2017).&lt;/p&gt;
 &lt;p&gt;McGovern, G. (2010) &lt;em&gt;The stranger&amp;rsquo;s long neck: How to deliver what your customers really want&lt;/em&gt; &lt;em&gt;online&lt;/em&gt;. London: A &amp;amp; C Black.&lt;/p&gt;
+&lt;p&gt;McGovern, G. (2017) &amp;lsquo;Measuring customer effort with Top Tasks&amp;rsquo; &lt;/p&gt;
 \[_PowerPoint_ presentation\]&lt;p&gt;. Available at: &lt;a href=&#34;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&lt;/a&gt; (Accessed: 23 February 2017).&lt;/p&gt;
 &lt;p&gt;Tufte, E. R. (2001) &lt;em&gt;The visual display of quantitative information&lt;/em&gt;. 2nd edn. USA, CT: Graphics Press. Reprint, 2013.&lt;/p&gt;
 &lt;p&gt;Ulwick, A. W. (2016) &lt;em&gt;Jobs to be Done: Theory to Practice.&lt;/em&gt; Available at: &lt;a href=&#34;http://amzn.eu/7BpXFp0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://amzn.eu/7BpXFp0&lt;/a&gt; (Downloaded: 3 March 2017).&lt;/p&gt;
@@ -502,7 +503,7 @@
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp 400w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu8837335831164863444.webp 760w,
                /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu1479922774419710758.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp&#34;
                width=&#34;88&#34;
                height=&#34;31&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
