@@ -7,9 +7,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 12 
-  - name: Portfolio
-    url: /#projects
-    weight: 13
+  #- name: Portfolio
+  #  url: /#projects
+  #  weight: 13
   - name: Blog
     url: /#blog
     weight: 14 

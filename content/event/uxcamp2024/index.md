@@ -49,8 +49,6 @@ url_video: ''
 #  - example
 ---
 
-Project pages will be added for each of the methods shown over the coming weeks. Please visit again soon to get more goodies and tutorials.
-
 #### Literature review
 - Starter template for creating a Microsoft List from an Excel sheet: [ResearchList_Starter.xltx](/uploads/templates/ResearchList_Starter.xltx)
 - Template with the 'CONCATENATE' formula for creating formatted references based on a table in Excel: [ResearchList_ConcatenateTemplate.xltx](/uploads/templates/ResearchList_ConcatenateTemplate.xltx) 

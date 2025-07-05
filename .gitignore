@@ -5,7 +5,10 @@ assets/media/albums/.DS_Store
 assets/media/albums/work/.DS_Store
 *.jpeg
 *.png
-*.jpg
+*.jpg 
+*.gif
 *.pdf
 *.zip 
 *.yaml
+.obsidian/workspace.json
+/.DS_Store

@@ -1,7 +1,7 @@
 ---
-title: "Overdue reflections: playing games and taking walks "
+title: "Overdue reflections: playing games and taking walks"
 subtitle: "Pausing to reflect on things I have done recently..."
-summary: "Using the five whys to think about recent experiments in design and curation"
+summary: "Using the five whys to think about recent experiments in design and curation" 
 authors: []
 tags: 
 - "ltux" 

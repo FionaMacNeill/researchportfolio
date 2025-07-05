@@ -1,37 +1,29 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "UX Camp Brighton 2023 - Game on!"
-subtitle: "These Uxers need help - The Game"
-summary: "Prototyping a reflective game for UXers with Uxers at UX Camp Brighton 2023 (15th April)"
-authors: []
-tags: 
-- "ux camp brighton"
-- "ltux" 
-- "ladies that ux"
-categories: 
-- "ux"
-- "research"
-- "practice"
+title: UX Camp Brighton 2023 - Game on!
+subtitle: These Uxers need help - The Game
+summary: Prototyping a reflective game for UXers with Uxers at UX Camp Brighton 2023 (15th April)
+authors: 
+tags:
+  - ux
+  - camp
+  - brighton
+  - ltux
+  - ladies
+  - that
+  - ux
+categories:
+  - ux
+  - research
+  - practice
 date: 2023-04-09T18:50:06+01:00
 lastmod: 2023-04-09T18:50:06+01:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Prototyping the game board with paper and pencils"
-  focal_point: "Smart"
+  caption: Prototyping the game board with paper and pencils
+  focal_point: Smart
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+projects:
 ---
 
 ## Today is UX Camp Brighton! 

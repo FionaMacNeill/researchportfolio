@@ -1,5 +1,4 @@
 ---
-
 title: "UX Camp Sticking Power"
 subtitle: "What stuck with me after attending UX Camp Brighton 2022 #uxcb22"
 summary: "What I learned at UX Camp Brighton on 26th March"

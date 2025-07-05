@@ -17,10 +17,10 @@ last_name: MacNeill
 superuser: true
 
 # Role/position/tagline
-role: UX Researcher, Learning Designer, Technologist
+role: UX Researcher, Designer, Technologist
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate about creating inclusive and accessible experiences, tools, and services for learning and doing.
+bio: I create meaningful experiences for learning and doing.
 
 # Interests to show in About widget
 #interests:

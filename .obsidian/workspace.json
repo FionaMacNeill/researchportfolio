@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023/12/Humble RSS feed/index.md",
+                "file": "content/event/designershive/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224.5
   },
   "right": {
     "id": "79e83d43625d7f53",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,28 +179,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d04d807dd541408f",
+  "active": "4e822601124c845a",
   "lastOpenFiles": [
-    "public/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp",
-    "resources/_gen/images/post/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu5452894614936547180.webp",
-    "public/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp",
-    "resources/_gen/images/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp",
-    "public/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp",
-    "resources/_gen/images/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp",
-    "public/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp",
-    "resources/_gen/images/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp",
-    "public/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp",
-    "resources/_gen/images/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp",
-    "public/post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp",
-    "config/hugo",
-    "hugo",
-    "public/dist/wc.min.05570f1deda629d4e2d77f73534a63aa04471f012db6735c59424372f467db85.css",
-    "resources/_gen/images/post/2016/10/theme-testing/images",
-    "resources/_gen/images/post/2016/11/wireframing-sketches/images",
-    "resources/_gen/images/post/2016/11/wireframe-1/images",
-    "resources/_gen/images/post/2016/11/wireframe0/images",
-    "resources/_gen/images/post/2016/11/wireframes-2/images",
-    "resources/_gen/images/post/2016/11/building-the-grid/images",
-    "resources/_gen/images/post/2016/12/progress-on-the-grid-and-layout/images"
+    "content/event/communityorganising/index.md",
+    "content/event/communityorganising/featured.jpg",
+    "content/post/2025/06/UX Camp 2025 Reflections/index.md",
+    "040725up.zip",
+    "ziKTlI8K",
+    "content/post/_index.md",
+    "content/event/uxofselfdefence/index.md",
+    "content/event/uxcamp2025/index.md",
+    "content/event/uxcamp2024/index.md",
+    "content/event/servicedesignbreakfast/index.md",
+    "content/event/sdingovvirtual/index.md",
+    "content/event/playfullearning2024/index.md",
+    "content/event/greenseo/index.md",
+    "content/event/designershive/index.md",
+    "040725.zip",
+    "zi6JpWdc",
+    "public/js/hugo-blox-en.min.47736f84e20cae1bb2224dc4605239689e913811575e32b5f86a700ee9d6529d.js",
+    "public/event/uxcamp2025/featured_hu11141254673269936442.webp",
+    "public/event/uxcamp2025/featured_hu15633289247338037946.webp",
+    "resources/_gen/images/event/uxcamp2025/featured_hu11141254673269936442.webp",
+    "resources/_gen/images/event/uxcamp2025/featured_hu15633289247338037946.webp",
+    "resources/_gen/images/event/uxcamp2025/featured_hu6303634216576146876.jpg",
+    "resources/_gen/images/event/uxcamp2025/featured_hu1755984377561848512.jpg",
+    "public/event/uxcamp2025/featured_hu4211026488632011112.webp",
+    "public/event/uxcamp2025/featured_hu1794508223190121716.webp",
+    "resources/_gen/images/event/uxcamp2025/featured_hu4211026488632011112.webp",
+    "public/event/uxcamp2025/index.html",
+    "resources/_gen/images/event/uxcamp2025",
+    "public/event/uxcamp2025",
+    "content/event/uxcamp2025",
+    "public/event/uxcamp2024-2/index.html",
+    "content/event/uxcamp2024 2/index.md",
+    "content/post/2023/11/Overdue reflections/index.md",
+    "content/event/uxofselfdefence 2/index.md",
+    "content/post/2023/07/These UXers Need Help - version 2.0/index.md",
+    "content/post/2023/04/UX Camp Brighton Game On/index.md",
+    "content/event/_index.md",
+    "content/event/uxcamp2024 1/index.md",
+    "shame.md",
+    "content/post/2016/06/trust-in-iot-app-interfaces-redux/index.md",
+    "content/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/index.md",
+    "talk-factors-of-trust-in-iot-app-interfaces.md",
+    "2016/03/talk-factors-of-trust-in-iot-app-interfaces.md",
+    "content/post/2017/02/beginning/index.md",
+    "content/post/2022/11/uxbrighton-0411/index.md",
+    "content/post/2015/06/attempting-to-live-blog-while-running-a-twitter-competition/index.md"
   ]
 }

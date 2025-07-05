@@ -37,27 +37,28 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - event 
+      count: 6
     design:
       view: article-grid
       columns: 3 
        # Reduce spacing
       spacing:
         padding: [4rem, 0, 0, 0]
-  - block: collection
-    id: projects
-    content:
-      title: Portfolio 
-      filters:
-        folders:
-          - project
-        featured_only: false 
-    design:
-      view: article-grid
-      columns: 3 
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 4rem, 0]
+#  - block: collection
+#    id: projects
+#    content:
+#      title: Portfolio 
+#      filters:
+#        folders:
+#          - project
+#        featured_only: false 
+#    design:
+#      view: article-grid
+#      columns: 3 
+#      # Reduce spacing
+#      spacing:
+#        padding: [0, 0, 4rem, 0]
   - block: collection
     id: blog
     content:

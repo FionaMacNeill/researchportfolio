@@ -1,18 +1,16 @@
 ---
 title: "The Adjustment Bureau: The Case for Adjustment in Mobile Apps"
-date: "2014-09-07"
-categories: 
-  - "mobile"
-tags: 
-  - "android"
-  - "apps"
-  - "ios"
-  - "mobile"
-  - "mobile-devices"
-  - "mobile-technology"
+date: 2014-09-07
+categories:
+  - mobile
+tags:
+  - android
+  - apps
+  - ios
+  - mobile
+  - mobile-devices
+  - mobile-technology
 ---
-![adjustment book](images/asphalt_book-copy-23g1e4c.jpg "Fiona MacNeill - inspired by J.J.Corbett, Animation and Design Coordinator for The Adjustment Bureau (2011)")
-
 ## Introduction
 
 Recently I was asked to present at the Media-Enhanced Learning Special Interest Group (MELSIG) event hosted by the University of Sussex. MELSIG is a special interest group originally formed in 2008 (MELSIG, 2014). The group's focus has evolved, alongside contemporary developments in technology, to include investigation of a wide variety of digital media when applied to the support of learning and teaching. The theme for the University of Sussex event was _Digital Media Interaction and Inclusivity_ and this was exactly the prompt I needed to engage in more thorough research of in-app adjustment functions which has been preoccupation of mine for a while.
