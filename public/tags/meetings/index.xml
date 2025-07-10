@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/meetings/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meetings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Meetings</title>
+      <link>https://fionamacneill.co.uk/tags/meetings/</link>
+    </image>
+    
+    <item>
+      <title>Magical Meetings - A Review</title>
+      <link>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</guid>
+      <description>&lt;p&gt;This post relates to &lt;a href=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
+&lt;p&gt;The book, &lt;em&gt;Magical Meetings&lt;/em&gt; was discussed by one of the authors, Douglas Ferguson on &lt;a href=&#34;https://uibreakfast.com/216-meeting-facilitation-with-douglas-ferguson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UI Breakfast podcast with Jane Portman&lt;/a&gt;. Ferguson founded &lt;em&gt;Voltage Control&lt;/em&gt; a company that focuses on facilitation including meetings, workshops, and team dynamics. They also look at workflow and transformation, considering for example how to optimise agile sprint cycles within different organisations. All of this sounded fascinating and quite different from my current work in Higher Education.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Authors:&lt;/strong&gt; Douglas Ferguson &amp;amp; John Fitch&lt;br&gt;
+&lt;strong&gt;Publisher:&lt;/strong&gt; Ideapress Publishing&lt;br&gt;
+&lt;strong&gt;Copyright Date:&lt;/strong&gt; 2021&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This is my own summary of the book to give you the gist.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Magical Meetings reframes the act of facilitating, attending and reporting back from meetings. It aims to empower facilitators to prevent bad meetings from taking place. It also provides strategies to support human creativity and productivity when meetings do happen.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;setting&#34;&gt;Setting&lt;/h2&gt;
+&lt;h3 id=&#34;where-did-it-happen&#34;&gt;Where did it happen?&lt;/h3&gt;
+&lt;p&gt;The tips, advice, workflows and templates provided in &lt;em&gt;Magical Meetings&lt;/em&gt; were validated through &lt;em&gt;Voltage Control&amp;rsquo;s&lt;/em&gt; day-to-day work as an agency focused on the facilitation side of business process for software development.&lt;/p&gt;
+&lt;h3 id=&#34;when-does-it-apply&#34;&gt;When does it apply?&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Magical Meetings&lt;/em&gt; is not talking about all meetings, rather it forcuses on: Workshops, Sales Meetings, Presentations, and Conferences. Any of these meetings can take place in-person or online.&lt;/p&gt;
+&lt;h2 id=&#34;an-excerpt-to-give-you-the-flavour&#34;&gt;An excerpt to give you the flavour&lt;/h2&gt;
+&lt;p&gt;This is one of my favourite elements of the book, a test to establish whether a meeting should take place. In the table below, if one or more of the questions between 1 and 4 are &amp;lsquo;yes&amp;rsquo; then the meeting is worth having. If question 5 is yes, then a written report, an email, or an update in a project/task management tool, such as Jira, Trello, or Microsoft Planner would be better.&lt;/p&gt;
+&lt;p&gt;The table below is a direct quotation from p. 24 of &lt;em&gt;Magical Meetings&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;#&lt;/th&gt;
+          &lt;th&gt;Should we even have a meeting?&lt;/th&gt;
+          &lt;th&gt;Test&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Is there a clear purpose for gathering people to meet?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Is there an artifact/prototype to review?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Is there going to be an artifact/prototype that we can create after workshopping in the meeting?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Will decisions that alter the direction of the project be made?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Is this essentially a status update in disguise?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;what-worked-for-me&#34;&gt;What worked for me&lt;/h2&gt;
+&lt;p&gt;There is a lot to like about this book, to summarise my key takeaways&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;meeting-purpose&#34;&gt;Meeting Purpose&lt;/h3&gt;
+&lt;p&gt;The book presents ways to think about meetings as an edifice of the working environment. Turns out there are a lot of company-cultural hang-ups related to meetings and emotional needs as part of that, so it is useful to split up meeting planning and communication into sections. First is the purpose of the meeting, for which the authors provide the following criteria: “Informative, Explorative, Generative, Decisive” (p. 26). I have found these criteria useful for reflecting on my own meeting experiences, considering clarity of purpose and whether it was clear to participants what the purpose was in advance. Essentially for a meeting to be truly successful, participants must understand why it is being called, what the expectations are for their input and what is in it for them personally or as part of team working towards shared objectives. From an inclusivity perspective, the key aspect is expectations for participant input. Being able to mentally prepare beforehand for collective and group focused work is crucial for some neurodiverse people. It is also important to plan out aspects of the meeting which could be worked on &lt;em&gt;individually&lt;/em&gt;, yet still together, to unlock ideas and to provide space for the less dominant yet equally valuable voices in the room.&lt;/p&gt;
+&lt;h3 id=&#34;meeting-outline&#34;&gt;Meeting Outline&lt;/h3&gt;
+&lt;p&gt;The second is a meeting outline. This is essentially an agenda or schedule listing what will happen when, including activities and breaks. These elements should be mapped to the meeting purpose and objectives. The authors provide the Nine Whys&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; questions to focus in on the purpose. They suggest asking the questions at the beginning of a meeting or workshop to help get everyone on the same page. A helpful tip for communications planning was to share the meeting outline with not only with the group of participants, but also with individual participants ahead of time (p. 40). Then follow-up with a group reminder the day before. Although this is quite labour intensive, it is certainly worth it in terms of getting the most out of the meeting time.&lt;/p&gt;
+&lt;h3 id=&#34;meeting-rules&#34;&gt;Meeting Rules&lt;/h3&gt;
+&lt;p&gt;The third is setting meeting rules. This is something, based on my own experience, that is oft overlooked but can make all the difference to making sure that all participants feel respected and that their opinions are valued. So, for example, a rule I could get behind is not speaking over people. It is something that happens frequently in web calls and can be circumvented by writing in the chat or having a notebook to hand, &amp;ldquo;&lt;em&gt;save that important thought, don&amp;rsquo;t interrupt someone else&amp;rsquo;s flow&lt;/em&gt;&amp;rdquo;. Of course, folks can run on too long, so I have always found it helpful when chairing forums to ask that contributions are limited to two minutes. Sometimes there are technology focused rules like putting your smartphones away, as suggested by the authors (p. 29). I am less of a fan of this, as if folks are tempted to look at their phones, then this tells me that the flow of the meeting is not optimal. I take note of this, move on and improve the next iteration of the meeting.&lt;/p&gt;
+&lt;h3 id=&#34;online-meetings-and-workshops&#34;&gt;Online Meetings and Workshops&lt;/h3&gt;
+&lt;p&gt;The authors, Douglas and Fitch also note that online meetings and workshops take double the preparation time and this is certainly true based on my own experience. However, it is also possible, like a real room to be a &amp;ldquo;Meeting-Room Architect&amp;rdquo; (p. 31). In a real room this can be about arranging furniture or creating zones, something I worked on in the past through the likes of practice sharing café events and a la carte style technology taster sessions. In the virtual space this can be about the interaction between tools, so Microsoft Teams might be the room, Mural might be the participant&amp;rsquo;s own desk, Word Online might be a flipchart. As I have talked about in previous blog posts and as is starting to emerge in tools like &lt;a href=&#34;https://www.wonder.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Wonder&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.gather.town/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gather&lt;/em&gt;&lt;/a&gt;, the idea of a fictitious floor plan can also be a helpful McGuffin (or trigger for the plot) for an online meeting. As part of this the Douglas and Fitch propose a video orientation for online meetings and workshops, which participants watch in advance. Having tried this out, the best approach was to create a TikTok-style video with very brief steps and lasting no more than 90 secs. Otherwise, folks won&amp;rsquo;t watch it. Creating annotated screenshots or short video clips with a voiceover is a good way to stay on track.&lt;/p&gt;
+&lt;p&gt;As an aside, one of the most transformative sessions I ever attended involved sitting on chairs looking down as a single iPad on the floor and imagining it as a window (kudos to &lt;a href=&#34;https://medium.com/@eldevri&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen de Vries&lt;/a&gt; at UX Camp Brighton circa 2015 for this one). This proves that it is not always about furniture and stationery but also about imagination.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_uIeoBVFLww&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;This online orientation video is too long (3:37mins). Just an example.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;do-the-work-in-the-meeting&#34;&gt;Do the work in the meeting&lt;/h3&gt;
+&lt;p&gt;One of the key messages in the book is the idea of doing the work in the meeting. This is something that has always been a facet of my own approach when running any type of meeting, large or small. Another key concept is ensuring that the people in the room want to be there, so that the people in the room bring the right kind of energy. Therefore, making meetings optional, but providing clear communications prior to and after the meeting helps to counteract what the authors call, &amp;ldquo;FOMO&amp;rdquo; or Fear of Missing Out (p. 132). I have tried one of the recommended methods, providing a story of a meeting as a debriefing method using a story spine, number 4 on the &lt;a href=&#34;https://gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22 rules of storytelling&lt;/a&gt; as devised by &lt;a href=&#34;https://twitter.com/lawnrocket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Coats&lt;/a&gt; a former artist at Pixar. It was inventive, but a little bit tricky to tweak for my meeting (which was a nationwide accessibility meeting), but certainly quick to digest and celebratory in tone.&lt;/p&gt;
+&lt;h3 id=&#34;extra-features&#34;&gt;Extra Features&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://voltagecontrol.com/resources/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book assets download&lt;/a&gt; and the &lt;a href=&#34;https://voltagecontrol.com/mural-and-miro-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;templates for Mural and Miro&lt;/a&gt; on the &lt;em&gt;Voltage Control&lt;/em&gt; site are very helpful. I used the &lt;a href=&#34;https://voltagecontrol.com/assorted-mural-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Team Bookshelf activity&lt;/a&gt; with UXUp meet-up group participants. The activity involves asking participants to recommend books, write a mini-review and upvote other folks&amp;rsquo; suggestions. I also added a final element which was to ask participants to indicate which book they would try to read soon. I will use this as a sharing exercise again and next time I will allow podcasts and videos in addition to books, to get a fresh list of materials not only the staples. You can view the &lt;a href=&#34;https://app.mural.co/t/fiona7703/m/fiona7703/1627325471884/47467abe56f0e94eca7c22278e3389472d9a9c5c?sender=fmacneill8446&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final Mural Board&lt;/a&gt; here to give you a flavour.&lt;/p&gt;
+&lt;iframe src=&#39;https://app.mural.co/embed/5be44ca3-7ae7-4786-89ef-f4bee9c743cd&#39;
+        width=&#39;100%&#39;
+        height=&#39;480px&#39;
+        style=&#39;min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef&#39;
+        sandbox=&#39;allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox&#39;&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;what-did-not-work-for-me&#34;&gt;What did not work for me&lt;/h2&gt;
+&lt;p&gt;As an educator, some of this book felt like reinventing the wheel. This is because a key idea in contemporary education is &amp;ldquo;constructive alignment&amp;rdquo; (Biggs, 1999), this is the notion that in order to stoke student motivation learning needs to be mapped to the learner&amp;rsquo;s goals. Thinking back to the &lt;a href=&#34;#meeting-outline&#34;&gt;Meeting Outline Section&lt;/a&gt;, mapping activities to a set of objectives is very similar to creating a lesson plan which maps to a set of learning outcomes. Learning outcomes are essentially an educators&amp;rsquo; objectives for their students, which sit under the larger umbrella &lt;em&gt;goals&lt;/em&gt; of a programme of study. This book made me want to get educators and facilitators into a meeting design face-off, who would do it better? My guess is that a good facilitator from a design background and a good educator have a lot in common, something that Diana Laurillard so eloquently explored in her seminal book, &lt;em&gt;Teaching as a design science: Building Pedagogical Patterns for Learning and Technology&lt;/em&gt; (2012).&lt;/p&gt;
+&lt;p&gt;This got me thinking about all the hidden work that educators do, or the soft skills, and I started to list them. Once I had a sizable list I thought, maybe every design team could benefit from having a former educator, or career-break educator, on their team because this &lt;em&gt;hidden&lt;/em&gt; work yields &lt;em&gt;demonstrable&lt;/em&gt; value. If you would like to see &lt;a href=&#34;#fionas-list&#34;&gt;my rough list&lt;/a&gt;, I have included it below.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Ultimately this book succeeded on several levels. It helped me consider best practice, it helped me reflect on my own practice, it enabled me to try out new methods, and it stimulated an emotional response of very mild irritation.&lt;/p&gt;
+&lt;p&gt;I give it a solid 4 out of 5 moons. &lt;br&gt;
+&amp;#x1f315; &amp;#x1f315; &amp;#x1f315; &amp;#x1f315; &amp;#x1f311;&lt;/p&gt;
+&lt;p&gt;I recommend this book for a variety of workplaces and contexts. It provides actionable strategies for iteratively tweaking team and company culture.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&amp;hellip;restructure the world we live in in some way, then see what happens”
+Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wikipedia.org/wiki/Frederik_Pohl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frederik Pohl&lt;/a&gt;, a Science Fiction writer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Biggs, J. (1999) ‘What the student does: teaching for enhanced learning’, &lt;em&gt;Higher Education Research &amp;amp; Development&lt;/em&gt;, 18(1), pp. 57-75. doi:10.1080/0729436990180105.&lt;/p&gt;
+&lt;p&gt;Ferguson, D. and Fitch, J. (2021) &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;. USA: Ideapress Publishing.&lt;/p&gt;
+&lt;p&gt;Laurillard, D. (2012) &lt;em&gt;Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology&lt;/em&gt;. London: Routledge.&lt;/p&gt;
+&lt;h2 id=&#34;fionas-list&#34;&gt;Fiona&amp;rsquo;s List&lt;/h2&gt;
+&lt;p&gt;Or why a talented educator may be a boon to your design team.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A good educator aligns every session with bigger picture goals.&lt;/li&gt;
+&lt;li&gt;Educators usually have at least three back-up plans.&lt;/li&gt;
+&lt;li&gt;Educators are used to being challenged. There is an art to knowing when to deflect, acknowledge and move on, and when to challenge an idea which is unreasonable or may mean that others in the room are excluded or made to feel unwelcome. Educators have to deal with these scenarios every day.&lt;/li&gt;
+&lt;li&gt;Who is in the room? The session, whether led or facilitated, needs to work for the people in the room. Understanding participants&amp;rsquo; needs and motivations is key to success. An educator will think about who is in the room and why they are in the room.&lt;/li&gt;
+&lt;li&gt;A good educator spends a lot of time thinking about the language they use and adjusting it for the audience.&lt;/li&gt;
+&lt;li&gt;Educators are expert at subverting time and space. A good educator is a storyteller, a challenger, and a sounding board rolled into one. An educator can set the scene for a space and therefore get people into a more flexible mindset, ready to explore.&lt;/li&gt;
+&lt;li&gt;Educators are driven to learn, by a desire to share what they have learned.&lt;/li&gt;
+&lt;li&gt;Educators have many methods to draw from to breakthrough even the toughest shells.&lt;/li&gt;
+&lt;li&gt;Educators persistently innovate and learn from failure. A core facet of any educational training is learning how to reflect on your own work.&lt;/li&gt;
+&lt;li&gt;Educators have had to learn the hard way about when and how to take a step back. So facilitating group work is a key example where you need to provide the core ingredients and then let the group mix them together themselves.&lt;/li&gt;
+&lt;li&gt;Educators communicate in advance to ensure that people feel included and forewarned of the task and expectations.&lt;/li&gt;
+&lt;li&gt;A good educator pilots or tests a task themselves before asking students to do it.&lt;/li&gt;
+&lt;li&gt;A good educator can also wing it in a situation where preparation has not been possible. An educator’s version of winging it is based on a wealth of experience. In fact you won’t even know they are winging it. Sometimes these are the best sessions for participants as over preparation can be a &amp;rsquo;thing&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;Educators can read just about any room. Reading between the lines in terms of empathy. An educator can tell when something else is getting in the way of the task and can find a way to help.&lt;/li&gt;
+&lt;li&gt;A good educator can build a rapport with anyone, to find out what their motivations are and what they want to learn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;A really helpful page on using the &lt;a href=&#34;https://www.liberatingstructures.com/3-nine-whys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nine Whys from the Liberating Structures site&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual-Space | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/virtual-space/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/virtual-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virtual-Space</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Virtual-Space</title>
+      <link>https://fionamacneill.co.uk/tags/virtual-space/</link>
+    </image>
+    
+    <item>
+      <title>Magical Meetings - A Review</title>
+      <link>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</guid>
+      <description>&lt;p&gt;This post relates to &lt;a href=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
+&lt;p&gt;The book, &lt;em&gt;Magical Meetings&lt;/em&gt; was discussed by one of the authors, Douglas Ferguson on &lt;a href=&#34;https://uibreakfast.com/216-meeting-facilitation-with-douglas-ferguson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UI Breakfast podcast with Jane Portman&lt;/a&gt;. Ferguson founded &lt;em&gt;Voltage Control&lt;/em&gt; a company that focuses on facilitation including meetings, workshops, and team dynamics. They also look at workflow and transformation, considering for example how to optimise agile sprint cycles within different organisations. All of this sounded fascinating and quite different from my current work in Higher Education.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Authors:&lt;/strong&gt; Douglas Ferguson &amp;amp; John Fitch&lt;br&gt;
+&lt;strong&gt;Publisher:&lt;/strong&gt; Ideapress Publishing&lt;br&gt;
+&lt;strong&gt;Copyright Date:&lt;/strong&gt; 2021&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;This is my own summary of the book to give you the gist.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Magical Meetings reframes the act of facilitating, attending and reporting back from meetings. It aims to empower facilitators to prevent bad meetings from taking place. It also provides strategies to support human creativity and productivity when meetings do happen.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;setting&#34;&gt;Setting&lt;/h2&gt;
+&lt;h3 id=&#34;where-did-it-happen&#34;&gt;Where did it happen?&lt;/h3&gt;
+&lt;p&gt;The tips, advice, workflows and templates provided in &lt;em&gt;Magical Meetings&lt;/em&gt; were validated through &lt;em&gt;Voltage Control&amp;rsquo;s&lt;/em&gt; day-to-day work as an agency focused on the facilitation side of business process for software development.&lt;/p&gt;
+&lt;h3 id=&#34;when-does-it-apply&#34;&gt;When does it apply?&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Magical Meetings&lt;/em&gt; is not talking about all meetings, rather it forcuses on: Workshops, Sales Meetings, Presentations, and Conferences. Any of these meetings can take place in-person or online.&lt;/p&gt;
+&lt;h2 id=&#34;an-excerpt-to-give-you-the-flavour&#34;&gt;An excerpt to give you the flavour&lt;/h2&gt;
+&lt;p&gt;This is one of my favourite elements of the book, a test to establish whether a meeting should take place. In the table below, if one or more of the questions between 1 and 4 are &amp;lsquo;yes&amp;rsquo; then the meeting is worth having. If question 5 is yes, then a written report, an email, or an update in a project/task management tool, such as Jira, Trello, or Microsoft Planner would be better.&lt;/p&gt;
+&lt;p&gt;The table below is a direct quotation from p. 24 of &lt;em&gt;Magical Meetings&lt;/em&gt;.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;#&lt;/th&gt;
+          &lt;th&gt;Should we even have a meeting?&lt;/th&gt;
+          &lt;th&gt;Test&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Is there a clear purpose for gathering people to meet?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Is there an artifact/prototype to review?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;Is there going to be an artifact/prototype that we can create after workshopping in the meeting?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;Will decisions that alter the direction of the project be made?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;Is this essentially a status update in disguise?&lt;/td&gt;
+          &lt;td&gt;Y/N&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/span&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;what-worked-for-me&#34;&gt;What worked for me&lt;/h2&gt;
+&lt;p&gt;There is a lot to like about this book, to summarise my key takeaways&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;meeting-purpose&#34;&gt;Meeting Purpose&lt;/h3&gt;
+&lt;p&gt;The book presents ways to think about meetings as an edifice of the working environment. Turns out there are a lot of company-cultural hang-ups related to meetings and emotional needs as part of that, so it is useful to split up meeting planning and communication into sections. First is the purpose of the meeting, for which the authors provide the following criteria: “Informative, Explorative, Generative, Decisive” (p. 26). I have found these criteria useful for reflecting on my own meeting experiences, considering clarity of purpose and whether it was clear to participants what the purpose was in advance. Essentially for a meeting to be truly successful, participants must understand why it is being called, what the expectations are for their input and what is in it for them personally or as part of team working towards shared objectives. From an inclusivity perspective, the key aspect is expectations for participant input. Being able to mentally prepare beforehand for collective and group focused work is crucial for some neurodiverse people. It is also important to plan out aspects of the meeting which could be worked on &lt;em&gt;individually&lt;/em&gt;, yet still together, to unlock ideas and to provide space for the less dominant yet equally valuable voices in the room.&lt;/p&gt;
+&lt;h3 id=&#34;meeting-outline&#34;&gt;Meeting Outline&lt;/h3&gt;
+&lt;p&gt;The second is a meeting outline. This is essentially an agenda or schedule listing what will happen when, including activities and breaks. These elements should be mapped to the meeting purpose and objectives. The authors provide the Nine Whys&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; questions to focus in on the purpose. They suggest asking the questions at the beginning of a meeting or workshop to help get everyone on the same page. A helpful tip for communications planning was to share the meeting outline with not only with the group of participants, but also with individual participants ahead of time (p. 40). Then follow-up with a group reminder the day before. Although this is quite labour intensive, it is certainly worth it in terms of getting the most out of the meeting time.&lt;/p&gt;
+&lt;h3 id=&#34;meeting-rules&#34;&gt;Meeting Rules&lt;/h3&gt;
+&lt;p&gt;The third is setting meeting rules. This is something, based on my own experience, that is oft overlooked but can make all the difference to making sure that all participants feel respected and that their opinions are valued. So, for example, a rule I could get behind is not speaking over people. It is something that happens frequently in web calls and can be circumvented by writing in the chat or having a notebook to hand, &amp;ldquo;&lt;em&gt;save that important thought, don&amp;rsquo;t interrupt someone else&amp;rsquo;s flow&lt;/em&gt;&amp;rdquo;. Of course, folks can run on too long, so I have always found it helpful when chairing forums to ask that contributions are limited to two minutes. Sometimes there are technology focused rules like putting your smartphones away, as suggested by the authors (p. 29). I am less of a fan of this, as if folks are tempted to look at their phones, then this tells me that the flow of the meeting is not optimal. I take note of this, move on and improve the next iteration of the meeting.&lt;/p&gt;
+&lt;h3 id=&#34;online-meetings-and-workshops&#34;&gt;Online Meetings and Workshops&lt;/h3&gt;
+&lt;p&gt;The authors, Douglas and Fitch also note that online meetings and workshops take double the preparation time and this is certainly true based on my own experience. However, it is also possible, like a real room to be a &amp;ldquo;Meeting-Room Architect&amp;rdquo; (p. 31). In a real room this can be about arranging furniture or creating zones, something I worked on in the past through the likes of practice sharing café events and a la carte style technology taster sessions. In the virtual space this can be about the interaction between tools, so Microsoft Teams might be the room, Mural might be the participant&amp;rsquo;s own desk, Word Online might be a flipchart. As I have talked about in previous blog posts and as is starting to emerge in tools like &lt;a href=&#34;https://www.wonder.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Wonder&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.gather.town/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Gather&lt;/em&gt;&lt;/a&gt;, the idea of a fictitious floor plan can also be a helpful McGuffin (or trigger for the plot) for an online meeting. As part of this the Douglas and Fitch propose a video orientation for online meetings and workshops, which participants watch in advance. Having tried this out, the best approach was to create a TikTok-style video with very brief steps and lasting no more than 90 secs. Otherwise, folks won&amp;rsquo;t watch it. Creating annotated screenshots or short video clips with a voiceover is a good way to stay on track.&lt;/p&gt;
+&lt;p&gt;As an aside, one of the most transformative sessions I ever attended involved sitting on chairs looking down as a single iPad on the floor and imagining it as a window (kudos to &lt;a href=&#34;https://medium.com/@eldevri&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen de Vries&lt;/a&gt; at UX Camp Brighton circa 2015 for this one). This proves that it is not always about furniture and stationery but also about imagination.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_uIeoBVFLww&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;This online orientation video is too long (3:37mins). Just an example.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;do-the-work-in-the-meeting&#34;&gt;Do the work in the meeting&lt;/h3&gt;
+&lt;p&gt;One of the key messages in the book is the idea of doing the work in the meeting. This is something that has always been a facet of my own approach when running any type of meeting, large or small. Another key concept is ensuring that the people in the room want to be there, so that the people in the room bring the right kind of energy. Therefore, making meetings optional, but providing clear communications prior to and after the meeting helps to counteract what the authors call, &amp;ldquo;FOMO&amp;rdquo; or Fear of Missing Out (p. 132). I have tried one of the recommended methods, providing a story of a meeting as a debriefing method using a story spine, number 4 on the &lt;a href=&#34;https://gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22 rules of storytelling&lt;/a&gt; as devised by &lt;a href=&#34;https://twitter.com/lawnrocket&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emma Coats&lt;/a&gt; a former artist at Pixar. It was inventive, but a little bit tricky to tweak for my meeting (which was a nationwide accessibility meeting), but certainly quick to digest and celebratory in tone.&lt;/p&gt;
+&lt;h3 id=&#34;extra-features&#34;&gt;Extra Features&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://voltagecontrol.com/resources/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;book assets download&lt;/a&gt; and the &lt;a href=&#34;https://voltagecontrol.com/mural-and-miro-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;templates for Mural and Miro&lt;/a&gt; on the &lt;em&gt;Voltage Control&lt;/em&gt; site are very helpful. I used the &lt;a href=&#34;https://voltagecontrol.com/assorted-mural-templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Team Bookshelf activity&lt;/a&gt; with UXUp meet-up group participants. The activity involves asking participants to recommend books, write a mini-review and upvote other folks&amp;rsquo; suggestions. I also added a final element which was to ask participants to indicate which book they would try to read soon. I will use this as a sharing exercise again and next time I will allow podcasts and videos in addition to books, to get a fresh list of materials not only the staples. You can view the &lt;a href=&#34;https://app.mural.co/t/fiona7703/m/fiona7703/1627325471884/47467abe56f0e94eca7c22278e3389472d9a9c5c?sender=fmacneill8446&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;final Mural Board&lt;/a&gt; here to give you a flavour.&lt;/p&gt;
+&lt;iframe src=&#39;https://app.mural.co/embed/5be44ca3-7ae7-4786-89ef-f4bee9c743cd&#39;
+        width=&#39;100%&#39;
+        height=&#39;480px&#39;
+        style=&#39;min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef&#39;
+        sandbox=&#39;allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox&#39;&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;what-did-not-work-for-me&#34;&gt;What did not work for me&lt;/h2&gt;
+&lt;p&gt;As an educator, some of this book felt like reinventing the wheel. This is because a key idea in contemporary education is &amp;ldquo;constructive alignment&amp;rdquo; (Biggs, 1999), this is the notion that in order to stoke student motivation learning needs to be mapped to the learner&amp;rsquo;s goals. Thinking back to the &lt;a href=&#34;#meeting-outline&#34;&gt;Meeting Outline Section&lt;/a&gt;, mapping activities to a set of objectives is very similar to creating a lesson plan which maps to a set of learning outcomes. Learning outcomes are essentially an educators&amp;rsquo; objectives for their students, which sit under the larger umbrella &lt;em&gt;goals&lt;/em&gt; of a programme of study. This book made me want to get educators and facilitators into a meeting design face-off, who would do it better? My guess is that a good facilitator from a design background and a good educator have a lot in common, something that Diana Laurillard so eloquently explored in her seminal book, &lt;em&gt;Teaching as a design science: Building Pedagogical Patterns for Learning and Technology&lt;/em&gt; (2012).&lt;/p&gt;
+&lt;p&gt;This got me thinking about all the hidden work that educators do, or the soft skills, and I started to list them. Once I had a sizable list I thought, maybe every design team could benefit from having a former educator, or career-break educator, on their team because this &lt;em&gt;hidden&lt;/em&gt; work yields &lt;em&gt;demonstrable&lt;/em&gt; value. If you would like to see &lt;a href=&#34;#fionas-list&#34;&gt;my rough list&lt;/a&gt;, I have included it below.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Ultimately this book succeeded on several levels. It helped me consider best practice, it helped me reflect on my own practice, it enabled me to try out new methods, and it stimulated an emotional response of very mild irritation.&lt;/p&gt;
+&lt;p&gt;I give it a solid 4 out of 5 moons. &lt;br&gt;
+&amp;#x1f315; &amp;#x1f315; &amp;#x1f315; &amp;#x1f315; &amp;#x1f311;&lt;/p&gt;
+&lt;p&gt;I recommend this book for a variety of workplaces and contexts. It provides actionable strategies for iteratively tweaking team and company culture.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“&amp;hellip;restructure the world we live in in some way, then see what happens”
+Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wikipedia.org/wiki/Frederik_Pohl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frederik Pohl&lt;/a&gt;, a Science Fiction writer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Biggs, J. (1999) ‘What the student does: teaching for enhanced learning’, &lt;em&gt;Higher Education Research &amp;amp; Development&lt;/em&gt;, 18(1), pp. 57-75. doi:10.1080/0729436990180105.&lt;/p&gt;
+&lt;p&gt;Ferguson, D. and Fitch, J. (2021) &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;. USA: Ideapress Publishing.&lt;/p&gt;
+&lt;p&gt;Laurillard, D. (2012) &lt;em&gt;Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology&lt;/em&gt;. London: Routledge.&lt;/p&gt;
+&lt;h2 id=&#34;fionas-list&#34;&gt;Fiona&amp;rsquo;s List&lt;/h2&gt;
+&lt;p&gt;Or why a talented educator may be a boon to your design team.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A good educator aligns every session with bigger picture goals.&lt;/li&gt;
+&lt;li&gt;Educators usually have at least three back-up plans.&lt;/li&gt;
+&lt;li&gt;Educators are used to being challenged. There is an art to knowing when to deflect, acknowledge and move on, and when to challenge an idea which is unreasonable or may mean that others in the room are excluded or made to feel unwelcome. Educators have to deal with these scenarios every day.&lt;/li&gt;
+&lt;li&gt;Who is in the room? The session, whether led or facilitated, needs to work for the people in the room. Understanding participants&amp;rsquo; needs and motivations is key to success. An educator will think about who is in the room and why they are in the room.&lt;/li&gt;
+&lt;li&gt;A good educator spends a lot of time thinking about the language they use and adjusting it for the audience.&lt;/li&gt;
+&lt;li&gt;Educators are expert at subverting time and space. A good educator is a storyteller, a challenger, and a sounding board rolled into one. An educator can set the scene for a space and therefore get people into a more flexible mindset, ready to explore.&lt;/li&gt;
+&lt;li&gt;Educators are driven to learn, by a desire to share what they have learned.&lt;/li&gt;
+&lt;li&gt;Educators have many methods to draw from to breakthrough even the toughest shells.&lt;/li&gt;
+&lt;li&gt;Educators persistently innovate and learn from failure. A core facet of any educational training is learning how to reflect on your own work.&lt;/li&gt;
+&lt;li&gt;Educators have had to learn the hard way about when and how to take a step back. So facilitating group work is a key example where you need to provide the core ingredients and then let the group mix them together themselves.&lt;/li&gt;
+&lt;li&gt;Educators communicate in advance to ensure that people feel included and forewarned of the task and expectations.&lt;/li&gt;
+&lt;li&gt;A good educator pilots or tests a task themselves before asking students to do it.&lt;/li&gt;
+&lt;li&gt;A good educator can also wing it in a situation where preparation has not been possible. An educator’s version of winging it is based on a wealth of experience. In fact you won’t even know they are winging it. Sometimes these are the best sessions for participants as over preparation can be a &amp;rsquo;thing&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;Educators can read just about any room. Reading between the lines in terms of empathy. An educator can tell when something else is getting in the way of the task and can find a way to help.&lt;/li&gt;
+&lt;li&gt;A good educator can build a rapport with anyone, to find out what their motivations are and what they want to learn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;A really helpful page on using the &lt;a href=&#34;https://www.liberatingstructures.com/3-nine-whys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nine Whys from the Liberating Structures site&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reblog - What makes an online space inclusive?</title>
+      <link>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
+&lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
+&lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Session description:&lt;/strong&gt;
+Think about the last online event you attended. Was there anything that made you feel included, or excluded? Did you have the option to add your pronouns? Were you actively invited to turn on your webcam, but only if you wanted to? You might even have become immersed in a collaborative exercise, almost forgetting you were on a video call! This session is a discussion focusing on how to support accessibility and inclusion in online learning spaces. Thinking about what works and what does not work and what is needed before, during, and after an online session to make it successful.
+This post is split into two sections, &lt;em&gt;what happened at the event?&lt;/em&gt; and the &lt;em&gt;meta level&lt;/em&gt;. The first section, &lt;em&gt;what happened&amp;hellip;&lt;/em&gt; summarises aspects of the discussion and the activity in the meeting chat. This is very much a crowdsourced blog post and I owe the vast majority of the helpful and acutely observed content to my fantastically engaged audience during the event. The second section is a reflection on my own practice and the steps that Jisc organisers took behind the scenes to support the event.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1xidGq_5d4OYedys5emfgYirDAiwCGbMWxeSGhFBVsAI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access the slides used during the session at Google Slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-happened-during-the-event&#34;&gt;What happened during the event?&lt;/h2&gt;
+&lt;h3 id=&#34;setting-the-scene&#34;&gt;Setting the scene:&lt;/h3&gt;
+&lt;p&gt;What do I mean by an online space?
+At the beginning of the event, I needed to establish what I meant by this term as it is a slightly lateral way of thinking about situations/events which may defined in a technical sense as webinars, online lessons, or online meetings. This is a big ask of an audience, but I wanted to encourage them to think about online space in broader terms rather than using siloed categorisations.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;My definition:&lt;/strong&gt;
+An online space is where groups of 3 or more people come together to meet online.
+These spaces are facilitated via meeting and webinar tools and the format is governed by the people who facilitate and/or attend.
+The format can replicate in-person meeting styles or can be specific to online.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_ingredients-for-an-online-space-as-an-algorithm-diagram_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+               width=&#34;266&#34;
+               height=&#34;418&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Ingredients for an online space as an algorithm diagram&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;examples-to-illustrate-format&#34;&gt;Examples to illustrate &amp;lsquo;format&amp;rsquo;&lt;/h3&gt;
+&lt;p&gt;I provided two categories of format with examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;In-person formats:&lt;/strong&gt; online spaces which attempt to replicate an in-person meeting format/experience. Here are just a few of those that I listed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Round table, with the example meeting tool &lt;em&gt;Wonder&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Large group meeting, with example tool &lt;em&gt;Microsoft Teams&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Conference or lecture presentation&lt;/li&gt;
+&lt;li&gt;Watch Party, with example tool &lt;em&gt;Backyard.co&lt;/em&gt; (no longer available as of 26/06/21 - sunset due to being bought out by Discord).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Uniquely online formats:&lt;/strong&gt; online spaces which present new modes of interaction or collaboration.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio-only large group meeting, with the example of &lt;em&gt;Twitter Rooms&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Collaboration in real-time with interspersed audio, with example tool &lt;em&gt;Mural&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-_a-twitter-room-featuring-hundreds-of-attendees-with-the-director-edgar-wright-and-the-original-cast-of-scott-pilgrim-vs-the-world-discussing-the-film-the-subtitle-function-is-shown-on-screen-making-the-event-accessible-to-all_&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;A Twitter Room featuring hundreds of attendees with the director Edgar Wright and the original cast of Scott Pilgrim vs. the World discussing the film. The subtitle function is shown on screen, making the event accessible to all.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;questions-for-the-audience&#34;&gt;Questions for the audience&lt;/h3&gt;
+&lt;h4 id=&#34;1-what-was-it-like-at-the-last-online-learning-event-that-you-attended&#34;&gt;1. What was it like at the last online learning event that you attended?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Some folks taking part in the discussion, had just come from delivering their own training sessions with staff.&lt;/li&gt;
+&lt;li&gt;One person noted that the format of the Jisc Connect More conference was good because presenters were speaking for 20mins and then there were questions and answers for the remaining 10mins.&lt;/li&gt;
+&lt;li&gt;Another person noted that they had attended a long online event featuring multiple presenters. Some of the presenters were engaging for them, some were not. Therefore, they would have found it helpful to have a schedule for the speakers so that they could drop-in to the call when specific people were presenting.&lt;/li&gt;
+&lt;li&gt;Some folks felt that the range of tools being used during an online meeting/event, in addition to the main online meeting/webinar software, could be a little bit overwhelming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2a-what-supported-your-focus-at-the-online-learning-event&#34;&gt;2a. What supported your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Being asked to do something interactive or to respond to questions.&lt;/li&gt;
+&lt;li&gt;For a person who had been teaching an online learning event beforehand, they felt that being a little nervous helped to sharpen their focus (I completely agree!).&lt;/li&gt;
+&lt;li&gt;Including a personal story or experience can help to humanise an online presentation and bring people back into the room.&lt;/li&gt;
+&lt;li&gt;Team teaching can help to support the presenter&amp;rsquo;s focus and to ensure that questions typed into the chat are addressed promptly.&lt;/li&gt;
+&lt;li&gt;Being able to see attendees&amp;rsquo; webcam video can help when you are presenting. However, as an attendee you might not always want to share your webcam video. Sometimes there can be a mismatch in expectations or perspectives between the presenter and the attendees or participants.&lt;/li&gt;
+&lt;li&gt;Collaborating in real-time on a document with people who were equally interested/focused on a project-related goal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2b-was-there-anything-that-disrupted-your-focus-at-the-online-learning-event&#34;&gt;2b. Was there anything that disrupted your focus at the online learning event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Lack of closed captions being available.&lt;/li&gt;
+&lt;li&gt;No opportunity to ask questions.&lt;/li&gt;
+&lt;li&gt;Internet breaking up at the presenter&amp;rsquo;s end.&lt;/li&gt;
+&lt;li&gt;Mics left on so you get background noise from attendees&amp;rsquo; environments.&lt;/li&gt;
+&lt;li&gt;Feeling alone at the event, like I am the only person there.&lt;/li&gt;
+&lt;li&gt;Those in shared office spaces could find their environment distracting and/or worry about background sound during an online call/session/event.&lt;/li&gt;
+&lt;li&gt;Some commentary on verbal ticks and overuse of certain terms such, as &amp;lsquo;so&amp;rsquo;*, &amp;rsquo;like&amp;rsquo;, &amp;lsquo;you know&amp;rsquo;, &amp;rsquo;em/um&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*I am so guilty of too many &amp;lsquo;so&amp;rsquo;s&amp;rsquo;, something I try desperately to edit out in my own video tutorials and vlog entries!&lt;/p&gt;
+&lt;h4 id=&#34;3-think-of-a-positive-experience-at-an-online-event-what-helped-you-to-feel-engaged&#34;&gt;3. Think of a positive experience at an online event. What helped you to feel engaged?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Someone recounted that they had attended a conference where alpacas (as in the animals) had joined during the opening session.&lt;/li&gt;
+&lt;li&gt;Using people&amp;rsquo;s names to &amp;ldquo;connect with people over the abyss&amp;rdquo; (I loved this turn of phrase).&lt;/li&gt;
+&lt;li&gt;A person noted that being asked to manage the chat for an event, had provided them with insight into the way that attendees were connecting with each other. Although while they were engaged in that they could not focus with the speaker&amp;rsquo;s content.&lt;/li&gt;
+&lt;li&gt;Several people spoke to the importance of receiving an agenda. Especially knowing the agenda beforehand and when the breaks would take place.&lt;/li&gt;
+&lt;li&gt;Knowing or hoping that there would be a follow-up email including any supporting materials and things that might have been missed.&lt;/li&gt;
+&lt;li&gt;Someone mentioned an event where the keynote panellist presented while outdoors. They said that this provided a stronger emotional engagement [comment: very interesting approach, a bit like a political speech or rally].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;4-what-helped-you-to-feel-included-at-the-event&#34;&gt;4. What helped you to feel included at the event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The ability to like or react to comments. Some noted hesitancy with use of emojis to begin with, but now it is an expectation and an important part of acknowledging the value of someone else&amp;rsquo;s comment. A chat reaction is like the type of non-verbal cues that build connection in the real world; a nod, a thumbs up, clapping, a shake of the head, a shared glance.&lt;/li&gt;
+&lt;li&gt;Someone using your name when you have made a comment in the chat. A couple of folks agreed that this was important.&lt;/li&gt;
+&lt;li&gt;A best practice tip when running training sessions was to try to welcome everyone by name as they came in. Although this can be challenging in large sessions.&lt;/li&gt;
+&lt;li&gt;Having chat questions and comments included and acknowledged by the presenters.&lt;/li&gt;
+&lt;li&gt;Being able to specify gendered or non-gendered pronouns and preferred name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;5-what-excludes-you-or-makes-you-feel-excluded-during-an-online-event&#34;&gt;5. What excludes you or makes you feel excluded during an online event?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Presenters speaking too fast.&lt;/li&gt;
+&lt;li&gt;Not allowing time for questions or providing space where the audience can think through what has been said.&lt;/li&gt;
+&lt;li&gt;Events where questions in the chat are not followed-up on and are just left floating.&lt;/li&gt;
+&lt;li&gt;Even in an online meeting space there can be a sort of feeling of an in-crowd where it can feel exclusive. Something to avoid is having a side conversation with a colleague while attendees are arriving and instead keep it more neutral and welcoming. Even if your colleague wants to chat, encourage them to wrap it up.&lt;/li&gt;
+&lt;li&gt;Folks noted events where the chat is disabled, so there was no option to engage other than when invited to ask questions at the end. This felt quite disengaging.&lt;/li&gt;
+&lt;li&gt;Not being able to see the speaker. So, no picture-in-picture option for the speaker&amp;rsquo;s camera with only the slides shown on screen.&lt;/li&gt;
+&lt;li&gt;There can be elements in the user interface for webinar tools that can be very distracting. For example, animated GIFs and animated UI elements that serve no functional purposes.&lt;/li&gt;
+&lt;li&gt;Heeding the audience when they cite audio-visual problems and immediately seeking to correct the issue/s. Having a critical &lt;em&gt;friend&lt;/em&gt; or co-teacher who can verify and flag any sound/video issues.&lt;/li&gt;
+&lt;li&gt;Speed of speaker&amp;rsquo;s talking can make it difficult for attendees to follow. Especially in situations where bandwidth is low (so synchronisation between audio and video may not be great) and captions are limited. This can be challenging to interpret and tiring for those who rely on captions for the key information.&lt;/li&gt;
+&lt;li&gt;Too many slides with too much detail or content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;personal-introspective&#34;&gt;Personal Introspective&lt;/h3&gt;
+&lt;h4 id=&#34;part-1-human-factors&#34;&gt;Part 1: Human Factors&lt;/h4&gt;
+&lt;p&gt;What should event organisers or teachers do to help people feel included?
+I have paraphrased the answers below and added some commentary. You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Be friendly, approachable, be human.&lt;/li&gt;
+&lt;li&gt;Ask if attendees have any accessibility requirements. Provide pre-event details about how the event will run&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Do not say &amp;lsquo;we don&amp;rsquo;t have much time today&amp;rsquo;. This can be a stressor for attendees&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Allow time for any technical issues.&lt;/li&gt;
+&lt;li&gt;Make the session relevant to the group whom you are meeting with, so that the experience does not feel generic.&lt;/li&gt;
+&lt;li&gt;Greet and welcome people who attend. Remember to smile!&lt;/li&gt;
+&lt;li&gt;Provide opportunities for attendees to do something creative together (e.g., doodling)&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Let attendees know how they should engage with the session. Provide an agenda as well beforehand.&lt;/li&gt;
+&lt;li&gt;Ask about what tech folks are planning to use beforehand to support forward planning (e.g., audio, video, 4g, Wi-Fi).&lt;/li&gt;
+&lt;li&gt;Respect the decision of attendees to keep their webcam turned off.&lt;/li&gt;
+&lt;li&gt;Provide an icebreaker or warm-up activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h4 id=&#34;part-2-technology-factors&#34;&gt;Part 2: Technology Factors&lt;/h4&gt;
+&lt;p&gt;What accessibility features or tools should be in-place during an event to help people feel included?
+You can access the original answers via the embed or link below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Closed captions.&lt;/li&gt;
+&lt;li&gt;British Sign Language (BSL) interpreter&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Sending slides in advance and/or sending them afterwards.&lt;/li&gt;
+&lt;li&gt;Being told if you will receive the slides after the event.&lt;/li&gt;
+&lt;li&gt;Providing support for presenters prior to the event&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;Someone to help manage contributions in the chat if the speaker is mainly engaged with the live audio contributions.&lt;/li&gt;
+&lt;li&gt;Provide different ways for people to answer questions and interact during the meeting/session/event.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;h3 id=&#34;results-and-summary&#34;&gt;Results and Summary&lt;/h3&gt;
+&lt;h3 id=&#34;things-that-help&#34;&gt;Things that help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Entries added in the chat pane are included by the presenter and acknowledged.&lt;/li&gt;
+&lt;li&gt;Open questions allowing engagement.&lt;/li&gt;
+&lt;li&gt;An agenda is sent in advance of the session.&lt;/li&gt;
+&lt;li&gt;Emojis and reactions tools.&lt;/li&gt;
+&lt;li&gt;Webcams on and off - have clear prompts and expectations for when webcams should be turned on.&lt;/li&gt;
+&lt;li&gt;Having moderators to help manage the chat.&lt;/li&gt;
+&lt;li&gt;Being able to vote-up, respond or react to other folks’ comments in the chat.&lt;/li&gt;
+&lt;li&gt;Being able to include pronouns.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;things-that-do-not-help&#34;&gt;Things that do not help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Too many slides with too much detail.&lt;/li&gt;
+&lt;li&gt;Presenter speaking too fast.&lt;/li&gt;
+&lt;li&gt;Questions in the chat pane that are not followed up.&lt;/li&gt;
+&lt;li&gt;No option for written chat.&lt;/li&gt;
+&lt;li&gt;Animated GIFs which run in the background with the user interface or in the chat and do not cease looping.&lt;/li&gt;
+&lt;li&gt;Distracting sounds such as typing in the background and noisy offices.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;meta-level&#34;&gt;Meta Level&lt;/h2&gt;
+&lt;p&gt;This section is about reflecting on how things went from my perspective as the presenter and discussion facilitator.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-myself&#34;&gt;How I positioned myself&lt;/h3&gt;
+&lt;p&gt;From the start, I wanted to be clear that I did not have all the answers and that I was the discussion facilitator. I introduced my role within the space and Laura Hutton&amp;rsquo;s (Jisc) who was helping to oversee the chat and take notes for the final summary slide. Laura and I debriefed beforehand to ensure that we were both clear on how the session would work.&lt;/p&gt;
+&lt;h3 id=&#34;how-i-positioned-the-format-of-the-space-itself&#34;&gt;How I positioned the format of the space itself&lt;/h3&gt;
+&lt;p&gt;I created a virtual version of the &lt;em&gt;Long Table,&lt;/em&gt; which was devised by performance artist, Lois Weaver (2013). I wanted my imaginary room to include everyone and provide ways for attendees to be creative.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; srcset=&#34;
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
+               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;661&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;How I verbally described my imaginary room:&lt;/strong&gt;
+A long table with a paper tablecloth is shown in the centre of the room. There are pens and two microphones on the table. There are four chairs on either side of the table. The table is surrounded by chairs in an amphitheatre format, half-circle format. There is a video camera and a British Sign Language interpreter in the corner of the room with a live feed to a protector in the room. A table of drinks and refreshments are in the corner of the room. If folks cannot come to the table, then a microphone is passed to them.
+When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at the table. When people wrote in the chat, they were writing on the tablecloth. Changing the feeling of &amp;lsquo;being&amp;rsquo; in a space, through use of furniture, technology, or projection, and rules of engagement has long been a preoccupation of mine and virtual spaces are no different. As I noted in the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/05/29/a-reflection-on-the-dl-tel-fireside-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fireside chat post&lt;/a&gt;, Dave White&amp;rsquo;s blog post (White, 2021) was the inspiration for my use of imaginary floor plans which have become a staple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;things-that-i-did-to-help-make-this-session-feel-inclusive&#34;&gt;Things that I did to help make this session feel inclusive&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I spent some time summarising the accessibility and response features that are available in Zoom at the beginning.&lt;/li&gt;
+&lt;li&gt;I provided a link to the Google Slides featuring all the questions (props to Miranda Melcher for this idea; Melcher, 2021).&lt;/li&gt;
+&lt;li&gt;I provided clear guidance for how to engage during the session and provided more than one mode for answering questions (verbally by putting hand-up, via chat - this also applied during the use of polls).&lt;/li&gt;
+&lt;li&gt;Designed the slides for accessibility with minimal and concise content. Using simple clear fonts and no white backgrounds on slides. I also used simple graphics to reinforce concepts.&lt;/li&gt;
+&lt;li&gt;I provided a warm-up question to provide folks with a trial of engagement.&lt;/li&gt;
+&lt;li&gt;I read out the content from each of the slides to the audience and verbally described the images on slides.&lt;/li&gt;
+&lt;li&gt;Reading the chat messages out by paraphrasing and acknowledging the names of the authors. Acknowledging a name pronunciation mistake.&lt;/li&gt;
+&lt;li&gt;Providing social interaction (chat and verbal), then encouraged use of the polls for more personal introspection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ways-that-jisc-supported-this-session&#34;&gt;Ways that Jisc supported this session&lt;/h3&gt;
+&lt;p&gt;Jisc&amp;rsquo;s pre-event speaker briefing document was excellent. Providing clear expectations, an overview of the technology, and recommendations for optimising your presentation setting (e.g., lighting, sound, optimising your internet connection etc.). I was asked to join the session half an hour early and was greeted by a very helpful session facilitator (thank you George!) who ensured that the technology was working as it should and provided me with host permissions on Zoom. As mentioned, Laura Hutton from Jisc was also on-hand during the session, which was great and is essential in case of any loss of connectivity. This is yet another reason why sharing slides either via a link (e.g., Zoom) or via a files area and then posting to the chat (e.g., MS Teams) is a good idea.&lt;/p&gt;
+&lt;h3 id=&#34;things-that-i-would-do-differently-next-time&#34;&gt;Things that I would do differently next time&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve the wording of the first question slide. As I needed to clarify the question in the chat.&lt;/li&gt;
+&lt;li&gt;Show the question slide to ask the question and then switch to the webcam view to support better discussion. Therefore, perhaps one question less to allow for that as it would take more time to switch. Although this is a function for the Wishlist as switching between sharing to webcam mosaic view is never as smooth as I would like.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wishlist webinar function&lt;/strong&gt; - a keyboard shortcut to switch between screensharing the thing that you last shared and the webcam-based mosaic view. I want to be able to ask the question and then prioritise the webcam display without stopping sharing completely. When you stop sharing and re-share over and over per question it leads to a delay when you are multitasking.&lt;/p&gt;
+&lt;h3 id=&#34;considerations-for-teaching&#34;&gt;Considerations for teaching&lt;/h3&gt;
+&lt;p&gt;There are so many takeaways here. I think the big one for me is not feeling rushed when teaching in an online format by designing my content accordingly. I did not feel rushed in this session, but it is easy to misjudge the pace and timing. Therefore, having a practice is always a good idea. I will certainly consider the speed of my verbal delivery and try to work on minimising my verbal tick of starting sentences with the word &amp;lsquo;so&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;One more point is that I have found myself wondering if there will be greater expectations from students in terms of technology use when we return to teaching in-person. For example, the chat and inclusive nature of the chat were mentioned a lot. For people who find it hard to formulate their thoughts and/or figure out where to come into a conversation chat has been a transformative function allowing them to express themselves. There are also occasions where students or attendees may feel embarrassed to ask a question verbally. So how can we take the things that work well in online spaces and allow them to augment our in-person classrooms? Providing multimodal means to respond may need to become as much a part of our in-person practice as it has with online teaching practice; solutions to this could be analogue or digital.&lt;/p&gt;
+&lt;h2 id=&#34;bonus-content&#34;&gt;Bonus content&lt;/h2&gt;
+&lt;p&gt;In the process of researching content for this post I came across this brilliant video about BSL for popular technology terms. I love the ways that technology words and concepts have been translated into signs. I particularly loved &amp;lsquo;Internet&amp;rsquo; and &amp;lsquo;Google&amp;rsquo;.&lt;/p&gt;
+&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/AqhZUXXlY6s&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Eventbrite (2019) ‘&lt;a href=&#34;https://www.eventbrite.co.uk/blog/formats-to-refresh-your-conference-ds00/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20 Interactive Conference Ideas and Formats&lt;/a&gt;’, &lt;em&gt;EventBrite Blog&lt;/em&gt;, 23 June (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;Melcher, M. (2021) &lt;em&gt;CPD Webinar: What students actually want from online learning: results from a university-wide study of student digital accessibility needs&lt;/em&gt; [Google doc]. Available at: &lt;a title=&#34;Link to the Google doc used for M. Melcher&#39;s presentation&#34; href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34;&gt;&lt;a href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&lt;/a&gt;&lt;/a&gt; (Accessed: 31 May 2021).&lt;/p&gt;
+&lt;p&gt;Weaver, L. (2013) ‘&lt;a href=&#34;https://www.thisisliveart.co.uk/projects/long-table-on-feminism-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long Table on Feminism Documentation&lt;/a&gt;’,  &lt;i&gt;LADA Live Art Development Agency&lt;/i&gt; (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;White, D. (2021) ‘&lt;a href=&#34;http://daveowhite.com/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial collaboration: how to escape the webcam&lt;/a&gt;’, &lt;i&gt;David White&lt;/i&gt;, 1 February (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; this should be done prior to a meeting/session/event. During the meeting/session/event start by providing an overview of the general accessibility features of the tool that you are using.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This is such a brilliant observation as we all know that online events need to be shorter due to screen-time. However, we need to design and create content for the medium rather than trying to cram too much in - this is my key piece of learning from this event. I have been guilty of this on occasion, and I am going to work on designing my sessions to feel content-rich without coming across as time-poor.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;This was something that I thought about doing during this session but decided against it as I try to stick to a rule of two when it comes to using technology in sessions. So, when you have a webinar/online meeting tool you are already using one piece of technology, during Jisc Connect More this was Zoom. My second technology was the polling software, Poll Everywhere, as I wanted the audience to think about their answers individually and then vote up others&amp;rsquo; answers as well. This is easier to achieve in MS Teams with the chat reaction buttons, but not possible in the Zoom chat and polling tools that we were using that day. I was also providing access to my slides on Google slides which could be taking up another browser tab or window if folks chose to have that open. I am not counting that as an extra, but it is always worth trying to mentally picture the context and content of your attendees&amp;rsquo; screens when you are designing an online session.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;This was done very well at the &lt;a href=&#34;https://www.meetup.com/London-Accessibility-Meetup/events/278102089/&#34;&gt;Accessibility London event for Global Accessibility Awareness Day 2021&lt;/a&gt;, here is another example of a &lt;a href=&#34;https://youtu.be/1-IJzpTJYMU&#34;&gt;bilingual design webinar&lt;/a&gt; where two languages were signed.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;I think that that the team at Jisc did a fantastic job of this and it is something that I have commented in my reflection.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
+      <link>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
+&lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Watch the UX Brighton watch party for yourself &lt;a href=&#34;https://youtube.com/playlist?list=PL3X0iMolG4HwSH9WRA0XiD9hP-uy2uNF3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;using this playlist on YouTube&lt;/a&gt; (took place on 13th April 2021)&lt;/li&gt;
+&lt;li&gt;Look at the &lt;a href=&#34;https://docs.google.com/document/d/1b747H2vIbIp2eLVWibukc_LpVY7vJw78yuibyfaNF10/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;schedule and information for the event&lt;/a&gt; which was provided as a Google Doc&lt;/li&gt;
+&lt;li&gt;Visit the &lt;a href=&#34;https://app.mural.co/t/fiona7703/m/fiona7703/1625313369702/58272bac1b627de1c54c394c658c1a9d23f64e2b?sender=fmacneill8446&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mural board&lt;/a&gt; that I used to guide my design and then reflect on my experiences&lt;/li&gt;
+&lt;li&gt;Check out the &lt;a href=&#34;http://fjm15.brighton.domains/oer/demo/ux-brighton-video-bingo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video bingo mini challenge&lt;/a&gt; (H5P interactive activity)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;edited-vlog-transcript&#34;&gt;Edited Vlog Transcript&lt;/h2&gt;
+&lt;p&gt;Hi folks, I know it&amp;rsquo;s been a while. So, yeah basically what I can say is I&amp;rsquo;ve had a couple of really paperwork intensive months. I ran a watch party for &lt;a href=&#34;https://uxbri.org/UX-Watch-Party/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UX Brighton&lt;/a&gt; because I presented about a few of the challenges I&amp;rsquo;d found through working on some discovery at my workplace. The suggestion was that perhaps we could do a UX Brighton watch party and that might provide me with an opportunity to experiment to try out some things that I couldn&amp;rsquo;t try out at work and to get some really helpful critical feedback. So, I&amp;rsquo;m really delighted to say that I got that opportunity because I really did get amazing feedback and I have since used the learning that I gained from that particular watch party to feed into my professional portfolio, and I&amp;rsquo;ve also used it to think really critically about how I talk to staff about watch parties how I encourage them to onboard people during watch parties.  &lt;/p&gt;
+&lt;h3 id=&#34;discover&#34;&gt;Discover&lt;/h3&gt;
+&lt;h4 id=&#34;three-key-problems-to-solve&#34;&gt;Three key problems to solve&lt;/h4&gt;
+&lt;p&gt;I&amp;rsquo;ll come on to some of the key takeaways in a little bit, but I&amp;rsquo;ve used a mural board to help me reflect. This is based on the Design Council&amp;rsquo;s &lt;em&gt;Evolved Double Diamond&lt;/em&gt; (2015) which is what I used as the sort of basis for my design process for the watch party. From my discovery work within my workplace there were three key problems to solve. So, first of all staff had been screen sharing video that they wanted to show to students, and they wanted to screen share the video so that everyone could watch it together at the same time. The key issue was that when you share video over a tool like Microsoft Teams, like Zoom, it&amp;rsquo;s very much reliant on the speed of your broadband connection but also the speed of the people’s connection who are watching at home. So, what we&amp;rsquo;d often find is that the video would play fine for the person who was sharing but then at home people would find that there was no audio, or the video was kind of juddery. Some of the screen shared video was blocked by Digital Rights Management. So particularly in Microsoft Teams it has some Digital Rights Management and so what the student would see on their end was just a kind of grey or black screen there would be no content even though it was playing fine for the instructor. The biggest problem of the three was that when if you, as the instructor, were playing a video out to students and you were screen sharing it would look to me, as the student watching, like I could use the closed caption tools say if you were sharing a YouTube video. Most YouTube videos have a CC (Closed Caption) button on the bottom right-hand side that allows you to access the closed captions. Well, if you&amp;rsquo;re screen sharing it it&amp;rsquo;s sort of a flat facsimile of the video so I couldn&amp;rsquo;t actually interact with those subtitles, those closed captions so that wouldn&amp;rsquo;t help me if I needed that.  &lt;/p&gt;
+&lt;h4 id=&#34;facilitation-and-watching-other-people-watch&#34;&gt;Facilitation and watching other people &amp;lsquo;watch&amp;rsquo;&lt;/h4&gt;
+&lt;p&gt;Another key ingredient that I identified through the discovery phase was that there must always be a facilitator. SAnother key ingredient that I identified through the discovery phase was that there must always be a facilitator. So, for example if you were someone who had content ready, and you gave people a watch list of stuff it doesn&amp;rsquo;t mean that you can then go away and just leave them to it. There&amp;rsquo;s something about needing to be there, needing to guide that discussion, or guide the activities which are kicked off by the video content, so the video content is really more of a prompt to get things going it&amp;rsquo;s a way of presenting information and then interspersing it with something more personable something more um discursive. So, it allows you to potentially cover more content quickly because a video is kind of produced. The next point here is that I think there&amp;rsquo;s something to be said for watching other people &amp;lsquo;watch&amp;rsquo; things (I have included some of my favourite references related to this concept &lt;a href=&#34;https://ukc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en%2DUS&amp;amp;rs=en%2DUS&amp;amp;wopisrc=https%3A%2F%2Funibrightonac-my.sharepoint.com%2Fpersonal%2Ff_macneill_brighton_ac_uk%2F_vti_bin%2Fwopi.ashx%2Ffiles%2Ff25048be836d483697882ba2c1c40cdd&amp;amp;wdorigin=OFFICECOM%2dWEB%2eSTART%2eREC&amp;amp;wdenableroaming=1&amp;amp;mscc=1&amp;amp;wdodb=1&amp;amp;hid=1FB5E59F-F011-3000-213E-3C92F26DF21D&amp;amp;wdhostclicktime=1629019735157&amp;amp;jsapi=1&amp;amp;jsapiver=v1&amp;amp;newsession=1&amp;amp;corrid=ade27623-5843-4087-61dc-d7c46c032939&amp;amp;usid=ade27623-5843-4087-61dc-d7c46c032939&amp;amp;sftc=1&amp;amp;mtf=1&amp;amp;sfp=1&amp;amp;instantedit=1&amp;amp;wopicomplete=1&amp;amp;wdredirectionreason=Unified_SingleFlush&amp;amp;preseededsessionkey=486a2f06-9826-5966-1d8b-46432be69c2e&amp;amp;preseededwacsessionid=ade27623-5843-4087-61dc-d7c46c032939&amp;amp;rct=Medium&amp;amp;ctp=LeastProtected#refs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;at the bottom of this post&lt;/a&gt;). So, I know that when I&amp;rsquo;m in a cinema my attention span is much better than it is when I&amp;rsquo;m just sitting at home watching Netflix. So, if my attention&amp;rsquo;s lagging in a film I kind of look around and go &amp;ldquo;&lt;em&gt;are other people still interested in this film or is other people looking kind of you know a little bit bored&lt;/em&gt;&amp;rdquo; and if everyone else is really engaged then that kind of makes me think well &amp;ldquo;_I should re-engage, obviously I&amp;rsquo;m missing something her_e&amp;rdquo;.  &lt;/p&gt;
+&lt;h3 id=&#34;define&#34;&gt;Define&lt;/h3&gt;
+&lt;h4 id=&#34;software-requirements-to-address-the-challenges&#34;&gt;Software requirements to address the challenges&lt;/h4&gt;
+&lt;p&gt;The next thing was to think about &amp;ldquo;&lt;em&gt;well what interface do I actually need?&lt;/em&gt;&amp;rdquo;, &amp;ldquo;&lt;em&gt;what software would meet these requirements um for the watch parties?&lt;/em&gt;&amp;rdquo;. So, I had some must-haves: audio discussion, must have space for people to write into a chat that is yep definitely needed, webcam video connection yep, and access to closed captions (&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/2021/04/vlog-2-but-what-about-the-subtitles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my post, &amp;lsquo;&lt;em&gt;But what about the subtitles?&lt;/em&gt;&lt;/a&gt;&amp;rsquo; Discussed issues meeting this requirement). We needed some kind of high-quality way of sharing the video. Basically, any way of screen sharing video wasn&amp;rsquo;t great, so I needed something that allowed me to kind of press start and stop for everyone at the same time. Circles here that have the ticks on them (on the Mural board), these are actually requirements that were met by the software that I used for the watch party which I&amp;rsquo;ll come onto in a bit. There were some &amp;lsquo;&lt;em&gt;should have&lt;/em&gt;&amp;rsquo; things so access to closed caption customization so being able to change the font size and the position of the closed captions is really important. Having access to reaction tools like smiling and clapping and thumbs up and being able to move aspects of the interface so if the chat box was really distracting to me while the video is on, I could minimize it I could also choose which things I kind of wanted &amp;lsquo;on&amp;rsquo; tool-wise or ‘off’. The thing we didn&amp;rsquo;t have was support for mobile devices that the tool we ended up using really didn&amp;rsquo;t work great on mobile devices.&lt;/p&gt;
+&lt;h4 id=&#34;thinking-about-viewx-or-the-exerience-of-viewing&#34;&gt;Thinking about &amp;lsquo;ViewX&amp;rsquo; or the Exerience of Viewing&lt;/h4&gt;
+&lt;p&gt;So, while I was kind of going through this process, I also thought about defining what formats were possible with a watch party. Funnily enough I&amp;rsquo;ve sort of nicknamed this process ViewX so like UX but ViewX like the experience of viewing um I think there is something about this that&amp;rsquo;s just been utterly fascinating to me like how does the environment of viewing affect how you view? So, the first approach I had was named after Nick Knowles who&amp;rsquo;s a DIY expert on TV and this one was about using your own video footage but then chunking it into key concepts. The next method I thought about was based on &lt;em&gt;Elvira the Mistress of the Dark&lt;/em&gt; who always would play, this is kind of a 1980s thing, but she would play like really rubbish B movies and she would intersperse her own commentary with that. So, it&amp;rsquo;s a little bit like Mystery Science Theater um, but it was more like segments that interspersed with the video. Because it might be that video requires that kind of contextualization in order for it to make sense but there is also um some value which I&amp;rsquo;ll come on to in perhaps not always presenting one way of interpreting video and in fact leaving it more vague and open to audience interpretation. That&amp;rsquo;s where that can really help to stimulate your discursive elements during the watch party. So, what I came up with was what I&amp;rsquo;ve now since labelled the Michael Moore approach which is sort of a video essay type approach where I actually captured sections of YouTube videos and represented them as a mashup, so each section of the watch party was sort of a video mashup where I&amp;rsquo;d placed really short clips from a range of videos together. With the Michael Moore approach as I&amp;rsquo;m calling it you can present these video clips smashed together with or without video commentary so you could have a sort of voiceover that presented some context which is similar to the Elvira approach, or you can just present the videos together with no context which is almost more interesting. I think it depends on what you&amp;rsquo;re aiming for. So, I think that because there was no commentary from me the videos were just presented as they are, but as snippets, people had to decide well &amp;ldquo;&lt;em&gt;why did Fiona pick that snippet and why did that how does that relate to the next slip snippet or how does that relate to the one that came before&lt;/em&gt;&amp;rdquo;?  &lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Slide showing the TV presenter, Nick Knowles, to represent a DIY approach to watch party&#34; srcset=&#34;
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp 400w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu5699058291793578900.webp 760w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu3699759353966392618.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu4896585576407987618.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The &amp;lsquo;Nick Knowles&amp;rsquo;, using your own content. A chaptered Panopto video is shown as an example on the right of the slide image&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Elvira mistress of the dark on the left in an open-topped car and a video of Fiona providing video commentary on a video of Michael Caine from the 1980s&#34; srcset=&#34;
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp 400w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu10557024921461860191.webp 760w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15700117417519748780.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu15945727926602469186.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The &amp;lsquo;Elvira&amp;rsquo; format or approach. Video commentary alongside a video of Michael Caine is shown as a visual example on the image of the slide&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Michael Moore on the left and a series of embedded YouTube videos on the right within the context of a Virtual Learning Environment&#34; srcset=&#34;
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp 400w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu4701176105745347385.webp 760w,
+               /post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu1321625527040814259.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu13220054536651272348.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The director Michael Moore is pictured to represent an approach of curating preexisting content from YouTube or other video services. An example of a series of clipped and embedded YouTube videos is shown as an example&lt;/p&gt;
+&lt;h4 id=&#34;defining-a-format-or-schedule-for-the-event&#34;&gt;Defining a format or schedule for the event&lt;/h4&gt;
+&lt;p&gt;So, this brought me to kind of defining the format for the event itself. It was a three-part watch party over two hours. So, we had a sort of conceptually based video collection, as I say, mashed together short clips, kind of one after the other. Then we had some discussion and then we had our second video collection. That was followed by some more discussion and a break. Then we came back and played a game. An online game which was not related to any of the content it was literally just kind of providing social levity if you will, and then we had a third video which we were planning to watch and we didn&amp;rsquo;t watch it because I basically lost my nerve a bit and felt like we were too close to the end and that we should just wrap up.  &lt;/p&gt;
+&lt;h3 id=&#34;selecting-the-tools---leading-into-the-develop-phase-second-diamond&#34;&gt;Selecting the tools - leading into the Develop phase (second diamond)&lt;/h3&gt;
+&lt;p&gt;So, this leads me to the tool. So, based on all of these kind of aspects in the &lt;em&gt;discovery&lt;/em&gt; and &lt;em&gt;definition&lt;/em&gt; phase I decided that the best choice was a tool called backyard.co which had all of those reactions, chat tools, and this thing called YouTube watch party as one of its kind of interactive games that it offered. So, I like the fact that we could use the YouTube watch party game or tool and then switch to another game in the same platform so it would feel very integrated. It wouldn&amp;rsquo;t be a case of us switching between completely different tools in a session which I have since found that you kind of have a maximum of two tools in a session, otherwise you do start to lose people.  &lt;/p&gt;
+&lt;p&gt;I used &lt;a href=&#34;https://h5p.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;H5P&lt;/a&gt; (interactive learning tool) to create the video bingo because I wanted something that was quick to build, it allowed interaction on a variety of different devices, and it also gave automatic feedback so people kind of got a confirmation that they had got the bingo right and that they had filled all of the squares in, and then I asked them as part of the onboarding to let me know when they had filled in all the squares. So, that I could kind of celebrate the person who managed to identify all the bingo phrases that were said in the videos first before anyone else!&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;Brame, C. J. (2016) ‘Effective educational videos: Principles and guidelines for maximizing student learning from video content’, &lt;em&gt;CBE—Life Sciences Education, 15&lt;/em&gt;(4). doi: 10.1187/cbe.16-03-0125&lt;/p&gt;
+&lt;p&gt;Design Council (2015) ‘What is the framework for innovation? Design Council’s evolved Double Diamond’, &lt;em&gt;Design Council&lt;/em&gt;. Available at: &lt;a href=&#34;https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond&lt;/a&gt; (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;p&gt;Guo, P. J., Kim, J. and Rubin, R. (2014) ‘How video production affects student engagement’, in &lt;em&gt;Proceedings of the first ACM conference on Learning @ scale&lt;/em&gt;. ACM, pp.41–50. doi: 10.1145/2556325.2566239&lt;/p&gt;
+&lt;p&gt;Hotchkiss, G. (2010) &amp;lsquo;The psychology of entertainment: Why we love watching in crowds&amp;rsquo;, &lt;em&gt;Out of My Gord&lt;/em&gt;, 20 February. Available at: &lt;a href=&#34;https://outofmygord.com/2010/02/20/the-psychology-of-entertainment-why-we-love-watching-in-crowds/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://outofmygord.com/2010/02/20/the-psychology-of-entertainment-why-we-love-watching-in-crowds/&lt;/a&gt; (Accessed: 4 July 2021).&lt;/p&gt;
+&lt;p&gt;Mastead, T. (2005) &amp;lsquo;The social dimension of emotion&amp;rsquo;, &lt;em&gt;The Psychologist&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(8), pp.484-487. Available at: &lt;a href=&#34;https://thepsychologist.bps.org.uk/volume-18/edition-8/social-dimension-emotion&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thepsychologist.bps.org.uk/volume-18/edition-8/social-dimension-emotion&lt;/a&gt; (Accessed: 4 July 2021).&lt;/p&gt;
+&lt;p&gt;UCL (2020) &amp;lsquo;Why watching a movie could improve wellbeing&amp;rsquo;, &lt;em&gt;UCL Brain Sciences&lt;/em&gt;, 20 January. Available at: &lt;a href=&#34;https://www.ucl.ac.uk/brain-sciences/news/2020/jan/why-watching-movie-could-improve-wellbeing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ucl.ac.uk/brain-sciences/news/2020/jan/why-watching-movie-could-improve-wellbeing&lt;/a&gt; (Accessed: 4 July 2021).&lt;/p&gt;
+&lt;p&gt;von Zimmerman, J. and Richardson, D. C. (2018) &amp;lsquo;Synchrony and the art of signalling&amp;rsquo;, &lt;em&gt;The Psychologist, 31&lt;/em&gt;, pp.32-36. Available at: &lt;a href=&#34;https://thepsychologist.bps.org.uk/volume-31/june-2018/synchrony-and-art-signalling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thepsychologist.bps.org.uk/volume-31/june-2018/synchrony-and-art-signalling&lt;/a&gt; (Accessed: 4 July 2021).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vlog 1: introducing a personal challenge</title>
+      <link>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
+      <description>&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/YHKYFsowRRE&#34; allowfullscreen=&#34;allowfullscreen&#34; width=&#34;800&#34; height=&#34;400&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;what-does-an-inclusive-and-successful-online-event-look-like-setting-a-personal-challenge&#34;&gt;What does an inclusive and successful online event look like? Setting a personal challenge&lt;/h2&gt;
+&lt;h3 id=&#34;the-short-version-rather-than-the-4min-vlog&#34;&gt;\[The short version rather than the 4min vlog\]&lt;/h3&gt;
+&lt;p&gt;I work as a Learning Technologist, which means that I help academic staff at a university think about how to use technology to facilitate and augment their teaching and the students’ experience of learning. During the covid-19 pandemic, within the space of days my role as part of a team, was crucial to maintaining delivery of teaching and learning. This has given me the opportunity to experience and continually reflect on the use of online spaces for teaching and learning. Prior to this I have worked with Webinar technologies for 10 years. I have also organised and chaired a range of local and national online events as well as experiencing many as an attendee. Based on all this, I now have a critical mass of experience. From this position, I feel that I can reflect and because my practice is user experience focused, I want to set myself a challenge. To identify the optimal elements when creating inclusive and successful online events. The following factors will be key to this challenge: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How power and control function in the virtual space.&lt;/li&gt;
+&lt;li&gt;How to provide space and time for consumption of knowledge.&lt;/li&gt;
+&lt;li&gt;How to provide space and time for collaboration (see also, White, 2021).&lt;/li&gt;
+&lt;li&gt;How to provide space and time for discussion, while actively considering and disrupting the structures of power and privilege that stand in the way of inclusion in online spaces.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As part of this reflective challenge, I want to consider what a user experience design process looks like for an online event. I’ll base this on the Design Council’s (2015) Double-Diamond which is based on four key design principles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;putting people first&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;communicate visually and inclusively&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;collaborate and co-create&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;and &amp;ldquo;iterate, iterate, iterate&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I anticipate that this challenge will take a while to explore on this blog. Sometimes, that exploration will take the form of vlogs, sometimes short podcasts, sometimes blog posts, and sometimes drawing. Furthermore, sometimes I will look at the big picture, or conversely a micro-interaction. This is about reflecting based on depth of experience and about capturing observations as and when they happen.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp 400w,
+               /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu15896906827204781959.webp 760w,
+               /post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu14277973832495104214.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu1808334626756404342.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;740&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A virtual event space plan inspired by White (2021). This was used as part of introductory slides for an online event. The illustrations of virtual space, as we imagined it, were designed to structure discussion and to minimise any perceived power and hierarchy. The great thing about virtual rooms is that your table and room can be larger than in real-life! If you can imagine it and draw it, you can draw your audience into that space.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;Design Council (2015) &amp;lsquo;What is the framework for innovation? Design Council’s evolved Double Diamond&amp;rsquo;, &lt;em&gt;Design Council&lt;/em&gt;. Available at: &lt;a href=&#34;https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond&lt;/a&gt; (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;p&gt;White, D. (2021) ‘Spatial collaboration: how to escape the webcam’, &lt;em&gt;David White&lt;/em&gt;, 1 February. Available at: &lt;a href=&#34;http://daveowhite.com/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://daveowhite.com/spatial/&lt;/a&gt; (Accessed: 13 March 2021).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

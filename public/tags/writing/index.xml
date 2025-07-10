@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/writing/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Writing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 24 Dec 2023 11:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Writing</title>
+      <link>https://fionamacneill.co.uk/tags/writing/</link>
+    </image>
+    
+    <item>
+      <title>Falling back in love with the humble RSS feed</title>
+      <link>https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/</link>
+      <pubDate>Sun, 24 Dec 2023 11:30:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/</guid>
+      <description>&lt;h2 id=&#34;kudos&#34;&gt;Kudos&lt;/h2&gt;
+&lt;p&gt;This blog post is inspired by a tip from &lt;a href=&#34;https://www.alpower.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Al Power&lt;/a&gt;, who suggested that I check out &lt;a href=&#34;https://netnewswire.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetNewsWire app&lt;/a&gt; (Mac, iPhone, iPad). Read Al&amp;rsquo;s &lt;a href=&#34;https://www.alpower.com/blog/my-news-feed-reader-setup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post at his blog for more details&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;a-history-of-my-relationship-with-rss&#34;&gt;A history of my relationship with RSS&lt;/h2&gt;
+&lt;h3 id=&#34;my-first-blog&#34;&gt;My first blog&lt;/h3&gt;
+&lt;p&gt;My relationship with blogging and frontend web development began in 2005 when I started my first blog, &lt;em&gt;The Anatomy of an Armpit&lt;/em&gt;. The blog, which was on &lt;a href=&#34;https://en.wikipedia.org/wiki/Blogger_%28service%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Blogger platform&lt;/a&gt;, recounted my trials and tribulations while stuck in an area of Scotland I wasn&amp;rsquo;t fond of - as I was a youth at the time you can probably imagine the content (&lt;em&gt;think&lt;/em&gt; ill-advised Tumblr-style rants). Regardless, I owe a lot to my first blog which got me interested in HTML, CSS, frontend web design, accessibility, and usability - interests that I have to this very day. It also helped me gain an understanding of &lt;a href=&#34;https://en.wikipedia.org/wiki/RSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSS or Really Simple Syndication&lt;/a&gt;, which at that time was the main way to stay up-to-date on your favourite bloggers&amp;rsquo; content. At first this was via humble browser tools and bookmarking, then via the long defunct, &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Reader&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;my-first-podcast&#34;&gt;My first podcast&lt;/h3&gt;
+&lt;p&gt;Then in 2006 I got into podcasting, a technology reliant on RSS metadata and distribution. To say I was ahead of the curve on this would be an understatement. At that time hosting a podcast was a painfully slow process and I used one of the more user-friendly tools, &lt;a href=&#34;https://libsyn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Libsyn&lt;/a&gt; or Liberated Syndication. It would take 2 to 4 hours to upload one episode to your site host only to find out that the audio artifacting was so bad, you&amp;rsquo;d have to start again. I had many an all-nighter for the love of my show, &lt;em&gt;Motif Radio&lt;/em&gt; (you can still see the &lt;a href=&#34;https://web.archive.org/web/20060909220813/http://motifradio.libsyn.com:80/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snapshots on the Internet Archive WayBack Machine&lt;/a&gt;). &lt;em&gt;Motif Radio&lt;/em&gt; was inspired by London arts radio station, &lt;a href=&#34;https://www.resonancefm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResonanceFM&lt;/a&gt; and was eclectic to say the least.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motif Radio&lt;/em&gt; cooincided with one of the most creative and productive periods in my life. It was also a time of hardship and so much of that difficulty fed into my passion for creating the podcast. One of my favourite memories was a successful episode release, it finished uploading by 11.30 pm which was highly unusual. I was so elated that my partner and I went to the midnight showing of &lt;em&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0434409/?ref_=fn_al_tt_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V for Vendetta&lt;/a&gt;&lt;/em&gt; at the Mall of America to celebrate. Even though it isn&amp;rsquo;t the best film, it will always have a place in my heart for that reason.&lt;/p&gt;
+&lt;h3 id=&#34;podcasts---a-longterm-obsession&#34;&gt;Podcasts - a longterm obsession!&lt;/h3&gt;
+&lt;p&gt;My obsession with podcasts continues to this day and I&amp;rsquo;m an avid follower of about thirty of them, funding my favourite creators on Patreon. I have often thought about resurrecting &lt;em&gt;Motif Radio&lt;/em&gt;, which ended in 2007, especially as now, after many years, I have the audio kit to do so. Something to consider on as we go into 2024, although it would need to come back under a new name as there is now another &lt;a href=&#34;https://motif-radio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motif Radio&lt;/a&gt; which specialises in urban music. In the meantime I have enjoyed my guest hosting spots on the &lt;a href=&#34;https://podcasters.spotify.com/pod/show/ltux-in-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ladies that UX podcast in English&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;so-why-the-return-to-rss-after-all-this-time&#34;&gt;So why the return to RSS after all this time?&lt;/h3&gt;
+&lt;p&gt;I was working on some frontend web development at my job and I setup a new RSS feed as part of that. While configuring the feed I fell in love once again with the simplicity, the clarity of information, and the potential for curatorial serendipity. What do I mean by &amp;lsquo;curatorial serendipity&amp;rsquo;? Well in the era of &lt;a href=&#34;https://medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; and its ilk, so much of what I consume is curated by algorithms on my behalf. On the one hand this is helpful, as content is rich and time is short, but what is being filtered out? Am I missing the other books on the shelf which might be more interesting than the book I &lt;em&gt;think&lt;/em&gt; I need? Or to continue this library-inspired analogy, those other books might be more interesting than the book the library catalogue &lt;em&gt;thinks&lt;/em&gt; I need. I was yearning for a bit more control to follow the feeds that I really care about - enter &lt;a href=&#34;https://netnewswire.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetNewsWire&lt;/a&gt; by &lt;a href=&#34;https://github.com/Ranchero-Software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brent Simmons&lt;/a&gt; which is my new favourite. An RSS curation app which allows me to setup up my feeds, sync them to iCloud, and access them on all my devices. More on that below.&lt;/p&gt;
+&lt;p&gt;If you would like to subscribe to this blog using RSS, here is the URL you need.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&amp;lt;!-- xml feed for this blog--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://www.fionamacneill.co.uk/index.xml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To find out the RSS feed for just about any site, including your favourite content on Medium, check out this helpful &lt;a href=&#34;https://zapier.com/blog/how-to-find-rss-feed-url/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post on Zapier blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As an added tip for sites using static site generators like Hugo, a good rule to follow is to take the root of the site and add &amp;lsquo;index.xml&amp;rsquo;. So I&amp;rsquo;d start by looking at the site footer and then the page source to identify which generator is in use. Then try adding &amp;lsquo;/index.xml&amp;rsquo; at the end and see if you get a page that looks like a feed.&lt;/p&gt;
+&lt;p&gt;E.g.,&lt;/p&gt;
+&lt;p&gt;Take the example of one of my favourite websites about retractions in research, &lt;em&gt;&lt;a href=&#34;https://forrt.org/reversals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FORRT - Framework for Open and Reproducible Research Training&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I take a look at the footer of the site&amp;hellip;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-ah-thats-helpful-they-tell-me-it-is-made-with-hugo-in-the-footer&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Forrt example - the website footer is shown which helpfully tells the site is made with Hugo&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp 400w,
+               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu12930152033908072768.webp 760w,
+               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4333904368738214092.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;160&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Ah that&amp;rsquo;s helpful they tell me it is made with Hugo in the footer.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I then try adding /index.xml to the root web address&amp;hellip;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&amp;lt;!--The website https://forrt.org/reversals/ becomes...--&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://forrt.org/index.xml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-i-know-a-feed-when-i-see-one&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Forrt example - the feed page which shows metadata in xml code format&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp 400w,
+               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2215385035868816078.webp 760w,
+               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2543788095747838520.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;I know a feed when I see one!&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Bingo! There is the feed that I want for NetNewsWire.&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;festive-giving-aside&#34;&gt;Festive giving aside&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;As as aside, this post is clearly indepted to both &lt;a href=&#34;https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;amp;country=GB&amp;amp;uselang=en&amp;amp;utm_medium=donatewiki_page&amp;amp;utm_source=Ways_to_Give&amp;amp;utm_campaign=donate_now_btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt; and &lt;a href=&#34;https://archive.org/donate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Internet Archive&lt;/a&gt;. I note that they both organisations have active fund-drives for the end of year. I will be giving to both as these types of organisations are important for preserving knowledge and transient digital artefacts. In a web which is progressively less free, I give back where I can.&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;rss---my-new-old-love&#34;&gt;RSS - my &lt;em&gt;new&lt;/em&gt; old love&lt;/h3&gt;
+&lt;p&gt;So having now moved my feeds from Feedly, which I had a) forgotten about, and b) got annoyed with its paywall limitations - I am now once again enjoying my old-school blog consumption. My only slight gripe is that some of my favourite sites (ahem, NNG) do not have RSS feeds for their articles. I might start asking nicely as I feel it is time for an RSS comeback!&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;bonus-tutorial---how-i-moved-from-feedly&#34;&gt;Bonus tutorial - how I moved from Feedly&lt;/h2&gt;
+&lt;p&gt;I started in NetNewsWire by setting up my feed account in my iCloud storage. As NetNewsWire accepts emoji&amp;rsquo;s I couldn&amp;rsquo;t resist including a wee satellite emoji in my account name. Then I completed the following steps to migrate my RSS feeds from Feedly in OPML format.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to your profile options on the bottom-left of Feedly (your avatar or the default placeholder).&lt;/li&gt;
+&lt;li&gt;Select &amp;lsquo;Organize Feeds&amp;rsquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-click-on-your-avatarplaceholder-to-get-to-the-options&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly account options - Organize Feeds is selected&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp 400w,
+               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu15885409520482720785.webp 760w,
+               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu9232497157064194759.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp&#34;
+               width=&#34;400&#34;
+               height=&#34;478&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Click on your avatar/placeholder to get to the options&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Click on the arrow on the right-hand side (great signposting here, anyone would think they might not want you to export your feeds&amp;hellip;).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-click-on-the-non-descript-arrow-on-the-right-to-get-to-the-export-options&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly OPML export arrow is shown&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp 400w,
+               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu9261640742618808962.webp 760w,
+               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu11730319665310116983.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;202&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Click on the non-descript arrow on the right to get to the export options&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Download your Feedly OPML file.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-click-on-the-big-green-button-to-get-your-opml-file-with-all-your-feedy-goodness&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly OPML export button to initiate download&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp 400w,
+               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu12834360592337868117.webp 760w,
+               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu364207621991485832.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;207&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Click on the big green button to get your OPML file with all your feedy-goodness&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Then open NetNewsWire and go to File &amp;gt; Import Subscriptions in the top menu bar.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-in-netnewswire-access-the-import-option-from-file-in-the-top-menu-bar&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire top menu, file, then import subscriptions option&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp 400w,
+               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu16309521309018850666.webp 760w,
+               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu17007930714363257810.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;394&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;In NetNewsWire, access the import option from File in the top menu bar&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Select your feed account and then select &amp;lsquo;Import from OPML&amp;rsquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-select-the-account-you-want-to-use-in-netnewswire&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire - select the account that you want to import into&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp 400w,
+               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu14681974085558782013.webp 760w,
+               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu6661528749697715151.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;362&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Select the account you want to use in NetNewsWire&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Select the Feedly OPML from your computer.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-select-the-account-you-want-to-use-in-netnewswire&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire - select the OPML file which you downloaded to your computer&#34; srcset=&#34;
+               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp 400w,
+               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu3310196773660815259.webp 760w,
+               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu15269771724924565502.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;Select the account you want to use in NetNewsWire&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Then reorganise your feeds into an many folders as you like!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;housekeeping&#34;&gt;Housekeeping&lt;/h2&gt;
+&lt;p&gt;This will be my last blog post for a little while as I will be updating this site. This will include an updated theme, some backend updates, and new case studies. I&amp;rsquo;ll also be finally moving some of my artefacts from the &lt;em&gt;temporary&lt;/em&gt; Notion page (temporary for two years&amp;hellip;) to this site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

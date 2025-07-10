@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Design | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/service-design/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/service-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Service Design</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Service Design</title>
+      <link>https://fionamacneill.co.uk/tags/service-design/</link>
+    </image>
+    
+    <item>
+      <title>Accessibility Service Design (2020-2022)</title>
+      <link>https://fionamacneill.co.uk/project/accessibility-service-design/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/project/accessibility-service-design/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The project used Service Design and UX methods to underpin the introduction of a new accessibility service. This ensured that, project management, identification of stakeholders, rollout phase planning, user training, and referral routes were all underpinned by supporting research. Principally this allowed us to rollout features in an empathetic way, considering timing and adjusting language used in the interface.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-customer-value-chain-map-based-on-kalbach-2016-ally-is-shown-with-its-values-value-for-students-providing-alternative-formats-value-for-staff-diagnostic-information-value-for-libraries-copyright-flagging-and-referrals&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ally is mapped with its values, providing alternative formats, diagnostic information, copyright flagging and referrals.&#34; srcset=&#34;
+               /project/accessibility-service-design/custvalmap_hu14623435971238785128.webp 400w,
+               /project/accessibility-service-design/custvalmap_hu4454266348702212896.webp 760w,
+               /project/accessibility-service-design/custvalmap_hu15619914840949985401.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/project/accessibility-service-design/custvalmap_hu14623435971238785128.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;557&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Customer Value Chain map based on Kalbach (2016). Ally is shown with its values. Value for Students: providing alternative formats. Value for Staff: diagnostic information. Value for Libraries: copyright flagging and referrals.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;clients&#34;&gt;Clients&lt;/h2&gt;
+&lt;p&gt;Service users for the accessibility service being introduced. Also fellow support providers at the University of Brighton with touchpoints relating to the use of the accessibility service.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;As the liaison for accessibility on my team, I was given product ownership of Blackboard Ally. Blackboard Ally is a service which includes a file conversion tool and diagnostic tool to help find and resolve common accessibility issues. Ally focuses on content which is uploaded to a Content Management System (CMS), or in this case a Virtual Learning Environment (VLE), including: Word documents, PDFs, PowerPoint files, and images. It is not an accessibility overlay, but rather helps to surface content-related accessibility issues across a complex CMS.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;To plan and implement Blackboard Ally as a new service at a university. To ensure that user adoption was planned and supported based on availability staff resourcing.&lt;/p&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;How can we support implementation and adoption of a new service during pandemic-related emergency teaching measures?&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;roles-tools-and-methods&#34;&gt;Roles, Tools and Methods&lt;/h2&gt;
+&lt;p&gt;As the product owner, I planned and managed the project. The project design and associated outreach activities were based on 6-week sprints. I also led on communication, documentation, stakeholder liaison, training and project management.&lt;/p&gt;
+&lt;h3 id=&#34;highlighted-toolsmethodsprinciples&#34;&gt;Highlighted Tools/Methods/Principles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Information Architecture principles&lt;/li&gt;
+&lt;li&gt;Task Scenarios&lt;/li&gt;
+&lt;li&gt;Customer Value Chain Mapping&lt;/li&gt;
+&lt;li&gt;Project planning (Mural board)&lt;/li&gt;
+&lt;li&gt;Data-driven insights&lt;/li&gt;
+&lt;li&gt;Context-aware Language&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;information-architecture-ia-principles&#34;&gt;Information Architecture (IA) principles&lt;/h3&gt;
+&lt;p&gt;Selected slides below explain IA as it applied within the VLE.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide.jpeg&#34; data-caption=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide_hu16939200586809790504.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide.jpeg&#34; data-caption=&#34;Space plan - organisation of content and layout.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide_hu14562545520991462532.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Space plan - organisation of content and layout.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide.jpeg&#34; data-caption=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide_hu13230913331359086311.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide.jpeg&#34; data-caption=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide_hu12736567358698077687.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide.jpeg&#34; data-caption=&#34;Skin - use of colour, font, and imagery in the VLE.&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide_hu16863669050614463102.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Skin - use of colour, font, and imagery in the VLE.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide.jpeg&#34; data-caption=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34;&gt;
+      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide_hu9915128192240695214.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Explanation of the gallery images:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Stuff&lt;/em&gt;: &lt;strong&gt;documents, PowerPoint&lt;/strong&gt;, content items such as text presented within the VLE, audio and video&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Space plan: &lt;strong&gt;organisation of content and layout&lt;/strong&gt; in module for accessibility&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Services: &lt;strong&gt;communications, assessment, diagnostic (Blackboard Ally)&lt;/strong&gt;, interactivity&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Structure: avoiding duplication, &lt;strong&gt;wayfinding, use of language&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skin: &lt;strong&gt;use of colour, font, and imagery&lt;/strong&gt; in the VLE&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Site: &lt;strong&gt;Questions to ask yourself&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Is it always made clear where people are at a given time?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is this the right place for this information or does it already exist elsewhere?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Is the purpose of this place made clear?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;IA based on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;cite&gt;How Buildings Learn: What Happens After They&#39;re Built - Brand (1995)&lt;/cite&gt;&lt;/li&gt;
+&lt;li&gt;Six layers – the “six S’s” as applied in &lt;cite&gt;Information Architecture: For the Web and Beyond – Rosenfeld, Morville and Arango (2015)&lt;/cite&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;h3 id=&#34;task-scenarios-and-customer-value-chain-mapping&#34;&gt;Task Scenarios and Customer Value Chain Mapping&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;#example-task-scenario&#34;&gt;Task Scenarios&lt;/a&gt; were used to itemise the tasks that different user groups needed to complete with the tools which are part of the Ally service. This was used to consider the context of use while users were working/studying from home locations. Customer Value Chain Mapping was used to discover and illustrate hidden value to using the system: it could be used to locate and replace copyrighted material. This allowed for a referral route to library staff for academic staff to get assistance with low accessibility PDFs as part of they mandate to oversee copyright requirements.&lt;/p&gt;
+&lt;h3 id=&#34;project-planning-and-data-driven-insights&#34;&gt;Project planning and Data-Driven insights&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/secret/EGAUkRBgWBxZ6W&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The slides&lt;/a&gt; associated with this case study provide anonymised screenshots of the project planning board. The collaborative planning board was used by the project team to consider all pontential stakeholders at the university, to ensure that anyone who could drive use of the tool was  provided with information and training for their team/s. I also used data from the system to plan strategic communications and outreach exercises, such as noting a drop in use and planning a 6-week sprint of outreach during the lead up to Global Accessibility Awareness Day.&lt;/p&gt;
+&lt;h3 id=&#34;context-aware-language&#34;&gt;Context-aware Language&lt;/h3&gt;
+&lt;p&gt;My team observed through enquiries and help desk tickets that academic staff were concerned about tools/services which included statistical and diagnostic information. This applies to aspects of the Ally service. Their concerns related to who had access and how the data would be used. Due to this and rapid change as a result of the pandemic, I recommended that phase 2 be delayed. This was also due to overlap with another service that was being introduced which also had statistical features. This was the right decision and when the tool was released I altered the interface to ‘read’ as ‘Accessibility Summary’, rather than ‘Course Accessibility Report’. The word ‘report’ had negative connotations and may have impacted service adoption.&lt;/p&gt;
+&lt;h2 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h2&gt;
+&lt;p&gt;Institutional accessibility was improved as a result of implementing the new service. Outreach efforts contributed to a +7% increase in student engagement with the alternative file formats produced by Ally as compared to a benchmark period (this is termed as conversion rate in the slides associated with this case study). This needs to be considered with the caveat that engagement rate comparisons will have greater value once multiple years’ worth of data is available. Currently there is only one year of data and the cyclical nature of education means that some of the increased engaged will be related to a natural increase in engagement during the lead up to exams.&lt;/p&gt;
+&lt;h2 id=&#34;feedback&#34;&gt;Feedback&lt;/h2&gt;
+&lt;p&gt;This was a novel approach to software service implementation in higher education and was therefore accepted for presentation at the Blackboard Ally European User Group (March 2021) and also at the Blackboard World 2021 international conference (July).&lt;/p&gt;
+&lt;h2 id=&#34;reflection&#34;&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;The full adoption of Blackboard Ally as a service is an ongoing project and I am planning out the next phases in collaboration with colleagues. A key consideration which I have highlighted is that the accessibility scores provided by the Ally service are algorithmically generated based on a list of requirements. This is therefore an indication of accessibility but it does not provide a complete picture. The wider picture of accessibility is related to content such as: language used, the format of content, an academic subject-specific requirements. So the use of the Ally service and has to take place alongside broader cultural and institutional change in order to be truly effective.&lt;/p&gt;
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;h3 id=&#34;example-task-scenario&#34;&gt;Example Task Scenario&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Scenario 1:&lt;/strong&gt; Check existing documents: Scanned PDFs without OCR (Optical Character Recognition).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; this is a document without machine readable text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Practical Goal:&lt;/strong&gt; Learn what is wrong with the document using the Ally report tool and resolve the problem.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context:&lt;/strong&gt; On a personal computer connected to the Internet using a web browser at home. User will login to the VLE and open their module, then view their Study Materials area. It is likely that they will be running other software such as MS Outlook concurrently, as well as other office productivity software on the computer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;User/s:&lt;/strong&gt; Academic staff; Professional staff who create student-facing resources (Student Support and Guidance Tutor, library).&lt;/p&gt;
+&lt;p&gt;Click on red dial. Read what the Ally report says: “0% This PDF is scanned”.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Judgement call: what type of PDF is it? An article or a scan from a book OR a hand drawn working/diagram which cannot be made accessible.
+&lt;ul&gt;
+&lt;li&gt;If an article or scan from a book contact the library for advice. This PDF needs to be replaced.&lt;/li&gt;
+&lt;li&gt;If it is hand drawn working/diagram, can written description be added to this file to make it more accessible? This file may need to be left as-is [no further action].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When the article or scan from a book has been replaced, the original should be removed from the module. Click on Files &amp;gt; Module code link.&lt;/li&gt;
+&lt;li&gt;Click ‘Show All’. Use ctrl and f (cmd and f on Mac) on the keyboard to search for the file.&lt;/li&gt;
+&lt;li&gt;Click the chevon next to the file and select delete.&lt;/li&gt;
+&lt;li&gt;Go back to Study Materials and click the chevron to delete the ‘item’ or ‘file’ content item. The item will be red.&lt;/li&gt;
+&lt;li&gt;If item/file is difficult to find, go to Packages and Utilities &amp;gt; Check course links. This will list broken links and their folder location.&lt;/li&gt;
+&lt;li&gt;Go back to Study Materials and delete these links.&lt;/li&gt;
+&lt;li&gt;Log out of studentcentral/My Studies (VLE).
+Close web browser.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;
+Brand, S. (1995) &lt;em&gt;How buildings learn: what happens after they’re built&lt;/em&gt;. New York, NY: Penguin Books.
+&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;
+Fry, R. (2020) ‘What happened on Global Accessibility Day at GDS’, &lt;em&gt;&lt;a href=&#34;https://gds.blog.gov.uk/2020/06/02/what-happened-on-global-accessibility-awareness-day-at-gds/&#34; target=&#34;_blank&#34; title=&#34;GDS blog opens in new tab/window&#34;&gt;Government Digital Service Blog&lt;/a&gt;&lt;/em&gt;, 2 June. (Accessed: 4 July 2021).
+&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;
+Kalbach, J. (2016) &lt;em&gt;Mapping experiences – a guide to creating value through journeys, blueprints, and diagrams&lt;/em&gt;. Sebastopol, CA: O’Reilly Media Inc.
+&lt;/p&gt;
+&lt;p class=&#34;referencing-style&#34;&gt;
+Rosenfeld, L., Morville, P. and Arango, J. (2015) &lt;em&gt;Information architecture: for the web and beyond&lt;/em&gt;. Fourth edition. Sebastopol, CA: O’Reilly Media, Inc.
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

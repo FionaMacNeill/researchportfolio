@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/portfolio/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Portfolio</title>
+      <link>https://fionamacneill.co.uk/tags/portfolio/</link>
+    </image>
+    
+    <item>
+      <title>Accessibility and responsive bits</title>
+      <link>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I developed and added the patient story.&lt;/strong&gt; This was based on a characteristics list which I worked through rather vigorously on the afternoon of the 25th. This is still in handwritten form, so I will link to it as a google doc later on. I have included some key references for that process below. I want to highlight the National Joint Registry (2016) data, which was particularly helpful during the process of defining the patient story. Also the specific images that I used will be cited on the portfolio site (including cc0 works; royalty-free works) as I feel it is always very important to include the provenance of images in any context, but especially when engaging in a thought process based on a fictional patient/nurse interaction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I added images to support the patient story.&lt;/strong&gt; These images were sourced from pixabay and one of my all-time faves, Creative Commons search as a means to filter Flickr images by license (&lt;a href=&#34;http://search.creativecommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search.creativecommons.org&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I recreated the images that I found for the patient story as drawings in Adobe Illustrator.&lt;/strong&gt; I wanted the images in the timeline to be small (100px x 100px); this is a limited amount of &amp;lsquo;bandwidth&amp;rsquo; to communicate a visual concept. For this reason I decided to use Adobe Illustrator to trace the images and then re-paint them, so that I could accentuate certain aspects through the use of selective colour. This worked well and I did investigate whether these images could be included as svgs, but the visual information was too complex as they were based on photographic materials. As a result I stuck with .png format as the final output. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg version of image - less visual information&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu3193635436544001950.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu16391398717144244650.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
+               width=&#34;607&#34;
+               height=&#34;563&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+] .svg version of a timeline image - quite a bit of artifacting (tech-speak for mess) in the image render and it looks too sketchy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screenshot of the png version image&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu15444704337815661328.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu16685531038401827356.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
+               width=&#34;693&#34;
+               height=&#34;584&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+.png version of the same image in Adobe Illustrator - more of the visual information from the original photograph is retained. This version has the right level of abstraction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;All of the images were optimised using &lt;a href=&#34;https://kraken.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kracken.io&lt;/a&gt;.&lt;/strong&gt; Honestly, I absolutely love this tool and will be using this from now on for all my images. Their algorithm somehow trims off the excess while keeping the core visual information.&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Accessibility.&lt;/strong&gt; I ran an accessibility analysis on the site using the WAVE Web Accessibility Tool (&lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;). It is pretty good, I still have a few aria, alt and title tags to include here or there but I have made progress in this area.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/08/lots-of-changes-to-this-version-of-the-css/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this development post&lt;/a&gt;, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I ran the Google mobile accessibility test on the site - It passed!&lt;/strong&gt; Here is the proof: &lt;a href=&#34;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&lt;/a&gt; There is still a lot of content to add, but it is great to know that I am on the right track.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;BBC (2013, January 16). Going paperless “would save NHS billions.” BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-21033984&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-21033984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC (2016, September 7). NHS: Health apps to inform patient records. BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-37290126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-37290126&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Booth, R. (2016, December 13). The doctor on your Xbox? The NHS needs more digital ambition. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS EN ISO 13485:2016 Medical devices. Quality management systems. Requirements for regulatory purposes. (2016). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS ISO 13606-2:2008 Health informatics. Electronic health record communication. Archetype interchange specification. (2008). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Choices, N. (2016, November 1). Health and fitness trackers. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dolatabadi, E., Babak, T., &amp;amp; Alex, M. (2014). Vision-based approach for long-term mobility monitoring: Single case study following total hip replacement. Journal of Rehabilitation Research and Development, 51(7), 1165–76.&lt;/p&gt;
+&lt;p&gt;Farmer, A. Wearables sector grows as smartwatches increase in popularity. Retrieved January 2, 2017, from &lt;a href=&#34;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heartfield, R., Loukas, G., &amp;amp; Gan, D. (2016). You are probably not the weakest link: Towards practical prediction of susceptibility to semantic social engineering attacks. IEEE Access, 4, 6910–6928. doi:10.1109/access.2016.2616285&lt;/p&gt;
+&lt;p&gt;Institute for Quality and Efficiency in Health Care (2014). What can help relieve anxiety before surgery? - PubMed health - national library of medicine - PubMed health. Retrieved from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Johansson Stark, Å., Charalambous, A., Istomina, N., Salanterä, S., Sigurdardottir, A. K., Sourtzi, P., … Bachrach-Lindström, M. (2016). The quality of recovery on discharge from hospital, a comparison between patients undergoing hip and knee replacement - a European study. Journal of Clinical Nursing, 25(17-18), 2489–2501. doi:10.1111/jocn.13278&lt;/p&gt;
+&lt;p&gt;Nasr, N., &amp;amp; Enderby, P. (2014). Redefinition of life experience following total hip replacement: Analysis of narrative as performance. International Journal of Orthopaedic and Trauma Nursing, 18(2), 89–98. doi:10.1016/j.ijotn.2013.07.005&lt;/p&gt;
+&lt;p&gt;National Information Board. (2015, March 4). National information board’s workstreams. Retrieved January 2, 2017, from &lt;a href=&#34;https://www.gov.uk/government/publications/national-information-boards-workstreams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gov.uk/government/publications/national-information-boards-workstreams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;National Joint Registry. (2016). 13th Annual Report 2016 National Joint Registry for England, Wales, Northern Ireland and the Isle of Man Surgical data to 31 December 2015. Retrieved from &lt;a href=&#34;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NHS Choices. (2015, November 3). Health Apps library - NHS choices. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/pages/healthappslibrary.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/pages/healthappslibrary.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Press Association (2016, September 7). NHS to have one website for appointments, prescriptions and advice. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pulkkinen, M., Junttila, K., &amp;amp; Lindwall, L. (2015). The perioperative dialogue - a model of caring for the patient undergoing a hip or a knee replacement surgery under spinal anaesthesia. Scandinavian Journal of Caring Sciences, 30(1), 145–153. doi:10.1111/scs.12233&lt;/p&gt;
+&lt;p&gt;Rudolfsson, G. (2013). Being altered by the unexpected: Understanding the perioperative patient’s experience: A case study. International Journal of Nursing Practice, 20(4), 433–437. doi:10.1111/ijn.12195&lt;/p&gt;
+&lt;p&gt;Wilson, D. (2016). An overview of the application of Wearable technology to nursing practice. Nursing Forum. doi:10.1111/nuf.12177&lt;/p&gt;
+&lt;p&gt;Wilson, C. J., Mitchelson, A. J., Tzeng, T. H., El-Othmani, M. M., Saleh, J., Vasdev, S., … Saleh, K. J. (2015). Caring for the surgically anxious patient: A review of the interventions and a guide to optimizing surgical outcomes. The American Journal of Surgery, 212(1), 151–159. doi:10.1016/j.amjsurg.2015.03.023&lt;/p&gt;
+&lt;p&gt;Image source: &amp;ldquo;&lt;a href=&#34;https://pixabay.com/en/calendar-days-day-of-the-week-487695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar days of the week&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://pixabay.com/en/users/422737-422737/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;422737&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 1.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress on the grid and layout</title>
+      <link>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt;&lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
+&lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
+&lt;p&gt;Now that my grid is in situ, I am able to base layout elements on  it. I do think that in most cases I will need to make unique versions of the columns and tweak the row layout, but keeping the grid architecture in place and temporarily adding the rows/columns to the html has been really helpful for planning out the sections (as shown in the screenshot below). I used my grid to start planning the layout of the content on the Flickity carousel cells - as it turns out this took quite a bit of work (more on that in my next post). I also had my first go at creating an SVG, albeit a very simple one as a placeholder for the first cell in the carousel. The SVG shows the outline of a head and I made it in Adobe Illustrator, this will need to be replaced by more of a photographic image for needs of the project.&lt;/p&gt;
+&lt;h3 id=&#34;about-about&#34;&gt;about-About&lt;/h3&gt;
+&lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQNj8SiUKWqBOTRTo5rnLcG8NxToeAJ7B9Q1eWWRDdl-_Z-dCbCG-E8xzjOhSWc86TWtNntOcL7K84F/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;task list&lt;/a&gt; to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
+&lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
+&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; &lt;/p&gt;
+\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/08/progress-on-the-grid-and-layout/journalimage81216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the site on 9/12&#34; srcset=&#34;
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp 400w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu9391513708935188990.webp 760w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12670540155037678186.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;One of the sites that I have mentioned before, &lt;a href=&#34;https://gamificationplus.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamification+&lt;/a&gt; has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Basques, K. (2016, December 8). How to use the Timeline tool. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&lt;/a&gt; Common CSS questions. (2015, October 26). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&lt;/a&gt; daneden. (2016, September 27). Daneden/animate.Css. Retrieved December 8, 2016, from &lt;a href=&#34;https://github.com/daneden/animate.css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/daneden/animate.css&lt;/a&gt; Grids. (2016, October 7). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt; Lewis, P. (2016, December 8). Rendering performance. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/performance/rendering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/performance/rendering/&lt;/a&gt; SVG and CSS. (2016, January 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&lt;/a&gt; Z-index. (2016, December 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Timeline tool identified</title>
+      <link>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</guid>
+      <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): &lt;a href=&#34;https://jsfiddle.net/43gg6x3v/7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jsfiddle.net/43gg6x3v/7/&lt;/a&gt; Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery vs. Javascript gist&lt;/a&gt; and then the From &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery to Javascript: A Reference&lt;/a&gt; - vanilla makes much more sense to me.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;jQuery example 1: horizontal timeline (&lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/horizontal-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;jQuery example 2: vertical timeline (&lt;a href=&#34;https://codyhouse.co/gem/vertical-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/vertical-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;After looking at these and searching quite a bit, I came across a tool called lory (&lt;a href=&#34;http://meandmax.github.io/lory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://meandmax.github.io/lory/&lt;/a&gt;). It is essentially a code package or widget for creating interactive slideshows or gallery. I thought that there might be some milleage in creating a slideshow or gallery and somehow customising it as a timeline. After testing I found that lory also was overly complex for my needs. Then I came across a really helpful article about a widget tool called &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flickity&lt;/a&gt; on css-tricks.com (&lt;a href=&#34;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&lt;/a&gt;). It was love at first sight! Here is an example on codepen showing how the Flickity slideshow originally looked: &lt;a href=&#34;http://codepen.io/desandro/pen/bNLGNZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/desandro/pen/bNLGNZ&lt;/a&gt; - Flickity is both responsive and touch optimised and had a vanilla option in addition to jQuery. It seemed like a good solution. Before my modifications: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/25/timeline-tool-identified/flickityorig/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the freescroll Flickity slide carousel&#34; srcset=&#34;
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp 400w,
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu1941371233609075102.webp 760w,
+               /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu7932386095536438164.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;177&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; After my modifications: &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/25/timeline-tool-identified/flickityedit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the edited version of the Flickity carousel&#34; srcset=&#34;
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp 400w,
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu882150914599356930.webp 760w,
+               /post/2016/11/timeline-tool-identified/images/flickityedit_hu595354637712614238.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;331&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&amp;rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GPLv3 license&lt;/a&gt;. I am passionate about open source and was already licensing my work under an &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT license&lt;/a&gt; so I have decided to set the rest of my project to &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;comply with the GPLv3 license&lt;/a&gt;. This means that the license information needs to be included in the header of each source file. As the portfolio site will not contain any original research and will only provide an overview of the project this will also comply with the University&amp;rsquo;s Intellectual Property rules&lt;fn&gt;As a student and employee I need to be aware of the university&amp;rsquo;s Intellectual Property rules, which are available here: &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; . However as portfolio site will not provide software with potential for commercial value and the project information itself is in the early stages it complies with the rules.&lt;/fn&gt;. Also in the markup of the html, CSS and Javascript I have indicated where pieces of code have come from and if/when licenses apply. &lt;strong&gt;Update:&lt;/strong&gt; Shortly after writing this post I solved the issues outlined above (see: &amp;ldquo;There is still a lot to do&amp;hellip;&amp;rdquo;) and these discoveries are outlined in the next couple of posts. I realise that I forgot to mention how I solved the issue of the number labels on the dots below the Flickity carousel. This problem turned out to offer me a very valuable lesson in the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pseudo element &amp;ldquo;before::&amp;rdquo; or &amp;ldquo;before:&amp;rdquo;&lt;/a&gt;. I have used the former, &amp;ldquo;before::&amp;rdquo; as this was introduced in CSS3 and is compatible with IE9 based on my testing. I figured out that the dots themselves could be used as a counter-increment for the addition of the number labels. &lt;code&gt;.dot { position: relative; overflow: hidden; display: inline-block; width: 40px; height: 40px; margin: 0 20px; background: #a9a9a9; border-radius: 50%; cursor: pointer; counter-increment: flickity-page-dots; }&lt;/code&gt; &lt;code&gt;.dot::before { display: block; text-align: center; content: counter(flickity-page-dots); padding-top: 11px; font-size: 20px; color: #FFF; }&lt;/code&gt; As the dots themselves are automatically produced by the Flickity Javascript, this meant that my number labels were now produced too. A nice solution.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Coyier, C. (2015, March 5). Creating responsive, touch-friendly carousels with Flickity &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/&lt;/a&gt; Flickity - freeScroll. Retrieved November 26, 2016, from &lt;a href=&#34;http://codepen.io/desandro/pen/bNLGNZ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://codepen.io/desandro/pen/bNLGNZ&lt;/a&gt; Flickity License. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/license.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/license.html&lt;/a&gt; Flickity. Retrieved November 26, 2016, from &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/&lt;/a&gt; Free Software Foundation. (2007). GNU General Public License. Retrieved November 26, 2016, from &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gnu.org/licenses/gpl-3.0.html&lt;/a&gt; Heinz, M. (2015). Lory minimalistic slider. Retrieved November 26, 2016, from &lt;a href=&#34;http://meandmax.github.io/lory/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://meandmax.github.io/lory/&lt;/a&gt; Horizontal Timeline in CSS and jQuery. (2014, February 28). Retrieved November 26, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/horizontal-timeline/&lt;/a&gt; Mozilla Developer Network. (2016, July 24). :Before (:Before). Retrieved November 26, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/::before&lt;/a&gt; Open Source Initiative. The MIT license. Retrieved November 26, 2016, from &lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opensource.org/licenses/MIT&lt;/a&gt; Saunders, S. ​Intellectual property (IP). Retrieved January 4, 2017, from &lt;a href=&#34;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://staff.brighton.ac.uk/ease/ip/Pages/IP-Information.aspx&lt;/a&gt; Vanilla JS vs jQuery. (2017). &lt;em&gt;Gist&lt;/em&gt;. Retrieved 26 November 2016, from &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gist.github.com/liamcurry/2597326&lt;/a&gt; Vertical Timeline. (2014, June 12). Retrieved November 16, 2016, from &lt;a href=&#34;https://codyhouse.co/gem/vertical-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codyhouse.co/gem/vertical-timeline/&lt;/a&gt; Way, J. (2012, January 19). From jQuery to JavaScript: A reference. Retrieved November 26, 2016, from &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference&amp;ndash;net-23703&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireframing sketches</title>
+      <link>https://fionamacneill.co.uk/post/2016/11/wireframing-sketches/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/11/wireframing-sketches/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
+               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
+               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
+               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
+\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
+               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
+               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
+               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wireframe sketch with overlay&#34; srcset=&#34;
+               /post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp 400w,
+               /post/2016/11/wireframing-sketches/images/v2overlay_hu2702831804183338772.webp 760w,
+               /post/2016/11/wireframing-sketches/images/v2overlay_hu2513432408252492975.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ This image shows a piece of acetate as an overlay for the floating navigation buttons that were &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/31/development-prototypes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demonstrated in Prototype 2&lt;/a&gt;.&lt;/p&gt;
+\[/caption\]</description>
+    </item>
+    
+    <item>
+      <title>Business Model Canvas and more tweaks</title>
+      <link>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;lean business canvas V1&#34; srcset=&#34;
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp 400w,
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu6099917122085690639.webp 760w,
+               /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu8301082217797738470.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; &lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; title=&#34;PDF copy of Business Canvas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the PDF version of the Business Canvas&lt;/a&gt;&lt;fn&gt; Business Model Canvas (&lt;a href=&#34;http://www.businessmodelcanvas.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.businessmodelcanvas.com&lt;/a&gt;), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;).&lt;/fn&gt; A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I have completed an initial version of the Lean Business Model Canvas, as mentioned &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/23/portfolio-site-concept-and-other-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in my earlier post&lt;/a&gt; referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation (the template is available at this URL: &lt;a href=&#34;http://www.uoguelph.ca/cbase/resource-library/wp-content/uploads/2014/05/Lean-Business-Model-Canvas-template.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.uoguelph.ca/cbase/resource-library/wp-content/uploads/2014/05/Lean-Business-Model-Canvas-template.pdf&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;I have asked my friend Jason to take a look at my code for the arrow button navigation, so I will work on some more tweaks to that tomorrow.&lt;/li&gt;
+&lt;li&gt;Due to extremely limited time this week as a result of some unanticipated work commitments, I haven&amp;rsquo;t got as much development work in as I would like. So I have focused on a few fixes on this site as they were smaller thinks that I could achieve in the time that I had.
+&lt;ul&gt;
+&lt;li&gt;I removed a superfluous hyperlink in the footer.php - it was a &lt;em&gt;copy and paste&lt;/em&gt; mistake.&lt;/li&gt;
+&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; (see &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/31/development-prototypes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last post&lt;/a&gt;) as it felt like it might offer too many options.&lt;/li&gt;
+&lt;li&gt;I decided to install the &lt;a href=&#34;https://en-gb.wordpress.org/plugins/wp-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WP Accessibility Plugin&lt;/a&gt; - I have worked with it before and found it to be one of the best plugins in this area. It offers user-facing tools and some javascript additions to fix common issues in WordPress. Even though I have an accessibility tagged theme, there are additional tweaks that can be completed such as removing title attributes in areas where they aren&amp;rsquo;t needed and enforcing alt tags. It also allows you to add an active link highlight, which I am initially trying out with a contrast tested purple colour (essentially it puts a box around any active element).&lt;/li&gt;
+&lt;li&gt;I worked on a few customisations of the plugin:
+&lt;ul&gt;
+&lt;li&gt;I added it to a sidebar widget instead of the toolbar that is typically used with the plugin. This is mainly due to some issue with the display of the toolbar and also it made sense to present the accessibility options above the background colour options.&lt;/li&gt;
+&lt;li&gt;I customised the font-family and font-size of the text in the accessibility widget.&lt;/li&gt;
+&lt;li&gt;I enabled the high-contrast and font-size (large text) options as part of the WP Accessibility Plugin.&lt;/li&gt;
+&lt;li&gt;I customised aspects of the large text display so that it worked better with the theme, initially some text was too and some was too small. For example, H2 was a too small in comparison to the paragraph text and stylistically and readability-wise it wasn&amp;rsquo;t great.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I also changed the text-transform settings on the widgets header text as I noticed that these were all uppercase. This is not the best for Dyslexic readers according to Gov.uk&amp;rsquo;s recent accessibility posters (&lt;a href=&#34;https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK&lt;/a&gt;). I find this series of posters to be very helpful cheat-sheets for accessible design.
+&lt;ul&gt;
+&lt;li&gt;Related findings:
+&lt;ul&gt;
+&lt;li&gt;Gov.uk Accessible Blog: &lt;a href=&#34;https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dos and don&amp;rsquo;ts on designing for accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gov.uk Government Digital Service: &lt;a href=&#34;https://gds.blog.gov.uk/2012/01/20/user-testing-accessibility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;User testing accessibility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gov.uk Advisory: &lt;a href=&#34;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making your service accessible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Also in my travels I found the Web Accessibility Evaluation Tool (WAVE) - this was recommended both by the WP Accessibility Plugin authors in the documentation and on the Gov.uk page above on the &amp;ldquo;making your service accessible&amp;rdquo; page.&lt;/li&gt;
+&lt;li&gt;The report (although it will change as the site is being updated) &lt;a href=&#34;http://wave.webaim.org/report#/http://www.fionamacneill.co.uk/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/report#/http://www.fionamacneill.co.uk/blog/&lt;/a&gt; WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: &lt;a href=&#34;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction&lt;/a&gt;). So I need to ensure that I don&amp;rsquo;t regard these tests as exhaustive moving forward.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I feel that I have learned quite a bit about accessibility through my work on this journal site, as well as honing my existing skills. So I will take these ideas and techniques forward with me as I continue to work on my portfolio project.&lt;/p&gt;
+&lt;h3 id=&#34;more-to-come-on-the-to-do-list&#34;&gt;More to come on the to-do list:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;concept document&lt;/li&gt;
+&lt;li&gt;Task scenarios&lt;/li&gt;
+&lt;li&gt;Business Model Canvas&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups&lt;/li&gt;
+&lt;li&gt;\[Tentative plan\] create a UML2 diagram&lt;/li&gt;
+&lt;li&gt;A paper prototype – the prototype may actually need to be made in a prototyping tool so that Theo and I can discuss it via email. So probably a change of plan on this one.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Cao, J. &amp;amp; Bank, C. (n.d.). &lt;em&gt;The guide to UX design &amp;amp; documentation process.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.uxpin.com/studio/ebooks/guide-to-ux-design-process-and-documentation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

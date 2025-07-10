@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Udigcap | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/udigcap/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/udigcap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Udigcap</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Udigcap</title>
+      <link>https://fionamacneill.co.uk/tags/udigcap/</link>
+    </image>
+    
+    <item>
+      <title>Capturing live drawing in the digital age</title>
+      <link>https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en-gb&#34;&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;Test memo comic strip for the Spotlight on Digital Capabilities event in May. With thanks &lt;a href=&#34;https://twitter.com/fmacneill&#34;&gt;@fmacneill&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/udigcap?src=hash&#34;&gt;#udigcap&lt;/a&gt;&lt;a href=&#34;https://twitter.com/ucisa&#34;&gt;@ucisa&lt;/a&gt;&lt;a href=&#34;https://t.co/nhmYOoZ6ip&#34;&gt;pic.twitter.com/nhmYOoZ6ip&lt;/a&gt;&lt;/p&gt;[caption id=&#34;attachment_602&#34; align=&#34;alignnone&#34; width=&#34;1024&#34;]&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/05/eveturnerlee_large-1442a1x.jpg&#34; rel=&#34;attachment wp-att-602&#34;&gt;&lt;img class=&#34;wp-image-602 size-full&#34; src=&#34;images/eveturnerlee_large-1442a1x.jpg&#34; alt=&#34;Eve Turner-Lee comic strip&#34; width=&#34;1024&#34; height=&#34;320&#34;&gt;&lt;/a&gt; Eve Turner-Lee&#39;s fantastic comic strip recounting our investigation.[/caption] — Eve Turner-Lee (@eturnerlee) &lt;a href=&#34;https://twitter.com/eturnerlee/status/715119791661531136&#34;&gt;30 March 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;I am helping to organise a conference later on this month as part of my work on the UCISA Digital Capabilities group. The event is called the Spotlight on Digital Capabilities (May 25/26) and just to let you know, if you find this post particularly riveting there are still spots to attend! You may also recall &lt;a href=&#34;https://blog.rise.global/category/event-tech-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my guest post on the Rise blog&lt;/a&gt; about the gamification of last year&amp;rsquo;s UCISA conference (as well as my &lt;a href=&#34;http://fionamacneill.co.uk/blog/2015/06/03/attempting-to-live-blog-while-running-a-twitter-competition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;frantic live blogging during the event&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Well I am more actively involved in designing the gamification of &lt;em&gt;Spotlight&lt;/em&gt; this year, so there will be more on that soon too! One of the things that I am most looking forward to, as part of the &lt;em&gt;Spotlight&lt;/em&gt; conference is a live debate that will take on the question: &lt;em&gt;Do we still need IT training teams?&lt;/em&gt; This session will take the format of a town-hall forum style debate and will have a panel who explore different views on the topic as well as leading audience discussion. Part of the inspiration for the debate came from my experience attending New Media Consortium conferences from 2010-12 in the US. I remember the sheer energy of the townhall meeting events and the brilliant live drawing visualisations of the discussion, supplied by Rachel Smith. So with this in mind we are working with Brighton artist, Eve Turner-Lee to consider the best ways of visualising our discussion! Back in March, Eve, my colleague Tucker and I met up to test out the best ways of visualising drawing. Our criteria were that whichever solution we ended up with would need to capture the drawing live and provide a video feed to the projection system somehow so that attendees could watch on screen. A bonus would be if attendees could also watch live from their own smartphones, tablets or laptops. Here are the results of our investigations. Although Eve put it much more succinctly in her comic strip embedded at the top of this post!&lt;/p&gt;
+&lt;h2 id=&#34;option-1-eve-drawing-on-paper-with-live-video-capture&#34;&gt;Option 1: Eve drawing on paper with live video capture&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Drawing with pens on paper with live video streaming&#34; srcset=&#34;
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu10101144549028839385.webp 400w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu6648532833587032909.webp 760w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu7854336785989811461.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu10101144549028839385.webp&#34;
+               width=&#34;157&#34;
+               height=&#34;196&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Trying out drawing with pens on a standing whiteboard&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;proposed-scenario&#34;&gt;Proposed scenario:&lt;/h3&gt;
+&lt;p&gt;Eve would draw on paper while wearing an iPhone camera harness or a &lt;a href=&#34;https://gopro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoPro camera&lt;/a&gt; to video-capture her work live on paper using &lt;a href=&#34;https://www.periscope.tv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Periscope app&lt;/a&gt;. Fiona simulated this by recording with the Periscope app on iPhone. A computer connected via adaptor to the conference projection system could display the action from Periscope. Audience members could choose to watch from their own devices for a closer view via the Periscope app.&lt;/p&gt;
+&lt;h3 id=&#34;pros&#34;&gt;Pros&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;People can watch the drawing from their personal devices&lt;/li&gt;
+&lt;li&gt;Eve could wear the phone on a chest mount and that could capture the drawing well&lt;/li&gt;
+&lt;li&gt;Get lots of attention - broadcast and promote the conference&lt;/li&gt;
+&lt;li&gt;Nice Twitter tie-in&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cons&#34;&gt;Cons&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Can’t turn off the microphone - everyone would have to turn off their devices.
+&lt;ul&gt;
+&lt;li&gt;tried covering the microphone&lt;/li&gt;
+&lt;li&gt;tried external mic on mute&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Only have portrait orientation&lt;/li&gt;
+&lt;li&gt;The quality of the video is not great&lt;/li&gt;
+&lt;li&gt;Hard to get a good filming angle at the right difference to show how the drawing will take shape.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;verdict&#34;&gt;Verdict:&lt;/h3&gt;
+&lt;p&gt;Do not use. Although we could turn the sound off from the projection system feed, that does not stop the mic in Periscope from picking up sound. This could result in a veritable cacophony if everyone in the room, decided to watch on Periscope via their mobile devices.&lt;/p&gt;
+&lt;h2 id=&#34;option-2-eve-drawing-on-ipad-pro&#34;&gt;Option 2: Eve drawing on iPad Pro&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Live drawing with an iPad Pro&#34; srcset=&#34;
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12094759498206133482.webp 400w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu14492393522883645047.webp 760w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12993310846697302876.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12094759498206133482.webp&#34;
+               width=&#34;225&#34;
+               height=&#34;300&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;proposed-scenario-1&#34;&gt;Proposed scenario:&lt;/h3&gt;
+&lt;p&gt;Eve draws on the iPad Pro using an app like Tayasui Sketches (&lt;a href=&#34;http://tayasui.com/sketches/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://tayasui.com/sketches/&lt;/a&gt;) the iPad is mirrored to Fiona&amp;rsquo;s Mac laptop (using &lt;a href=&#34;http://www.airsquirrels.com/reflector/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reflector 2&lt;/a&gt;) which is then connected to the projection system via adaptor (VGA or HDMI). For the sharing to mobile devices, we tried a live Google Hangout broadcast which was simulcast to YouTube. Something to note is that the Refector 2 the software which allows your laptop to broadcast the screen of an iDevice (or an android, via Chromecast technology) features the option to include an iPad visual frame in the video. We have decided to include this on the day, as it will put the origin of the drawing into context. From the laptop we shared the screen via a Live broadcast Google Hangout and YouTube * Video from the YouTube broadcast: &lt;a href=&#34;https://youtu.be/RC20gb08vDM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/RC20gb08vDM&lt;/a&gt; Not only is the video great quality, but the settings in Google Hangouts were fantastic and we were able to turn any potential microphone sound off.&lt;/p&gt;
+&lt;h3 id=&#34;verdict-1&#34;&gt;Verdict:&lt;/h3&gt;
+&lt;p&gt;Use this!&lt;/p&gt;
+&lt;h3 id=&#34;setup&#34;&gt;Setup:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Connect Fiona’s laptop to the projection system&lt;/li&gt;
+&lt;li&gt;Make sure that the laptop and the iPad Pro are on the same Wi-Fi network&lt;/li&gt;
+&lt;li&gt;Mirror the iPad to Reflector 2 software on the laptop&lt;/li&gt;
+&lt;li&gt;Start recording the iPad in Reflector 2 so that you have a backup&lt;/li&gt;
+&lt;li&gt;Launch Google Hangout on air and tweet link to live YouTube channel and hangout&lt;/li&gt;
+&lt;li&gt;Make sure that hangout is set to mute audio and video of attendees (cameraman settings)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;video-summary-of-the-workflow&#34;&gt;Video summary of the workflow:&lt;/h3&gt;
+&lt;iframe src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;fullscreen=y&amp;width=320&amp;height=260&amp;videoId=3395&amp;quality=hd&amp;captions=n&amp;chapterId=0&#34; width=&#34;330&#34; height=&#34;270&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;option-3-eve-drawing-on-paper-on-the-document-visualiserdocument-camera&#34;&gt;Option 3: Eve drawing on paper on the document visualiser/document camera&lt;/h2&gt;
+&lt;h3 id=&#34;verdict-2&#34;&gt;Verdict:&lt;/h3&gt;
+&lt;p&gt;Do not use - Too old-school! Just paled in comparison to option 2!&lt;/p&gt;
+&lt;h3 id=&#34;final-verdict&#34;&gt;Final verdict:&lt;/h3&gt;
+&lt;p&gt;iPad Pro &amp;gt; Laptop running Reflector 2 &amp;gt; to projection System &amp;gt; whilst running google hangout broadcasting to youtube&lt;/p&gt;
+&lt;p&gt;Eve&amp;rsquo;s final drawing on the iPad Pro&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Eve Turner-Lee Drawing created on iPad Pro&#34; srcset=&#34;
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu867833034438733233.webp 400w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu12857222520283020602.webp 760w,
+               /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu2295837814717929832.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu867833034438733233.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Eve Turner-Lee Drawing created on iPad Pro&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

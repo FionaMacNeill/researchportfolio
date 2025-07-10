@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uml | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/uml/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/uml/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uml</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 24 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Uml</title>
+      <link>https://fionamacneill.co.uk/tags/uml/</link>
+    </image>
+    
+    <item>
+      <title>Perplexed...or why we iterate</title>
+      <link>https://fionamacneill.co.uk/post/2015/11/perplexed-or-why-we-iterate/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2015/11/perplexed-or-why-we-iterate/</guid>
+      <description>&lt;img title=&#34;&#34; src=&#34;file:///Users/fiona/Sites/portfolio/content/post/2015/11/perplexed-or-why-we-iterate/images/V2-UML-diagram-IDM21-New-Page-1mn9wkl.png&#34; alt=&#34;Excerpt of a UML diagram decorative&#34; width=&#34;517&#34; data-align=&#34;left&#34;&gt;
+&lt;p&gt;I have a confession to make, I am pretty perplexed by Unified Modeling Language (UML). If you were to look at this blog, based on the lack of posts, you wouldn&amp;rsquo;t think that I had made any progress over the past two weeks. We covered User Conceptual Modeling as a topic in class back on the 6th of November and in my last post on the 11th, I made the grand proclamation that I would complete my UML diagram by Friday (13th). Well I did create a UML diagram, and then I created another iteration and another; I became obsessed with understanding the syntax&amp;hellip;not a healthy obsession, but a frustrating one. During the past week I tried to read everything that I could in order to aid my understanding. Tonight I came to the realisation that Learning Objects are pretty hard to build in UML. I also made the decision to leave this part of the project for now and move on to writing some commentary on user requirements. I feel that by moving on, I may miss some error in the system design, but also if I continue to work on the diagram I am going to stall my progress further. This was paralleled early on in the other project that I am working on at the moment, where I attempted to create a diagram for a hypothetical wearable device as part of the Internet of Things. Four-plus iterations later I finally have something that resembles the operation of a real system. To summarise here is what I have learned from this road-block:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;step away from the diagram;&lt;/li&gt;
+&lt;li&gt;perspective can only be capitalised upon by making some space between yourself and the problem and then walking back towards it;&lt;/li&gt;
+&lt;li&gt;Make like Andy Warhol, and iterate;&lt;/li&gt;
+&lt;li&gt;Allow for frustration time - cook on a medium heat and allow to simmer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Until next time&amp;hellip; P.s. I am leaving this note here because these diagrams need a glossary.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Here is the first iteration of the model:&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe id=&#34;p7~v4GALNIke&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/b6345c57-7a31-417d-a7c2-746b4223837f&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;And here is the most recent, albeit not entirely finished:&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe id=&#34;kPawmdAxB.0z&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/46e9f60c-1569-47c2-a69d-73e70842c14c&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Version completed on 05/12/15&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe id=&#34;AkozHq1QZaX7&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/84a94519-0dd8-47e6-9f1b-e887b95e91f2&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;British Standard. (2005). &lt;em&gt;BS ISO/IEC 19501:2005 Information technology. Open distributed processing. Unified modeling language (UML). Version 1.4.2.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://bsol-bsigroup-com.ezproxy.brighton.ac.uk/Bibliographic/BibliographicInfoData/000000000030039396&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com.ezproxy.brighton.ac.uk/Bibliographic/BibliographicInfoData/000000000030039396&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Brown, D. M. (2010). &lt;em&gt;Communicating design: Developing web site documentation for design and planning (2nd edition) (voices that matter)&lt;/em&gt; (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Griffiths, R. (2012, April 2). User conceptual modeling &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://thestandardinteractiondesignprocess.wordpress.com/process/understand-and-specify-context-of-use/user-conceptual-modeling-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thestandardinteractiondesignprocess.wordpress.com/process/understand-and-specify-context-of-use/user-conceptual-modeling-2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lynch, P. J., &amp;amp; Horton, S. &lt;em&gt;Web style guide, Third edition&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://webstyleguide.com/wsg3/4-interface-design/2-navigation.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://webstyleguide.com/wsg3/4-interface-design/2-navigation.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Redmond-Pyle, D., &amp;amp; Moore, A. (1995). &lt;em&gt;Graphical user interface design and evaluation (GUIDE): A practical process&lt;/em&gt; (1st ed.). New York: Prentice Hall Professional Technical Reference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

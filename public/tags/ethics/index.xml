@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ethics | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/ethics/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ethics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 21 Jun 2025 08:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Ethics</title>
+      <link>https://fionamacneill.co.uk/tags/ethics/</link>
+    </image>
+    
+    <item>
+      <title>UX Camp 2025 Reflections</title>
+      <link>https://fionamacneill.co.uk/post/2025/06/ux-camp-2025-reflections/</link>
+      <pubDate>Sat, 21 Jun 2025 08:30:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2025/06/ux-camp-2025-reflections/</guid>
+      <description>&lt;h2 id=&#34;making-things-manageable&#34;&gt;Making things manageable&lt;/h2&gt;
+&lt;h3 id=&#34;a-brief-catch-up-on-the-last-24-months&#34;&gt;A brief catch-up on the last 24 months&lt;/h3&gt;
+&lt;p&gt;This site has been loved and it has been updated. However, between December 2023 and December 2025, I sort of lost myself a bit. The TL:DR version is between working on Ladies that UX Brighton (now &amp;lsquo;LTUX Brighton&amp;rsquo;) and working in a full-time agency role I lost sight of my thinking/academic/artistic pursuits; I let my reflective practice slip.&lt;/p&gt;
+&lt;p&gt;The bizarre irony is at last year&amp;rsquo;s UX Camp, in my opinion I hosted my second-best session, on &lt;a href=&#34;event/uxcamp2024/index&#34;&gt;&lt;em&gt;research hacks&lt;/em&gt;&lt;/a&gt; (my first would have to be &lt;a href=&#34;2016/03/talk-factors-of-trust-in-iot-app-interfaces/index&#34;&gt;&lt;em&gt;Trust in IoT Systems&lt;/em&gt;&lt;/a&gt; back in 2016 when I was invited back for the &lt;a href=&#34;2016/06/trust-in-iot-app-interfaces-redux/index&#34;&gt;redux event&lt;/a&gt;, which meant it must have been good!). Last year I even prepared materials for a series of session-related blog posts here explaining how to do each of the hacks.&lt;/p&gt;
+&lt;p&gt;Did I post them?
+No.&lt;/p&gt;
+&lt;p&gt;This has been a matter of personal shame on my &amp;rsquo;todo&amp;rsquo; list for an entire year.&lt;/p&gt;
+&lt;img src=&#34;images/ShameNuns.gif&#34; alt=&#34;The shame nuns with a bell from Game of Thrones walking through the streets shaking bells.&#34;/&gt;
+&lt;h3 id=&#34;a-new-leaf-is-unfurling&#34;&gt;A new leaf is unfurling&lt;/h3&gt;
+&lt;p&gt;So I&amp;rsquo;m starting afresh. I have radically reduced the number of posts on this site. Only keeping the most important reflections in a bid to help reduce this site&amp;rsquo;s energy use to a minimum. I also started my own Limited company in January, Macknowlogist, contracting in UX, research, and technology. Working for myself has a different cadence, enabling me to re-jig my reflective practice.&lt;/p&gt;
+&lt;h3 id=&#34;what-am-i-doing-differently-this-time&#34;&gt;What am I doing differently this time?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I have created a template in Obsidian to help write these posts efficiently in markdown, from the start.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m going to write shorter posts more often to keep this site fresh. In particular I will &lt;strong&gt;write&lt;/strong&gt; posts on how I am developing the decision-making framework I previewed at UX Camp this year.&lt;/li&gt;
+&lt;li&gt;On occasion I will write long form posts, but this must be intentional rather than accidental.&lt;/li&gt;
+&lt;li&gt;I am self-editing by using washable index cards and other methods to keep things more concise.&lt;/li&gt;
+&lt;li&gt;Most of all I am sketching more and more in my life and work and that is such a brilliant and restorative change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;images/SketchbookApril2025.webp&#34; alt=&#34;A very busy systems thinking page of my sketchbook with diagrams connections, notes, and scribbles&#34; /&gt;
+&lt;caption&gt;&lt;em&gt;Not so much sketching on this page - this was the start of the ideas for the ethical framework, with various influences including John V Willshire&#39;s work on the top-right.&lt;/em&gt;&lt;/caption&gt;
+&lt;h2 id=&#34;ux-camp-2025-rundown&#34;&gt;UX Camp 2025 Rundown&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-ux-camp-brighton&#34;&gt;What is UX Camp Brighton?&lt;/h3&gt;
+&lt;p&gt;Only the best annual UX event in Brighton in my opinion (not a paid endorsement). Run impeccably by Patrick Samson, Lou Bloom, Luke Hay, Tom Prior, Chris How, Deeksha Bhushan, and Rob Pearson, it is an event where everyone is made to feel welcome to share their ideas on UX. As a &lt;a href=&#34;&#34;&gt;bar camp&lt;/a&gt; style event there is no agenda until the hosts arrive and place their session synopsis cards. Each session is limited to 20 mins.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been going to &lt;a href=&#34;https://www.uxcampbrighton.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UX Camp Brighton&lt;/a&gt; since about 2014 and it has been, and continues to be, instrumental to my practice and learning. The other thing I find impressive is that every year, I can see how they have taken feedback onboard, improving the event and making it more inclusive. Like this year having the option of asking an organiser to pitch in the main room to the audience to remove that stressor. Nice!&lt;/p&gt;
+&lt;h2 id=&#34;the-sessions-i-got-to-see&#34;&gt;The sessions I got to see&lt;/h2&gt;
+&lt;p&gt;Five sessions run simultaneously in each time slot.&lt;/p&gt;
+&lt;p&gt;The session you get to attend is based on three factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How well the host&amp;rsquo;s pitch resonated with you&lt;/li&gt;
+&lt;li&gt;Whether you could get to the room on time before its too full&lt;/li&gt;
+&lt;li&gt;If you don&amp;rsquo;t you need to either have a back-up choice, or make your way to a room with space #potluck&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of the sessions below were delightful brainfood regardless of the above. Truly, I always wish I could attend all of them. I have summarised my favourite concept from each session below.&lt;/p&gt;
+&lt;h3 id=&#34;graeme-aymer&#34;&gt;Graeme Aymer&lt;/h3&gt;
+&lt;p&gt;Graeme shared the relevance of &lt;a href=&#34;https://en.wikipedia.org/wiki/James_Baldwin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Balwin&amp;rsquo;s&lt;/a&gt; writing (1924–1987) to compassion in UX. He expertly took us on a journey of analysis through the following Baldwin quote.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Love has never been a popular movement. And no one&amp;rsquo;s ever wanted, really, to be free. The world is held together, really it is held together, by the love and the passion of a very few people. Otherwise, of course, you can despair. Walk down the street of any city, any afternoon, and look around you. What you&amp;rsquo;ve got to remember is what you&amp;rsquo;re looking at is also you. Everyone you&amp;rsquo;re looking at is also you. You could be that person. You could be that monster, you could be that cop. And you have to decide, in yourself, not to be.”&lt;/em&gt;
+&lt;br /&gt;~ James Baldwin (1970)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Everyone you&amp;rsquo;re looking at is also you&lt;/em&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This reminded me of the quote, &amp;ldquo;Be kind, for everyone you meet is fighting a harder battle&amp;rdquo;, or some variation of that. This quote is often attributed to Plato, Alice Walker, or Robin Williams–just proving that finding truth on the internet has been and always shall be a tenuous venture unless you have time to pull at all the threads. Hmm, remember this dear reader the next you use AI as a search engine 🤔&lt;/p&gt;
+&lt;p&gt;Regardless this is an important message, to paraphrase Graeme: &lt;em&gt;&amp;ldquo;you are the silos, you are the bad work culture, you are the stakeholders, you are the participants, you are the colleagues, you are the bosses, you are the direct reports, you are the customers using your designs&amp;rdquo;&lt;/em&gt;. This is such a crucial point, not only in terms of empathy, but also in terms of taking action. It reminds us that we can actually change those systems, those hierarchies, because they are us and we are them.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;You could be that monster&amp;hellip;and you have to decide in yourself not to be&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;sayani-mitra&#34;&gt;Sayani Mitra&lt;/h3&gt;
+&lt;p&gt;Sayani provided a comprehensive overview of how UX research could help to improve and enhance AI-focused products and products where AI is being implemented.&lt;/p&gt;
+&lt;p&gt;I loved Sayani&amp;rsquo;s easy to follow list structures to sit alongside the product development process. In a tech environment where research roles are under threat, often because of tight budgets, and the &amp;lsquo;promise&amp;rsquo; of AI for research (without researchers!) this is the talk we all needed.&lt;/p&gt;
+&lt;p&gt;I particularly loved the following aspects, which I plan to add to my &amp;lsquo;super-group&amp;rsquo; of decision-making frameworks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Uncover&lt;/strong&gt;&amp;hellip; the real-world context early. What problem are you actually solving?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prevent&lt;/strong&gt;&amp;hellip; prevent tech-first decision-making&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Define&lt;/strong&gt;&amp;hellip; value before features and map these&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Audit&lt;/strong&gt;&amp;hellip; bias in datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Influence&lt;/strong&gt;&amp;hellip; the final product output&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;sayanis-5-ps-of-ethical-ai&#34;&gt;Sayani&amp;rsquo;s 5 P&amp;rsquo;s of Ethical AI&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Purpose&lt;/strong&gt; - Is AI even needed?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;People&lt;/strong&gt; - Who gains, who loses?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Process&lt;/strong&gt; - How is it designed?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Power&lt;/strong&gt; - Who controls outcomes?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Proof&lt;/strong&gt; - Is there proof that this thing even works in this context (my notes got smudged here, so this is my interpretation - the serendipity of analogue!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For me, the implementation of AI always comes to down to these aspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What type of AI are talking about (e.g., LLMs, ML, automation, something else?)?&lt;/li&gt;
+&lt;li&gt;What context was the chosen flavour originally designed for? It is good to understand the origins of the tool you are using and therefore it&amp;rsquo;s limitations.&lt;/li&gt;
+&lt;li&gt;Is it adding value beyond what you can already do without AI (as in &amp;lsquo;purpose&amp;rsquo; above)?&lt;/li&gt;
+&lt;li&gt;How can we implement it in the most efficient and least wasteful way possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So much of this thinking overlaps with Sayani&amp;rsquo;s points.&lt;/p&gt;
+&lt;h3 id=&#34;rebecca-hugo&#34;&gt;Rebecca Hugo&lt;/h3&gt;
+&lt;p&gt;Rebecca’s talk was a clever construction with several levels of meaning.&lt;/p&gt;
+&lt;p&gt;On one level it pulled some valuable points about learning and behavioural change from the &lt;em&gt;seminal film&lt;/em&gt;, &lt;a href=&#34;https://www.imdb.com/title/tt0215129/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Road Trip&lt;/a&gt; (2000). Specifically, one character’s proclamation that given enough time he could &amp;ldquo;&lt;em&gt;teach Japanese to a Monkey&lt;/em&gt;&amp;rdquo;. The point here is that by finding ways to relate new knowledge to existing knowledge and interests, it is possible to ‘hook’ people and help them to retain new information. Crucially, they will also be able to better apply that acquired information. In the context of the film &amp;lsquo;said&amp;rsquo; character, &lt;em&gt;Rubin&lt;/em&gt; helps another character, &lt;em&gt;Josh&lt;/em&gt; prep for an exam with limited knowledge of the subject.&lt;/p&gt;
+&lt;p&gt;On another level Rebecca gave an example of how to use analogy in a clear way when communicating with colleagues and clients. Even if you knew nothing of Road Trip and the other pop culture references in the presentation, Rebecca’s storytelling abilities essentially used these as a series of &lt;a href=&#34;https://en.wikipedia.org/wiki/MacGuffin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacGuffins&lt;/a&gt;. As in references relevant to the main protagonist or subject but irrelevant on their own in isolation. By using a range of references she added value for those who knew the reference and supplied intrigue to those who did not.&lt;/p&gt;
+&lt;p&gt;Finally, this talk was stacked full of useful advice and as a designer who focuses on learning. I enjoyed revisiting concepts such as ‘memory palaces’ (also known as the &lt;a href=&#34;https://en.wikipedia.org/wiki/Method_of_loci&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;method of loci&amp;rsquo;&lt;/a&gt;), and the ‘&lt;a href=&#34;https://youtu.be/sH5i2skyCAU?feature=shared&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;story method’&lt;/a&gt;. I particularly chimed with Rebecca&amp;rsquo;s point that external skills and knowledge can come into play in your UX career.&lt;/p&gt;
+&lt;p&gt;A few of my favourite sound bites:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Same but different &lt;br /&gt;
+Simply speak simply &lt;br /&gt;
+Respond to the responses &lt;br /&gt;
+Make it make sense&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Creating mottos is yet another helpful memetic and it is something that I know Rebecca excels at, having attended her talks at several UX Camp Brighton events over the years.&lt;/p&gt;
+&lt;h3 id=&#34;alex-edwards&#34;&gt;Alex Edwards&lt;/h3&gt;
+&lt;p&gt;Alex talked about the steps for closing the Discovery process. Alex is a design strategist and it was superb to gain insight into the level of thought and learning layers of consideration involved in her work.&lt;/p&gt;
+&lt;p&gt;The key point for me was getting the right people in the room. This correlates with my experience as a consultant. It can certainly feel uncomfortable as you need to accept that there will be dissent. However, if you don’t take stakeholders on the journey with you from the start then you are destined for trouble later down the line.&lt;/p&gt;
+&lt;p&gt;I loved Alex’s thinking around the different stakeholders you need to appeal to when wrapping up discovery (the preparatory research phase of any design project).&lt;/p&gt;
+&lt;p&gt;The stakeholders were…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Decision makers &lt;br /&gt;
+Subject matter experts &lt;br /&gt;
+Broader stakeholders &lt;br /&gt;
+Snoopers and Poopers&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The last group, &amp;ldquo;snoopers and poopers&amp;rdquo; is the one you only learn about through experience. It is bet to figure out who they are as soon as you can, so that your project isn’t shut down by someone with an opposing agenda.&lt;/p&gt;
+&lt;p&gt;I loved Alex’s approach to cataloguing insights throughout the discovery phase, with a table for listing all the content collected, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;transcriptions,&lt;/li&gt;
+&lt;li&gt;information from the client,&lt;/li&gt;
+&lt;li&gt;desk research,&lt;/li&gt;
+&lt;li&gt;and notes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I thought that the inclusion of star ratings out of five for the ‘applicability’, and ‘level of detail’ were really helpful criteria. I’ll definitely consider how to implement this in my own practice. Particularly as a new contractor, I often work alone. I do this work as well, but don’t have a central mapping or record of it. I will try using &lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian notebooks&lt;/a&gt; with a table like this at the top level. This might be especially helpful later in projects when the design process can inadvertently drift away from Discovery findings for range of reasons.&lt;/p&gt;
+&lt;p&gt;Alex’s advice when considering competitors was also quite brilliant. Specifically, in addition to  researching &amp;ldquo;competitors, comparators and disruptors&amp;rdquo;, it is worth considering the &amp;ldquo;household names&amp;rdquo; and then looking for patterns. Not only do I need to add this into my own process, but I also want to pull in, “how do/did they solve this problem now/before?”. Remembering that an analogue process might be a competitor is important and it is something I often encountered when working in Higher Education.&lt;/p&gt;
+&lt;p&gt;As a personal reflection, when under high levels of stress I retreat from my careful time boxing and resort to hand-written notes which then get into a state of disarray, adding to the stress. The solution? Have an A4 sized whiteboard to put thoughts onto and if I don’t digitise them they gradually degrade and get rubbed out by my wrist. There is also an analogue satisfaction to erasing these notes and at least I am no longer going through reams of paper notebooks.&lt;/p&gt;
+&lt;img src=&#34;images/whiteboard-example.webp&#34; alt=&#34;An A4 sized whiteboard with scribbled notes on it, that are partially erased&#34;/&gt;
+&lt;p&gt;A great tool suggestion from Alex was &lt;a href=&#34;https://octopus.do/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Octopus.do&lt;/a&gt; which builds visual site maps and screenflows. This is a really helpful way to understand dead ends. I did try it for a current project – it couldn&amp;rsquo;t quite handle all the layers of navigation. Regardless, I can see Octopus.do&amp;rsquo;s potential, even though I ended up mapping the structure manually in Figjam.&lt;/p&gt;
+&lt;h4 id=&#34;insights&#34;&gt;Insights&lt;/h4&gt;
+&lt;p&gt;So after all this how do you “distillate the wins”? Alex used &lt;a href=&#34;https://www.airtable.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Airtable&lt;/a&gt; to collate the findings and also noted that affinity mapping as you go is key. You cannot leave this until later, you need to capture this thinking as you go.&lt;/p&gt;
+&lt;p&gt;I thought the concept of “sticky phrases” was very powerful and a great way for converting insights to memorable mottos (there we are with the mottos again!).&lt;/p&gt;
+&lt;p&gt;A couple of great examples were…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;One size fits none&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Frontline staff are the heroes&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Finally, the most important thing with discovery is to outline how, and crucially when, it will be actioned. This is key to ROI (return on investment) and something that I have learned the hard way in the past. Discovery and research in general are perceived as expensive, it is critical to show that discovery is not an optional part of the process and to close the phase in an action oriented way.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This can happen, we are ready to start&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;shubhangar-sidharthan&#34;&gt;Shubhangar Sidharthan&lt;/h3&gt;
+&lt;p&gt;Shubhangar’s talk was a much needed wake-up call for me and for this reason it gained my vote as my favourite talk of the day in the follow-up survey. Shubhangar provided a comprehensive summary of algorithmic changes to personalisation in apps such as Instagram and TikTok. He covered the user benefits, as well as the algorithmic siloing, and the addictive tendencies that could be stimulated by these design decisions.&lt;/p&gt;
+&lt;p&gt;This talk was a powerful reminder of how I need to engage with this tech to understand trends, even if I choose not to engage beyond professional necessity. I had a TikTok account back in 2021 when I made a number of accessibility focused learning videos. At the time, I was astounded by the level of engagement and positive responses compared to my experience using YouTube. However, I could also see that that this interface was, as Shubhangar astutely described a “fruit machine”. Having an awareness of my own tendencies I chose to switch off.&lt;/p&gt;
+&lt;p&gt;I have observed in learning how much the trends and personalisation evident in apps, like the aforementioned and Duolingo, have been adopted in learning platforms. However, I find myself questioning how affective swipe-centric learning really is, beyond initial engagement. At the end of the day it still isn’t embodied learning and for it to really stick it needs to be applied in the real world and be relevant to the goals of the person. No amount of personalisation will change that.&lt;/p&gt;
+&lt;p&gt;On the point of addiction, there is such a thing as addictive learning and not in a good way. I had a 400+ day streak on Duolingo which I recently ended for good&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The main reason was I felt pwned by the owl. As Duolingo resorted to increasingly manipulative design patterns (many have commented on this–a good overview by &lt;a href=&#34;https://medium.com/blog/duolingos-emotional-blackmail-591a14cdf98d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harris Sockel on Medium&lt;/a&gt;). I could feel this process taking hold and adding to my stress levels. Disrupting my sleep by encouraging me to continue the streak before bed, rather than reading a book and allowing my brain to switch down a gear.&lt;/p&gt;
+&lt;p&gt;During those 400+ days, I learned a lot of French vocab, but so much of it was reliant on recognition rather than recall and unless I went to France on a regular basis, applying this knowledge in the real world, it won’t stick (see &lt;em&gt;Praxis&lt;/em&gt; later in this post).&lt;/p&gt;
+&lt;p&gt;I come back to the need for learning to be supported by both intrinsic and extrinsic motivation. The true benefit of personalisation being the opportunity for the person who is learning to map their individual aspirations to recognised outcomes and experiences that will help get them reach those aspirations.&lt;/p&gt;
+&lt;p&gt;Shubhangar’s parting point was both poignant and prescient:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The future of UX isn’t just knowing what users want. It’s knowing when they’ve had enough&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;richard-vahrman&#34;&gt;Richard Vahrman&lt;/h3&gt;
+&lt;p&gt;It was great to see Richard again, after a 1-year hiatus. Richard, although he self-describes as someone who is not a UX designer, is brilliant at creating a memorable experience in 20 minutes. I don&amp;rsquo;t want to give too much away about Richard&amp;rsquo;s session as he was using it as an opportunity to test ideas for a future project. However, I am aways inspired by his ability to take people on a journey and pull people into his world. There is a such a playfulness to his ideas, while retaining a connection to more serious ideas in the case of his future project.&lt;/p&gt;
+&lt;p&gt;Richard inspired the Godzilla card when I recently facilitated the &lt;a href=&#34;https://servicedesignbreakfast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clearleft Service Design Breakfast&lt;/a&gt;. His game using every day objects, reframed as talisman and trading objects, was brilliant. It really got people in the audience to think about group affiliations, the &amp;lsquo;in&amp;rsquo; crowd and &amp;lsquo;out&amp;rsquo; crowd and societal norms. This was &amp;lsquo;metaphor&amp;rsquo; at a level that anyone could understand, regardless of pre-existing knowledge, and for this reason it was absolute genius!&lt;/p&gt;
+&lt;img src=&#34;images/GodzillaCard.webp&#34; alt=&#34;Three cards in a row from my generative AI discussion card game. The first card shows a hand-drawn Godzilla holding a plane with Japanese characters, then a question card about a wasteful AI processing workflow. Then an speculative equation for thinking about whether AI is the right solution&#34; /&gt;
+&lt;h3 id=&#34;ghaith-nassar&#34;&gt;Ghaith Nassar&lt;/h3&gt;
+&lt;p&gt;Ghaith took us on a fascinating tour of how the &lt;a href=&#34;https://uk.bookshop.org/p/books/pedagogy-of-the-oppressed-paulo-freire/3823089?ean=9780241301111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Pedagogy of the Oppressed&lt;/em&gt; by Paulo Freire (1970)&lt;/a&gt; and how the book has influenced their practice as a multi-disciplinary designer and facilitator. I have reserved this book through my university library membership and look forward to reading it&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I enjoyed the embodied way that Ghaith presented the content. Placing the printed out would-be slides on the glass wall in the room. This allowed us to see a holistic map of the concepts as well as where we were currently were in the journey. It made me wish that there were a way of doing this in a presentation without it becoming inaccessible. &lt;a href=&#34;https://prezi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prezi&lt;/a&gt; tried to accomplish this as a tool, however, it was always bound by the teacher&amp;rsquo;s or presenter&amp;rsquo;s path through the content. I found this approach delightfully metacognitive as a theme in Freire&amp;rsquo;s writing, as Ghaith described and I have interpreted was for the &amp;rsquo;teacher&amp;rsquo; to address their own hubris. What better way than to allow the &amp;lsquo;students&amp;rsquo; in the room to engage with the content now, and also look around to the content of now. I found myself looking back at the earlier concepts and seeing the connections.&lt;/p&gt;
+&lt;p&gt;Sharing knowledge is not linear. So, why is it almost always a timeline? We let our tools dictate so much of what we do (&amp;lsquo;ahem, PowerPoint&amp;rsquo;).&lt;/p&gt;
+&lt;p&gt;Key point:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Teachers have something to learn from students and students have something to learn from teachers.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Another aspect that I found fascinating was this little equation.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reflection + Action = Word = Praxis&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I loved how Ghaith broke this down for us&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Action&lt;/strong&gt; ~ &amp;ldquo;Transform the world&amp;rdquo;
+&lt;strong&gt;Word&lt;/strong&gt; ~ &amp;ldquo;Rights for everyone. With people not for people.&amp;rdquo;
+&lt;strong&gt;Praxis&lt;/strong&gt; ~ Putting theory into practice or as per the &lt;a href=&#34;https://dictionary.cambridge.org/dictionary/english/praxis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cambridge English Dictionary definition&lt;/a&gt;: &amp;ldquo;the process of using a theory or something that you have learned in a practical way&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;And what about the relationship between the component parts of this equation?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remove &amp;lsquo;Action&amp;rsquo; and you are left with &amp;ldquo;Idle Chatter&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Remove &amp;lsquo;Reflection&amp;rsquo; and you are left with &amp;ldquo;Activism&amp;rdquo; for activism&amp;rsquo;s sake. Perhaps forgetting why you took action in the first place, is the action even still appropriate for meeting the desired end state?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The equation above, together with the five pillars of dialogue (&amp;quot;&lt;em&gt;Love&lt;/em&gt;, &lt;em&gt;Humility&lt;/em&gt;, &lt;em&gt;Faith&lt;/em&gt;, &lt;em&gt;Trust&lt;/em&gt;, and &lt;em&gt;Hope&lt;/em&gt;&amp;quot;) are elements that I will consider including in my super group of thinking structures and frameworks. That is for a future blog post/s and was the topic of my own UX Camp presentation this year.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;hellip;reality as a process, as transformation, rather than as a static entity.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;claire-bown&#34;&gt;Claire Bown&lt;/h3&gt;
+&lt;p&gt;I heard Claire speak at the &lt;a href=&#34;https://weareshesays.com/chapters/shesays-brighton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SheSays Brighton&lt;/a&gt; &lt;a href=&#34;https://www.internationalwomensday.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Women&amp;rsquo;s Day&lt;/a&gt; event earlier this year and found her background in marketing and transition into AI consulting to be inspirational. As someone who spends a quite a bit of time researching and thinking about LLMs and machine learning, Claire&amp;rsquo;s talk covered some familiar ground. Regardless, I appreciated the visual way she presented both issues with gender equality in tech and the consequential issue of gender bias in the outputs form diffusion models. This will be further exacerbated by the prevalence of &lt;a href=&#34;https://en.wikipedia.org/wiki/Psychology#WEIRD_bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEIRD biased data&lt;/a&gt; in the training models, so where women&amp;rsquo;s data is included, it will be predominantly Western and predominantly White. This is something that Michael Kibedi has discussed and explored on his &lt;a href=&#34;https://uxmichaelco.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;First &amp;amp; Fifteenth Substack&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Claire asked &lt;a href=&#34;https://openai.com/index/hello-gpt-4o/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ChatGPT&amp;rsquo;s GPT-4o&lt;/a&gt; image generation to create an image for each professional role typically found on a product team. Interestingly all the images sort of look liked versions of the same caucasian man, with varying levels of facial hair. The exception was the UX designer who was both a woman and of mixed race. Without understanding more about the training data, it is hard to know why this role was different. If we assume majority US data, then the &lt;a href=&#34;https://uxpa.org/salary-surveys/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UXPA Salary Survey&lt;/a&gt; has pointed towards there being more women than men in UX roles.&lt;/p&gt;
+&lt;p&gt;This data from &lt;a href=&#34;https://www.careerexplorer.com/careers/ux-designer/demographics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Career Explorer by Sokanu&lt;/a&gt; suggests that 53% of UX Designers are women in the US as compared to 47% men. This source also cites that many men more are interested in UX roles than are actually working in them, suggesting a bias towards women in the role. So, as compared to other roles, like &lt;a href=&#34;https://www.careerexplorer.com/careers/app-developer/demographics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;App Developer&lt;/a&gt; (77% men | 23% women) this goes some way to explaining the generated image. The reason for the other characteristics remains unknown and I can only surmise that there might be something in the position of UX Designer as an advocate for all users that the model opted to be more representative of all users. A more linear explanation could be the language used to describe UX roles in job descriptions is typically femme-coded as &lt;a href=&#34;https://medium.com/@LadiesthatUX_Br/ltux-brighton-femme-coded-work-in-tech-4bc80b594cd7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LTUX Brighton, explored through a discussion panel last year.&lt;/a&gt; The panel included &lt;a href=&#34;https://www.linkedin.com/in/intentionaut/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saielle DaSilva&lt;/a&gt; who has spoken on this topic at &lt;a href=&#34;https://www.mindtheproduct.com/the-f-words-of-highly-successful-product-organisations-by-saielle-dasilva/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mind the Product&lt;/a&gt;. I need to do more research on this myself, anecdotally having looked at a lot of job descriptions recently I wonder if words like, empathy, collaboration, co-design, facilitation, listening, guiding, liaising, might lead an LLM towards this bias? (couching this thought&amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Going back to the outputs above, I find this flagrant bias pretty disappointing. It concerns me that most things we build digitally seem to perpetuate the mistakes of the past rather than envisioning an entangled and messy, yet more humane future (á la &lt;a href=&#34;https://www.ribaj.com/culture/profile-indy-johar-dark-matter-labs-boring-revolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indy Johar&lt;/a&gt; of &lt;a href=&#34;https://darkmatterlabs.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dark Matter Labs&lt;/a&gt;). I am not anti-AI by any means, I use &lt;a href=&#34;https://chat.greenpt.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreenPT&lt;/a&gt; and to supplement my own research for the paragraph above. I also use several other models in contextually sensitive and productivity focused ways. However, we really really need to try harder and not take what these companies, or their models, say at face value without scrutiny. Just as I wouldn&amp;rsquo;t believe a human, unless they provided evidence of what they were saying–even high trust humans&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; get things wrong.&lt;/p&gt;
+&lt;p&gt;Skepticism is probably one of the healthiest habits to cultivate. You can then feel happy on the occasions when you are proven wrong. It is the best route to critically responsible optimism!&lt;/p&gt;
+&lt;p&gt;So, my main take away from Claire&amp;rsquo;s talk - what do these platforms want?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;They want to keep you using their platform, their model.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, change it up, don&amp;rsquo;t have single brand loyalty try the same prompt in a different model and see how it performs. However, before you do, ask yourself my &lt;em&gt;Create Another Way&lt;/em&gt; question:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Is the &lt;strong&gt;value&lt;/strong&gt; of the &lt;strong&gt;output&lt;/strong&gt; proportionate to the &lt;strong&gt;effort&lt;/strong&gt; and &lt;strong&gt;cost&lt;/strong&gt; of the &lt;strong&gt;input&lt;/strong&gt;?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And yes, this is an existential question. If this question causes you to stop, pause, and create a single more effective prompt, in place of three, then I have done my work.&lt;/p&gt;
+&lt;p&gt;Until next year (although I will definitely blog sooner!), I leave you with Rebecca Hugo&amp;rsquo;s amazing speed tapping skills, as applied to the 2025 UX Camp Brighton quiz.&lt;/p&gt;
+&lt;img src=&#34;images/SpeedTapping.gif&#34; alt=&#34;Rebecca&#39;s using two fingers on one hand on a smartphone to extremely rapidly press on a click counter app, then changes strategy and moves the phone to her lap and presses even faster&#34; width=&#34;200px&#34; /&gt;
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This was not related to the &amp;ldquo;AI-First Controversy&amp;rdquo;, a multifaceted issue discussed eloquently by &lt;a href=&#34;https://knowyourmeme.com/editorials/guides/whats-the-duolingo-ai-first-controversy-the-ceos-pro-ai-message-and-the-online-backlash-explained&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Know Your Meme&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;By the time of writing I am now reading Freire&amp;rsquo;s book. Due to the way the book and the arguments within are structured, the format Ghaith used now makes even more sense!&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;If you consider me a &amp;ldquo;high-trust human&amp;rdquo; then I&amp;rsquo;m telling you now that I get things wrong and that is part of how I continually learn. It is possible that this post will have &lt;em&gt;wrong&lt;/em&gt; things in it when I look back in future. However, unlike an LLM when you chat with me I will include phrases like, &lt;em&gt;&amp;ldquo;you&amp;rsquo;ll want to double-check this&amp;hellip;&amp;rdquo;&lt;/em&gt;, &amp;ldquo;*I&amp;rsquo;ll answer with the caveat that&amp;hellip;&amp;rdquo;, &amp;ldquo;I will come back to you with a more complete answer&amp;hellip;&amp;rdquo;.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

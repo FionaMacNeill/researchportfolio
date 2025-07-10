@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/animation/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 08 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Animation</title>
+      <link>https://fionamacneill.co.uk/tags/animation/</link>
+    </image>
+    
+    <item>
+      <title>Progress on the grid and layout</title>
+      <link>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt;&lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
+&lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
+&lt;p&gt;Now that my grid is in situ, I am able to base layout elements on  it. I do think that in most cases I will need to make unique versions of the columns and tweak the row layout, but keeping the grid architecture in place and temporarily adding the rows/columns to the html has been really helpful for planning out the sections (as shown in the screenshot below). I used my grid to start planning the layout of the content on the Flickity carousel cells - as it turns out this took quite a bit of work (more on that in my next post). I also had my first go at creating an SVG, albeit a very simple one as a placeholder for the first cell in the carousel. The SVG shows the outline of a head and I made it in Adobe Illustrator, this will need to be replaced by more of a photographic image for needs of the project.&lt;/p&gt;
+&lt;h3 id=&#34;about-about&#34;&gt;about-About&lt;/h3&gt;
+&lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQNj8SiUKWqBOTRTo5rnLcG8NxToeAJ7B9Q1eWWRDdl-_Z-dCbCG-E8xzjOhSWc86TWtNntOcL7K84F/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;task list&lt;/a&gt; to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
+&lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
+&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; &lt;/p&gt;
+\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/08/progress-on-the-grid-and-layout/journalimage81216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the site on 9/12&#34; srcset=&#34;
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp 400w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu9391513708935188990.webp 760w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12670540155037678186.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;One of the sites that I have mentioned before, &lt;a href=&#34;https://gamificationplus.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamification+&lt;/a&gt; has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Basques, K. (2016, December 8). How to use the Timeline tool. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&lt;/a&gt; Common CSS questions. (2015, October 26). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&lt;/a&gt; daneden. (2016, September 27). Daneden/animate.Css. Retrieved December 8, 2016, from &lt;a href=&#34;https://github.com/daneden/animate.css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/daneden/animate.css&lt;/a&gt; Grids. (2016, October 7). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt; Lewis, P. (2016, December 8). Rendering performance. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/performance/rendering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/performance/rendering/&lt;/a&gt; SVG and CSS. (2016, January 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&lt;/a&gt; Z-index. (2016, December 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

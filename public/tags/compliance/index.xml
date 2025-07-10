@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compliance | Fiona MacNeill Portfolio and Blog</title>
+    <link>https://fionamacneill.co.uk/tags/compliance/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/compliance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compliance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <title>Compliance</title>
+      <link>https://fionamacneill.co.uk/tags/compliance/</link>
+    </image>
+    
+    <item>
+      <title>Striving for accessibility - Eval pt 1</title>
+      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
+&lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
+&lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
+&lt;h3 id=&#34;keystone-texts&#34;&gt;Keystone texts&lt;/h3&gt;
+&lt;p&gt;While engaging in this in-depth investigation into the accessibility, I found myself referring to the following keystone texts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accessible Rich Internet Applications (WAI-ARIA) Roles Model (n.d.)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.paciellogroup.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Paciello group&amp;rsquo;s blog&lt;/a&gt; - UX accessibility specialists an amazing resource&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network Accessibility Guides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nngroup.com/articles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nielsen Norman Group blog&lt;/a&gt; - a frequent go-to of mine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I feel like I have only scratched the surface with the WAI-ARIA roles, but based on testing I feel that the site is accessible as I could get it within the allotted time. In the end I found a blog post on the subject by a rather brilliant developer, Aaron Krauss (2016) who did a great job of how to practically use certain ARIA labels and roles. What I did find is that there is quite a lot of redundancy in the code, but you need to have it there as the screenreader doesn&amp;rsquo;t necessarily pick up the semantics in the page construction as you might intend. Here is a video of my screenreader testing in action with tab key only - tabindex (Mozilla Developer Network, 2017)&lt;/p&gt;
+&lt;iframe style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=0&amp;amp;height=0&amp;amp;videoId=6936&amp;amp;quality=hd&amp;amp;captions=n&amp;amp;chapterId=0&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;what-the-font&#34;&gt;What the font?&lt;/h3&gt;
+&lt;p&gt;I conducted some reading (Nielsen, 2002; Martin, 2009; Franz, 2014; ) around legible fonts and font sizes and optimal line height. I have tried my best to work with the best practices, although that does get tricky with the mobile screen size. However, the attention that I have paid to optimising the CSS stylesheet for plain readers should help those who use accessibility features on mobile devices. &lt;strong&gt;Added a fix to the superscript&lt;/strong&gt; I found a very helpful snippet for fixing line height for superscript (used for references) and subscript. Thank you to the -ever helpful- CSS Tricks site (Coyier, 2009a). &lt;strong&gt;Contrast&lt;/strong&gt; As much as I loved the white headers along the timeline the contrast was not sufficient. The colour scheme is themed around blues and purples and unfortunately white on blue doesn&amp;rsquo;t comply with WCAG 2.0 unless the blue shade is very dark or the white font is very large (Snook, 2015; WAVE, n.d.).&lt;/p&gt;
+&lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
+&lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
+&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 - public domain&lt;/a&gt; apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; srcset=&#34;
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
+               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;122&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; The complete sprite for the devices in all of its glory&lt;/p&gt;
+\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
+&lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
+&lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
+&lt;p&gt;I tried my best to standardise all the units in the CSS although if I were to do it all again with hindsight I think that I might design my grid to work with ems or rems (once they are widely compatible or older browsers fall out of use). I&amp;rsquo;m sure that I have missed things in spite of several thorough read-throughs. It all validated okay. &lt;strong&gt;CSS code block structure:&lt;/strong&gt; e.g. div class or id - this resembles the layout of a div .div { display: block; position: relative; width: 90% height: 60% color: #000; margin: 2% auto 2% auto padding: 2% 4%; (shortenings used where possible) } e.g. typography class or id - this resembles the layout h2 { font-family: &amp;ldquo;Helvetica Neue&amp;rdquo;, Helvetica, Arial, sans-serif; text-align: center; font-size: 1.5em; line-height: 1.25; font-weight: 300; } In the HTML where white-space pre-line formatting was needed for the Goals and the references sections, I included comments to help indicate why the formatting was different in the markup. Also regarding the CSS as I was going through it, to weed it a bit, I asked myself a series of questions to help determine which units to use and such. I have included these below.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Is it text? = ems&lt;/li&gt;
+&lt;li&gt;If it moves it is em or %. If it doesn&amp;rsquo;t or cannot move it is pixels&lt;/li&gt;
+&lt;li&gt;Is it in a column in the grid - then margins and padding are percentages (unless there is a very good reason for them not to be)&lt;/li&gt;
+&lt;li&gt;Is it in the grid - then margins and padding are percentages&lt;/li&gt;
+&lt;li&gt;Is it used in the html? No, then get rid of it Could it be consolidated in any way? Does it share the same values as another class and/or id?&lt;fn&gt;I would have liked to do more on this, but I ran out of time. Did my best to do it as I went along.&lt;/fn&gt;&lt;/li&gt;
+&lt;li&gt;Does it need to be a negative value (particularly in the media queries)? Then it is in ems.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Rationale:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When it is something that needs to have set dimensions such as a button, I am using pixels.&lt;/li&gt;
+&lt;li&gt;For text I am using ems to ensure compatibility with older browsers&lt;/li&gt;
+&lt;li&gt;For table related items and blocks which reside in divs I have used percentages.&lt;/li&gt;
+&lt;li&gt;Used hexadecimal shortenings when it made sense to do so and it did not change the hue of the colour (three digits rather than the standard 6). I prefer digits rather than word descriptions, due to colour precision.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;media-queries&#34;&gt;Media queries&lt;/h3&gt;
+&lt;p&gt;Did a lot of work on these, again I found the Implementing Responsive Design (Kadlec, 2012) and the Introducing HTML 5 (Lawson &amp;amp; Sharp, 2011) books particularly helpful. I also added a arrow keys image and tooltip to help explain the navigation of the timeline. You will notice for the tabbed navigation of the site in the screen reader demo that the timeline is skipped over initially and I added to the JavaScript in order to allow the tab key for navigation in addition to the arrow keys. The arrow keys allow for greater freedom though, as once you have started tabbing through the carousel/timeline, you cannot get out of it with another tab press. Thus leaving it to the end and this is something for me to raise with the original developers to see if they can address that in future versions of the widget.&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
+&lt;p&gt;Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016b, November 17). CSS values and units. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (1996, October 1). Accessible design for users with disabilities &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nielsen, J. (2002). Let users control font size &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Snook. (2015). Colour Contrast Check &lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Watson, L. (2014, August 4). Using the tabindex attribute &lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;WAVE web accessibility tool. &lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessibility and responsive bits</title>
+      <link>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</link>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I developed and added the patient story.&lt;/strong&gt; This was based on a characteristics list which I worked through rather vigorously on the afternoon of the 25th. This is still in handwritten form, so I will link to it as a google doc later on. I have included some key references for that process below. I want to highlight the National Joint Registry (2016) data, which was particularly helpful during the process of defining the patient story. Also the specific images that I used will be cited on the portfolio site (including cc0 works; royalty-free works) as I feel it is always very important to include the provenance of images in any context, but especially when engaging in a thought process based on a fictional patient/nurse interaction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I added images to support the patient story.&lt;/strong&gt; These images were sourced from pixabay and one of my all-time faves, Creative Commons search as a means to filter Flickr images by license (&lt;a href=&#34;http://search.creativecommons.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;search.creativecommons.org&lt;/a&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I recreated the images that I found for the patient story as drawings in Adobe Illustrator.&lt;/strong&gt; I wanted the images in the timeline to be small (100px x 100px); this is a limited amount of &amp;lsquo;bandwidth&amp;rsquo; to communicate a visual concept. For this reason I decided to use Adobe Illustrator to trace the images and then re-paint them, so that I could accentuate certain aspects through the use of selective colour. This worked well and I did investigate whether these images could be included as svgs, but the visual information was too complex as they were based on photographic materials. As a result I stuck with .png format as the final output. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;svg version of image - less visual information&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu3193635436544001950.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu16391398717144244650.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu2831215999310290706.webp&#34;
+               width=&#34;607&#34;
+               height=&#34;563&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+] .svg version of a timeline image - quite a bit of artifacting (tech-speak for mess) in the image render and it looks too sketchy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;screenshot of the png version image&#34; srcset=&#34;
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp 400w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu15444704337815661328.webp 760w,
+               /post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu16685531038401827356.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu6087330704150568142.webp&#34;
+               width=&#34;693&#34;
+               height=&#34;584&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+.png version of the same image in Adobe Illustrator - more of the visual information from the original photograph is retained. This version has the right level of abstraction.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;All of the images were optimised using &lt;a href=&#34;https://kraken.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kracken.io&lt;/a&gt;.&lt;/strong&gt; Honestly, I absolutely love this tool and will be using this from now on for all my images. Their algorithm somehow trims off the excess while keeping the core visual information.&lt;br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Accessibility.&lt;/strong&gt; I ran an accessibility analysis on the site using the WAVE Web Accessibility Tool (&lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;). It is pretty good, I still have a few aria, alt and title tags to include here or there but I have made progress in this area.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/08/lots-of-changes-to-this-version-of-the-css/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this development post&lt;/a&gt;, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;I ran the Google mobile accessibility test on the site - It passed!&lt;/strong&gt; Here is the proof: &lt;a href=&#34;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://search.google.com/search-console/mobile-friendly?id=W8x9QG2vBB-_NxSwy4fVLQ&lt;/a&gt; There is still a lot of content to add, but it is great to know that I am on the right track.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;BBC (2013, January 16). Going paperless “would save NHS billions.” BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-21033984&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-21033984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BBC (2016, September 7). NHS: Health apps to inform patient records. BBC Health. Retrieved from &lt;a href=&#34;http://www.bbc.co.uk/news/health-37290126&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bbc.co.uk/news/health-37290126&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Booth, R. (2016, December 13). The doctor on your Xbox? The NHS needs more digital ambition. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/healthcare-network/2016/dec/13/nhs-digital-tech-smartphones-jeremy-hunt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS EN ISO 13485:2016 Medical devices. Quality management systems. Requirements for regulatory purposes. (2016). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030339592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BS ISO 13606-2:2008 Health informatics. Electronic health record communication. Archetype interchange specification. (2008). Retrieved 22 December 2016, from &lt;a href=&#34;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bsol-bsigroup-com/Bibliographic/BibliographicInfoData/000000000030170710&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Choices, N. (2016, November 1). Health and fitness trackers. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/Conditions/nhs-health-check/Pages/tools-and-technology-that-can-help.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dolatabadi, E., Babak, T., &amp;amp; Alex, M. (2014). Vision-based approach for long-term mobility monitoring: Single case study following total hip replacement. Journal of Rehabilitation Research and Development, 51(7), 1165–76.&lt;/p&gt;
+&lt;p&gt;Farmer, A. Wearables sector grows as smartwatches increase in popularity. Retrieved January 2, 2017, from &lt;a href=&#34;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yougov.co.uk/news/2016/03/18/wearables-sector-grows-smartwatches-increase-popul/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heartfield, R., Loukas, G., &amp;amp; Gan, D. (2016). You are probably not the weakest link: Towards practical prediction of susceptibility to semantic social engineering attacks. IEEE Access, 4, 6910–6928. doi:10.1109/access.2016.2616285&lt;/p&gt;
+&lt;p&gt;Institute for Quality and Efficiency in Health Care (2014). What can help relieve anxiety before surgery? - PubMed health - national library of medicine - PubMed health. Retrieved from &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072741/?report=classic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Johansson Stark, Å., Charalambous, A., Istomina, N., Salanterä, S., Sigurdardottir, A. K., Sourtzi, P., … Bachrach-Lindström, M. (2016). The quality of recovery on discharge from hospital, a comparison between patients undergoing hip and knee replacement - a European study. Journal of Clinical Nursing, 25(17-18), 2489–2501. doi:10.1111/jocn.13278&lt;/p&gt;
+&lt;p&gt;Nasr, N., &amp;amp; Enderby, P. (2014). Redefinition of life experience following total hip replacement: Analysis of narrative as performance. International Journal of Orthopaedic and Trauma Nursing, 18(2), 89–98. doi:10.1016/j.ijotn.2013.07.005&lt;/p&gt;
+&lt;p&gt;National Information Board. (2015, March 4). National information board’s workstreams. Retrieved January 2, 2017, from &lt;a href=&#34;https://www.gov.uk/government/publications/national-information-boards-workstreams&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.gov.uk/government/publications/national-information-boards-workstreams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;National Joint Registry. (2016). 13th Annual Report 2016 National Joint Registry for England, Wales, Northern Ireland and the Isle of Man Surgical data to 31 December 2015. Retrieved from &lt;a href=&#34;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.njrcentre.org.uk/njrcentre/Portals/0/Documents/England/Reports/13th%20Annual%20Report/07950%20NJR%20Annual%20Report%202016%20ONLINE%20REPORT.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;NHS Choices. (2015, November 3). Health Apps library - NHS choices. Retrieved January 2, 2017, from &lt;a href=&#34;http://www.nhs.uk/pages/healthappslibrary.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nhs.uk/pages/healthappslibrary.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Press Association (2016, September 7). NHS to have one website for appointments, prescriptions and advice. The Guardian. Retrieved from &lt;a href=&#34;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theguardian.com/society/2016/sep/07/nhs-one-website-appointments-prescriptions-advice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pulkkinen, M., Junttila, K., &amp;amp; Lindwall, L. (2015). The perioperative dialogue - a model of caring for the patient undergoing a hip or a knee replacement surgery under spinal anaesthesia. Scandinavian Journal of Caring Sciences, 30(1), 145–153. doi:10.1111/scs.12233&lt;/p&gt;
+&lt;p&gt;Rudolfsson, G. (2013). Being altered by the unexpected: Understanding the perioperative patient’s experience: A case study. International Journal of Nursing Practice, 20(4), 433–437. doi:10.1111/ijn.12195&lt;/p&gt;
+&lt;p&gt;Wilson, D. (2016). An overview of the application of Wearable technology to nursing practice. Nursing Forum. doi:10.1111/nuf.12177&lt;/p&gt;
+&lt;p&gt;Wilson, C. J., Mitchelson, A. J., Tzeng, T. H., El-Othmani, M. M., Saleh, J., Vasdev, S., … Saleh, K. J. (2015). Caring for the surgically anxious patient: A review of the interventions and a guide to optimizing surgical outcomes. The American Journal of Surgery, 212(1), 151–159. doi:10.1016/j.amjsurg.2015.03.023&lt;/p&gt;
+&lt;p&gt;Image source: &amp;ldquo;&lt;a href=&#34;https://pixabay.com/en/calendar-days-day-of-the-week-487695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Calendar days of the week&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://pixabay.com/en/users/422737-422737/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;422737&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 1.0&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress on the grid and layout</title>
+      <link>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt;&lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
+&lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
+&lt;p&gt;Now that my grid is in situ, I am able to base layout elements on  it. I do think that in most cases I will need to make unique versions of the columns and tweak the row layout, but keeping the grid architecture in place and temporarily adding the rows/columns to the html has been really helpful for planning out the sections (as shown in the screenshot below). I used my grid to start planning the layout of the content on the Flickity carousel cells - as it turns out this took quite a bit of work (more on that in my next post). I also had my first go at creating an SVG, albeit a very simple one as a placeholder for the first cell in the carousel. The SVG shows the outline of a head and I made it in Adobe Illustrator, this will need to be replaced by more of a photographic image for needs of the project.&lt;/p&gt;
+&lt;h3 id=&#34;about-about&#34;&gt;about-About&lt;/h3&gt;
+&lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the &lt;a href=&#34;https://docs.google.com/document/d/e/2PACX-1vQNj8SiUKWqBOTRTo5rnLcG8NxToeAJ7B9Q1eWWRDdl-_Z-dCbCG-E8xzjOhSWc86TWtNntOcL7K84F/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;task list&lt;/a&gt; to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
+&lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
+&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; &lt;/p&gt;
+\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/08/progress-on-the-grid-and-layout/journalimage81216/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the site on 9/12&#34; srcset=&#34;
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp 400w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu9391513708935188990.webp 760w,
+               /post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12670540155037678186.webp 1200w&#34;
+               src=&#34;https://fionamacneill.co.uk/post/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu12932487051924402072.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt; Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
+\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;One of the sites that I have mentioned before, &lt;a href=&#34;https://gamificationplus.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gamification+&lt;/a&gt; has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Basques, K. (2016, December 8). How to use the Timeline tool. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool&lt;/a&gt; Common CSS questions. (2015, October 26). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/Common_CSS_Questions&lt;/a&gt; daneden. (2016, September 27). Daneden/animate.Css. Retrieved December 8, 2016, from &lt;a href=&#34;https://github.com/daneden/animate.css&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/daneden/animate.css&lt;/a&gt; Grids. (2016, October 7). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Creating_a_fluid_grid&lt;/a&gt; Lewis, P. (2016, December 8). Rendering performance. Retrieved December 8, 2016, from &lt;a href=&#34;https://developers.google.com/web/fundamentals/performance/rendering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/web/fundamentals/performance/rendering/&lt;/a&gt; SVG and CSS. (2016, January 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS&lt;/a&gt; Z-index. (2016, December 2). Retrieved December 8, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/z-index&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
