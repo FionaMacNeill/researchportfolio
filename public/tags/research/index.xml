@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/research/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/research/</link>
+      <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Research</title>
-      <link>https://fionamacneill.co.uk/tags/research/</link>
+      <link>http://localhost:1313/tags/research/</link>
     </image>
     
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</link>
+      <link>http://localhost:1313/post/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2021/10/magical-meetings-a-review/</guid>
-      <description>&lt;p&gt;This post relates to &lt;a href=&#34;https://fionamacneill.co.uk/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2021/10/magical-meetings-a-review/</guid>
+      <description>&lt;p&gt;This post relates to &lt;a href=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/&#34;&gt;my personal challenge&lt;/a&gt; of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
 &lt;p&gt;The book, &lt;em&gt;Magical Meetings&lt;/em&gt; was discussed by one of the authors, Douglas Ferguson on &lt;a href=&#34;https://uibreakfast.com/216-meeting-facilitation-with-douglas-ferguson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UI Breakfast podcast with Jane Portman&lt;/a&gt;. Ferguson founded &lt;em&gt;Voltage Control&lt;/em&gt; a company that focuses on facilitation including meetings, workshops, and team dynamics. They also look at workflow and transformation, considering for example how to optimise agile sprint cycles within different organisations. All of this sounded fascinating and quite different from my current work in Higher Education.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; &lt;em&gt;Magical Meetings, Reinvent How Your Team Works Together&lt;/em&gt;&lt;br&gt;
@@ -150,9 +150,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
     
     <item>
       <title>Accessibility Service Design (2020-2022)</title>
-      <link>https://fionamacneill.co.uk/project/accessibility-service-design/</link>
+      <link>http://localhost:1313/project/accessibility-service-design/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/project/accessibility-service-design/</guid>
+      <guid>http://localhost:1313/project/accessibility-service-design/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The project used Service Design and UX methods to underpin the introduction of a new accessibility service. This ensured that, project management, identification of stakeholders, rollout phase planning, user training, and referral routes were all underpinned by supporting research. Principally this allowed us to rollout features in an empathetic way, considering timing and adjusting language used in the interface.&lt;/p&gt;
 &lt;p&gt;
@@ -177,7 +177,7 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
                /project/accessibility-service-design/custvalmap_hu14623435971238785128.webp 400w,
                /project/accessibility-service-design/custvalmap_hu4454266348702212896.webp 760w,
                /project/accessibility-service-design/custvalmap_hu15619914840949985401.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/accessibility-service-design/custvalmap_hu14623435971238785128.webp&#34;
+               src=&#34;http://localhost:1313/project/accessibility-service-design/custvalmap_hu14623435971238785128.webp&#34;
                width=&#34;760&#34;
                height=&#34;557&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -231,8 +231,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide.jpeg&#34; data-caption=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide_hu16939200586809790504.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/01slide.jpeg&#34; data-caption=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/01slide_hu16939200586809790504.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -244,8 +244,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide.jpeg&#34; data-caption=&#34;Space plan - organisation of content and layout.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide_hu14562545520991462532.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Space plan - organisation of content and layout.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/02slide.jpeg&#34; data-caption=&#34;Space plan - organisation of content and layout.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/02slide_hu14562545520991462532.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Space plan - organisation of content and layout.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -257,8 +257,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide.jpeg&#34; data-caption=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide_hu13230913331359086311.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/03slide.jpeg&#34; data-caption=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/03slide_hu13230913331359086311.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -270,8 +270,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide.jpeg&#34; data-caption=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide_hu12736567358698077687.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/04slide.jpeg&#34; data-caption=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/04slide_hu12736567358698077687.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -283,8 +283,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide.jpeg&#34; data-caption=&#34;Skin - use of colour, font, and imagery in the VLE.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide_hu16863669050614463102.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Skin - use of colour, font, and imagery in the VLE.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/05slide.jpeg&#34; data-caption=&#34;Skin - use of colour, font, and imagery in the VLE.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/05slide_hu16863669050614463102.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Skin - use of colour, font, and imagery in the VLE.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -296,8 +296,8 @@ Ferguson and Fitch (2021, p. 158) as quoted from &lt;a href=&#34;https://en.wiki
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide.jpeg&#34; data-caption=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide_hu9915128192240695214.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/06slide.jpeg&#34; data-caption=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/06slide_hu9915128192240695214.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -393,9 +393,9 @@ Rosenfeld, L., Morville, P. and Arango, J. (2015) &lt;em&gt;Information architec
     
     <item>
       <title>ePortfolio System (2017-20)</title>
-      <link>https://fionamacneill.co.uk/project/eportfolio-system/</link>
+      <link>http://localhost:1313/project/eportfolio-system/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/project/eportfolio-system/</guid>
+      <guid>http://localhost:1313/project/eportfolio-system/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This usability evaluation was part of an annual report and was repeated over two years. The evaluation looked at the experience of three groups of ePortfolio system users, across two universities’ Social Work programmes and their external student work placement providers. The anonymised data which was collected and analysed allowed for improvements to user journeys, processes, and system information architecture. The changes made led to an increased usability rating from the user groups based on the scale used.&lt;/p&gt;
 &lt;h2 id=&#34;client&#34;&gt;Client&lt;/h2&gt;
@@ -427,8 +427,8 @@ Rosenfeld, L., Morville, P. and Arango, J. (2015) &lt;em&gt;Information architec
         
       
     
-    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2018.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2018.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2018_hu5783171331070367548.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2018.&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2018.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2018_hu5783171331070367548.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2018.&#34; width=&#34;142&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -440,8 +440,8 @@ Rosenfeld, L., Morville, P. and Arango, J. (2015) &lt;em&gt;Information architec
         
       
     
-    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2019.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2019.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/ep-structure/eportfoliosystem2019_hu15210847420127480277.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2019.&#34; width=&#34;141&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-ep-structure&#34; href=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019.jpg&#34; data-caption=&#34;Top-level site map for the ePortfolio system in 2019.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/ep-structure/eportfoliosystem2019_hu15210847420127480277.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Top-level site map for the ePortfolio system in 2019.&#34; width=&#34;141&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -489,7 +489,7 @@ Rosenfeld, L., Morville, P. and Arango, J. (2015) &lt;em&gt;Information architec
                /project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp 400w,
                /project/eportfolio-system/usermenu-updates_hu937627463332696901.webp 760w,
                /project/eportfolio-system/usermenu-updates_hu2722556973076434641.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp&#34;
+               src=&#34;http://localhost:1313/project/eportfolio-system/usermenu-updates_hu13891610821501635804.webp&#34;
                width=&#34;760&#34;
                height=&#34;681&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -576,9 +576,9 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
     
     <item>
       <title>Wearable for Health (2017-18)</title>
-      <link>https://fionamacneill.co.uk/project/wearable-for-health/</link>
+      <link>http://localhost:1313/project/wearable-for-health/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/project/wearable-for-health/</guid>
+      <guid>http://localhost:1313/project/wearable-for-health/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This UX research project explored the use of information from patient-owned smartwatches and smartphones to support patient care prior to surgery. The project also assessed the informational needs of healthcare professionals, asking what data sources they would need from patient-owned smartwatches and smartphones to support care. Through the project research, I identified improvements which were later added to Apple WatchOS and Apple Health for iPhone. These included separating walking and running data, automatically detecting workouts, and providing relational data such as walking distance per day.&lt;/p&gt;
 &lt;p class=&#34;gallery-custom-caption&#34;&gt;&lt;a href =&#34;https://lucid.app/documents/view/7a5f0dd2-3e17-45cc-b81c-4dee3d6b8cc9&#34; target=&#34;_blank&#34; title=&#34;LucidChart opens in new tab/window&#34;&gt;Completed Service Blueprint can be viewed at LucidChart.&lt;/a&gt;&lt;/p&gt;
@@ -604,7 +604,7 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
                /project/wearable-for-health/blueprint_iterations_hu12136000964367637496.webp 400w,
                /project/wearable-for-health/blueprint_iterations_hu108028569040765506.webp 760w,
                /project/wearable-for-health/blueprint_iterations_hu13606890101980765680.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/wearable-for-health/blueprint_iterations_hu12136000964367637496.webp&#34;
+               src=&#34;http://localhost:1313/project/wearable-for-health/blueprint_iterations_hu12136000964367637496.webp&#34;
                width=&#34;712&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -638,7 +638,7 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
                /project/wearable-for-health/applehealthapp-system_hu5514881030788560160.webp 400w,
                /project/wearable-for-health/applehealthapp-system_hu5463228921333761716.webp 760w,
                /project/wearable-for-health/applehealthapp-system_hu1205054401961879601.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/wearable-for-health/applehealthapp-system_hu5514881030788560160.webp&#34;
+               src=&#34;http://localhost:1313/project/wearable-for-health/applehealthapp-system_hu5514881030788560160.webp&#34;
                width=&#34;533&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -683,7 +683,7 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
                /project/wearable-for-health/research-wearable-for-health_hu8509343315269672670.webp 400w,
                /project/wearable-for-health/research-wearable-for-health_hu2358148556425070812.webp 760w,
                /project/wearable-for-health/research-wearable-for-health_hu12300935101497923558.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/wearable-for-health/research-wearable-for-health_hu8509343315269672670.webp&#34;
+               src=&#34;http://localhost:1313/project/wearable-for-health/research-wearable-for-health_hu8509343315269672670.webp&#34;
                width=&#34;760&#34;
                height=&#34;569&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -718,8 +718,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-survey&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-survey/devicebyage.png&#34; data-caption=&#34;Image 1 - Smartwatch brand distribution by age group as a bar chart.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-survey/devicebyage_hu15589798303848776187.png&#34; loading=&#34;lazy&#34; alt=&#34;Image 1 - Smartwatch brand distribution by age group as a bar chart.&#34; width=&#34;212&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-survey&#34; href=&#34;http://localhost:1313/media/albums/wfh-survey/devicebyage.png&#34; data-caption=&#34;Image 1 - Smartwatch brand distribution by age group as a bar chart.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-survey/devicebyage_hu15589798303848776187.png&#34; loading=&#34;lazy&#34; alt=&#34;Image 1 - Smartwatch brand distribution by age group as a bar chart.&#34; width=&#34;212&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -731,8 +731,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-survey&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-survey/opplandhealth.png&#34; data-caption=&#34;Image 2 - Opportunity Landscape plot featuring diagonal lines to show sectors of opportunity.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-survey/opplandhealth_hu8348544025009635642.png&#34; loading=&#34;lazy&#34; alt=&#34;Image 2 - Opportunity Landscape plot featuring diagonal lines to show sectors of opportunity.&#34; width=&#34;238&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-survey&#34; href=&#34;http://localhost:1313/media/albums/wfh-survey/opplandhealth.png&#34; data-caption=&#34;Image 2 - Opportunity Landscape plot featuring diagonal lines to show sectors of opportunity.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-survey/opplandhealth_hu8348544025009635642.png&#34; loading=&#34;lazy&#34; alt=&#34;Image 2 - Opportunity Landscape plot featuring diagonal lines to show sectors of opportunity.&#34; width=&#34;238&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -766,8 +766,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-persona&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-persona/01val-lucas-hip-replacement-sml.jpg&#34; data-caption=&#34;Image 3 - Persona for patient having a hip replacement. PDF version provided for detail.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-persona/01val-lucas-hip-replacement-sml_hu9880950561210934310.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image 3 - Persona for patient having a hip replacement. PDF version provided for detail.&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-persona&#34; href=&#34;http://localhost:1313/media/albums/wfh-persona/01val-lucas-hip-replacement-sml.jpg&#34; data-caption=&#34;Image 3 - Persona for patient having a hip replacement. PDF version provided for detail.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-persona/01val-lucas-hip-replacement-sml_hu9880950561210934310.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image 3 - Persona for patient having a hip replacement. PDF version provided for detail.&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -779,8 +779,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-persona&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-persona/02gemma-jarrett-cs-sml.jpg&#34; data-caption=&#34;Image 4 - Persona for patient having a caesarian section. PDF version provided for detail.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-persona/02gemma-jarrett-cs-sml_hu400885766167103301.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image 4 - Persona for patient having a caesarian section. PDF version provided for detail.&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-persona&#34; href=&#34;http://localhost:1313/media/albums/wfh-persona/02gemma-jarrett-cs-sml.jpg&#34; data-caption=&#34;Image 4 - Persona for patient having a caesarian section. PDF version provided for detail.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-persona/02gemma-jarrett-cs-sml_hu400885766167103301.jpg&#34; loading=&#34;lazy&#34; alt=&#34;Image 4 - Persona for patient having a caesarian section. PDF version provided for detail.&#34; width=&#34;269&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -819,8 +819,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/01rec-stack.jpeg&#34; data-caption=&#34;Image 5 - Reporting stack for patients. Text below image provides detail.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/01rec-stack_hu8981738765765423025.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 5 - Reporting stack for patients. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;http://localhost:1313/media/albums/wfh-recommendations/01rec-stack.jpeg&#34; data-caption=&#34;Image 5 - Reporting stack for patients. Text below image provides detail.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-recommendations/01rec-stack_hu8981738765765423025.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 5 - Reporting stack for patients. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -832,8 +832,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/02rec-stack.jpeg&#34; data-caption=&#34;Image 6 - Reporting stack for frontline staff and consultants. Text below image provides detail.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/02rec-stack_hu14977585951138553997.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 6 - Reporting stack for frontline staff and consultants. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;http://localhost:1313/media/albums/wfh-recommendations/02rec-stack.jpeg&#34; data-caption=&#34;Image 6 - Reporting stack for frontline staff and consultants. Text below image provides detail.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-recommendations/02rec-stack_hu14977585951138553997.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 6 - Reporting stack for frontline staff and consultants. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -845,8 +845,8 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
         
       
     
-    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/03rec-stack.jpeg&#34; data-caption=&#34;Image 7 - Reporting stack for warehouse and auditing. Text below image provides detail.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/wfh-recommendations/03rec-stack_hu14587423075248176269.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 7 - Reporting stack for warehouse and auditing. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-wfh-recommendations&#34; href=&#34;http://localhost:1313/media/albums/wfh-recommendations/03rec-stack.jpeg&#34; data-caption=&#34;Image 7 - Reporting stack for warehouse and auditing. Text below image provides detail.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/wfh-recommendations/03rec-stack_hu14587423075248176269.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Image 7 - Reporting stack for warehouse and auditing. Text below image provides detail.&#34; width=&#34;253&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
@@ -1155,9 +1155,9 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -1199,7 +1199,7 @@ Lewis, J.R. (1995) &#39;IBM computer usability satisfaction questionnaires: psyc
                /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
                /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
                /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
                width=&#34;300&#34;
                height=&#34;122&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

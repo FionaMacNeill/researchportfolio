@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journal | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/journal/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/journal/</link>
+      <atom:link href="http://localhost:1313/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Journal</title>
-      <link>https://fionamacneill.co.uk/tags/journal/</link>
+      <link>http://localhost:1313/tags/journal/</link>
     </image>
     
     <item>
       <title>Hone Smart Home</title>
-      <link>https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/</link>
+      <link>http://localhost:1313/post/2017/02/hone-smart-hone/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/</guid>
+      <guid>http://localhost:1313/post/2017/02/hone-smart-hone/</guid>
       <description>&lt;p&gt;At the end of my last entry I outlined my discovery that there was an app building company called Bubble, which would likely lead to brand confusion.
-As a result I decided to go back to some of the ideas on &lt;a href=&#34;https://fionamacneill.co.uk/post/2017/02/naming/&#34;&gt;my earlier sketchbook page&lt;/a&gt; and consider other possibilities that would tackle some of the same goals.
+As a result I decided to go back to some of the ideas on &lt;a href=&#34;http://localhost:1313/post/2017/02/naming/&#34;&gt;my earlier sketchbook page&lt;/a&gt; and consider other possibilities that would tackle some of the same goals.
 The following company traits need to be suggested by the name:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Organisation, finesse, attention to detail&lt;/li&gt;
@@ -48,7 +48,7 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
                /post/2017/02/hone-smart-hone/images/03SketchbookP5_hu1348963992311813630.webp 400w,
                /post/2017/02/hone-smart-hone/images/03SketchbookP5_hu2990337958959892097.webp 760w,
                /post/2017/02/hone-smart-hone/images/03SketchbookP5_hu1836178261767148565.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03SketchbookP5_hu1348963992311813630.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03SketchbookP5_hu1348963992311813630.webp&#34;
                width=&#34;760&#34;
                height=&#34;547&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,7 +81,7 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
                /post/2017/02/hone-smart-hone/images/03corral-testing_hu889186691565284115.webp 400w,
                /post/2017/02/hone-smart-hone/images/03corral-testing_hu1387521532289579508.webp 760w,
                /post/2017/02/hone-smart-hone/images/03corral-testing_hu3632402072621317449.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03corral-testing_hu889186691565284115.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03corral-testing_hu889186691565284115.webp&#34;
                width=&#34;760&#34;
                height=&#34;199&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -110,7 +110,7 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
                /post/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu3828710906022030393.webp 400w,
                /post/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu13629150006983152225.webp 760w,
                /post/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu3159321963777849597.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu3828710906022030393.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu3828710906022030393.webp&#34;
                width=&#34;760&#34;
                height=&#34;273&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -141,7 +141,7 @@ modelled architecturally.&lt;/em&gt;&lt;/p&gt;
                /post/2017/02/hone-smart-hone/images/03corral-testing-3_hu9499390039379862927.webp 400w,
                /post/2017/02/hone-smart-hone/images/03corral-testing-3_hu6742059668552234090.webp 760w,
                /post/2017/02/hone-smart-hone/images/03corral-testing-3_hu7154002490744693653.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03corral-testing-3_hu9499390039379862927.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03corral-testing-3_hu9499390039379862927.webp&#34;
                width=&#34;760&#34;
                height=&#34;411&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -182,7 +182,7 @@ Initially I started with quite chunky fonts and felt that I would like to includ
                /post/2017/02/hone-smart-hone/images/03HoneLogoTest_hu5797885562104795721.webp 400w,
                /post/2017/02/hone-smart-hone/images/03HoneLogoTest_hu11416793854394366594.webp 760w,
                /post/2017/02/hone-smart-hone/images/03HoneLogoTest_hu1483634465602553243.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03HoneLogoTest_hu5797885562104795721.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03HoneLogoTest_hu5797885562104795721.webp&#34;
                width=&#34;376&#34;
                height=&#34;153&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -218,7 +218,7 @@ You can view this at the &lt;a href=&#34;https://www.evernote.com/shard/s259/sh/
                /post/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu14007967175534541126.webp 400w,
                /post/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu15921977189852191484.webp 760w,
                /post/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu7843965050211249591.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu14007967175534541126.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu14007967175534541126.webp&#34;
                width=&#34;760&#34;
                height=&#34;350&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -248,7 +248,7 @@ This also challenged some assumptions I had made about the better designs, so I 
                /post/2017/02/hone-smart-hone/images/03GoogleNgram_hu12427182973714131925.webp 400w,
                /post/2017/02/hone-smart-hone/images/03GoogleNgram_hu18112761450006458098.webp 760w,
                /post/2017/02/hone-smart-hone/images/03GoogleNgram_hu12619648182145804227.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03GoogleNgram_hu12427182973714131925.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03GoogleNgram_hu12427182973714131925.webp&#34;
                width=&#34;760&#34;
                height=&#34;285&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -282,7 +282,7 @@ With this in mind I considered what a banner could look like for hone, the logo 
                /post/2017/02/hone-smart-hone/images/03headerforHone_hu10852644075509379068.webp 400w,
                /post/2017/02/hone-smart-hone/images/03headerforHone_hu5849191093199105146.webp 760w,
                /post/2017/02/hone-smart-hone/images/03headerforHone_hu8759361838140639800.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/hone-smart-hone/images/03headerforHone_hu10852644075509379068.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/hone-smart-hone/images/03headerforHone_hu10852644075509379068.webp&#34;
                width=&#34;760&#34;
                height=&#34;158&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -304,9 +304,9 @@ With this in mind I considered what a banner could look like for hone, the logo 
     
     <item>
       <title>Naming - initial ideas</title>
-      <link>https://fionamacneill.co.uk/post/2017/02/naming/</link>
+      <link>http://localhost:1313/post/2017/02/naming/</link>
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2017/02/naming/</guid>
+      <guid>http://localhost:1313/post/2017/02/naming/</guid>
       <description>&lt;p&gt;
 
 
@@ -329,7 +329,7 @@ With this in mind I considered what a banner could look like for hone, the logo 
                /post/2017/02/naming/images/02SketchbookP2_hu18035966862489995828.webp 400w,
                /post/2017/02/naming/images/02SketchbookP2_hu11825028175154535920.webp 760w,
                /post/2017/02/naming/images/02SketchbookP2_hu4521176838156620177.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/naming/images/02SketchbookP2_hu18035966862489995828.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/naming/images/02SketchbookP2_hu18035966862489995828.webp&#34;
                width=&#34;760&#34;
                height=&#34;552&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -358,7 +358,7 @@ With this in mind I considered what a banner could look like for hone, the logo 
                /post/2017/02/naming/images/02SketchbookP3_hu16812575202878129138.webp 400w,
                /post/2017/02/naming/images/02SketchbookP3_hu3642007929121091329.webp 760w,
                /post/2017/02/naming/images/02SketchbookP3_hu9514731807526893230.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/naming/images/02SketchbookP3_hu16812575202878129138.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/naming/images/02SketchbookP3_hu16812575202878129138.webp&#34;
                width=&#34;537&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -405,7 +405,7 @@ present some huge privacy issues and security issues for the end-user. It remind
                /post/2017/02/naming/images/02SketchbookP4_hu12541557182309637473.webp 400w,
                /post/2017/02/naming/images/02SketchbookP4_hu14046845874398375232.webp 760w,
                /post/2017/02/naming/images/02SketchbookP4_hu14131022926584047065.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/naming/images/02SketchbookP4_hu12541557182309637473.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/naming/images/02SketchbookP4_hu12541557182309637473.webp&#34;
                width=&#34;760&#34;
                height=&#34;533&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -435,7 +435,7 @@ I tried out the idea of including a house pictogram in the logo, but it kept loo
                /post/2017/02/naming/images/02bubblelogoexport1_hu5893533541215347498.webp 400w,
                /post/2017/02/naming/images/02bubblelogoexport1_hu14475398806202604824.webp 760w,
                /post/2017/02/naming/images/02bubblelogoexport1_hu4097820556829351808.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/naming/images/02bubblelogoexport1_hu5893533541215347498.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/naming/images/02bubblelogoexport1_hu5893533541215347498.webp&#34;
                width=&#34;300&#34;
                height=&#34;123&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -464,7 +464,7 @@ This version was too busy and was really just a test. The blue background seemed
                /post/2017/02/naming/images/02bubblelogoexport2_hu16171397647653612214.webp 400w,
                /post/2017/02/naming/images/02bubblelogoexport2_hu10373523202550958444.webp 760w,
                /post/2017/02/naming/images/02bubblelogoexport2_hu6030036891202405963.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2017/02/naming/images/02bubblelogoexport2_hu16171397647653612214.webp&#34;
+               src=&#34;http://localhost:1313/post/2017/02/naming/images/02bubblelogoexport2_hu16171397647653612214.webp&#34;
                width=&#34;277&#34;
                height=&#34;108&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -513,9 +513,9 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
     
     <item>
       <title>Timeline tool identified</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</link>
+      <link>http://localhost:1313/post/2016/11/timeline-tool-identified/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/</guid>
+      <guid>http://localhost:1313/post/2016/11/timeline-tool-identified/</guid>
       <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): &lt;a href=&#34;https://jsfiddle.net/43gg6x3v/7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jsfiddle.net/43gg6x3v/7/&lt;/a&gt; Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: &lt;a href=&#34;https://gist.github.com/liamcurry/2597326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery vs. Javascript gist&lt;/a&gt; and then the From &lt;a href=&#34;https://code.tutsplus.com/tutorials/from-jquery-to-javascript-a-reference--net-23703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;jQuery to Javascript: A Reference&lt;/a&gt; - vanilla makes much more sense to me.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;jQuery example 1: horizontal timeline (&lt;a href=&#34;https://codyhouse.co/gem/horizontal-timeline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Article&lt;/a&gt; | &lt;a href=&#34;https://codyhouse.co/demo/horizontal-timeline/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt;)&lt;/li&gt;
@@ -543,7 +543,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp 400w,
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu1941371233609075102.webp 760w,
                /post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu7932386095536438164.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu2135582645673152621.webp&#34;
                width=&#34;760&#34;
                height=&#34;177&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -570,7 +570,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp 400w,
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu882150914599356930.webp 760w,
                /post/2016/11/timeline-tool-identified/images/flickityedit_hu595354637712614238.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/timeline-tool-identified/images/flickityedit_hu6564764471720400525.webp&#34;
                width=&#34;760&#34;
                height=&#34;331&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -584,9 +584,9 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/Lean-Business-Model-Canvas-templatev1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
 
 
@@ -609,7 +609,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp 400w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu6099917122085690639.webp 760w,
                /post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu8301082217797738470.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/images/Lean-Business-Model-Canvas-portfolio-proj_hu711248229836937997.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -665,9 +665,9 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -751,7 +751,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu1130946275505023832.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu16595894639492752873.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu4534711007928734636.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -826,7 +826,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu9492374361594400666.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu1915982765814953062.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu13547815146206385314.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -855,7 +855,7 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp 400w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu1887641144764334058.webp 760w,
                /post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu15126336435686968483.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu18070134913559953184.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

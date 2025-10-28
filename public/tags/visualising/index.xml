@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Visualising | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/visualising/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/visualising/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/visualising/</link>
+      <atom:link href="http://localhost:1313/tags/visualising/index.xml" rel="self" type="application/rss+xml" />
     <description>Visualising</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Visualising</title>
-      <link>https://fionamacneill.co.uk/tags/visualising/</link>
+      <link>http://localhost:1313/tags/visualising/</link>
     </image>
     
     <item>
       <title>Capturing live drawing in the digital age</title>
-      <link>https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/</link>
+      <link>http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/</guid>
+      <guid>http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/</guid>
       <description>&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en-gb&#34;&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;Test memo comic strip for the Spotlight on Digital Capabilities event in May. With thanks &lt;a href=&#34;https://twitter.com/fmacneill&#34;&gt;@fmacneill&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/udigcap?src=hash&#34;&gt;#udigcap&lt;/a&gt;&lt;a href=&#34;https://twitter.com/ucisa&#34;&gt;@ucisa&lt;/a&gt;&lt;a href=&#34;https://t.co/nhmYOoZ6ip&#34;&gt;pic.twitter.com/nhmYOoZ6ip&lt;/a&gt;&lt;/p&gt;[caption id=&#34;attachment_602&#34; align=&#34;alignnone&#34; width=&#34;1024&#34;]&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/05/eveturnerlee_large-1442a1x.jpg&#34; rel=&#34;attachment wp-att-602&#34;&gt;&lt;img class=&#34;wp-image-602 size-full&#34; src=&#34;images/eveturnerlee_large-1442a1x.jpg&#34; alt=&#34;Eve Turner-Lee comic strip&#34; width=&#34;1024&#34; height=&#34;320&#34;&gt;&lt;/a&gt; Eve Turner-Lee&#39;s fantastic comic strip recounting our investigation.[/caption] — Eve Turner-Lee (@eturnerlee) &lt;a href=&#34;https://twitter.com/eturnerlee/status/715119791661531136&#34;&gt;30 March 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;p&gt;I am helping to organise a conference later on this month as part of my work on the UCISA Digital Capabilities group. The event is called the Spotlight on Digital Capabilities (May 25/26) and just to let you know, if you find this post particularly riveting there are still spots to attend! You may also recall &lt;a href=&#34;https://blog.rise.global/category/event-tech-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my guest post on the Rise blog&lt;/a&gt; about the gamification of last year&amp;rsquo;s UCISA conference (as well as my &lt;a href=&#34;http://fionamacneill.co.uk/blog/2015/06/03/attempting-to-live-blog-while-running-a-twitter-competition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;frantic live blogging during the event&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;Well I am more actively involved in designing the gamification of &lt;em&gt;Spotlight&lt;/em&gt; this year, so there will be more on that soon too! One of the things that I am most looking forward to, as part of the &lt;em&gt;Spotlight&lt;/em&gt; conference is a live debate that will take on the question: &lt;em&gt;Do we still need IT training teams?&lt;/em&gt; This session will take the format of a town-hall forum style debate and will have a panel who explore different views on the topic as well as leading audience discussion. Part of the inspiration for the debate came from my experience attending New Media Consortium conferences from 2010-12 in the US. I remember the sheer energy of the townhall meeting events and the brilliant live drawing visualisations of the discussion, supplied by Rachel Smith. So with this in mind we are working with Brighton artist, Eve Turner-Lee to consider the best ways of visualising our discussion! Back in March, Eve, my colleague Tucker and I met up to test out the best ways of visualising drawing. Our criteria were that whichever solution we ended up with would need to capture the drawing live and provide a video feed to the projection system somehow so that attendees could watch on screen. A bonus would be if attendees could also watch live from their own smartphones, tablets or laptops. Here are the results of our investigations. Although Eve put it much more succinctly in her comic strip embedded at the top of this post!&lt;/p&gt;
@@ -43,7 +43,7 @@
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu10101144549028839385.webp 400w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu6648532833587032909.webp 760w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu7854336785989811461.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu10101144549028839385.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu10101144549028839385.webp&#34;
                width=&#34;157&#34;
                height=&#34;196&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,7 +96,7 @@
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12094759498206133482.webp 400w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu14492393522883645047.webp 760w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12993310846697302876.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12094759498206133482.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu12094759498206133482.webp&#34;
                width=&#34;225&#34;
                height=&#34;300&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -145,7 +145,7 @@
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu867833034438733233.webp 400w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu12857222520283020602.webp 760w,
                /post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu2295837814717929832.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu867833034438733233.webp&#34;
+               src=&#34;http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu867833034438733233.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

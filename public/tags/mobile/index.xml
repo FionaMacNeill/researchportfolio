@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/mobile/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/mobile/</link>
+      <atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Mobile</title>
-      <link>https://fionamacneill.co.uk/tags/mobile/</link>
+      <link>http://localhost:1313/tags/mobile/</link>
     </image>
     
     <item>
       <title>A technical perspective on a telepresence robot</title>
-      <link>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
+      <link>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
+      <guid>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
       <description>&lt;p&gt;From January until May 2019 the eLearning team evaluated the AV1 robot avatar, a telepresence robot manufactured by the company &lt;em&gt;No Isolation&lt;/em&gt;, based in Norway. This post aims to provide a brief overview of what we learned during our pilot project.&lt;/p&gt;
 &lt;p&gt;
 
@@ -40,7 +40,7 @@
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5126102033402840294.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu3711007996298212263.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu5675405092240025867.webp&#34;
                width=&#34;760&#34;
                height=&#34;555&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -71,7 +71,7 @@
 &lt;figure  id=&#34;figure-_av1-robot_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&amp;ldquo;An animated GIF showing the robot&amp;rsquo;s happy and questioning facial expressions.&amp;rdquo;&#34;
-           src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
+           src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;AV1 Robot&lt;/em&gt;
@@ -141,7 +141,7 @@ To understand the student experience of using the telepresence robot from a loca
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp 400w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu6765897239600815503.webp 760w,
                /post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu456783232181794910.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
+               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu12562536968117015747.webp&#34;
                width=&#34;760&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -198,9 +198,9 @@ The following quantitative research method were planned:
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;http://uxbrighton.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/&lt;/a&gt; &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;See original blog post&lt;/a&gt; for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
@@ -278,9 +278,9 @@ The following quantitative research method were planned:
     
     <item>
       <title>The Adjustment Bureau: The Case for Adjustment in Mobile Apps</title>
-      <link>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</link>
+      <link>http://localhost:1313/post/2014/09/the-adjustment-bureau/</link>
       <pubDate>Sun, 07 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/</guid>
+      <guid>http://localhost:1313/post/2014/09/the-adjustment-bureau/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Recently I was asked to present at the Media-Enhanced Learning Special Interest Group (MELSIG) event hosted by the University of Sussex. MELSIG is a special interest group originally formed in 2008 (MELSIG, 2014). The group&amp;rsquo;s focus has evolved, alongside contemporary developments in technology, to include investigation of a wide variety of digital media when applied to the support of learning and teaching. The theme for the University of Sussex event was &lt;em&gt;Digital Media Interaction and Inclusivity&lt;/em&gt; and this was exactly the prompt I needed to engage in more thorough research of in-app adjustment functions which has been preoccupation of mine for a while.&lt;/p&gt;
 &lt;h2 id=&#34;learning-as-a-community&#34;&gt;Learning as a community&lt;/h2&gt;
@@ -395,7 +395,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu13104540372091023234.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu67222787888612795.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/1bluefireforipad-z3wr7m_hu11208997318506995835.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,7 +425,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu206784104716909973.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu18345416300174672855.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/2feedlyforipad-2gd4j79_hu11120065999393931696.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -455,7 +455,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu7139798004525784413.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu15258927823427455060.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/3goodreaderforiPad-nt944e_hu167653756419065087.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -485,7 +485,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu6699368185882607105.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu8148589128215595172.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/4kindleforipad-1om7gh1_hu11912813488456669506.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -515,7 +515,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu7108261367581230340.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu8212669824273940615.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/5indexcardforiPad-xwgozb_hu13226186389319407034.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -545,7 +545,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu3645930520753675654.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu18379832534251029919.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/6koboforipad-1ttxj3x_hu685392145788063418.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -575,7 +575,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu4434944031755846067.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu17272607717072261790.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/7MSOneNoteforiPad-vew2dp_hu7804141969971677087.webp&#34;
                width=&#34;760&#34;
                height=&#34;84&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -605,7 +605,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu6657934438276066609.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3101211655162556713.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/8notabilityforiPad-1o97vaj_hu3809881139332205325.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -635,7 +635,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu15393699447292095779.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu1365990334634118828.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/9overdriveforiPad-1nud3b4_hu10769001068635395347.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -665,7 +665,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu11964095565605199451.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12573814998558151024.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/10scribdforiPad-28x0gta_hu12049132855261229808.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -695,7 +695,7 @@ The following quantitative research method were planned:
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp 400w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu14473746506689262433.webp 760w,
                /post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu982689408096270454.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
+               src=&#34;http://localhost:1313/post/2014/09/the-adjustment-bureau/images/IMG_0015-1g959ba_hu10991619968874237899.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

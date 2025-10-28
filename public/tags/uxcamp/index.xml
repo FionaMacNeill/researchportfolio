@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uxcamp | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/uxcamp/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/uxcamp/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/uxcamp/</link>
+      <atom:link href="http://localhost:1313/tags/uxcamp/index.xml" rel="self" type="application/rss+xml" />
     <description>Uxcamp</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 21 Jun 2025 08:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Uxcamp</title>
-      <link>https://fionamacneill.co.uk/tags/uxcamp/</link>
+      <link>http://localhost:1313/tags/uxcamp/</link>
     </image>
     
     <item>
       <title>UX Camp 2025 Reflections</title>
-      <link>https://fionamacneill.co.uk/post/2025/06/ux-camp-2025-reflections/</link>
+      <link>http://localhost:1313/post/2025/06/ux-camp-2025-reflections/</link>
       <pubDate>Sat, 21 Jun 2025 08:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/post/2025/06/ux-camp-2025-reflections/</guid>
+      <guid>http://localhost:1313/post/2025/06/ux-camp-2025-reflections/</guid>
       <description>&lt;h2 id=&#34;making-things-manageable&#34;&gt;Making things manageable&lt;/h2&gt;
 &lt;h3 id=&#34;a-brief-catch-up-on-the-last-24-months&#34;&gt;A brief catch-up on the last 24 months&lt;/h3&gt;
 &lt;p&gt;This site has been loved and it has been updated. However, between December 2023 and December 2025, I sort of lost myself a bit. The TL:DR version is between working on Ladies that UX Brighton (now &amp;lsquo;LTUX Brighton&amp;rsquo;) and working in a full-time agency role I lost sight of my thinking/academic/artistic pursuits; I let my reflective practice slip.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service Design | Fiona MacNeill Portfolio and Blog</title>
-    <link>https://fionamacneill.co.uk/tags/service-design/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/service-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/service-design/</link>
+      <atom:link href="http://localhost:1313/tags/service-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Service Design</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
       <title>Service Design</title>
-      <link>https://fionamacneill.co.uk/tags/service-design/</link>
+      <link>http://localhost:1313/tags/service-design/</link>
     </image>
     
     <item>
       <title>Accessibility Service Design (2020-2022)</title>
-      <link>https://fionamacneill.co.uk/project/accessibility-service-design/</link>
+      <link>http://localhost:1313/project/accessibility-service-design/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/project/accessibility-service-design/</guid>
+      <guid>http://localhost:1313/project/accessibility-service-design/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The project used Service Design and UX methods to underpin the introduction of a new accessibility service. This ensured that, project management, identification of stakeholders, rollout phase planning, user training, and referral routes were all underpinned by supporting research. Principally this allowed us to rollout features in an empathetic way, considering timing and adjusting language used in the interface.&lt;/p&gt;
 &lt;p&gt;
@@ -41,7 +41,7 @@
                /project/accessibility-service-design/custvalmap_hu14623435971238785128.webp 400w,
                /project/accessibility-service-design/custvalmap_hu4454266348702212896.webp 760w,
                /project/accessibility-service-design/custvalmap_hu15619914840949985401.webp 1200w&#34;
-               src=&#34;https://fionamacneill.co.uk/project/accessibility-service-design/custvalmap_hu14623435971238785128.webp&#34;
+               src=&#34;http://localhost:1313/project/accessibility-service-design/custvalmap_hu14623435971238785128.webp&#34;
                width=&#34;760&#34;
                height=&#34;557&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -95,8 +95,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide.jpeg&#34; data-caption=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/01slide_hu16939200586809790504.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/01slide.jpeg&#34; data-caption=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/01slide_hu16939200586809790504.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Stuff - documents, PowerPoint, content items such as text presented within the VLE, audio and video.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -108,8 +108,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide.jpeg&#34; data-caption=&#34;Space plan - organisation of content and layout.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/02slide_hu14562545520991462532.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Space plan - organisation of content and layout.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/02slide.jpeg&#34; data-caption=&#34;Space plan - organisation of content and layout.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/02slide_hu14562545520991462532.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Space plan - organisation of content and layout.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -121,8 +121,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide.jpeg&#34; data-caption=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/03slide_hu13230913331359086311.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/03slide.jpeg&#34; data-caption=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/03slide_hu13230913331359086311.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Services - communications, assessment, diagnostic (Blackboard Ally), interactivity.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -134,8 +134,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide.jpeg&#34; data-caption=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/04slide_hu12736567358698077687.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/04slide.jpeg&#34; data-caption=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/04slide_hu12736567358698077687.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Structure - avoiding duplication, wayfinding, use of language.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -147,8 +147,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide.jpeg&#34; data-caption=&#34;Skin - use of colour, font, and imagery in the VLE.&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/05slide_hu16863669050614463102.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Skin - use of colour, font, and imagery in the VLE.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/05slide.jpeg&#34; data-caption=&#34;Skin - use of colour, font, and imagery in the VLE.&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/05slide_hu16863669050614463102.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Skin - use of colour, font, and imagery in the VLE.&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
     
@@ -160,8 +160,8 @@
         
       
     
-    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide.jpeg&#34; data-caption=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34;&gt;
-      &lt;img src=&#34;https://fionamacneill.co.uk/media/albums/asd-ia/06slide_hu9915128192240695214.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+    &lt;a data-fancybox=&#34;gallery-asd-ia&#34; href=&#34;http://localhost:1313/media/albums/asd-ia/06slide.jpeg&#34; data-caption=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/media/albums/asd-ia/06slide_hu9915128192240695214.jpeg&#34; loading=&#34;lazy&#34; alt=&#34;Site - is this purpose of this place made clear? Is this content in the right place?&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
     &lt;/a&gt;
   
 
