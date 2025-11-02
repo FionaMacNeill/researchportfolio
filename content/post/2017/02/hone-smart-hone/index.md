@@ -67,9 +67,10 @@ Initially I started with quite chunky fonts and felt that I would like to includ
 This initial logo was too blocked and the plugged-in nature of the black lines, reminiscent of wires connecting each letter suggested an audio system or electronic music genre. I created a contact sheet of fonts based to keep for future reference and to trial in some logo designs:
 You can view this at the [on my evernote contact sheet](https://www.evernote.com/shard/s259/sh/c2c113a5-ba3c-4c96-b750-432579cb4c96/9c1b3a7c54d5f5f5/res/33efb2ae-59d5-4b1e-b6d9-16081a5e96d7/Font%20testing.pdf).
 
-I tried out a few more ideas based on some hinting towards the futurism and vorticism art movements (see 2, 6 and 7), although these experiments proved to be overly busy and vaguely reminiscent of the cognitive dissonance I encountered the time I observed the design of the "It's a small world" ride at Disneyland in CA, USA. Too much (in case you are wondering here is an 
+I tried out a few more ideas based on some hinting towards the futurism and vorticism art movements (see 2, 6 and 7), although these experiments proved to be overly busy and vaguely reminiscent of the cognitive dissonance I encountered the time I observed the design of the "It's a small world" ride at Disneyland in CA, USA. 
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Smallworldclock1015pm.jpg" alt="image of the ride design" class="web-img" >}}
+![Image of the "It's a small world" ride design](images/Smallworldclock1015pm.jpg) 
+Gbklyn, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 ![Image of hone logo contact sheet](images/03HoneLogoTestContactSheet.jpg)
 

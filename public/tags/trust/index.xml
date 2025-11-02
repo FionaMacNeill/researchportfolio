@@ -7,7 +7,7 @@
     <description>Trust</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Trust</title>
       <link>http://localhost:1313/tags/trust/</link>
     </image>
@@ -18,55 +18,82 @@
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-on-190316&#34;&gt;Talk presented at UX Camp Brighton on 19/03/16&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.uxcampbrighton.org/sessions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.uxcampbrighton.org/sessions/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/160628235&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FACTORS OF TRUST IN IOT APP INTERFACES&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user10479357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vimeo&lt;/a&gt;. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014).&lt;/p&gt;
+&lt;p&gt;
+ from 
+ on 
+. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014).&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;FAQ: the iPad app that I used for my &lt;a href=&#34;https://twitter.com/hashtag/IoT?src=hash&#34;&gt;#IoT&lt;/a&gt; talk was &lt;a href=&#34;https://twitter.com/explainevrythng&#34;&gt;@explainevrythng&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UXCampBrighton&#34;&gt;@UXCampBrighton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/uxcb16?src=hash&#34;&gt;#uxcb16&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appswap?src=hash&#34;&gt;#appswap https://discover.explaineverything.com/discover/&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/711174306609434625&#34;&gt;March 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
 &lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;Aliph, Inc. (2016). Jawbone UP (Version 4.13) &lt;/p&gt;
-\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/up-by-jawbone-track-up-move/id461125277?mt=8&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from &lt;a href=&#34;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quantified-self.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/how-safe-is-your-quanti fied-self.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from &lt;a href=&#34;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.nytimes.com/2016/01/14/fashion/nest-thermostat-glitch-battery-dies-software-freeze.html&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Barcena, M. B., Wueest, C., &amp;amp; Lau, H. (2014). How safe is your quantified self? (1.1). Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Bilton, N. (2016, January 18). Nest thermostat glitch leaves users in the cold. The New York Times. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Brooks, J. (2016, January 8). Fitbit hit with class action lawsuit over alleged misreading of heart rates &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ww2.kqed.org/futureofyou/2016/01/08/fitbit-hit-with-class-action-lawsuit-over-alleged-misreading-of-heart-rates/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from &lt;a href=&#34;http://uxbrighton.org.uk/Personalisation-the-Experience/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxbrighton.org.uk/Personalisation-the-Experience/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Brignull, H. (2013, March). &lt;em&gt;Ramp Up&lt;/em&gt;. Personalising the experience, Brighton. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;BS ISO/IEC. (2011). Systems and software engineering — Systems and software quality requirement and evalua- tion (SQuaRE) — System and software quality models (ISO/IEC 25010:2011(E)) Switzerland: ISO/IEC Catalyst IT. (2016).&lt;/p&gt;
 &lt;p&gt;Cluley, G. (2013, February 13). Jawbone accounts compromised by hackers - personal info accessed, passwords disabled &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nakedsecurity.sophos.com/2013/02/13/jawbone-hack/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://cycling74.com/products/max/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cycling74.com/products/max/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Cycling’74. &lt;em&gt;Max is a visual programming language for media&lt;/em&gt;. Retrieved March 19, 2016, from 
+&lt;/p&gt;
 &lt;p&gt;Faily, S. (2014). Engaging stakeholders in security design: An assumption-driven approach. Proceedings of the Eighth International Symposium on Human Aspects of Information Security &amp;amp; Assurance (HAISA 2014), Plymouth, 21-29. doi:10.13140/2.1.3997.2647&lt;/p&gt;
 &lt;p&gt;Feamster, N. (2016, January 19). Who will secure the Internet of things? &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://freedom-to-tinker.com/blog/feamster/who-will-secure-the-internet-of-things/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Fitbit, inc. (2016). Fitbit (Version 2.18) &lt;/p&gt;
-\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/fitbit/id462638897?mt=8&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Glooko, Inc. (2015). Glooko (Version 3.2) &lt;/p&gt;
-\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/glooko/id471942748?mt=8&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Harrison, D., Marshall, P., Bianchi-Berthouze, N., &amp;amp; Bird, J. (2015). Activity tracking: Barriets, workarounds and customisation. Proceedings of UBICOMP ‘15, Osaka, Japan. doi:10.1145/2750858.2805832&lt;/p&gt;
-&lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://uxmag.com/articles/onboarding-designing-welcoming-first-experiences&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Higginbotham, S. (2016, January 22). Episode 42: These are the two biggest challenges facing the smart home Retrieved from &lt;a href=&#34;http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://iotpodcast.com/2016/01/episode-42-these-are-the-two-biggest-challenges-facing-the-smart-home/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Higginbotham, S. (2016, March 17). &lt;em&gt;Episode 50: Are your devices being held hostage?&lt;/em&gt;. Retrieved March 28, 2016, from &lt;a href=&#34;http://iotpodcast.com/2016/03/nest-hostage/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://iotpodcast.com/2016/03/nest-hostage/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hess, W. (2015, May 7). &lt;em&gt;Onboarding: Designing Welcoming First Experiences&lt;/em&gt;. Retrieved March 19, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Higginbotham, S. (2016, January 22). Episode 42: These are the two biggest challenges facing the smart home Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Higginbotham, S. (2016, March 17). &lt;em&gt;Episode 50: Are your devices being held hostage?&lt;/em&gt;. Retrieved March 28, 2016, from 
+&lt;/p&gt;
 &lt;p&gt;Kalloniatis, C., Mouratidis, H., Vassilis, M., Islam, S., Gritzalis, S., &amp;amp; Kavakli, E. (2014). Towards the design of secure and privacy-oriented Information Systems in the Cloud: Identifying the major concepts. Computer Stan- dards &amp;amp; Interfaces, 36(4), 759–775. doi:10.1016/j.csi.2013.12.010&lt;/p&gt;
 &lt;p&gt;Mahara (Version 1.10.5) &lt;/p&gt;
-\[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://mahara.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://mahara.org&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from &lt;a href=&#34;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.newyorker.com/tech/elements/in-silicon-valley-now-its-almost-always-winner-takes-all&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from &lt;a href=&#34;https://www.cayenne-mydevices.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cayenne-mydevices.com/&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Malik, O. (2015, December 30). In Silicon valley now, it’s almost always winner takes all. &lt;em&gt;The New Yorker&lt;/em&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;myDevices. (2016). &lt;em&gt;First IoT project builder - myDevices cayenne&lt;/em&gt;. Retrieved March 19, 2016, from 
+&lt;/p&gt;
 &lt;p&gt;Nest Labs, Inc. (2016). Nest app (Version 5.2.2) &lt;/p&gt;
-\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/nest-app/id464988855?mt=8&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;O’Neill, O. (2002). A question of trust: The BBC Reith lectures 2002 (4th ed.). United Kingdom: Cambridge University Press.&lt;/p&gt;
 &lt;p&gt;O’Neill, O. (2013, September 25). How to trust intelligently &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](&lt;a href=&#34;http://blog.ted.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://blog.ted.com/&lt;/a&gt; how-to-trust-intelligently/)&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from [http://blog.ted.com/ how-to-trust-intelligently/](
+ how-to-trust-intelligently/)&lt;/p&gt;
 &lt;p&gt;Pavlidis, M., Islam, S., Mouratidis, H., &amp;amp; Kearney, P. (2014). Modeling trust relationships for developing trust- worthy Information systems. International Journal of Information System Modelling and Design, 5(1), 25–48. doi:10.4018/2014010102&lt;/p&gt;
 &lt;p&gt;Sasse, A. (2015). Scaring and bullying people into security won’t work. IEEE Security &amp;amp; Privacy 13(3), 80-83. doi:10.1109/MSP.2015.65&lt;/p&gt;
-&lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from &lt;a href=&#34;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://press.mydevices.com/2016/01/26/mydevices-launches-cayenne-the-worlds-first-drag-and-drop-iot-project-builder/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scoseria, I. (2016). MyDevices launches cayenne, the world’s First drag-and-drop IoT project builder. Retrieved 19 March 2016, from 
+&lt;/p&gt;
 &lt;p&gt;Secure Tropos. (2013). SecTro2 (Version 2.1) &lt;/p&gt;
-\[Computer software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;http://www.omilab.org/web/secure-tropos/environment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.omilab.org/web/secure-tropos/environment&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.youtube.com/watch?v=UmqmpJg_xFA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=UmqmpJg_xFA&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Sempers, P. (2015, October 19). &lt;em&gt;Samsung Smartthings app tour on galaxy s6 - #ThinkSmartThings&lt;/em&gt; Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Seuss (1999). &lt;em&gt;The cat in the hat&lt;/em&gt; (5th ed.). New York: Random House USA Children’s Books.&lt;/p&gt;
-&lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from &lt;a href=&#34;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.buzzfeed.com/saraspary/online-criminals-are-targeting-fitbit-user-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Spary, S. (2016, January 6). Online criminals are tageting Fitbit user accounts. BuzzFeed News. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;SmartThings, Inc. (2016). SmartThings Mobile (Version 2.0.7) &lt;/p&gt;
-\[Mobile application software\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://itunes.apple.com/gb/app/smartthings-mobile/id590800740?mt=8&lt;/a&gt;&lt;/p&gt;
+\[Mobile application software\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 </description>
     </item>
     

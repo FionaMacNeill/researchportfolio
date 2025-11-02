@@ -70,7 +70,7 @@ The authors, Douglas and Fitch also note that online meetings and workshops take
 
 As an aside, one of the most transformative sessions I ever attended involved sitting on chairs looking down as a single iPad on the floor and imagining it as a window (kudos to [Ellen de Vries](https://medium.com/@eldevri) at UX Camp Brighton circa 2015 for this one). This proves that it is not always about furniture and stationery but also about imagination.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_uIeoBVFLww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_uIeoBVFLww?si=h2tvhRGrvX7ArBgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _This online orientation video is too long (3:37mins). Just an example._
 
@@ -80,12 +80,6 @@ One of the key messages in the book is the idea of doing the work in the meeting
 ### Extra Features
 The [book assets download](https://voltagecontrol.com/resources/) and the [templates for Mural and Miro](https://voltagecontrol.com/mural-and-miro-templates/) on the _Voltage Control_ site are very helpful. I used the [Team Bookshelf activity](https://voltagecontrol.com/assorted-mural-templates/) with UXUp meet-up group participants. The activity involves asking participants to recommend books, write a mini-review and upvote other folks' suggestions. I also added a final element which was to ask participants to indicate which book they would try to read soon. I will use this as a sharing exercise again and next time I will allow podcasts and videos in addition to books, to get a fresh list of materials not only the staples. You can view the [final Mural Board](https://app.mural.co/t/fiona7703/m/fiona7703/1627325471884/47467abe56f0e94eca7c22278e3389472d9a9c5c?sender=fmacneill8446) here to give you a flavour.
 
-<iframe src='https://app.mural.co/embed/5be44ca3-7ae7-4786-89ef-f4bee9c743cd'
-        width='100%'
-        height='480px'
-        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
-        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
-</iframe>
 
 ## What did not work for me
 As an educator, some of this book felt like reinventing the wheel. This is because a key idea in contemporary education is "constructive alignment" (Biggs, 1999), this is the notion that in order to stoke student motivation learning needs to be mapped to the learner's goals. Thinking back to the [Meeting Outline Section](#meeting-outline), mapping activities to a set of objectives is very similar to creating a lesson plan which maps to a set of learning outcomes. Learning outcomes are essentially an educators' objectives for their students, which sit under the larger umbrella _goals_ of a programme of study. This book made me want to get educators and facilitators into a meeting design face-off, who would do it better? My guess is that a good facilitator from a design background and a good educator have a lot in common, something that Diana Laurillard so eloquently explored in her seminal book, _Teaching as a design science: Building Pedagogical Patterns for Learning and Technology_ (2012).

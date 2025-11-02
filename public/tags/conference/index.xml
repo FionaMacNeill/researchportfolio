@@ -7,7 +7,7 @@
     <description>Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Conference</title>
       <link>http://localhost:1313/tags/conference/</link>
     </image>
@@ -17,25 +17,38 @@
       <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
-      <description>&lt;p&gt;Originally posted on the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/07/05/what-makes-an-online-space-inclusive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLearning Team Blog&lt;/a&gt; on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
+      <description>&lt;p&gt;Originally posted on the 
+ on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
-&lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of &lt;a href=&#34;https://www.jisc.ac.uk/events/connect-more-14-jun-2021/programme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jisc&amp;rsquo;s Connect More 2021&lt;/a&gt; programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Session description:&lt;/strong&gt;
+&lt;p&gt;Back on the 15th of June I facilitated an open discussion as part of 
+ programme. The discussion, entitled, &lt;em&gt;&amp;lsquo;What makes an online space inclusive?&amp;rsquo;&lt;/em&gt; invited audience members to reflect on their own experiences in online spaces and their own practice facilitating online lessons, meetings, and events.&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Session description:&lt;/strong&gt;
 Think about the last online event you attended. Was there anything that made you feel included, or excluded? Did you have the option to add your pronouns? Were you actively invited to turn on your webcam, but only if you wanted to? You might even have become immersed in a collaborative exercise, almost forgetting you were on a video call! This session is a discussion focusing on how to support accessibility and inclusion in online learning spaces. Thinking about what works and what does not work and what is needed before, during, and after an online session to make it successful.
 This post is split into two sections, &lt;em&gt;what happened at the event?&lt;/em&gt; and the &lt;em&gt;meta level&lt;/em&gt;. The first section, &lt;em&gt;what happened&amp;hellip;&lt;/em&gt; summarises aspects of the discussion and the activity in the meeting chat. This is very much a crowdsourced blog post and I owe the vast majority of the helpful and acutely observed content to my fantastically engaged audience during the event. The second section is a reflection on my own practice and the steps that Jisc organisers took behind the scenes to support the event.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1xidGq_5d4OYedys5emfgYirDAiwCGbMWxeSGhFBVsAI/edit?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access the slides used during the session at Google Slides&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-happened-during-the-event&#34;&gt;What happened during the event?&lt;/h2&gt;
 &lt;h3 id=&#34;setting-the-scene&#34;&gt;Setting the scene:&lt;/h3&gt;
 &lt;p&gt;What do I mean by an online space?
 At the beginning of the event, I needed to establish what I meant by this term as it is a slightly lateral way of thinking about situations/events which may defined in a technical sense as webinars, online lessons, or online meetings. This is a big ask of an audience, but I wanted to encourage them to think about online space in broader terms rather than using siloed categorisations.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;My definition:&lt;/strong&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;My definition:&lt;/strong&gt;
 An online space is where groups of 3 or more people come together to meet online.
 These spaces are facilitated via meeting and webinar tools and the format is governed by the people who facilitate and/or attend.
 The format can replicate in-person meeting styles or can be specific to online.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+
 &lt;p&gt;
 
 
@@ -54,11 +67,11 @@ The format can replicate in-person meeting styles or can be specific to online.&
 
 &lt;figure  id=&#34;figure-_ingredients-for-an-online-space-as-an-algorithm-diagram_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; srcset=&#34;
-               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp 400w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu8289669433936253008.webp 760w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu4084090282458873767.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu10325868589582231648.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; 
+               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp 266w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,11 +117,11 @@ The format can replicate in-person meeting styles or can be specific to online.&
 
 &lt;figure  id=&#34;figure-_a-twitter-room-featuring-hundreds-of-attendees-with-the-director-edgar-wright-and-the-original-cast-of-scott-pilgrim-vs-the-world-discussing-the-film-the-subtitle-function-is-shown-on-screen-making-the-event-accessible-to-all_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; srcset=&#34;
-               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp 400w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu18362221346848941802.webp 760w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu14478399015034110201.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu9198698000920326203.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; 
+               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp 320w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_a7874f191a33d460.webp 351w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -191,8 +204,7 @@ I have paraphrased the answers below and added some commentary. You can access t
 &lt;li&gt;Respect the decision of attendees to keep their webcam turned off.&lt;/li&gt;
 &lt;li&gt;Provide an icebreaker or warm-up activity.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
-In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;p&gt;Access the first poll results, &lt;a href=&#34;https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;amp;controls=none&#34;&gt;via this direct link&lt;/a&gt;.&lt;/p&gt;
 &lt;h4 id=&#34;part-2-technology-factors&#34;&gt;Part 2: Technology Factors&lt;/h4&gt;
 &lt;p&gt;What accessibility features or tools should be in-place during an event to help people feel included?
 You can access the original answers via the embed or link below.&lt;/p&gt;
@@ -205,8 +217,7 @@ You can access the original answers via the embed or link below.&lt;/p&gt;
 &lt;li&gt;Someone to help manage contributions in the chat if the speaker is mainly engaged with the live audio contributions.&lt;/li&gt;
 &lt;li&gt;Provide different ways for people to answer questions and interact during the meeting/session/event.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;iframe src=&#34;https://embed.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?controls=none&amp;amp;short_poll=true&#34; width=&#34;800px&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
-In case you cannot access the embedded content above, &lt;a href=&#34;https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;amp;controls=none&#34;&gt;here is a direct link to the results&lt;/a&gt;.
+&lt;p&gt;Access the second poll results, &lt;a href=&#34;https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;amp;controls=none&#34;&gt;via this direct link&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;results-and-summary&#34;&gt;Results and Summary&lt;/h3&gt;
 &lt;h3 id=&#34;things-that-help&#34;&gt;Things that help&lt;/h3&gt;
 &lt;ul&gt;
@@ -252,21 +263,27 @@ In case you cannot access the embedded content above, &lt;a href=&#34;https://ww
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; srcset=&#34;
-               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp 400w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu13404233617986485234.webp 760w,
-               /post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu2382510375204089024.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu8383201253305183671.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; 
+               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp 320w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_e425198164762cc7.webp 480w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_fd50926e5314b867.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;How I verbally described my imaginary room:&lt;/strong&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;How I verbally described my imaginary room:&lt;/strong&gt;
 A long table with a paper tablecloth is shown in the centre of the room. There are pens and two microphones on the table. There are four chairs on either side of the table. The table is surrounded by chairs in an amphitheatre format, half-circle format. There is a video camera and a British Sign Language interpreter in the corner of the room with a live feed to a protector in the room. A table of drinks and refreshments are in the corner of the room. If folks cannot come to the table, then a microphone is passed to them.
-When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at the table. When people wrote in the chat, they were writing on the tablecloth. Changing the feeling of &amp;lsquo;being&amp;rsquo; in a space, through use of furniture, technology, or projection, and rules of engagement has long been a preoccupation of mine and virtual spaces are no different. As I noted in the &lt;a href=&#34;https://blogs.brighton.ac.uk/elearningteam/2021/05/29/a-reflection-on-the-dl-tel-fireside-chat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fireside chat post&lt;/a&gt;, Dave White&amp;rsquo;s blog post (White, 2021) was the inspiration for my use of imaginary floor plans which have become a staple.&lt;/p&gt;
-&lt;/blockquote&gt;
+When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at the table. When people wrote in the chat, they were writing on the tablecloth. Changing the feeling of &amp;lsquo;being&amp;rsquo; in a space, through use of furniture, technology, or projection, and rules of engagement has long been a preoccupation of mine and virtual spaces are no different. As I noted in the 
+, Dave White&amp;rsquo;s blog post (White, 2021) was the inspiration for my use of imaginary floor plans which have become a staple.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
 &lt;h3 id=&#34;things-that-i-did-to-help-make-this-session-feel-inclusive&#34;&gt;Things that I did to help make this session feel inclusive&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;I spent some time summarising the accessibility and response features that are available in Zoom at the beginning.&lt;/li&gt;
@@ -291,12 +308,16 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;One more point is that I have found myself wondering if there will be greater expectations from students in terms of technology use when we return to teaching in-person. For example, the chat and inclusive nature of the chat were mentioned a lot. For people who find it hard to formulate their thoughts and/or figure out where to come into a conversation chat has been a transformative function allowing them to express themselves. There are also occasions where students or attendees may feel embarrassed to ask a question verbally. So how can we take the things that work well in online spaces and allow them to augment our in-person classrooms? Providing multimodal means to respond may need to become as much a part of our in-person practice as it has with online teaching practice; solutions to this could be analogue or digital.&lt;/p&gt;
 &lt;h2 id=&#34;bonus-content&#34;&gt;Bonus content&lt;/h2&gt;
 &lt;p&gt;In the process of researching content for this post I came across this brilliant video about BSL for popular technology terms. I love the ways that technology words and concepts have been translated into signs. I particularly loved &amp;lsquo;Internet&amp;rsquo; and &amp;lsquo;Google&amp;rsquo;.&lt;/p&gt;
-&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube-nocookie.com/embed/AqhZUXXlY6s&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/AqhZUXXlY6s?si=TOc8xeycUbCRxRWs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;Eventbrite (2019) ‘&lt;a href=&#34;https://www.eventbrite.co.uk/blog/formats-to-refresh-your-conference-ds00/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20 Interactive Conference Ideas and Formats&lt;/a&gt;’, &lt;em&gt;EventBrite Blog&lt;/em&gt;, 23 June (Accessed: 14 June 2021).&lt;/p&gt;
-&lt;p&gt;Melcher, M. (2021) &lt;em&gt;CPD Webinar: What students actually want from online learning: results from a university-wide study of student digital accessibility needs&lt;/em&gt; [Google doc]. Available at: &lt;a title=&#34;Link to the Google doc used for M. Melcher&#39;s presentation&#34; href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34;&gt;&lt;a href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&lt;/a&gt;&lt;/a&gt; (Accessed: 31 May 2021).&lt;/p&gt;
-&lt;p&gt;Weaver, L. (2013) ‘&lt;a href=&#34;https://www.thisisliveart.co.uk/projects/long-table-on-feminism-documentation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long Table on Feminism Documentation&lt;/a&gt;’,  &lt;i&gt;LADA Live Art Development Agency&lt;/i&gt; (Accessed: 14 June 2021).&lt;/p&gt;
-&lt;p&gt;White, D. (2021) ‘&lt;a href=&#34;http://daveowhite.com/spatial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spatial collaboration: how to escape the webcam&lt;/a&gt;’, &lt;i&gt;David White&lt;/i&gt;, 1 February (Accessed: 13 March 2021).&lt;/p&gt;
+&lt;p&gt;Eventbrite (2019) ‘
+’, &lt;em&gt;EventBrite Blog&lt;/em&gt;, 23 June (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;Melcher, M. (2021) &lt;em&gt;CPD Webinar: What students actually want from online learning: results from a university-wide study of student digital accessibility needs&lt;/em&gt; [Google doc]. Available at: &lt;a title=&#34;Link to the Google doc used for M. Melcher&#39;s presentation&#34; href=&#34;https://docs.google.com/document/d/16G7zicLg2GWU8eL1liHZxqWlTSTHNlwLr7AIrORAyJk/edit&#34;&gt;
+&lt;/a&gt; (Accessed: 31 May 2021).&lt;/p&gt;
+&lt;p&gt;Weaver, L. (2013) ‘
+’,  &lt;i&gt;LADA Live Art Development Agency&lt;/i&gt; (Accessed: 14 June 2021).&lt;/p&gt;
+&lt;p&gt;White, D. (2021) ‘
+’, &lt;i&gt;David White&lt;/i&gt;, 1 February (Accessed: 13 March 2021).&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

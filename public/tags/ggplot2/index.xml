@@ -7,7 +7,7 @@
     <description>Ggplot2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Ggplot2</title>
       <link>http://localhost:1313/tags/ggplot2/</link>
     </image>
@@ -18,9 +18,11 @@
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
       <description>&lt;h2 id=&#34;why-am-i-here-as-in-you-at-this-blog-and-reading-this-now&#34;&gt;Why am I here (as in you, at this blog, and reading this now)?&lt;/h2&gt;
-&lt;p&gt;I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in &lt;a href=&#34;https://strategyn.com/customer-centered-innovation-map/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jobs-To-Be-Done&lt;/a&gt; (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).&lt;/p&gt;
+&lt;p&gt;I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in 
+ (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).&lt;/p&gt;
 &lt;h2 id=&#34;what-are-we-going-to-do&#34;&gt;What are we going to do?&lt;/h2&gt;
-&lt;p&gt;We are going to create a plot, or Opportunity Landscape (SEE also Ulwick, 2017), based on data from a quick opinion survey that was distributed via social media. Survey respondents were asked to rate particular tasks that they regularly complete on a smart watch according to importance and satisfaction on 5-part &lt;a href=&#34;https://en.wikipedia.org/wiki/Likert_scale&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Likert scales&lt;/a&gt;. At this point I should add a caveat, for those familiar with JTBD. These questions were not based on full &lt;em&gt;job&lt;/em&gt; statements or stories but were abbreviated task statements. This is largely because based on survey testing, I found that the time it took to read and consider longer Job stories, based on Situation-&amp;gt;Motivation-&amp;gt;Expected Outcome (Klement, 2016) required too much mental effort for a &amp;lt;15min survey. I have found Job stories to be indispensable at the interview stage, when derived from transcripts as a means to uncover motivations. In the context of this post I would say that my methodology is a bit of a mash-up of JTBD and Gerry McGovern&amp;rsquo;s top tasks (2010; 2017).&lt;/p&gt;
+&lt;p&gt;We are going to create a plot, or Opportunity Landscape (SEE also Ulwick, 2017), based on data from a quick opinion survey that was distributed via social media. Survey respondents were asked to rate particular tasks that they regularly complete on a smart watch according to importance and satisfaction on 5-part 
+. At this point I should add a caveat, for those familiar with JTBD. These questions were not based on full &lt;em&gt;job&lt;/em&gt; statements or stories but were abbreviated task statements. This is largely because based on survey testing, I found that the time it took to read and consider longer Job stories, based on Situation-&amp;gt;Motivation-&amp;gt;Expected Outcome (Klement, 2016) required too much mental effort for a &amp;lt;15min survey. I have found Job stories to be indispensable at the interview stage, when derived from transcripts as a means to uncover motivations. In the context of this post I would say that my methodology is a bit of a mash-up of JTBD and Gerry McGovern&amp;rsquo;s top tasks (2010; 2017).&lt;/p&gt;
 &lt;h2 id=&#34;why-are-creating-a-plot&#34;&gt;Why are creating a plot?&lt;/h2&gt;
 &lt;p&gt;I believe that the true purpose of any plot is to start conversations. Data visualisations have the power to both subvert truth and to challenge commonly held assumptions, I aim for the latter. Always.&lt;/p&gt;
 &lt;h2 id=&#34;why-are-we-using-rstudio-with-ggplot2&#34;&gt;Why are we using RStudio with ggplot2?&lt;/h2&gt;
@@ -53,11 +55,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of an Opportunity Landscape plot&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu7160451143862470047.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu16312118645119623351.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu4257426719150724564.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of an Opportunity Landscape plot&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_763f44b1472666c0.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_ab8864c040171787.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -83,11 +85,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of survey question&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu6343540083054042405.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu5738906302310737442.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu11432230900108597048.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of survey question&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_ab6bda250eed1ad2.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_d6a018ee7cf4c92e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -111,11 +113,11 @@
 
 &lt;figure  id=&#34;figure-danger-will-robinson-by-basilleaf-on-flickr&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Photo of a 1960s-style robot with oval head made of clear glass&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu8441131541161243420.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu6905223669964946683.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu4308417083972661176.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Photo of a 1960s-style robot with oval head made of clear glass&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp 240w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp&#34;
                width=&#34;240&#34;
                height=&#34;240&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -124,10 +126,18 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;em&gt;A photo of a robot based on the character from the 1960s TV show, Lost in Space.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/garynlisa/8309044921/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DANGER WILL ROBINSON&lt;/a&gt;&amp;quot; (&lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt;) by &lt;a href=&#34;https://www.flickr.com/people/garynlisa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasilLeaf&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Q: Hey didn&amp;rsquo;t you say earlier that you need a 5 part Likert scale? But you only have four options in the &amp;lsquo;satisfaction&amp;rsquo; scale above?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;
+&amp;quot; (
+) by 
+&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;Q: Hey didn&amp;rsquo;t you say earlier that you need a 5 part Likert scale? But you only have four options in the &amp;lsquo;satisfaction&amp;rsquo; scale above?&lt;/p&gt;
+  &lt;/blockquote&gt;
+
 &lt;p&gt;The answer is I had to take a difficult decision about the experience of users on smartphones using my survey. One more column and it was over the precipice into the land of non-function. As I am only interested in &amp;lsquo;Quite Important&amp;rsquo; and &amp;lsquo;Very Important&amp;rsquo; and &amp;lsquo;Satisfied&amp;rsquo; and &amp;lsquo;Highly Satisfied&amp;rsquo; in this context I sacrificed the final column. So the results for the first question looked like this&amp;hellip; 
 
 
@@ -146,16 +156,17 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of results&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu6238986280423095458.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu838624317351699530.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu17308248608783363378.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of results&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_cec2b4def9eb1613.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_93acda62396fbacb.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp&#34;
                width=&#34;760&#34;
                height=&#34;579&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-] For the Satisfaction element, I created an &lt;a href=&#34;https://support.office.com/en-us/article/IFS-function-36329a26-37b2-467c-972b-4a39bd951d45&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFS Function&lt;/a&gt; in my final spreadsheet, to make 4 equaled 5, 3 equaled 4, 2 equaled 3 and 1 equaled 2. This put everything on the same scale.&lt;/p&gt;
+] For the Satisfaction element, I created an 
+ in my final spreadsheet, to make 4 equaled 5, 3 equaled 4, 2 equaled 3 and 1 equaled 2. This put everything on the same scale.&lt;/p&gt;
 &lt;h3 id=&#34;download-the-data&#34;&gt;Download the data&lt;/h3&gt;
 &lt;p&gt;Any good survey tool should allow you to download the results to CSV format (Comma Separated Values) and any survey tool worth its salt should also provide a SPSS or data analysis format which codes each response with a number. So in my case I wanted to the most positive response to have the highest rank value. I am going to use Excel to sort the data, as that is/was my comfort zone and I think that it is good to start from a position of confidence and trust in the original figures prior to visualising them. Personally speaking after only a few months of working with RStudio, I now feel happy to complete the entire workflow in RStudio.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tip: Split up your Importance (IMP) and Satisfaction (SAT) onto separate tabs in your Excel spreadsheet&lt;/strong&gt;&lt;/p&gt;
@@ -177,11 +188,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sort data slide&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu12536099441163713147.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu846163279079221957.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu8306759350944689574.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of sort data slide&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ad21916b51b99807.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ae796394af0b19e4.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -250,11 +261,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of the opportunity algorithm&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu2320321359076610231.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu14723826080612170379.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu9780605367064712980.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of the opportunity algorithm&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_82f0791af21c1df4.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_3594084ce9347730.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -280,11 +291,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing the columns in the spreadsheet&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu6338840829146341820.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu13145842533791863457.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu16210955959804757597.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image showing the columns in the spreadsheet&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_1e8223951a0ca4e9.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_d1be51dabd8d979e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -294,17 +305,21 @@
 &lt;h3 id=&#34;step-3-get-started&#34;&gt;Step 3: Get Sta(R)ted&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Install R from the R Archive:&lt;/strong&gt; Pick a mirror close-by (geographically speaking), e.g in UK - &lt;a href=&#34;https://www.stats.bris.ac.uk/R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Bristol&lt;/a&gt;, &lt;a href=&#34;https://cran.ma.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install R from the R Archive:&lt;/strong&gt; Pick a mirror close-by (geographically speaking), e.g in UK - 
+, 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Mac tip:&lt;/strong&gt; make sure that you check the MD5 hash and SHA hash match. You can do this quickly and easily in terminal.&lt;/p&gt;
   &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/HHdrIlHS2-4?rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;\[Mac only\]:&lt;/strong&gt; &lt;a href=&#34;https://www.xquartz.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XQuartz&lt;/a&gt; Install - information about this is provided at R Archive above.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;\[Mac only\]:&lt;/strong&gt; 
+ Install - information about this is provided at R Archive above.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Install RStudio:&lt;/strong&gt; again do check the MD5. You can get the installer here - &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rstudio.com/products/rstudio/download/#download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Install RStudio:&lt;/strong&gt; again do check the MD5. You can get the installer here - 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;step-4-ooooh-arrrrr&#34;&gt;Step 4: OoooH aRrrrr&lt;/h3&gt;
@@ -327,18 +342,20 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of the RStudio UI&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu10876822247238170187.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu15977988678247841919.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu18059678836653725427.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of the RStudio UI&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_bc31baab28ad1679.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_b7ad02a6cec3df96.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp&#34;
                width=&#34;760&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 &lt;em&gt;Image of the RStudio UI&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;So now that you have done all of the preparation you can actually start to create plots. Before you do anything else you need to load your library. In this case we are using ggplot2 which is part of &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hadley Wickham&amp;rsquo;s (and others) Tidyverse&lt;/a&gt; - packages for R with standardised concepts and grammar. This is a good place to start as I have found that some of the R packages are quite idiosyncratic and it can take a bit of time to wrap your head around the internal logic, whereas the Tidyverse stuff all made a lot of sense. This could be because I originally learned to code in the JavaScript iteration of &lt;a href=&#34;https://processing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Processing.&lt;/a&gt; RStudio comes with a lot of packages already, so&amp;hellip;&lt;/p&gt;
+&lt;p&gt;So now that you have done all of the preparation you can actually start to create plots. Before you do anything else you need to load your library. In this case we are using ggplot2 which is part of 
+ - packages for R with standardised concepts and grammar. This is a good place to start as I have found that some of the R packages are quite idiosyncratic and it can take a bit of time to wrap your head around the internal logic, whereas the Tidyverse stuff all made a lot of sense. This could be because I originally learned to code in the JavaScript iteration of 
+ RStudio comes with a lot of packages already, so&amp;hellip;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpplot2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If you needed to install it first and say you wanted the whole Tidyverse it would intuitively be&amp;hellip;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;install.packages&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tidyverse&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
@@ -346,34 +363,8 @@
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;library&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;gpplot2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;jtbd&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;read.csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;~/Desktop/JTBD\_R/jtbd.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;header&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;bp&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; 
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#This is a comment in RMarkup, &lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#so lets also find out about the data itself by using the summary function summary(jtbd) &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Result in the console:&lt;/strong&gt; &lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/resultinconsole-t8dbkw.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of results in console&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu14720792961774716272.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15676726823077579924.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/resultinconsole-t8dbkw_hu15406952014914648873.webp&#34;
-               width=&#34;515&#34;
-               height=&#34;339&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Well&amp;hellip;that is jolly helpful information!&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Result in the console:&lt;/strong&gt; 
+ Well&amp;hellip;that is jolly helpful information!&lt;/p&gt;
 &lt;h3 id=&#34;now-for-the-plot-part&#34;&gt;Now for the plot part:&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#the plot mapping - telling where your data to map on the axis &lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
@@ -412,11 +403,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of starter plot&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu7961699609849074676.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu5849118592068151610.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu13346763320747740684.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of starter plot&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp 320w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_ffb518313e0528af.webp 480w, http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_61277ae4fc4bd60e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp&#34;
                width=&#34;760&#34;
                height=&#34;408&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -457,30 +448,40 @@
 &lt;h2 id=&#34;further-reading&#34;&gt;Further Reading:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;RStudio online learning materials: &lt;a href=&#34;https://www.rstudio.com/online-learning/#DataScience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rstudio.com/online-learning/#DataScience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RStudio online learning materials: 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;RMarkdown gallery for ideas: &lt;a href=&#34;https://rmarkdown.rstudio.com/gallery.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rmarkdown.rstudio.com/gallery.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RMarkdown gallery for ideas: 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;RStudio Cheatsheets (they taught me pretty much everything that I couldn&amp;rsquo;t figure out from the built-in docs): &lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rstudio.com/resources/cheatsheets/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;RStudio Cheatsheets (they taught me pretty much everything that I couldn&amp;rsquo;t figure out from the built-in docs): 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Check out the Tidyverse: &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tidyverse.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out the Tidyverse: 
+&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
-&lt;p&gt;Josephy, J. (2016) &amp;lsquo;Jobs to be done - a better way to innovate&amp;rsquo;, &lt;em&gt;Webcredible blog&lt;/em&gt;, 19 May. Available at: &lt;a href=&#34;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.webcredible.com/blog/may16-jobs-be-done-better-way-innovate/&lt;/a&gt; (Accessed: 23 March 2018).&lt;/p&gt;
-&lt;p&gt;Klement, A. (2016) &amp;lsquo;Designing features using job stories&amp;rsquo;, in &lt;em&gt;Intercom on Jobs-to-be-Done&amp;rsquo;.&lt;/em&gt; pp. 28-80. Available at: &lt;a href=&#34;https://www.intercom.com/books/jobs-to-be-done&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.intercom.com/books/jobs-to-be-done&lt;/a&gt; (Downloaded: 24 March 2017).&lt;/p&gt;
+&lt;p&gt;Josephy, J. (2016) &amp;lsquo;Jobs to be done - a better way to innovate&amp;rsquo;, &lt;em&gt;Webcredible blog&lt;/em&gt;, 19 May. Available at: 
+ (Accessed: 23 March 2018).&lt;/p&gt;
+&lt;p&gt;Klement, A. (2016) &amp;lsquo;Designing features using job stories&amp;rsquo;, in &lt;em&gt;Intercom on Jobs-to-be-Done&amp;rsquo;.&lt;/em&gt; pp. 28-80. Available at: 
+ (Downloaded: 24 March 2017).&lt;/p&gt;
 &lt;p&gt;McGovern, G. (2010) &lt;em&gt;The stranger&amp;rsquo;s long neck: How to deliver what your customers really want&lt;/em&gt; &lt;em&gt;online&lt;/em&gt;. London: A &amp;amp; C Black.&lt;/p&gt;
 &lt;p&gt;McGovern, G. (2017) &amp;lsquo;Measuring customer effort with Top Tasks&amp;rsquo; &lt;/p&gt;
-\[_PowerPoint_ presentation\]&lt;p&gt;. Available at: &lt;a href=&#34;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.slideshare.net/uxbri/measuring-customer-effort-with-top-tasks-gerry-mcgovern&lt;/a&gt; (Accessed: 23 February 2017).&lt;/p&gt;
+\[_PowerPoint_ presentation\]&lt;p&gt;. Available at: 
+ (Accessed: 23 February 2017).&lt;/p&gt;
 &lt;p&gt;Tufte, E. R. (2001) &lt;em&gt;The visual display of quantitative information&lt;/em&gt;. 2nd edn. USA, CT: Graphics Press. Reprint, 2013.&lt;/p&gt;
-&lt;p&gt;Ulwick, A. W. (2016) &lt;em&gt;Jobs to be Done: Theory to Practice.&lt;/em&gt; Available at: &lt;a href=&#34;http://amzn.eu/7BpXFp0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://amzn.eu/7BpXFp0&lt;/a&gt; (Downloaded: 3 March 2017).&lt;/p&gt;
-&lt;p&gt;Ulwick, A. W. (2017) &amp;lsquo;The path to growth: The opportunity algorithm&amp;rsquo;, &lt;em&gt;The marketing journal,&lt;/em&gt; 9 July. Available at: &lt;a href=&#34;http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/&lt;/a&gt; (Accessed: 23 March 2018).&lt;/p&gt;
+&lt;p&gt;Ulwick, A. W. (2016) &lt;em&gt;Jobs to be Done: Theory to Practice.&lt;/em&gt; Available at: 
+ (Downloaded: 3 March 2017).&lt;/p&gt;
+&lt;p&gt;Ulwick, A. W. (2017) &amp;lsquo;The path to growth: The opportunity algorithm&amp;rsquo;, &lt;em&gt;The marketing journal,&lt;/em&gt; 9 July. Available at: 
+ (Accessed: 23 March 2018).&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Access the code for this post on my &lt;a href=&#34;https://github.com/FionaMacNeill/OpportunityLandscape/blob/main/jtbd.R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;public GitHub Repository, &amp;lsquo;OpportunityLandcape&amp;rsquo;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Access the code for this post on my 
+.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -499,16 +500,20 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Creative Commons Licence&#34; srcset=&#34;
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp 400w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu8837335831164863444.webp 760w,
-               /post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu1479922774419710758.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu216248282441888343.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Creative Commons Licence&#34; 
+               srcset=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp 88w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp&#34;
                width=&#34;88&#34;
                height=&#34;31&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-(&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;) Code for JTBD data visualisation by &lt;a href=&#34;http://fionamacneill.co.uk/blog/2018/03/24/ux-camp-brighton-2018-jobs-to-be-done-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiona MacNeill&lt;/a&gt; is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;. Based on a work at &lt;a href=&#34;http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/&lt;/a&gt;.&lt;/p&gt;
+(
+) Code for JTBD data visualisation by 
+ is licensed under a 
+. Based on a work at 
+.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

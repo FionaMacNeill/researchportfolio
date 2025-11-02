@@ -35,7 +35,7 @@ The aim of this pilot project in the first instance was to establish the functio
 The robot unit is positioned in the classroom for the student and then the student uses a phone or tablet to control the robot’s line of sight and display facial expressions on the robot's face from afar. The phone/tablet can also be used to ask the instructor questions and to access the video stream. For the privacy of other students, any recording facilities on the smartphone/tablet are disabled. The video stream therefore is also time-specific, just as it would be for in-person attendance at a lecture. The robot also allows for a level of anonymity if desired, so the student can choose to silently observe and attend the lecture or seminar without calling attention to their absence or revealing their identity.
 
 We created[^1] this video to provide a quick description for student of how the robot works...
-<iframe src="https://www.youtube.com/embed/LspNgSY2WYM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LspNgSY2WYM?si=ChVOGYN994GZR8gi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Aims for the pilot project
 We have provided some information about the proposed <a href="#rm">research methods</a> at the bottom of this post. The aims listed below are provided with an indication of how successful we were at achieving each.

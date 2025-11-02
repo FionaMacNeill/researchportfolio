@@ -7,7 +7,7 @@
     <description>Curation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 24 Dec 2023 11:30:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Curation</title>
       <link>http://localhost:1313/tags/curation/</link>
     </image>
@@ -18,24 +18,41 @@
       <pubDate>Sun, 24 Dec 2023 11:30:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2023/12/humble-rss-feed/</guid>
       <description>&lt;h2 id=&#34;kudos&#34;&gt;Kudos&lt;/h2&gt;
-&lt;p&gt;This blog post is inspired by a tip from &lt;a href=&#34;https://www.alpower.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Al Power&lt;/a&gt;, who suggested that I check out &lt;a href=&#34;https://netnewswire.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetNewsWire app&lt;/a&gt; (Mac, iPhone, iPad). Read Al&amp;rsquo;s &lt;a href=&#34;https://www.alpower.com/blog/my-news-feed-reader-setup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post at his blog for more details&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This blog post is inspired by a tip from 
+, who suggested that I check out 
+ (Mac, iPhone, iPad). Read Al&amp;rsquo;s 
+.&lt;/p&gt;
 &lt;h2 id=&#34;a-history-of-my-relationship-with-rss&#34;&gt;A history of my relationship with RSS&lt;/h2&gt;
 &lt;h3 id=&#34;my-first-blog&#34;&gt;My first blog&lt;/h3&gt;
-&lt;p&gt;My relationship with blogging and frontend web development began in 2005 when I started my first blog, &lt;em&gt;The Anatomy of an Armpit&lt;/em&gt;. The blog, which was on &lt;a href=&#34;https://en.wikipedia.org/wiki/Blogger_%28service%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&amp;rsquo;s Blogger platform&lt;/a&gt;, recounted my trials and tribulations while stuck in an area of Scotland I wasn&amp;rsquo;t fond of - as I was a youth at the time you can probably imagine the content (&lt;em&gt;think&lt;/em&gt; ill-advised Tumblr-style rants). Regardless, I owe a lot to my first blog which got me interested in HTML, CSS, frontend web design, accessibility, and usability - interests that I have to this very day. It also helped me gain an understanding of &lt;a href=&#34;https://en.wikipedia.org/wiki/RSS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSS or Really Simple Syndication&lt;/a&gt;, which at that time was the main way to stay up-to-date on your favourite bloggers&amp;rsquo; content. At first this was via humble browser tools and bookmarking, then via the long defunct, &lt;a href=&#34;https://en.wikipedia.org/wiki/Google_Reader&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Reader&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My relationship with blogging and frontend web development began in 2005 when I started my first blog, &lt;em&gt;The Anatomy of an Armpit&lt;/em&gt;. The blog, which was on 
+, recounted my trials and tribulations while stuck in an area of Scotland I wasn&amp;rsquo;t fond of - as I was a youth at the time you can probably imagine the content (&lt;em&gt;think&lt;/em&gt; ill-advised Tumblr-style rants). Regardless, I owe a lot to my first blog which got me interested in HTML, CSS, frontend web design, accessibility, and usability - interests that I have to this very day. It also helped me gain an understanding of 
+, which at that time was the main way to stay up-to-date on your favourite bloggers&amp;rsquo; content. At first this was via humble browser tools and bookmarking, then via the long defunct, 
+.&lt;/p&gt;
 &lt;h3 id=&#34;my-first-podcast&#34;&gt;My first podcast&lt;/h3&gt;
-&lt;p&gt;Then in 2006 I got into podcasting, a technology reliant on RSS metadata and distribution. To say I was ahead of the curve on this would be an understatement. At that time hosting a podcast was a painfully slow process and I used one of the more user-friendly tools, &lt;a href=&#34;https://libsyn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Libsyn&lt;/a&gt; or Liberated Syndication. It would take 2 to 4 hours to upload one episode to your site host only to find out that the audio artifacting was so bad, you&amp;rsquo;d have to start again. I had many an all-nighter for the love of my show, &lt;em&gt;Motif Radio&lt;/em&gt; (you can still see the &lt;a href=&#34;https://web.archive.org/web/20060909220813/http://motifradio.libsyn.com:80/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snapshots on the Internet Archive WayBack Machine&lt;/a&gt;). &lt;em&gt;Motif Radio&lt;/em&gt; was inspired by London arts radio station, &lt;a href=&#34;https://www.resonancefm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResonanceFM&lt;/a&gt; and was eclectic to say the least.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Motif Radio&lt;/em&gt; cooincided with one of the most creative and productive periods in my life. It was also a time of hardship and so much of that difficulty fed into my passion for creating the podcast. One of my favourite memories was a successful episode release, it finished uploading by 11.30 pm which was highly unusual. I was so elated that my partner and I went to the midnight showing of &lt;em&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0434409/?ref_=fn_al_tt_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;V for Vendetta&lt;/a&gt;&lt;/em&gt; at the Mall of America to celebrate. Even though it isn&amp;rsquo;t the best film, it will always have a place in my heart for that reason.&lt;/p&gt;
+&lt;p&gt;Then in 2006 I got into podcasting, a technology reliant on RSS metadata and distribution. To say I was ahead of the curve on this would be an understatement. At that time hosting a podcast was a painfully slow process and I used one of the more user-friendly tools, 
+ or Liberated Syndication. It would take 2 to 4 hours to upload one episode to your site host only to find out that the audio artifacting was so bad, you&amp;rsquo;d have to start again. I had many an all-nighter for the love of my show, &lt;em&gt;Motif Radio&lt;/em&gt; (you can still see the 
+). &lt;em&gt;Motif Radio&lt;/em&gt; was inspired by London arts radio station, 
+ and was eclectic to say the least.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Motif Radio&lt;/em&gt; cooincided with one of the most creative and productive periods in my life. It was also a time of hardship and so much of that difficulty fed into my passion for creating the podcast. One of my favourite memories was a successful episode release, it finished uploading by 11.30 pm which was highly unusual. I was so elated that my partner and I went to the midnight showing of &lt;em&gt;
+&lt;/em&gt; at the Mall of America to celebrate. Even though it isn&amp;rsquo;t the best film, it will always have a place in my heart for that reason.&lt;/p&gt;
 &lt;h3 id=&#34;podcasts---a-longterm-obsession&#34;&gt;Podcasts - a longterm obsession!&lt;/h3&gt;
-&lt;p&gt;My obsession with podcasts continues to this day and I&amp;rsquo;m an avid follower of about thirty of them, funding my favourite creators on Patreon. I have often thought about resurrecting &lt;em&gt;Motif Radio&lt;/em&gt;, which ended in 2007, especially as now, after many years, I have the audio kit to do so. Something to consider on as we go into 2024, although it would need to come back under a new name as there is now another &lt;a href=&#34;https://motif-radio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motif Radio&lt;/a&gt; which specialises in urban music. In the meantime I have enjoyed my guest hosting spots on the &lt;a href=&#34;https://podcasters.spotify.com/pod/show/ltux-in-english&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ladies that UX podcast in English&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My obsession with podcasts continues to this day and I&amp;rsquo;m an avid follower of about thirty of them, funding my favourite creators on Patreon. I have often thought about resurrecting &lt;em&gt;Motif Radio&lt;/em&gt;, which ended in 2007, especially as now, after many years, I have the audio kit to do so. Something to consider on as we go into 2024, although it would need to come back under a new name as there is now another 
+ which specialises in urban music. In the meantime I have enjoyed my guest hosting spots on the 
+.&lt;/p&gt;
 &lt;h3 id=&#34;so-why-the-return-to-rss-after-all-this-time&#34;&gt;So why the return to RSS after all this time?&lt;/h3&gt;
-&lt;p&gt;I was working on some frontend web development at my job and I setup a new RSS feed as part of that. While configuring the feed I fell in love once again with the simplicity, the clarity of information, and the potential for curatorial serendipity. What do I mean by &amp;lsquo;curatorial serendipity&amp;rsquo;? Well in the era of &lt;a href=&#34;https://medium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt; and its ilk, so much of what I consume is curated by algorithms on my behalf. On the one hand this is helpful, as content is rich and time is short, but what is being filtered out? Am I missing the other books on the shelf which might be more interesting than the book I &lt;em&gt;think&lt;/em&gt; I need? Or to continue this library-inspired analogy, those other books might be more interesting than the book the library catalogue &lt;em&gt;thinks&lt;/em&gt; I need. I was yearning for a bit more control to follow the feeds that I really care about - enter &lt;a href=&#34;https://netnewswire.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NetNewsWire&lt;/a&gt; by &lt;a href=&#34;https://github.com/Ranchero-Software&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brent Simmons&lt;/a&gt; which is my new favourite. An RSS curation app which allows me to setup up my feeds, sync them to iCloud, and access them on all my devices. More on that below.&lt;/p&gt;
+&lt;p&gt;I was working on some frontend web development at my job and I setup a new RSS feed as part of that. While configuring the feed I fell in love once again with the simplicity, the clarity of information, and the potential for curatorial serendipity. What do I mean by &amp;lsquo;curatorial serendipity&amp;rsquo;? Well in the era of 
+ and its ilk, so much of what I consume is curated by algorithms on my behalf. On the one hand this is helpful, as content is rich and time is short, but what is being filtered out? Am I missing the other books on the shelf which might be more interesting than the book I &lt;em&gt;think&lt;/em&gt; I need? Or to continue this library-inspired analogy, those other books might be more interesting than the book the library catalogue &lt;em&gt;thinks&lt;/em&gt; I need. I was yearning for a bit more control to follow the feeds that I really care about - enter 
+ by 
+ which is my new favourite. An RSS curation app which allows me to setup up my feeds, sync them to iCloud, and access them on all my devices. More on that below.&lt;/p&gt;
 &lt;p&gt;If you would like to subscribe to this blog using RSS, here is the URL you need.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&amp;lt;!-- xml feed for this blog--&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://www.fionamacneill.co.uk/index.xml
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To find out the RSS feed for just about any site, including your favourite content on Medium, check out this helpful &lt;a href=&#34;https://zapier.com/blog/how-to-find-rss-feed-url/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post on Zapier blog&lt;/a&gt;.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To find out the RSS feed for just about any site, including your favourite content on Medium, check out this helpful 
+.&lt;/p&gt;
 &lt;p&gt;As an added tip for sites using static site generators like Hugo, a good rule to follow is to take the root of the site and add &amp;lsquo;index.xml&amp;rsquo;. So I&amp;rsquo;d start by looking at the site footer and then the page source to identify which generator is in use. Then try adding &amp;lsquo;/index.xml&amp;rsquo; at the end and see if you get a page that looks like a feed.&lt;/p&gt;
 &lt;p&gt;E.g.,&lt;/p&gt;
-&lt;p&gt;Take the example of one of my favourite websites about retractions in research, &lt;em&gt;&lt;a href=&#34;https://forrt.org/reversals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FORRT - Framework for Open and Reproducible Research Training&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Take the example of one of my favourite websites about retractions in research, &lt;em&gt;
+&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I take a look at the footer of the site&amp;hellip;
 
 
@@ -55,11 +72,11 @@
 
 &lt;figure  id=&#34;figure-ah-thats-helpful-they-tell-me-it-is-made-with-hugo-in-the-footer&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Forrt example - the website footer is shown which helpfully tells the site is made with Hugo&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp 400w,
-               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu12930152033908072768.webp 760w,
-               /post/2023/12/humble-rss-feed/images/00ForrtExample_hu4333904368738214092.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu4052572961905556236.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Forrt example - the website footer is shown which helpfully tells the site is made with Hugo&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_bcf1d5f2c843338a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_1231ceee85ff21a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp&#34;
                width=&#34;760&#34;
                height=&#34;160&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -88,11 +105,11 @@
 
 &lt;figure  id=&#34;figure-i-know-a-feed-when-i-see-one&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Forrt example - the feed page which shows metadata in xml code format&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp 400w,
-               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2215385035868816078.webp 760w,
-               /post/2023/12/humble-rss-feed/images/01ForrtExample_hu2543788095747838520.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu1266796247584971859.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Forrt example - the feed page which shows metadata in xml code format&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_56c89fa46c6bde8a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_263d00f899c3c6e9.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp&#34;
                width=&#34;760&#34;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,7 +121,9 @@
 &lt;br&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;festive-giving-aside&#34;&gt;Festive giving aside&amp;hellip;&lt;/h3&gt;
-&lt;p&gt;As as aside, this post is clearly indepted to both &lt;a href=&#34;https://donate.wikimedia.org/w/index.php?title=Special:LandingPage&amp;amp;country=GB&amp;amp;uselang=en&amp;amp;utm_medium=donatewiki_page&amp;amp;utm_source=Ways_to_Give&amp;amp;utm_campaign=donate_now_btn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia&lt;/a&gt; and &lt;a href=&#34;https://archive.org/donate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Internet Archive&lt;/a&gt;. I note that they both organisations have active fund-drives for the end of year. I will be giving to both as these types of organisations are important for preserving knowledge and transient digital artefacts. In a web which is progressively less free, I give back where I can.&lt;/p&gt;
+&lt;p&gt;As as aside, this post is clearly indepted to both 
+ and 
+. I note that they both organisations have active fund-drives for the end of year. I will be giving to both as these types of organisations are important for preserving knowledge and transient digital artefacts. In a web which is progressively less free, I give back where I can.&lt;/p&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;h3 id=&#34;rss---my-new-old-love&#34;&gt;RSS - my &lt;em&gt;new&lt;/em&gt; old love&lt;/h3&gt;
@@ -134,11 +153,11 @@
 
 &lt;figure  id=&#34;figure-click-on-your-avatarplaceholder-to-get-to-the-options&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly account options - Organize Feeds is selected&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp 400w,
-               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu15885409520482720785.webp 760w,
-               /post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu9232497157064194759.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu14135275574887153487.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Feedly account options - Organize Feeds is selected&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_9649efcec385876d.webp 400w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp&#34;
                width=&#34;400&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -167,11 +186,11 @@
 
 &lt;figure  id=&#34;figure-click-on-the-non-descript-arrow-on-the-right-to-get-to-the-export-options&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly OPML export arrow is shown&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp 400w,
-               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu9261640742618808962.webp 760w,
-               /post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu11730319665310116983.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu3816599171249320179.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Feedly OPML export arrow is shown&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6f40fb6b3893b75c.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_8f4bcc7d4ed9fa88.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp&#34;
                width=&#34;760&#34;
                height=&#34;202&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -200,11 +219,11 @@
 
 &lt;figure  id=&#34;figure-click-on-the-big-green-button-to-get-your-opml-file-with-all-your-feedy-goodness&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Feedly OPML export button to initiate download&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp 400w,
-               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu12834360592337868117.webp 760w,
-               /post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu364207621991485832.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu5037047899383026241.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Feedly OPML export button to initiate download&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_a5a0f2a29174b82a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_c07ca1bc62e0215e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp&#34;
                width=&#34;760&#34;
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -233,11 +252,11 @@
 
 &lt;figure  id=&#34;figure-in-netnewswire-access-the-import-option-from-file-in-the-top-menu-bar&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire top menu, file, then import subscriptions option&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp 400w,
-               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu16309521309018850666.webp 760w,
-               /post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu17007930714363257810.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu15933679496086481210.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;NetNewsWire top menu, file, then import subscriptions option&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_692632c9508d0b60.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_6b31f6902428ae82.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -266,13 +285,13 @@
 
 &lt;figure  id=&#34;figure-select-the-account-you-want-to-use-in-netnewswire&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire - select the account that you want to import into&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp 400w,
-               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu14681974085558782013.webp 760w,
-               /post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu6661528749697715151.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu13422806526339868307.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;NetNewsWire - select the account that you want to import into&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_6173b74dc61d6ec5.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_d7116aa626b420f8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp&#34;
                width=&#34;760&#34;
-               height=&#34;362&#34;
+               height=&#34;361&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;Select the account you want to use in NetNewsWire&lt;/em&gt;
@@ -299,11 +318,11 @@
 
 &lt;figure  id=&#34;figure-select-the-account-you-want-to-use-in-netnewswire&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NetNewsWire - select the OPML file which you downloaded to your computer&#34; srcset=&#34;
-               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp 400w,
-               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu3310196773660815259.webp 760w,
-               /post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu15269771724924565502.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu14595167636204587730.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;NetNewsWire - select the OPML file which you downloaded to your computer&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_fa0d42af3eddeb4c.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_84d276eb7831e8dc.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -325,15 +344,26 @@
       <pubDate>Sun, 05 Nov 2023 16:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2023/11/overdue-reflections/</guid>
       <description>&lt;h2 id=&#34;previously-on-fionas-blog&#34;&gt;Previously on Fiona&amp;rsquo;s blog&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My last post&lt;/a&gt; was immediately before trying out a new version of the &amp;lsquo;These UXers Need Help&amp;rsquo; game. This post follows that and reflects on a recent Design Walk I devised and led.&lt;/p&gt;
+&lt;p&gt;
+ was immediately before trying out a new version of the &amp;lsquo;These UXers Need Help&amp;rsquo; game. This post follows that and reflects on a recent Design Walk I devised and led.&lt;/p&gt;
 &lt;h2 id=&#34;todays-method-via-aristotle&#34;&gt;Today&amp;rsquo;s method via Aristotle&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Who, When, Where, &lt;em&gt;Because&lt;/em&gt;, What, How&amp;rdquo;.&lt;/p&gt;
-&lt;/blockquote&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&amp;ldquo;Who, When, Where, &lt;em&gt;Because&lt;/em&gt;, What, How&amp;rdquo;.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
 &lt;p&gt;Most designers have probably heard of the &lt;em&gt;&amp;lsquo;five W&amp;rsquo;s&amp;rsquo;&lt;/em&gt;. They may or may not know of its origins in Aristotle&amp;rsquo;s book 3 of &lt;em&gt;Nicomachean Ethics&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; as a set of seven circumstances to understand a situation. Newer translations of the text bring added clarity to the original intention of the thinking method.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Therefore it is not a pointless endeavor to divide these circumstances by kind and number: (1) the who, (2) the what, (3) around what place or (4) in which time something happens,and sometimes (5) with what, such as an instrument, (6) for the sake of what, such as saving a life, and (7) the how, such as gently or violently&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;em&gt;&amp;ldquo;Therefore it is not a pointless endeavor to divide these circumstances by kind and number: (1) the who, (2) the what, (3) around what place or (4) in which time something happens,and sometimes (5) with what, such as an instrument, (6) for the sake of what, such as saving a life, and (7) the how, such as gently or violently&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+  &lt;/blockquote&gt;
+
 &lt;p&gt;(Aristotle, &lt;em&gt;Eth. Nic.&lt;/em&gt; 1111a3–8, as translated by Sloan, 2010, p.239).&lt;/p&gt;
 &lt;p&gt;It is the &amp;ldquo;for the sake of&amp;rdquo; bit that interests me. When did it become &amp;lsquo;why&amp;rsquo;? Recently, while reading Indi Young&amp;rsquo;s &lt;em&gt;Time to Listen&lt;/em&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, I realised that &amp;lsquo;why&amp;rsquo; is not the most decisive question when working on listening sessions. &amp;lsquo;Why&amp;rsquo; is that? Young posits that asking why does not help guide people to their inner reasoning and &amp;ldquo;interior cognition&amp;rdquo; (Young, pp. 128-179). She also notes, and I agree, that &amp;lsquo;why&amp;rsquo; can be irritating when repeated more than once in an interview or listening session. From my practice, I also know that when you work with people working in highly codified environments, and you ask a &amp;lsquo;why&amp;rsquo; question you are more likely to receive the organisations&amp;rsquo; reasoning not their own. So, in this post, I am experimenting with Indi&amp;rsquo;s suggestion to use &amp;lsquo;because&amp;rsquo; as a substitute for &amp;lsquo;why&amp;rsquo;.&lt;/p&gt;
 &lt;h2 id=&#34;these-uxers-need-help---version-20&#34;&gt;These UXers Need Help - version 2.0&lt;/h2&gt;
@@ -367,8 +397,10 @@ When a group or team are&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;what&#34;&gt;What&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;For more on the &amp;lsquo;what&amp;rsquo; check out my earlier blog posts about the game:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UX Camp Brighton 2023 - Game on! (9th April, 2023)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;These UXers Need Help - Version 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;hellip;are its weaknesses?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sometimes, because the cards are open to interpretation, they can lead to a surface-level conversation when more depth is the goal.  To solve this, testing and removing cards that have to be explained or could be performing better is essential. I did like the situation card ‘is transitioning from one state of being to another’ as it was interpreted as the move from graduate school to work, which is an entirely valid situation to discuss. One which can be fraught and particularly challenging in the current jobs market.&lt;/p&gt;
@@ -395,7 +427,7 @@ When a group or team are&amp;hellip;&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;images/ux-trait-card-July2023%20copy.JPG&#34; alt=&#34;UX Trait cards - cards: they manage projects with finesse; they help people feel comfortable and okay during sensitive research; they facilitate meetings with purpos; they share and explain their tools methods and resources&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;images/ux-trait-card-July2023%20copy.JPG&#34; alt=&#34;UX Trait cards - cards: they manage projects with finesse; they help people feel comfortable and okay during sensitive research; they facilitate meetings with purpos; they share and explain their tools methods and resources&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
@@ -410,12 +442,16 @@ When a group or team are&amp;hellip;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;hellip;helped me?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Designing an activity for people absolutely has to involve people. So, I asked several folks for feedback. Their thoughts and feedback helped me to refine and iterate the design.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ellen Mueller&lt;/strong&gt;: Ellen’s artistic practice includes organising walks, and has just written a book, &lt;a href=&#34;https://sunypress.edu/Books/W/Walking-as-Artistic-Practice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Walking as Artistic Practice&amp;rsquo; (2023)&lt;/a&gt;. My chat with Ellen helped me think about ways to design the walk to care about the walkers and demonstrate that care. Ellen&amp;rsquo;s work and &lt;a href=&#34;https://teaching.ellenmueller.com/walking/resources/books-readings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this reading list on her website&lt;/a&gt; were the primary sources of inspiration for the walk.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ellen Mueller&lt;/strong&gt;: Ellen’s artistic practice includes organising walks, and has just written a book, 
+. My chat with Ellen helped me think about ways to design the walk to care about the walkers and demonstrate that care. Ellen&amp;rsquo;s work and 
+ were the primary sources of inspiration for the walk.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You can check out &lt;a href=&#34;https://ladiesthatux.notion.site/e8ee4a8da6ab403096c15aa48e14e6c7?v=d4603d5164354e858aa3cf068ab5f514&amp;amp;pvs=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the reading list for the walk here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can check out 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Kate Shields&lt;/strong&gt;: chats with Kate about all things art and walking definitely informed the design. Having attended virtual role-playing-game walks led by Kate on Twitch, rambling through the environments of Assasin&amp;rsquo;s Creed, Kate&amp;rsquo;s artistic practice is a great source of inspiration. For more &lt;a href=&#34;https://kateshields.substack.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;check out Kate&amp;rsquo;s blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kate Shields&lt;/strong&gt;: chats with Kate about all things art and walking definitely informed the design. Having attended virtual role-playing-game walks led by Kate on Twitch, rambling through the environments of Assasin&amp;rsquo;s Creed, Kate&amp;rsquo;s artistic practice is a great source of inspiration. For more 
+.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Heidi Swigon&lt;/strong&gt;: early chats with Heidi gave me the confidence to believe that folks would sign up to spend a Saturday afternoon walking with me! Heidi&amp;rsquo;s enthusiasm for some of the topics I was planning was like rocket fuel for my creative process. Heidi also helped put together the accompanying zine, contributing the front cover and other design flourishes. The zine was given to each walker on the day. Heidi also took photos and helped to re-find people during an activity during the walk. Big gratitude!&lt;/p&gt;
@@ -441,7 +477,8 @@ The walk was structured as a story with a series of interventions along a planne
 &lt;li&gt;Transition/adrenaline push&lt;/li&gt;
 &lt;li&gt;Resolution&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Alongside the points above, I considered how the &lt;a href=&#34;https://www.designcouncil.org.uk/our-resources/framework-for-innovation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;design council&amp;rsquo;s double diamond&lt;/a&gt; could feed into this - as a researcher, it seems important to start with discovery. Yet, I also felt that we might need to complete some extra work to enable ourselves to become more open to discovery, and this is where a meditation exercise came in as an early addition to the walk. A mental cleanse of sorts.&lt;/p&gt;
+&lt;p&gt;Alongside the points above, I considered how the 
+ could feed into this - as a researcher, it seems important to start with discovery. Yet, I also felt that we might need to complete some extra work to enable ourselves to become more open to discovery, and this is where a meditation exercise came in as an early addition to the walk. A mental cleanse of sorts.&lt;/p&gt;
 &lt;h3 id=&#34;where-1&#34;&gt;Where&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;
 
@@ -461,11 +498,11 @@ The walk was structured as a story with a series of interventions along a planne
 
 &lt;figure  id=&#34;figure-my-imagined-map-given-to-walkers-more-representative-of-my-own-internal-mental-model-than-a-physical-map-would-be&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A hand drawn map showing various locations in Brighton along The Level and the sea front&#34; srcset=&#34;
-               /post/2023/11/overdue-reflections/images/mapimage09092023_hu17423346154976758025.webp 400w,
-               /post/2023/11/overdue-reflections/images/mapimage09092023_hu9787682084289514564.webp 760w,
-               /post/2023/11/overdue-reflections/images/mapimage09092023_hu9096938696180662751.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu17423346154976758025.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;A hand drawn map showing various locations in Brighton along The Level and the sea front&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu_9cf7cac8728a28e.webp 320w, http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu_c1a5c1e5238f3793.webp 480w, http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu_deba22fd14eabad4.webp 570w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/mapimage09092023_hu_9cf7cac8728a28e.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -538,11 +575,11 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
 
 &lt;figure  id=&#34;figure-photo-by-deeksha-bhusan&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;An gelato in a tub with a spoon held up in front of the Boho Gelato shop front in the Poole Valley, Brighton&#34; srcset=&#34;
-               /post/2023/11/overdue-reflections/images/gelatoBrighton_hu3020362555727438274.webp 400w,
-               /post/2023/11/overdue-reflections/images/gelatoBrighton_hu6418175485095250525.webp 760w,
-               /post/2023/11/overdue-reflections/images/gelatoBrighton_hu8007787256140156424.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu3020362555727438274.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;An gelato in a tub with a spoon held up in front of the Boho Gelato shop front in the Poole Valley, Brighton&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu_3db2e3a370f9754f.webp 320w, http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu_73ec7a074c21243a.webp 480w, http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu_dcc20c94c4eaf25f.webp 570w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/11/overdue-reflections/images/gelatoBrighton_hu_3db2e3a370f9754f.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -555,7 +592,9 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Sloan, M.C. (2010) &amp;lsquo;Aristotle’s Nicomachean Ethics as the Original Locus for the Septem Circumstantiae&amp;rsquo;, &lt;em&gt;Classical Philology&lt;/em&gt;, volume 105/3. doi:&lt;a href=&#34;https://doi.org/10.1086/656196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1086/656196&lt;/a&gt;. &lt;a href=&#34;https://doi.org/10.1086/656196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF available at Academia.ed&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sloan, M.C. (2010) &amp;lsquo;Aristotle’s Nicomachean Ethics as the Original Locus for the Septem Circumstantiae&amp;rsquo;, &lt;em&gt;Classical Philology&lt;/em&gt;, volume 105/3. doi:
+. 
+.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Young, I. (2022) &lt;em&gt;Time to listen - How giving people space to speak drives invention and inclusion&lt;/em&gt;. USA: Indi Young Books.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -564,13 +603,16 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
 &lt;p&gt;Curedale, R. (2013) &lt;em&gt;Service Design - 250 essential methods&lt;/em&gt;. CA: Design Community College Inc.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.brighton-hove.gov.uk/news/2022/plans-final-phase-valley-gardens-press-forward&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Valley Gardens Redevelopment&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:5&#34;&gt;
-&lt;p&gt;Anja Hälg Bieri&amp;rsquo;s work was part of this amazing book I found in the research process, &lt;a href=&#34;https://www.routledge.com/The-Routledge-International-Handbook-of-Walking/Hall-Ram-Shoval/p/book/9781032339542&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hall, C. M., Ram, Y., Shoval, N. (Eds.)&lt;em&gt;The Routledge International Handbook of Walking&lt;/em&gt; (2018)&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anja Hälg Bieri&amp;rsquo;s work was part of this amazing book I found in the research process, 
+.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:6&#34;&gt;
-&lt;p&gt;&amp;lsquo;British heatwave brings hottest day of 2023 so far&amp;rsquo;, &lt;em&gt;Reuters&lt;/em&gt;. &lt;a href=&#34;https://www.reuters.com/world/uk/uk-records-hottest-day-year-so-far-met-office-2023-09-09/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Available at the Reuters website&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;British heatwave brings hottest day of 2023 so far&amp;rsquo;, &lt;em&gt;Reuters&lt;/em&gt;. 
+.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

@@ -7,7 +7,7 @@
     <description>Ux Camp Brighton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 16 Jul 2023 17:00:00 +0100</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Ux Camp Brighton</title>
       <link>http://localhost:1313/tags/ux-camp-brighton/</link>
     </image>
@@ -18,12 +18,16 @@
       <pubDate>Sun, 16 Jul 2023 17:00:00 +0100</pubDate>
       <guid>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</guid>
       <description>&lt;h2 id=&#34;previously-on-fionas-blog&#34;&gt;Previously on Fiona&amp;rsquo;s blog&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in &lt;a href=&#34;https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my last blog post&lt;/a&gt;, some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by &lt;a href=&#34;https://www.cardsagainsthumanity.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cards Against Humanity&lt;/a&gt; and has a four deck structure.&lt;/p&gt;
+&lt;p&gt;I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in 
+, some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by 
+ and has a four deck structure.&lt;/p&gt;
 &lt;h2 id=&#34;how-did-it-go&#34;&gt;How did it go?&lt;/h2&gt;
 &lt;p&gt;The playtest at UX Camp Brighton went well and the response to the game was far more positive than I anticipated. There was at least one person saying &lt;em&gt;&amp;ldquo;these cards are like my life last year&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;What I liked about the experience was that in the span of 15 minutes we could break through the artifice of &lt;em&gt;&amp;rsquo;the designer&amp;rsquo;&lt;/em&gt;. Spending time reflecting on the fact that we are all real people with real problems and sometimes those things impact &lt;em&gt;&amp;rsquo;the designer&amp;rsquo;&lt;/em&gt;, preventing us from doing our best work. In those times we may or may not need help, but experience is sometimes the thing we lack to access help or to help ourselves. That is where the experience &amp;lsquo;in the room&amp;rsquo; that the game unlocks can help us all.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s also humour sprinkled through the game and I loved that the &amp;ldquo;has a landlord who is a 💩&amp;rdquo; card came up! This is definitely an identifiable experience for those in the rental market and added some levity to the game.&lt;/p&gt;
-&lt;p&gt;Most importantly, folks liked the game enough for me to be invited to this month&amp;rsquo;s &lt;a href=&#34;https://www.eventbrite.co.uk/e/uxup-summer-tickets-638632094787?aff=ebdsoporgprofile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UXup on 20th July&lt;/a&gt; to play the game again. So, it&amp;rsquo;s time for Version 2.0 🎉, more on this in &lt;a href=&#34;#how-about-those-cards-then&#34;&gt;&lt;em&gt;How about those cards then&amp;hellip;?&lt;/em&gt;&lt;/a&gt; below.&lt;/p&gt;
+&lt;p&gt;Most importantly, folks liked the game enough for me to be invited to this month&amp;rsquo;s 
+ to play the game again. So, it&amp;rsquo;s time for Version 2.0 🎉, more on this in 
+ below.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -42,11 +46,11 @@
 
 &lt;figure  id=&#34;figure-studio-action-shot---creating-new-situation-cards-for-version-20&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Desk with in-progress hand-drawn cards for &amp;lsquo;These UXers need help&amp;rsquo; on the surface&#34; srcset=&#34;
-               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp 400w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu5452410757399018035.webp 760w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu9058367740732236880.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu15603715447926831359.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Desk with in-progress hand-drawn cards for &amp;lsquo;These UXers need help&amp;rsquo; on the surface&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu_ad77f6685ec20d9f.webp 320w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu_64d68c6a02b1a812.webp 480w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu_b39ae3149c06d3.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/StudioWorkOnNewCards-July2023_hu_ad77f6685ec20d9f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -55,11 +59,16 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;how-does-the-game-work&#34;&gt;How does the game work?&lt;/h2&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;This is the version 2.0 overview - I&amp;rsquo;ll undoubtedly refine it further.&lt;/span&gt;
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;This is the version 2.0 overview - I&amp;rsquo;ll undoubtedly refine it further.&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;The four cards placed on the game sheet create two sentences which describe a fictional UXer. The friction created between the two sentences and the concepts within them are designed to stimulate conversation. The game probes the fascade of being a designer and is about helping us to empathise with factors that are internal and external to a person.&lt;/p&gt;
 &lt;ul&gt;
@@ -86,7 +95,9 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;how-about-those-cards-then&#34;&gt;How about those cards then&amp;hellip;?&lt;/h2&gt;
 &lt;h3 id=&#34;cards-added-to-the-situation-deck&#34;&gt;Cards added to the &lt;strong&gt;Situation&lt;/strong&gt; deck&lt;/h3&gt;
-&lt;p&gt;The following cards were inspired by discussions with &lt;a href=&#34;https://www.linkedin.com/in/verdenicci/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Serena Verdenicci&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/louvcarroll/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lou Carroll&lt;/a&gt;. Serena is also giving a talk entitled, &lt;em&gt;Making your value visible&lt;/em&gt; at UXup on the 20th July.&lt;/p&gt;
+&lt;p&gt;The following cards were inspired by discussions with 
+ and 
+. Serena is also giving a talk entitled, &lt;em&gt;Making your value visible&lt;/em&gt; at UXup on the 20th July.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New cards&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Grew up in a poor family&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
@@ -96,24 +107,31 @@
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Observes religious traditions&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We considered how the above factors might give people power or set them apart from others working in different design settings.&lt;/p&gt;
-&lt;p&gt;I also added a card inspired by &lt;a href=&#34;https://www.linkedin.com/in/uxmichaelco/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Kibedi&amp;rsquo;s&lt;/a&gt; phenomenal talk during UX Camp Brighton about problems with representation in datasets and the exploitation of labour in the global South supporting technologies such as AI and &lt;a href=&#34;https://www.mturk.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mechanical turk&lt;/a&gt;. Specifically I was inspired by a map Michael showed where the language datasets for verbal interpretation used by voice assistants come from (e.g., Alexa, Siri). Based on this map, it was clear that these datasets were what might be termed &amp;lsquo;&lt;a href=&#34;https://www.apa.org/monitor/2010/05/weird&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WEIRD&lt;/a&gt;&amp;rsquo; – &lt;em&gt;Western, Educated, Industrialised, Rich, and Democratic&lt;/em&gt;. You can read more about Michael&amp;rsquo;s research on &lt;a href=&#34;https://www.uxmichael.co/project/voice-assistant-accent-bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;voice assistants and accent bias&amp;rdquo; at his website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I also added a card inspired by 
+ phenomenal talk during UX Camp Brighton about problems with representation in datasets and the exploitation of labour in the global South supporting technologies such as AI and 
+. Specifically I was inspired by a map Michael showed where the language datasets for verbal interpretation used by voice assistants come from (e.g., Alexa, Siri). Based on this map, it was clear that these datasets were what might be termed &amp;lsquo;
+&amp;rsquo; – &lt;em&gt;Western, Educated, Industrialised, Rich, and Democratic&lt;/em&gt;. You can read more about Michael&amp;rsquo;s research on 
+.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New card&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Has a strong accent when speaking&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This spoken accent could be regional, international, or a unique hybrid as my accent was for many years. When I first moved back to the UK, people used to tell me my accent was distracting during workshops because they couldn&amp;rsquo;t place it (it had a North American twang). That made me pretty self-conscious and I resolved to sound more &amp;ldquo;Sussex&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Also, I have had periodic issues with my voice for health reasons and this has made me appreciate all the more how important both having a voice and &lt;em&gt;having&lt;/em&gt; a voice are. Sometimes I don&amp;rsquo;t have much voice and as someone who likes to think a lot and then talk about my thoughts, it has been a source of frustration. To the extent that I once had an existential nightmare about being in someone else&amp;rsquo;s house with an Amazon Echo that I couldn&amp;rsquo;t find and I couldn&amp;rsquo;t speak to tell it to stop an alarm that was incessantly going off. It turned out that the sound in my dream was my actual voice assistant invading my REM sleep. Good fodder for an episode of &lt;a href=&#34;https://www.bbc.co.uk/news/technology-66200334&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charlie Brooker&amp;rsquo;s Black Mirror&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Also, I have had periodic issues with my voice for health reasons and this has made me appreciate all the more how important both having a voice and &lt;em&gt;having&lt;/em&gt; a voice are. Sometimes I don&amp;rsquo;t have much voice and as someone who likes to think a lot and then talk about my thoughts, it has been a source of frustration. To the extent that I once had an existential nightmare about being in someone else&amp;rsquo;s house with an Amazon Echo that I couldn&amp;rsquo;t find and I couldn&amp;rsquo;t speak to tell it to stop an alarm that was incessantly going off. It turned out that the sound in my dream was my actual voice assistant invading my REM sleep. Good fodder for an episode of 
+!&lt;/p&gt;
 &lt;p&gt;Another source of inspiration for me was Trans Pride Brighton &amp;amp; Hove on Saturday, 16th July. When creating the cards I avoid using terminology and focus on what is going on for a person. The cards are also written to leave room for interpretation and that is both subjective and guided by the rest of the cards put down. So, I added the following cards and we&amp;rsquo;ll see how well they work:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New cards&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Is transitioning from one state of being to another&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Has a hidden identity&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;To add, Trans Pride Brighton &amp;amp; Hove are very much in need of support this year. So if you can help, &lt;a href=&#34;https://transpridebrighton.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chip in to their fund at their site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To add, Trans Pride Brighton &amp;amp; Hove are very much in need of support this year. So if you can help, 
+.&lt;/p&gt;
 &lt;p&gt;Finally, based on discussions I have had more broadly and UK news I added the following cards&amp;hellip;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New cards&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&amp;ldquo;Has been made redundant&amp;rdquo;&lt;/em&gt; - inspired by &lt;a href=&#34;https://bootcamp.uxdesign.cc/whats-with-ux-research-layoffs-12c9d1fcf111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this article on Medium by Jacqualyn Heth&lt;/a&gt; with regards to user research roles, but also a trend more broadly in tech.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Has been made redundant&amp;rdquo;&lt;/em&gt; - inspired by 
+ with regards to user research roles, but also a trend more broadly in tech.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;Has exorbitant mortgage payments&amp;rdquo;&lt;/em&gt; - I realised I was only representing renters, and with the current interest rates, it is no walk in the park for homeowners either!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
@@ -134,11 +152,11 @@
 
 &lt;figure  id=&#34;figure-new-situation-cards-that-will-be-tested-out-at-uxup-and-beyond&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;New Situation cards described in the text above&#34; srcset=&#34;
-               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp 400w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu9003669930572965202.webp 760w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu1183660955067304430.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu16439747338950367434.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;New Situation cards described in the text above&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu_9b60f1839094b60.webp 320w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu_bef3a817a27a1a78.webp 480w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu_bdc6acddde0627f6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/situation-cards-July2023_hu_9b60f1839094b60.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -147,7 +165,9 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;card-added-to-the-subject-deck&#34;&gt;Card added to the &lt;strong&gt;Subject&lt;/strong&gt; deck&lt;/h3&gt;
-&lt;p&gt;After the &amp;ldquo;Accessible Forms&amp;rdquo; workshop that Ladies that UX Brighton had with &lt;a href=&#34;https://www.effortmark.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caroline Jarratt&lt;/a&gt; and Meghan Reed from &lt;a href=&#34;https://diversityandability.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diversity and Ability&lt;/a&gt; in March, I rreflected on the impact that having a disability might have on doing UX work. There are so many experiences I could try to represent and such attempts could be viewed as reductive. I will take suggestions from people with lived experience, but I&amp;rsquo;m not going to try to speculate. In that vein, I have drawn on my own experience in that I can find it very hard to make eye contact with people whom I don&amp;rsquo;t know very well. This is something I have to actively think about when I meet someone new and consider &lt;em&gt;&amp;ldquo;am I making enough or too much?&amp;rdquo;&lt;/em&gt;. &lt;em&gt;&amp;ldquo;Do people think I&amp;rsquo;m too intense?&lt;/em&gt;. All these things run through my mind. It is all the more important when you are building trust during research. It isn&amp;rsquo;t easy and it has taken years of practice. Ultimately, I try to convey that I really care and I am genuinely interested through my eyes, because I truly am. I am also thankful for web calls where I don&amp;rsquo;t have this problem and can focus on the task of deep listening. This made me think that the following is a good card to add&amp;hellip;&lt;/p&gt;
+&lt;p&gt;After the &amp;ldquo;Accessible Forms&amp;rdquo; workshop that Ladies that UX Brighton had with 
+ and Meghan Reed from 
+ in March, I rreflected on the impact that having a disability might have on doing UX work. There are so many experiences I could try to represent and such attempts could be viewed as reductive. I will take suggestions from people with lived experience, but I&amp;rsquo;m not going to try to speculate. In that vein, I have drawn on my own experience in that I can find it very hard to make eye contact with people whom I don&amp;rsquo;t know very well. This is something I have to actively think about when I meet someone new and consider &lt;em&gt;&amp;ldquo;am I making enough or too much?&amp;rdquo;&lt;/em&gt;. &lt;em&gt;&amp;ldquo;Do people think I&amp;rsquo;m too intense?&lt;/em&gt;. All these things run through my mind. It is all the more important when you are building trust during research. It isn&amp;rsquo;t easy and it has taken years of practice. Ultimately, I try to convey that I really care and I am genuinely interested through my eyes, because I truly am. I am also thankful for web calls where I don&amp;rsquo;t have this problem and can focus on the task of deep listening. This made me think that the following is a good card to add&amp;hellip;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New card&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;hellip;can find it hard to make eye contact&lt;/em&gt;&lt;/li&gt;
@@ -170,11 +190,11 @@
 
 &lt;figure  id=&#34;figure-new-subject-card-for-making-eye-contact&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;New Subject card described in the text above&#34; srcset=&#34;
-               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp 400w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7476996878649953868.webp 760w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu4683675281643390975.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu7470874530185881868.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;New Subject card described in the text above&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu_ff2a113d4667d015.webp 320w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu_40445bed2a559cac.webp 450w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/subject-card-July2023_hu_ff2a113d4667d015.webp&#34;
                width=&#34;450&#34;
                height=&#34;600&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -187,7 +207,8 @@
 &lt;p&gt;&lt;strong&gt;New cards&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;They manage meetings with finesse&amp;rdquo;&lt;/em&gt; - I realised that I didn&amp;rsquo;t have a good project management card and it is such a core skill in design (and beyond).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&amp;ldquo;They facilitate meetings with purpose&amp;rdquo;&lt;/em&gt; - Inspired by &lt;a href=&#34;https://www.peterwinchester.co.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Winchester&amp;rsquo;s&lt;/a&gt; &lt;em&gt;Facilitation Fundamentals&lt;/em&gt; talk at UX Camp Brighton.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;They facilitate meetings with purpose&amp;rdquo;&lt;/em&gt; - Inspired by 
+ &lt;em&gt;Facilitation Fundamentals&lt;/em&gt; talk at UX Camp Brighton.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;They help people feel comfortable and okay during sensitive research&amp;rdquo;&lt;/em&gt; - inspired by Charlotte Parker&amp;rsquo;s talk &lt;em&gt;How to handle difficult situations in User Research&lt;/em&gt; and Lou Carroll&amp;rsquo;s talk on co-design, both at UX Camp Brighton.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;They share and explain their tools, methods, and resources&amp;rdquo;&lt;/em&gt; - inspired by Aaron Cameron&amp;rsquo;s talk &lt;em&gt;&amp;ldquo;Democratising Human-Centred Design&amp;rdquo;&lt;/em&gt; also at UX Camp Brighton.&lt;/li&gt;
 &lt;/ul&gt;
@@ -209,11 +230,11 @@
 
 &lt;figure  id=&#34;figure-new-ux-trait-cards&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;New UX Trait cards described in the text above&#34; srcset=&#34;
-               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp 400w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu7943134916643807312.webp 760w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu579047236684706828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu3291046453624267637.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;New UX Trait cards described in the text above&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu_a1b32268233aa1b8.webp 320w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu_8a32704fa857de45.webp 480w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu_2f5d6c2144db0e7d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/ux-trait-card-July2023_hu_a1b32268233aa1b8.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -228,7 +249,8 @@
 &lt;li&gt;&lt;em&gt;&amp;rdquo;&amp;hellip;is worried about being replaced by AI&amp;quot;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;&amp;quot;&amp;hellip;takes information at face value without checking it&amp;quot;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Having had amazing discussions in preparation for a discussion panel for Ladies that UX Brighton later in the year on &amp;lsquo;fem-coded&amp;rsquo; work and &lt;a href=&#34;https://www.theguardian.com/society/2022/may/09/they-feel-guilty-why-women-should-say-no-to-office-housework&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;non-promotable work&lt;/a&gt;. I added a couple of cards to help think about these types of tasks and how they might have an impact over time.&lt;/p&gt;
+&lt;p&gt;Having had amazing discussions in preparation for a discussion panel for Ladies that UX Brighton later in the year on &amp;lsquo;fem-coded&amp;rsquo; work and 
+. I added a couple of cards to help think about these types of tasks and how they might have an impact over time.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;New cards&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&amp;ldquo;always end up writing the meeting notes&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
@@ -253,11 +275,11 @@
 
 &lt;figure  id=&#34;figure-new-barrier-cards&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;New Barrier cards described in the text above&#34; srcset=&#34;
-               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp 400w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu11397865665750429692.webp 760w,
-               /post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu6556066273068473953.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu9151054866723809993.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;New Barrier cards described in the text above&#34; 
+               srcset=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu_462427e01cd85f15.webp 320w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu_83405b8f29b8c38c.webp 480w, http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu_d05db4f6f64b58d6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/images/barrier-card-July2023_hu_462427e01cd85f15.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -7,7 +7,7 @@
     <description>Sketch</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Sketch</title>
       <link>http://localhost:1313/tags/sketch/</link>
     </image>
@@ -17,7 +17,10 @@
       <link>http://localhost:1313/post/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/wireframing-sketches/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      <description>&lt;p&gt;
+ Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
+\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
+ 
 
 
 
@@ -35,71 +38,17 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
-               width=&#34;543&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
+               srcset=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
-\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
-               width=&#34;543&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wireframe sketch with overlay&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu2702831804183338772.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu2513432408252492975.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp&#34;
-               width=&#34;547&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
- This image shows a piece of acetate as an overlay for the floating navigation buttons that were &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/31/development-prototypes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demonstrated in Prototype 2&lt;/a&gt;.&lt;/p&gt;
+ This image shows a piece of acetate as an overlay for the floating navigation buttons that were 
+.&lt;/p&gt;
 \[/caption\]</description>
     </item>
     
@@ -126,11 +75,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;wireframe sketches part 3&#34; srcset=&#34;
-               /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu8736382556772067287.webp 400w,
-               /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu6739993620829097616.webp 760w,
-               /post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu3293666610607364015.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu8736382556772067287.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;wireframe sketches part 3&#34; 
+               srcset=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
                width=&#34;760&#34;
                height=&#34;539&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -139,8 +88,10 @@
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;Van Duyne, D. K., Landay, J. A., &amp;amp; Hong, J. I. (2007). &lt;em&gt;The design of sites: Patterns for creating winning web sites&lt;/em&gt; (2nd ed.). USA: Prentice Hall PTR.&lt;/p&gt;
 &lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
-&lt;p&gt;The &lt;a href=&#34;http://www.usability.gov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;usability.gov&lt;/a&gt; website I mentioned.&lt;/p&gt;
-&lt;p&gt;I particularly like the quick reference tabs on the left of the site, which slide out on hover. Also the type enlargement tool on their site, it is easy to use and very effective. &lt;a href=&#34;http://www.usability.gov/site-tour.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Their site tour page&lt;/a&gt; which provides an overview is really fascinating, showing the decisions that they made and why. I have also watched their webinar about the revamp of the site, featured on the page above. Some key questions, &lt;em&gt;funnily enough I keep coming back to these too!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The 
+ website I mentioned.&lt;/p&gt;
+&lt;p&gt;I particularly like the quick reference tabs on the left of the site, which slide out on hover. Also the type enlargement tool on their site, it is easy to use and very effective. 
+ which provides an overview is really fascinating, showing the decisions that they made and why. I have also watched their webinar about the revamp of the site, featured on the page above. Some key questions, &lt;em&gt;funnily enough I keep coming back to these too!&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;What are the goals of this website (in my case web application in the form of a Learning Object)?&lt;/li&gt;
 &lt;li&gt;Who is the audience and who are our users?&lt;/li&gt;

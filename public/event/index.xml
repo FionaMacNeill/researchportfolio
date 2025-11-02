@@ -7,7 +7,7 @@
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 08 May 2025 08:45:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://localhost:1313/event/</link>
     </image>
@@ -45,7 +45,9 @@
       <link>http://localhost:1313/event/designershive/</link>
       <pubDate>Fri, 28 Mar 2025 11:30:00 +0000</pubDate>
       <guid>http://localhost:1313/event/designershive/</guid>
-      <description>&lt;p&gt;Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, &amp;lsquo;&lt;a href=&#34;https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;These UXers Need Help&lt;/a&gt;&amp;rsquo;. During the day I showed a range of design focused cards, including &lt;a href=&#34;https://artefactshop.com/products/regenerative-design-field-kit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Smithery&amp;rsquo;s Regenerative Design Field Kit&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, &amp;lsquo;
+&amp;rsquo;. During the day I showed a range of design focused cards, including 
+.&lt;/p&gt;
 &lt;img src=&#34;FMacNeillatDesignersHive.webp&#34; alt=&#34;Fiona is using the Smithery and John V Willshire&#39;s Regenerative Design Field Kit with a group of students in a symposium style space with large tables.&#34; /&gt; 
 &lt;caption&gt;&lt;em&gt;Showing Smithery&#39;s Regenerative Design Toolkit as an example of a design game to a group of students&lt;/em&gt;&lt;/caption&gt; 
 &lt;img src=&#34;GamePlay.webp&#34; alt=&#34;Fiona is smiling while they stand next to a group of students collaborating at a table who are feeding back on their reflections from the &#39;These UXers Need Help&#39; game&#34; width=&#34;600px&#34; /&gt;
@@ -86,9 +88,12 @@
       <guid>http://localhost:1313/event/uxcamp2024/</guid>
       <description>&lt;h4 id=&#34;literature-review&#34;&gt;Literature review&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: &lt;a href=&#34;http://localhost:1313/uploads/templates/ResearchList_Starter.xltx&#34;&gt;ResearchList_Starter.xltx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: &lt;a href=&#34;http://localhost:1313/uploads/templates/ResearchList_ConcatenateTemplate.xltx&#34;&gt;ResearchList_ConcatenateTemplate.xltx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Template for formatting the references in Microsoft Word: &lt;a href=&#34;http://localhost:1313/uploads/templates/WordFormatTemplate.dotx&#34;&gt;WordFormatTemplate.dotx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: 
+&lt;/li&gt;
+&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: 
+&lt;/li&gt;
+&lt;li&gt;Template for formatting the references in Microsoft Word: 
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

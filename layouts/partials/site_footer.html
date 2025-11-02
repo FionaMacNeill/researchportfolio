@@ -9,8 +9,8 @@
   {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
     {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
   {{ end }}
-  {{ partial $footer_section_path . }}
-
+  {{ partial $footer_section_path . }} 
+  <br>
   <p class="powered-by text-center">
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
@@ -22,11 +22,16 @@
         {{ $i18n_published_with = $default }}
       {{ end }}
       {{ $i18n_published_with = replace $i18n_published_with "{hugoblox}" "<a href=\"https://hugoblox.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Hugo Blox Builder</a>" | safeHTML }}
-      {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/HugoBlox/hugo-blox-builder\" target=\"_blank\" rel=\"noopener\">" | safeHTML }}
+      {{ $i18n_published_with = replace $i18n_published_with "{repo_link}" "<a href=\"https://github.com/HugoBlox/hugo-blox-builder\" target=\"_blank\" rel=\"noopener\">" | safeHTML }} 
       {{ $i18n_published_with = replace $i18n_published_with "{/repo_link}" "</a>" | safeHTML }}
       {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
-    {{ end }}
-  </p>
+    {{ end }} 
+  </p> 
+
+{{ partial "consent.html" . }}
+</body>
+</html>
+
 
 </footer>
 

@@ -138,8 +138,7 @@ I have paraphrased the answers below and added some commentary. You can access t
 - Respect the decision of attendees to keep their webcam turned off.
 - Provide an icebreaker or warm-up activity.
 
-<iframe src="https://embed.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?controls=none&amp;short_poll=true" width="800px" height="600px"></iframe>
-In case you cannot access the embedded content above, <a href="https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;controls=none">here is a direct link to the results</a>.
+Access the first poll results, <a href="https://www.polleverywhere.com/discourses/jebaAn42CNhPAhaOiiJJB?preview=true&amp;controls=none">via this direct link</a>.
 
 #### Part 2: Technology Factors
 What accessibility features or tools should be in-place during an event to help people feel included?
@@ -153,8 +152,8 @@ You can access the original answers via the embed or link below.
 - Someone to help manage contributions in the chat if the speaker is mainly engaged with the live audio contributions.
 - Provide different ways for people to answer questions and interact during the meeting/session/event.
 
-<iframe src="https://embed.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?controls=none&amp;short_poll=true" width="800px" height="600px"></iframe>
-In case you cannot access the embedded content above, <a href="https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;controls=none">here is a direct link to the results</a>.
+
+Access the second poll results, <a href="https://www.polleverywhere.com/discourses/pBlLelZLv5pBXP2pPhcx2?preview=true&amp;controls=none">via this direct link</a>.
 
 ### Results and Summary
 ### Things that help
@@ -220,7 +219,7 @@ One more point is that I have found myself wondering if there will be greater ex
 ## Bonus content
 In the process of researching content for this post I came across this brilliant video about BSL for popular technology terms. I love the ways that technology words and concepts have been translated into signs. I particularly loved 'Internet' and 'Google'.
 
-<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AqhZUXXlY6s" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AqhZUXXlY6s?si=TOc8xeycUbCRxRWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## References
 Eventbrite (2019) ‘[20 Interactive Conference Ideas and Formats](https://www.eventbrite.co.uk/blog/formats-to-refresh-your-conference-ds00/)’, _EventBrite Blog_, 23 June (Accessed: 14 June 2021).

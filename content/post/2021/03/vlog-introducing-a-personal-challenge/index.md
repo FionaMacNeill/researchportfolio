@@ -14,7 +14,7 @@ tags:
   - "virtual-space"
 ---
 
-<iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/YHKYFsowRRE" allowfullscreen="allowfullscreen" width="800" height="400" frameborder="0"></iframe>
+<iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/YHKYFsowRRE?si=pnv2Qule1TsE5k1H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## What does an inclusive and successful online event look like? Setting a personal challenge
 

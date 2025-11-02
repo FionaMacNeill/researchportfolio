@@ -57,7 +57,7 @@
 
 .resume-biography .network-icon svg:hover {
     color: #44d0d0;
-  }
+  } 
 
 /* Typography styles */ 
 
@@ -272,24 +272,30 @@ figure figcaption {
 
 
 /* Footer target fix */
+
 .page-footer {
-    height: 120%;
+    height: 120%; 
 } 
 
-#wcb #wcb #wcb_a, #wcb #wcb_g {
+.flex-col.mt-24 {
+    margin-top: 1rem;
+} 
+
+/* Baseline bar */ 
+
+#wcb, #wcb, #wcb_a, #wcb, #wcb_g {
     display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-size: 1em;
-  line-height: 1.15;
-  font-family: -apple-system,BlinkMacSystemFont,sans-serif;
-  text-decoration: none;
+    justify-content: center;
+    align-items: top;
+    font-size: 1em;
+    line-height: 1.15;
+    font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+    text-decoration: none;
     text-decoration-line: none;
     text-decoration-style: solid;
     text-decoration-color: currentcolor;
     text-decoration-thickness: auto;
-  margin: .2em 0;
+    margin: .2em 0 .8em;
 } 
 
 .dark #wcb_2 {

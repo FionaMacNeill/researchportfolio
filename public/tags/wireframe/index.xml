@@ -7,7 +7,7 @@
     <description>Wireframe</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 22 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Wireframe</title>
       <link>http://localhost:1313/tags/wireframe/</link>
     </image>
@@ -18,72 +18,27 @@
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
       <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
-\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/gridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the issue with column alignment&#34; srcset=&#34;
-               /post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp 400w,
-               /post/2016/11/building-the-grid/images/gridalignissue_hu14804606934697340935.webp 760w,
-               /post/2016/11/building-the-grid/images/gridalignissue_hu15848247851095780487.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/gridalignissue_hu11243814387866968626.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;710&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
+\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;
+ The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/22/building-the-grid/fixthegridalignissue/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the grid system with a photoshop grid/guides overlaid&#34; srcset=&#34;
-               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp 400w,
-               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu1070020113502324923.webp 760w,
-               /post/2016/11/building-the-grid/images/fixthegridalignissue_hu17399902365246210049.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/building-the-grid/images/fixthegridalignissue_hu4688864197560365991.webp&#34;
-               width=&#34;613&#34;
-               height=&#34;573&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.&lt;/p&gt;
+\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]&lt;p&gt;
+ I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.&lt;/p&gt;
 \[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/calc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from &lt;a href=&#34;http://caniuse.com/#search=calc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=calc&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gamache, D. (2016) A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Imling, M. (2016). One% CSS Grid. Retrieved November 25, 2016, from &lt;a href=&#34;http://onepcssgrid.mattimling.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://onepcssgrid.mattimling.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Rand-Hendriksen, M. (2015, July 16). Making sense of the CSS box model. Retrieved November 25, 2016, from &lt;a href=&#34;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lynda.com/CSS-tutorials/Making-Sense-CSS-Box-Model/372544-2.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Can I use&amp;hellip; Support tables for HTML5, CSS3, etc. (2016, October 23). Retrieved November 27, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Gamache, D. (2016) A dead simple, responsive boilerplate. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Imling, M. (2016). One% CSS Grid. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Rand-Hendriksen, M. (2015, July 16). Making sense of the CSS box model. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -93,200 +48,55 @@
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/wireframes-2/</guid>
       <description>&lt;p&gt;This post displays iterations of wireframe 2. In this wireframe, I took ideas from wireframes 0 and 1, but removed the next buttons in favour of a timeline at the top of the page. The top section of the page, containing the timeline, is shown as overflow (beyond the width) of the page to indicate the dynamic content. Clicking on the &lt;em&gt;years&lt;/em&gt;, and circles on the timeline is intended to swap out the slide content and information in the centre of the timeline section. The arrow buttons on the left and right were also intended to switch between the content slides. These buttons ideally would also be operable via arrow keys on the keyboard. &lt;/p&gt;
-\[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2noguide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe version 2 &#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu2709013059958648621.webp 400w,
-               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu274115532482618926.webp 760w,
-               /post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu3341853332575024121.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2noguide-1024x1024_hu2709013059958648621.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 1 - the top timeline is shown double-width in order to indicate the movement of the information.&lt;/p&gt;
+\[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+ Version 1 - the top timeline is shown double-width in order to indicate the movement of the information.&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_187&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2withwave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with anxiety levels visualisation shown&#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu10667234205202929275.webp 400w,
-               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu6056677294156001082.webp 760w,
-               /post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu3212075373960824977.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2withwave-1024x1024_hu10667234205202929275.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 2: this version of the felt too blue - although I did like the way that the anxiety levels traversed the sections linking them together&lt;/p&gt;
+\[caption id=&#34;attachment\_187&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+ Version 2: this version of the felt too blue - although I did like the way that the anxiety levels traversed the sections linking them together&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_188&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2_5doublewave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with two versions of the anxiety levels displayed&#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu2861950245597653339.webp 400w,
-               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu14337542002684500177.webp 760w,
-               /post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu7166947805392567190.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2_5DoubleWave-1024x1024_hu2861950245597653339.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 3: similar idea except this wireframe includes the colourful anxiety levels visualisation under the timeline. This works better as the anxiety levels directly relate the the narrative. If the anxiety levels under the timeline could be animated to appear as the timeline is navigated that would look great. I&amp;rsquo;ll have to think about how best to do that (CSS3 I think).&lt;/p&gt;
+\[caption id=&#34;attachment\_188&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+ Version 3: similar idea except this wireframe includes the colourful anxiety levels visualisation under the timeline. This works better as the anxiety levels directly relate the the narrative. If the anxiety levels under the timeline could be animated to appear as the timeline is navigated that would look great. I&amp;rsquo;ll have to think about how best to do that (CSS3 I think).&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_189&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/wireframe2withcolourwave/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of wireframe 2 with two layers of levels&#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu14981991328797088671.webp 400w,
-               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu12808361173473519731.webp 760w,
-               /post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu6841940826976567252.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/wireframe2withcolourwave-1024x1024_hu14981991328797088671.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 4 - this wireframe shows both versions of Anxiety levels (they look more like waves!) overlaid. It is a bit busy.&lt;/p&gt;
+\[caption id=&#34;attachment\_189&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+ Version 4 - this wireframe shows both versions of Anxiety levels (they look more like waves!) overlaid. It is a bit busy.&lt;/p&gt;
 \[/caption\]&lt;p&gt; The new iteration of the design seemed cleaner and more focused in the sense that any page visitor would be immediately be shown the patient&amp;rsquo;s story as an interactive narrative. However, this also meant that all my prior work on the smooth scrolling was for naught. I did try to see if I could tweak it to go from left-to-right or rather back and forth, but that was a futile effort. A related attempt at this was to look at transition whether I could build the timeline itself in CSS by creating a &lt;div&gt; for the line itself and a &lt;div&gt; for the timeline circles but adding them as squares and then using the border-radius at 100% made them into circle. As you can see from the video below, this is ended in a vomit-inducing interface.&lt;/p&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/G0GsablXPlk?rel=0&amp;amp;showinfo=0&#34; width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;Don&amp;rsquo;t get me started on how dreadful this looked when I looked at it on my phone. &lt;/p&gt;
-\[caption id=&#34;attachment\_191&#34; align=&#34;alignnone&#34; width=&#34;230&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/mobilefail/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing the mockup on a phone sized screen&#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/mobileFAIL_hu14473470898992305488.webp 400w,
-               /post/2016/11/wireframes-2/images/mobileFAIL_hu11417728148898564762.webp 760w,
-               /post/2016/11/wireframes-2/images/mobileFAIL_hu16833672309203064766.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/mobileFAIL_hu14473470898992305488.webp&#34;
-               width=&#34;400&#34;
-               height=&#34;489&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Mobile responsive fail&lt;/p&gt;
+\[caption id=&#34;attachment\_191&#34; align=&#34;alignnone&#34; width=&#34;230&#34;\]&lt;p&gt;
+ Mobile responsive fail&lt;/p&gt;
 \[/caption\]&lt;p&gt; Further to this as I was influenced by the DuckDuck About page&amp;rsquo;s interactive timeline (Titlow, 2014) I recreated it locally on mydevelopment computer. I then added it to my web space using the source files - stripping all that I could until it was only the timeline. However, I discovered that the coding and structure was not idea for this project. The code (CSS and Javascript particularly) had a lot of vague naming making it hard to follow and there was a LOT to strip out. So, the search for a solution continues, I think that I need to take a different approach to this problem&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;consideringcolour&#34;&gt;Considering colour&lt;/h3&gt;
 &lt;p&gt;Upon looking at a number of medical websites for journals, professional bodies and organisations including:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nhs.uk/pages/home.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NHS choices&lt;/a&gt; (blue/orange/green)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nmc.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing and Midwifery Council&lt;/a&gt; (dark blue, aquamarine, pink and lavender purple)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.rcm.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal College of Midwives&lt;/a&gt; (dark blue, two hues of light blue, white, purple and grey)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nursingtimes.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing Times&lt;/a&gt; (dark blue, aquamarine and white)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://journals.rcni.com/journal/ns&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nursing Standard&lt;/a&gt; (scrubs green, two hues of dark blue, grey and orange for callouts)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thelancet.com/journals/lancet/issue/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Lancet&lt;/a&gt; (purple, blue, green - a lot of white space)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.msf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Médecins Sans Frontieres&lt;/a&gt; (red and black&lt;fn&gt;An outlier with the red and black theme, however this would underline the critical nature of the work they do providing aid in emergency situations.&lt;/fn&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bmj.com/thebmj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The British Medical Journal&lt;/a&gt; (blue and white, orange callouts)&lt;/li&gt;
+&lt;li&gt;
+ (blue/orange/green)&lt;/li&gt;
+&lt;li&gt;
+ (dark blue, aquamarine, pink and lavender purple)&lt;/li&gt;
+&lt;li&gt;
+ (dark blue, two hues of light blue, white, purple and grey)&lt;/li&gt;
+&lt;li&gt;
+ (dark blue, aquamarine and white)&lt;/li&gt;
+&lt;li&gt;
+ (scrubs green, two hues of dark blue, grey and orange for callouts)&lt;/li&gt;
+&lt;li&gt;
+ (purple, blue, green - a lot of white space)&lt;/li&gt;
+&lt;li&gt;
+ (red and black&lt;fn&gt;An outlier with the red and black theme, however this would underline the critical nature of the work they do providing aid in emergency situations.&lt;/fn&gt;)&lt;/li&gt;
+&lt;li&gt;
+ (blue and white, orange callouts)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The colour schemes contain a lot of blue and this influenced me to look at some different colour combinations. I used the palletton colour selector web application (&lt;a href=&#34;http://paletton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://paletton.com/&lt;/a&gt;) to try a few bold colour combinations. I also tried it with some vision simulations (available on the bottom right) to see how the contrast behaved for different types of colour blindness. The swatches below show one of the better combinations I came up with, although it still needs work. &lt;/p&gt;
-\[caption id=&#34;attachment\_190&#34; align=&#34;alignnone&#34; width=&#34;400&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/20/wireframes-2/01palettonswatches/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing a colour scheme created using paletton&#34; srcset=&#34;
-               /post/2016/11/wireframes-2/images/01palettonswatches_hu14778145161080712181.webp 400w,
-               /post/2016/11/wireframes-2/images/01palettonswatches_hu2515909679670101355.webp 760w,
-               /post/2016/11/wireframes-2/images/01palettonswatches_hu7324242730516230507.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframes-2/images/01palettonswatches_hu14778145161080712181.webp&#34;
-               width=&#34;400&#34;
-               height=&#34;80&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Paletton colour scheme 1&lt;/p&gt;
+&lt;p&gt;The colour schemes contain a lot of blue and this influenced me to look at some different colour combinations. I used the palletton colour selector web application (
+) to try a few bold colour combinations. I also tried it with some vision simulations (available on the bottom right) to see how the contrast behaved for different types of colour blindness. The swatches below show one of the better combinations I came up with, although it still needs work. &lt;/p&gt;
+\[caption id=&#34;attachment\_190&#34; align=&#34;alignnone&#34; width=&#34;400&#34;\]&lt;p&gt;
+ Paletton colour scheme 1&lt;/p&gt;
 \[/caption\]&lt;p&gt; The challenge with this medical site is that I feel I need to avoid a number of colours that may evoke negative associations. For example, hues of red might suggest blood and certain hues of yellow should be avoided due to the &lt;em&gt;hospital-yellow&lt;/em&gt; association. The blues above seemed a bit dark, so I tried some lighter hues for Wireframe 2, paying attention to the contrast between the text colour and the background colour.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;These are resources that I referred to beyond what I have linked to in the content above.&lt;/p&gt;
-&lt;p&gt;Border-radius. (2016, November 13). Retrieved November 27, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Border-radius. (2016, November 13). Retrieved November 27, 2016, from 
+&lt;/p&gt;
 &lt;p&gt;Crockford, D. (2008). Functions. In &lt;em&gt;JavaScript: The good parts: Working with the shallow grain of JavaScript&lt;/em&gt;(pp. 26–45). United States: O’Reilly Media, Inc, USA.&lt;/p&gt;
-&lt;p&gt;Titlow, J. P. (2014, February 20). About DuckDuckGo. Retrieved November 19, 2016, from &lt;a href=&#34;https://duckduckgo.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com/about&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Titlow, J. P. (2014, February 20). About DuckDuckGo. Retrieved November 19, 2016, from 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -296,38 +106,15 @@
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/wireframe0/</guid>
       <description>&lt;p&gt;This post shows the initial low fidelity wireframe that I created after meeting with Dr. Theo Fotis on 16/11/16. I decided on a 12 column layout due to the need to have different formats in each section. It seemed to offer a high degree of flexibility. &lt;/p&gt;
-\[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/18/wireframe0/wireframeinfo0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of initial wireframe and settings&#34; srcset=&#34;
-               /post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp 400w,
-               /post/2016/11/wireframe0/images/wireframeinfo0_hu4686597743897109336.webp 760w,
-               /post/2016/11/wireframe0/images/wireframeinfo0_hu11935148952110235015.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframe0/images/wireframeinfo0_hu8662689583754323832.webp&#34;
-               width=&#34;663&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; The first wireframe showing the 12 column layout&lt;/p&gt;
+\[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]&lt;p&gt;
+ The first wireframe showing the 12 column layout&lt;/p&gt;
 \[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from &lt;a href=&#34;http://j4n.co/blog/Creating-your-own-css-grid-system&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://j4n.co/blog/Creating-your-own-css-grid-system&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Gamache, D. A dead simple, responsive boilerplate. Retrieved November 25, 2016, from &lt;a href=&#34;http://getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://getskeleton.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from &lt;a href=&#34;https://github.com/h5bp/html5-boilerplate&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/h5bp/html5-boilerplate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Drewniak, J. (2014, November 6). Creating your own CSS grid system. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Gamache, D. A dead simple, responsive boilerplate. Retrieved November 25, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;H5bp/html5-boilerplate. (2016, November 17). Retrieved November 25, 2016, from 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -337,65 +124,14 @@
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/wireframe-1/</guid>
       <description>&lt;p&gt;This post shows the second iteration of the initial wireframe. This version is slightly higher fidelity and is still based on the idea that users would make use of the &lt;em&gt;smooth scroll&lt;/em&gt; &amp;ldquo;next&amp;rdquo; buttons to transition from section to section. Navigating the information in chronological order. &lt;/p&gt;
-\[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/12/wireframe1noguide-515x1024.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image showing wireframe 1&#34; srcset=&#34;
-               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp 400w,
-               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu2051711272190561931.webp 760w,
-               /post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu14122947245791720063.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframe-1/images/wireframe1noguide-515x1024_hu3294872078945396201.webp&#34;
-               width=&#34;382&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; A higher fidelity version of wireframe 1 - also featuring the anxiety levels visualisation, which is both decorative and function&lt;/p&gt;
+\[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]&lt;p&gt;
+ A higher fidelity version of wireframe 1 - also featuring the anxiety levels visualisation, which is both decorative and function&lt;/p&gt;
 \[/caption\]&lt;p&gt; Screenshot showing the 12 grid layout &lt;/p&gt;
-\[caption id=&#34;attachment\_182&#34; align=&#34;alignnone&#34; width=&#34;335&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/18/wireframe-1/wireframeguides1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing wireframe 1 with grid overlay&#34; srcset=&#34;
-               /post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp 400w,
-               /post/2016/11/wireframe-1/images/wireframeguides1_hu10586903255765685010.webp 760w,
-               /post/2016/11/wireframe-1/images/wireframeguides1_hu15586239784140717357.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframe-1/images/wireframeguides1_hu13059539091471364604.webp&#34;
-               width=&#34;335&#34;
-               height=&#34;554&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Screenshot showing wireframe 1 with 12 column grid overlay&lt;/p&gt;
+\[caption id=&#34;attachment\_182&#34; align=&#34;alignnone&#34; width=&#34;335&#34;\]&lt;p&gt;
+ Screenshot showing wireframe 1 with 12 column grid overlay&lt;/p&gt;
 \[/caption\]&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Schoeffel, S. (2011, November 9). Establishing your grid in Photoshop – smashing magazine. Retrieved November 27, 2016, from Graphics, &lt;a href=&#34;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2011/11/establishing-your-grid-in-photoshop/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Schoeffel, S. (2011, November 9). Establishing your grid in Photoshop – smashing magazine. Retrieved November 27, 2016, from Graphics, 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -404,7 +140,10 @@
       <link>http://localhost:1313/post/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2016/11/wireframing-sketches/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+      <description>&lt;p&gt;
+ Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
+\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
+ 
 
 
 
@@ -422,71 +161,17 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
-               width=&#34;543&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
+               srcset=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
-\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;&lt;a href=&#34;http://www.fionamacneill.co.uk/blog/wp-content/uploads/2016/11/v1.JPG&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Initial wireframe sketch&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v1_hu13076890966058116821.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v1_hu10198985934193852419.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v1_hu11600507773377710041.webp&#34;
-               width=&#34;543&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Wireframe sketch with overlay&#34; srcset=&#34;
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp 400w,
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu2702831804183338772.webp 760w,
-               /post/2016/11/wireframing-sketches/images/v2overlay_hu2513432408252492975.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu5833455065808431927.webp&#34;
-               width=&#34;547&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
- This image shows a piece of acetate as an overlay for the floating navigation buttons that were &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/31/development-prototypes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;demonstrated in Prototype 2&lt;/a&gt;.&lt;/p&gt;
+ This image shows a piece of acetate as an overlay for the floating navigation buttons that were 
+.&lt;/p&gt;
 \[/caption\]</description>
     </item>
     

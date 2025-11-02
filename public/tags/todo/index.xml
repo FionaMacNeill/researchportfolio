@@ -7,7 +7,7 @@
     <description>Todo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Todo</title>
       <link>http://localhost:1313/tags/todo/</link>
     </image>
@@ -19,75 +19,54 @@
       <guid>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</guid>
       <description>&lt;h3 id=&#34;update-on-the-previously-mentioned-to-do-list&#34;&gt;Update on the previously mentioned to-do list:&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/10/23/portfolio-site-concept-and-other-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;concept document&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Task scenarios  Now at &lt;a href=&#34;https://docs.google.com/document/d/1NBoLaEqr3Mj4NmfbI1m0riAYipm-QNX1_TID_75sXkA/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;version 3&lt;/a&gt; to reflect the decision to present all of the content on one long page.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/11/06/business-model-canvas-and-more-tweaks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Business Model Canvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;General characteristics for user groups - I went a bit more in-depth and produced a user characteristics list for the primary user group of health professionals - &lt;a href=&#34;https://docs.google.com/document/d/1An9w8tBnoofrjyhXPfFiRBzAAvbo7uEQCgRG97lRJtU/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link to the Google doc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;Task scenarios  Now at 
+ to reflect the decision to present all of the content on one long page.&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups - I went a bit more in-depth and produced a user characteristics list for the primary user group of health professionals - 
+&lt;/li&gt;
 &lt;li&gt;\[Tentative plan\] create a UML diagram - I am not going to do this, as it is primarily a tool to communicate with developers and as I am UXer and developer here I think that it is more important for me to crack on with the development (although if I had been more self-disciplined and followed a UML I probably could have avoided the feature creep outlined below).&lt;/li&gt;
 &lt;li&gt;An paper online prototype – in the end this was a prototype version of the actual site. Delivered to Dr. Theo Fotis on the 12th of December.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;adding-polling-aka-_feature-creep_-1612---2412&#34;&gt;Adding polling aka &lt;em&gt;feature creep&lt;/em&gt; 16/12 - 24/12&lt;/h3&gt;
-&lt;p&gt;In my &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/12/content-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;last post&lt;/a&gt; I mentioned that I had decided to add a poll as I felt that some further interaction might be needed. I now realise that really a bit of a superfluous feature and upon reflection I have spent too much time on it.&lt;/p&gt;
-&lt;p&gt;What I can take from it, is that I learned a lot about JSON and PHP in the process. This activity was really the textbook definition of feature creep or scope creep&lt;fn&gt;A handy definition from wikipedia just in case you need it: &lt;a href=&#34;https://en.wikipedia.org/wiki/Scope_creep&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Scope_creep&lt;/a&gt;. Here is a consolidated account of what I did and what I found out in the process. I thought about using the fantastic Google charts tools. I could not, however figure out how to feed data into the chart, based on clicks of the options and then also how to store that information. Here is an image of a mock-up that I made during that particular phase.&lt;/p&gt;
-\[caption id=&#34;attachment\_265&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/24/on-the-importance-of-self-discipline/screen-shot-2016-12-16-at-15-11-41/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of site showing the chart in situ&#34; srcset=&#34;
-               /post/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu5120102061212703234.webp 400w,
-               /post/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu1021116892773973715.webp 760w,
-               /post/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu12469234923819690191.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu5120102061212703234.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;415&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Initially, prior to the radio buttons, I was just using buttons to visualise the poll options. It looks nifty, alas it had no functionality whatsoever.&lt;/p&gt;
-\[/caption\]&lt;p&gt;Then I thought about creating a custom Google form skin as the front-end for a Google chart. There was some documentation on this (&lt;a href=&#34;https://github.com/heaversm/google-custom-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/heaversm/google-custom-form&lt;/a&gt;) and I referred to the excellent documentation from Google as well, but it wasn&amp;rsquo;t the right thing. Then as I use &lt;a href=&#34;https://www.polleverywhere.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PollEverywhere&lt;/a&gt;, a web application for polling, in my day-job I thought that using &lt;a href=&#34;https://api.polleverywhere.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;their API&lt;/a&gt; might be a good way to go. Especially as their poll visualisation is very nice. I must highlight at this point that I wanted to avoid using an iFrame and have a solution that was integrated with the site. This is largely due to the fact that the iFrame content would almost certainly be blocked on NHS Trust computers (again this knowledge is based on my professional experience). The PollEverywhere API highlighted the use of JSON (Javascript Object Notation) for the configuration of polls. However, I have to admit that their documentation was a little beyond my own knowledge and I felt unsure of where to start. I asked Marcus for his advice on the 16th of December and I also found a &lt;a href=&#34;http://www.w3schools.com/php/php_ajax_poll.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PHP AJAX poll tutorial on the W3Schools&lt;/a&gt;. Normally I&amp;rsquo;m not a huge fan of the w3schools tutorials, but this seemed like the perfect solution. I was able to build the poll, but the issue with it is that it is that it stored its values in a standard text file and this is a very insecure method. Marcus advised that I look at writing the values to a JSON file via the PHP and then pulling said values through html for the poll visualisation.&lt;/p&gt;
+&lt;h3 id=&#34;adding-polling-aka-feature-creep-1612---2412&#34;&gt;Adding polling aka &lt;em&gt;feature creep&lt;/em&gt; 16/12 - 24/12&lt;/h3&gt;
+&lt;p&gt;In my 
+ I mentioned that I had decided to add a poll as I felt that some further interaction might be needed. I now realise that really a bit of a superfluous feature and upon reflection I have spent too much time on it.&lt;/p&gt;
+&lt;p&gt;What I can take from it, is that I learned a lot about JSON and PHP in the process. This activity was really the textbook definition of feature creep or scope creep&lt;fn&gt;A handy definition from wikipedia just in case you need it: 
+. Here is a consolidated account of what I did and what I found out in the process. I thought about using the fantastic Google charts tools. I could not, however figure out how to feed data into the chart, based on clicks of the options and then also how to store that information. Here is an image of a mock-up that I made during that particular phase.&lt;/p&gt;
+\[caption id=&#34;attachment\_265&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+ Initially, prior to the radio buttons, I was just using buttons to visualise the poll options. It looks nifty, alas it had no functionality whatsoever.&lt;/p&gt;
+\[/caption\]&lt;p&gt;Then I thought about creating a custom Google form skin as the front-end for a Google chart. There was some documentation on this (
+) and I referred to the excellent documentation from Google as well, but it wasn&amp;rsquo;t the right thing. Then as I use 
+, a web application for polling, in my day-job I thought that using 
+ might be a good way to go. Especially as their poll visualisation is very nice. I must highlight at this point that I wanted to avoid using an iFrame and have a solution that was integrated with the site. This is largely due to the fact that the iFrame content would almost certainly be blocked on NHS Trust computers (again this knowledge is based on my professional experience). The PollEverywhere API highlighted the use of JSON (Javascript Object Notation) for the configuration of polls. However, I have to admit that their documentation was a little beyond my own knowledge and I felt unsure of where to start. I asked Marcus for his advice on the 16th of December and I also found a 
+. Normally I&amp;rsquo;m not a huge fan of the w3schools tutorials, but this seemed like the perfect solution. I was able to build the poll, but the issue with it is that it is that it stored its values in a standard text file and this is a very insecure method. Marcus advised that I look at writing the values to a JSON file via the PHP and then pulling said values through html for the poll visualisation.&lt;/p&gt;
 &lt;iframe src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=320&amp;amp;height=260&amp;amp;videoId=6325&amp;amp;quality=hi&amp;amp;captions=n&amp;amp;chapterId=0&#34; scrolling=&#34;no&#34; width=&#34;330&#34; height=&#34;270&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;So I decided to see if I could adapt the script to read from and write to a JSON file instead. Easier said than done as the syntax from PHP to JSON confused me a bit. Marcus did a bit of troubleshooting on it too and this was very helpful to get on the right track. I finally decided that it was time to join StackOverflow and start asking and answering questions, here is the question that I asked: &lt;a href=&#34;http://stackoverflow.com/questions/41301335/json-newbie-permanently-saving-values-to-json-between-browser-reloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/41301335/json-newbie-permanently-saving-values-to-json-between-browser-reloads&lt;/a&gt; . The community were great and I got a lot closer to a solution. However, echoing data back via html in the php file proved too tricky and issue to surmount. I could get the one option to display, but I couldn&amp;rsquo;t pull the previous results to display. This was immensely frustrating, to be so close and yet missing at the final hurdle.&lt;/p&gt;
-\[caption id=&#34;attachment\_267&#34; align=&#34;alignnone&#34; width=&#34;499&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/24/on-the-importance-of-self-discipline/2016-12-24_10-30-29/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Animated GIF showing the issue with the display of data pulled from the JSON file&#34;
-           src=&#34;http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/images/2016-12-24_10-30-29.gif&#34;
-           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not.&lt;/p&gt;
-\[/caption\]&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on &lt;a href=&#34;https://docs.google.com/document/d/1An9w8tBnoofrjyhXPfFiRBzAAvbo7uEQCgRG97lRJtU/pub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the user characteristics list&lt;/a&gt;, it hit home that I had been the victim of my own self-inflicted feature creep. The end users have very limited time to look at this site and probably wouldn&amp;rsquo;t have time to contemplate the poll question. Furthermore, the poll question detracts from the content of the site. Finally it introduces additional security considerations and affects the life-span of the code in the site. So I have decided to archive what I did offline and continue from where I left off on the 16th. You live and you learn. I shall now be focusing on an prioritised to-do list and I will deviate from my Trello board no longer.&lt;/p&gt;
+&lt;p&gt;So I decided to see if I could adapt the script to read from and write to a JSON file instead. Easier said than done as the syntax from PHP to JSON confused me a bit. Marcus did a bit of troubleshooting on it too and this was very helpful to get on the right track. I finally decided that it was time to join StackOverflow and start asking and answering questions, here is the question that I asked: 
+ . The community were great and I got a lot closer to a solution. However, echoing data back via html in the php file proved too tricky and issue to surmount. I could get the one option to display, but I couldn&amp;rsquo;t pull the previous results to display. This was immensely frustrating, to be so close and yet missing at the final hurdle.&lt;/p&gt;
+\[caption id=&#34;attachment\_267&#34; align=&#34;alignnone&#34; width=&#34;499&#34;\]&lt;p&gt;
+ Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not.&lt;/p&gt;
+\[/caption\]&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on 
+, it hit home that I had been the victim of my own self-inflicted feature creep. The end users have very limited time to look at this site and probably wouldn&amp;rsquo;t have time to contemplate the poll question. Furthermore, the poll question detracts from the content of the site. Finally it introduces additional security considerations and affects the life-span of the code in the site. So I have decided to archive what I did offline and continue from where I left off on the 16th. You live and you learn. I shall now be focusing on an prioritised to-do list and I will deviate from my Trello board no longer.&lt;/p&gt;
 &lt;h3 id=&#34;added-a-skip-to-content-link-for-accessibility&#34;&gt;Added a skip to content link for accessibility&lt;/h3&gt;
-&lt;p&gt;Something that I have had on my list for a while was to add a skip to content link for screen readers and keyboard navigation users. I looked at how a few sites did it and settled on advice from the WebAIM site (&lt;a href=&#34;http://webaim.org/techniques/css/invisiblecontent/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://webaim.org/techniques/css/invisiblecontent/&lt;/a&gt;). Although instead of positioning the content off-screen by 1000px I positioned it above with top:-20em. Although the WebAIM site recommends against positioning above due to the fact that this may cause a scroll off-screen, based on testing I have not found this to be the case and as Mozilla use this method (e.g. here: &lt;a href=&#34;https://developer.mozilla.org/en-US/Firefox/Releases/50#document-main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/Firefox/Releases/50#document-main&lt;/a&gt;) and I am trying to convert all my units to dynamic values (ems or percentages) - it seemed like the way to go.&lt;/p&gt;
+&lt;p&gt;Something that I have had on my list for a while was to add a skip to content link for screen readers and keyboard navigation users. I looked at how a few sites did it and settled on advice from the WebAIM site (
+). Although instead of positioning the content off-screen by 1000px I positioned it above with top:-20em. Although the WebAIM site recommends against positioning above due to the fact that this may cause a scroll off-screen, based on testing I have not found this to be the case and as Mozilla use this method (e.g. here: 
+) and I am trying to convert all my units to dynamic values (ems or percentages) - it seemed like the way to go.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Heaversm/google-custom-form. (2016, August 5). Retrieved December 24, 2016, from &lt;a href=&#34;https://github.com/heaversm/google-custom-form&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/heaversm/google-custom-form&lt;/a&gt; Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from &lt;a href=&#34;http://stackoverflow.com/questions/41301335/json-newbie-permanently-saving-values-to-json-between-browser-reloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/41301335/json-newbie-permanently-saving-values-to-json-between-browser-reloads&lt;/a&gt; Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started&lt;/a&gt; Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms&lt;/a&gt; PHP AJAX poll. Retrieved December 24, 2016, from &lt;a href=&#34;http://www.w3schools.com/php/php_ajax_poll.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/php/php_ajax_poll.asp&lt;/a&gt; PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from &lt;a href=&#34;http://php.net/manual/en/function.file-get-contents.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://php.net/manual/en/function.file-get-contents.php&lt;/a&gt; Poll everywhere. (2016). Retrieved December 27, 2016, from &lt;a href=&#34;https://github.com/polleverywhere?page=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/polleverywhere?page=3&lt;/a&gt; Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/php_example&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/php_example&lt;/a&gt; Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from &lt;a href=&#34;https://en.wikipedia.org/wiki/Scope_creep&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Scope_creep&lt;/a&gt; Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from &lt;a href=&#34;https://github.com/strawpoll/strawpoll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/strawpoll/strawpoll&lt;/a&gt; Task analysis. (2013, September 6). Retrieved December 24, 2016, from &lt;a href=&#34;https://www.usability.gov/how-to-and-tools/methods/task-analysis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.usability.gov/how-to-and-tools/methods/task-analysis.html&lt;/a&gt; The poll everywhere API. Retrieved December 24, 2016, from &lt;a href=&#34;https://api.polleverywhere.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://api.polleverywhere.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Heaversm/google-custom-form. (2016, August 5). Retrieved December 24, 2016, from 
+ Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from 
+ Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from 
+ Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from 
+ PHP AJAX poll. Retrieved December 24, 2016, from 
+ PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from 
+ Poll everywhere. (2016). Retrieved December 27, 2016, from 
+ Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from 
+ Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from 
+ Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from 
+ Task analysis. (2013, September 6). Retrieved December 24, 2016, from 
+ The poll everywhere API. Retrieved December 24, 2016, from 
+&lt;/p&gt;
 </description>
     </item>
     

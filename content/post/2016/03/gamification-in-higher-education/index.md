@@ -78,7 +78,7 @@ Schild, E. O., &amp; Boocock, S. S. (Eds.). (1968). _Simulation games in learnin
 
 [The Sussex Simulation hub blog site](http://blogs.brighton.ac.uk/simulationhub/) 
 
-[Problem-based learning at University of Brighton: Sue Greener(http://about.brighton.ac.uk/bbs/contact/details.php?uid=slg)
+[Problem-based learning at University of Brighton: Sue Greener](http://about.brighton.ac.uk/bbs/contact/details.php?uid=slg)
 
 Sadlo, G. (2014). Creating interactive multi-media Problem-Based Learning cases to enhance student cognition. _Evolving experiences: Articles from the learning and teaching conference: 2013_. 36-47. 
 

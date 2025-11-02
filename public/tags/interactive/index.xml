@@ -7,7 +7,7 @@
     <description>Interactive</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu4186623227307172452.png</url>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
       <title>Interactive</title>
       <link>http://localhost:1313/tags/interactive/</link>
     </image>
@@ -23,50 +23,37 @@
 &lt;h3 id=&#34;keystone-texts&#34;&gt;Keystone texts&lt;/h3&gt;
 &lt;p&gt;While engaging in this in-depth investigation into the accessibility, I found myself referring to the following keystone texts.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Accessible Rich Internet Applications (WAI-ARIA) Roles Model (n.d.)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.paciellogroup.com/blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Paciello group&amp;rsquo;s blog&lt;/a&gt; - UX accessibility specialists an amazing resource&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mozilla Developer Network Accessibility Guides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.nngroup.com/articles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Nielsen Norman Group blog&lt;/a&gt; - a frequent go-to of mine&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ - UX accessibility specialists an amazing resource&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+ - a frequent go-to of mine&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I feel like I have only scratched the surface with the WAI-ARIA roles, but based on testing I feel that the site is accessible as I could get it within the allotted time. In the end I found a blog post on the subject by a rather brilliant developer, Aaron Krauss (2016) who did a great job of how to practically use certain ARIA labels and roles. What I did find is that there is quite a lot of redundancy in the code, but you need to have it there as the screenreader doesn&amp;rsquo;t necessarily pick up the semantics in the page construction as you might intend. Here is a video of my screenreader testing in action with tab key only - tabindex (Mozilla Developer Network, 2017)&lt;/p&gt;
 &lt;iframe style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=0&amp;amp;height=0&amp;amp;videoId=6936&amp;amp;quality=hd&amp;amp;captions=n&amp;amp;chapterId=0&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;what-the-font&#34;&gt;What the font?&lt;/h3&gt;
 &lt;p&gt;I conducted some reading (Nielsen, 2002; Martin, 2009; Franz, 2014; ) around legible fonts and font sizes and optimal line height. I have tried my best to work with the best practices, although that does get tricky with the mobile screen size. However, the attention that I have paid to optimising the CSS stylesheet for plain readers should help those who use accessibility features on mobile devices. &lt;strong&gt;Added a fix to the superscript&lt;/strong&gt; I found a very helpful snippet for fixing line height for superscript (used for references) and subscript. Thank you to the -ever helpful- CSS Tricks site (Coyier, 2009a). &lt;strong&gt;Contrast&lt;/strong&gt; As much as I loved the white headers along the timeline the contrast was not sufficient. The colour scheme is themed around blues and purples and unfortunately white on blue doesn&amp;rsquo;t comply with WCAG 2.0 unless the blue shade is very dark or the white font is very large (Snook, 2015; WAVE, n.d.).&lt;/p&gt;
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
-&lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: &lt;a href=&#34;https://codepen.io/stowball/pen/eZKwRv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codepen.io/stowball/pen/eZKwRv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Upon testing the tab-key only navigation I realised that there was no accessible way (that I could muster anyway) to navigate the accordion (Mary Lou, 2012) and for that reason it had to go. I added two simple tables, which I was trying to avoid, but as they area features comparisons this use us permissible. I was not using the tables for layout, but for the display of information in a standardised way. After the fact I found this accordion example at codepen.io which might have been better, but not without a lot of work: 
+&lt;/p&gt;
 &lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
-&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC0 - public domain&lt;/a&gt; apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
-\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/19/striving-for-accessibility-summary-part-1/devicediagrams/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; srcset=&#34;
-               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp 400w,
-               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu3201771701376628811.webp 760w,
-               /post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu14792921282801329016.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu8934766074621028551.webp&#34;
-               width=&#34;300&#34;
-               height=&#34;122&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; The complete sprite for the devices in all of its glory&lt;/p&gt;
-\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - &lt;a href=&#34;https://flic.kr/p/5Rtzsu&#34; title=&#34;Link to image at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;My fave jeans copied&amp;rdquo;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/photos/ingermaaike2/&#34; title=&#34;Link to photographer page at Flickr.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; inger maaike&lt;/a&gt; is licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34; title=&#34;Link to CC license&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY 2.0&lt;/a&gt; CC0 images sources from Pixabay: &lt;a href=&#34;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/fingers-hand-pebbles-ring-1842661/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/apple-watch-smartwatch-watch-828827/&lt;/a&gt; &lt;a href=&#34;https://pixabay.com/en/gold-neck-necklaces-style-792002/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pixabay.com/en/gold-neck-necklaces-style-792002/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were 
+ apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
+\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;
+ The complete sprite for the devices in all of its glory&lt;/p&gt;
+\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - 
+ by 
+ is licensed under 
+ CC0 images sources from Pixabay: 
+ 
+ 
+&lt;/p&gt;
 &lt;h3 id=&#34;fixing-the-tab-svg&#34;&gt;Fixing the tab svg&lt;/h3&gt;
-&lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/07/charty-mccharterson/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I outlined in an earlier journal entry&lt;/a&gt;. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
+&lt;p&gt;I replaced the svg tab to be a proper thing rather than the Frankenstein&amp;rsquo;s monster-like CSS creation 
+. Once again I referred to the excellent CSS-Tricks (Coyier, 2013) and Mozilla Developer Network resources (2016c), as well as the Implementing Responsive Design book from the reading list (Kadlec, 2012).&lt;/p&gt;
 &lt;h3 id=&#34;asking-myself-questions&#34;&gt;Asking myself questions&lt;/h3&gt;
 &lt;p&gt;I tried my best to standardise all the units in the CSS although if I were to do it all again with hindsight I think that I might design my grid to work with ems or rems (once they are widely compatible or older browsers fall out of use). I&amp;rsquo;m sure that I have missed things in spite of several thorough read-throughs. It all validated okay. &lt;strong&gt;CSS code block structure:&lt;/strong&gt; e.g. div class or id - this resembles the layout of a div .div { display: block; position: relative; width: 90% height: 60% color: #000; margin: 2% auto 2% auto padding: 2% 4%; (shortenings used where possible) } e.g. typography class or id - this resembles the layout h2 { font-family: &amp;ldquo;Helvetica Neue&amp;rdquo;, Helvetica, Arial, sans-serif; text-align: center; font-size: 1.5em; line-height: 1.25; font-weight: 300; } In the HTML where white-space pre-line formatting was needed for the Goals and the references sections, I included comments to help indicate why the formatting was different in the markup. Also regarding the CSS as I was going through it, to weed it a bit, I asked myself a series of questions to help determine which units to use and such. I have included these below.&lt;/p&gt;
 &lt;ol&gt;
@@ -89,42 +76,66 @@
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Coyier, C. (2009a, August 10). Prevent Superscripts and subscripts from affecting line-height &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/snippets/css/prevent-superscripts-and-subscripts-from-affecting-line-height/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Coyier, C. (2009b, October 24). CSS Sprites: What they are, why they’re cool, and how to use them &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/css-sprites/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/css-sprites/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from &lt;a href=&#34;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/6140430/what-are-the-most-common-font-sizes-for-h1-h6-tags#6140504&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Donut. (2011). Re: What are the most common font-sizes for H1-H6 tags. StackOverflow website. Retrieved 19 January 2017, from 
+&lt;/p&gt;
 &lt;p&gt;Franz, L. (2014, September 29). Size matters: Balancing line length and font size in responsive web design – smashing magazine &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2014/09/balancing-line-length-font-size-responsive-web-design/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Kadlec, T. (2012). Responsive Media. In Implementing responsive design: Building sites for an anywhere, everywhere web (pp. 95–127). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
-&lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from &lt;a href=&#34;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://thesocietea.org/2016/09/aria-roles-and-attributes-how-to-actually-use-them/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Krauss, A. (2016, September 8). ARIA roles and attributes: How to actually use them | Aaron Krauss Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Lawson, B. D., &amp;amp; Sharp, R. (2011). Introducing HTML5 (2nd edition) (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
 &lt;p&gt;Martin, M. (2009, August 20). Typographic design patterns and best practices – smashing magazine &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.smashingmagazine.com/2009/08/typographic-design-survey-best-practices-from-the-best-blogs/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-describedby_attribute&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mozilla Developer Network. (2016b, November 17). CSS values and units. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/CSS/background-position&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: &lt;a href=&#34;https://www.england.nhs.uk/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.england.nhs.uk/about/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2015, July 23). Using the aria-describedby attribute. Retrieved January 19, 2017, from Mozilla Developer Network website: 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016a, December 15). WAI-ARIA basics. Retrieved January 19, 2017, from Mozilla Developer Network website: 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016b, November 17). CSS values and units. Retrieved January 19, 2017, from Mozilla Developer Network website: 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016c, December 3). Background-position. Retrieved January 19, 2017, from Mozilla Developer Network website: 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2017, January 16). Tabindex. Retrieved January 19, 2017, from Mozilla Developer Network website: 
+&lt;/p&gt;
+&lt;p&gt;NHS England. (2017). About NHS England. Retrieved January 23, 2017, from NHS England website: 
+&lt;/p&gt;
 &lt;p&gt;Nielsen, J. (1996, October 1). Accessible design for users with disabilities &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Nielsen, J. (2002). Let users control font size &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.nngroup.com/articles/let-users-control-font-size/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nngroup.com/articles/let-users-control-font-size/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;Snook. (2015). Colour Contrast Check &lt;/p&gt;
-\[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from &lt;a href=&#34;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: &lt;a href=&#34;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://soap.stanford.edu/tips-and-tools/screen-reader-testing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, &lt;a href=&#34;https://www.w3.org/TR/wai-aria-1.1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria-1.1/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/roles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/roles&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: &lt;a href=&#34;https://www.w3.org/TR/wai-aria/rdf_model.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.w3.org/TR/wai-aria/rdf_model.png&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: &lt;a href=&#34;http://www.w3schools.com/css/css_tooltip.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.w3schools.com/css/css_tooltip.asp&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved 19 January 2017, from 
+&lt;/p&gt;
+&lt;p&gt;Stanford University Online Accessibility Program. (2016, August 1). Screen reader testing. Retrieved January 19, 2017, from Stanford University website: 
+&lt;/p&gt;
+&lt;p&gt;W3C. (2016, October 27). Accessible Rich Internet Applications (WAI-ARIA) 1.1 W3C Candidate Recommendation 27 October 2016. Retrieved January 23, 2017, from W3C website, 
+&lt;/p&gt;
+&lt;p&gt;W3C. The Roles Model. Retrieved January 19, 2017a, from WAI-ARIA website: 
+&lt;/p&gt;
+&lt;p&gt;W3C. WAI-ARIA role definition model - image. Retrieved January 19, 2017b, from WAI-ARIA website: 
+&lt;/p&gt;
+&lt;p&gt;W3Schools. CSS Tooltip. Retrieved January 19, 2017, from w3schools.com website: 
+&lt;/p&gt;
 &lt;p&gt;Watson, L. (2014, August 4). Using the tabindex attribute &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
 &lt;p&gt;WAVE web accessibility tool. &lt;/p&gt;
-\[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from &lt;a href=&#34;http://wave.webaim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://wave.webaim.org/&lt;/a&gt;&lt;/p&gt;
+\[Computer software\]&lt;p&gt;. Retrieved January 19, 2017, from 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -133,138 +144,42 @@
       <link>http://localhost:1313/post/2017/01/the-weekend-of-doom/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2017/01/the-weekend-of-doom/</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/12/final-meeting-with-stakeholder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my last entry&lt;/a&gt; I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
-\[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/precarousel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing site pre-14th of Jan&#34; srcset=&#34;
-               /post/2017/01/the-weekend-of-doom/images/precarousel_hu14473937338990126973.webp 400w,
-               /post/2017/01/the-weekend-of-doom/images/precarousel_hu5015065230792960571.webp 760w,
-               /post/2017/01/the-weekend-of-doom/images/precarousel_hu9434093652980094937.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/precarousel_hu14473937338990126973.webp&#34;
-               width=&#34;87&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; An image showing how the site looked prior to the changes to the carousel.&lt;/p&gt;
+      <description>&lt;p&gt;In 
+ I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
+\[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;
+ An image showing how the site looked prior to the changes to the carousel.&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;strong&gt;Altering the Flickity Carousel/Timeline&lt;/strong&gt; So changing the height of the Flickity carousel used for the patient timeline meant that the &amp;ldquo;dot&amp;rdquo; buttons had to be moved upwards otherwise they would be off the bottom of the visible area on most standard screen sizes. For reference, I have included a long screenshot that I made of the site prior to this work, on the right. So I decided that the dots should reside on-top of the carousel and then they would also be spatially connected to the navigation of the timeline. This is not really how Flickity carousels are really designed to exist (metafizzy, 2016), but it is closer to the original inspiration for my site the DuckDuckGo about page (DuckDuckGo, 2014). The main issue that I ran into was that the carousel needed to resize itself dynamically and I had media queries which hid the dots on mobile devices (as they were no longer very useful as buttons at that size). However, as the dots themselves are rendered automatically by the JavaScript, they were rendering much more quickly than the resizing. So I upon sizing-up a responsive browser window the dots and timeline appeared on top of everything and looked awful. I tried everything I could think of to fix this issue. I attempted to delay the dots in the JavaScript. I also tried writing a script which watched for the window size. I tried positioning the dots so that they moved upwards. I also tried creating condition code which watched for various conditions to be met prior to triggering the dots. Things I wrote worked to an extent, but not sufficiently or reliably enough to depend on them. In the end I had to temporarily hide the dots by setting them and the timeline to &amp;lsquo;display: none&amp;rsquo;. I also had to hide the spot where they generated by moving the about section upwards. Essentially the solution&amp;rsquo;s analogue equivalent is that the rabbit is being hidden in a compartment of the hat the whole time (oh wait&amp;hellip;is that how they do it?). &lt;strong&gt;Performance Issues&lt;/strong&gt; I am actually grateful that all of this happened as once I had cracked the rendering issue I realised that there were some major performance issues with the carousel/timeline. It took a bit of time to get to the bottom of it,  but in the end I realised that it was the long svg that I had included to indicate the patient&amp;rsquo;s anxiety levels. Through testing in multiple browsers, on Mac, PC and mobile I realised that the image also wasn&amp;rsquo;t loading anywhere other than in Chrome for Mac. Everywhere it was just gumming up the works. I reassessed the need for the anxiety level gauge/image and decided that it was important to keep it. So through trial and error I ended up loading with an image tag in the html as a very, very long svg. This is the only svg in the site that I could not optimise as it resulted in optimisation errors because it was too long dimensions-wise. Also, I realised that I did not really want to optimise it as I would result in losing the drop shadow detail which I had added to a new version of the design.&lt;/p&gt;
 &lt;h3 id=&#34;the-new-design&#34;&gt;&lt;strong&gt;The new design&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;The performance issues highlighted that the design of the patient anxiety-level link was in fact creating an optical illusion and making the carousel look guddery/jerky even once the problems with it were fixed. The new design not only looked more streamlined, but it &lt;em&gt;moved&lt;/em&gt; more smoothly simply by virtue of its aesthetics. &lt;/p&gt;
-\[caption id=&#34;attachment\_384&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-17-at-14-41-34/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the original flickity anxiety level image which was a series of coloured bars&#34; srcset=&#34;
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu10641617840391563913.webp 400w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu12300977603194677669.webp 760w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu616785827098561202.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-14.41.34-300x142_hu10641617840391563913.webp&#34;
-               width=&#34;300&#34;
-               height=&#34;142&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 1 - This screenshot deliberately shows the progress between two slides. This version of the anxiety level image had a visual effect akin to passing a row of trees with bright light behind them. It became very jarring when viewed at-speed&lt;/p&gt;
+\[caption id=&#34;attachment\_384&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;
+ Version 1 - This screenshot deliberately shows the progress between two slides. This version of the anxiety level image had a visual effect akin to passing a row of trees with bright light behind them. It became very jarring when viewed at-speed&lt;/p&gt;
 \[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_385&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-17-at-21-53-02/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing the second version of the patient anxiety level image this looks more like a wobbly graph line&#34; srcset=&#34;
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu12588143370985650092.webp 400w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu3926500114366226013.webp 760w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu10023495850637389306.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-17-at-21.53.02-300x171_hu12588143370985650092.webp&#34;
-               width=&#34;300&#34;
-               height=&#34;171&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; Version 2: I created a long svg in Adobe Illustrator with a greater level of logic. Attempting to map the story thematically to a graphical interpretation of the patient stress levels. This link is on the one-hand more graph-like but also more oraganic as I made it from scratch by drawing and manipulating a continuous line&amp;hellip;Can you tell I went to art school?&lt;/p&gt;
+\[caption id=&#34;attachment\_385&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;
+ Version 2: I created a long svg in Adobe Illustrator with a greater level of logic. Attempting to map the story thematically to a graphical interpretation of the patient stress levels. This link is on the one-hand more graph-like but also more oraganic as I made it from scratch by drawing and manipulating a continuous line&amp;hellip;Can you tell I went to art school?&lt;/p&gt;
 \[/caption\]&lt;h3 id=&#34;space-economy&#34;&gt;&lt;strong&gt;Space economy&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;This entry represents the end of a period where I added a lot of content to the site. This was a good thing, but it also meant that there were areas that felt overly heavy like the devices area. I decided to try adding a collapsible accordion as a container for the information, using a tutorial from Codrops (Mary Lou, 2012). The tutorial was bit old but I liked how it used CSS and I felt that I could build on it. The accordion looked quite nice too, I&amp;rsquo;m sure that you can sense a &amp;lsquo;but&amp;hellip;&amp;rsquo; coming on here? Well I will explain it in the next journal entry. I have however included a screenshot the accordion so that it can live on it perpetuity. &lt;/p&gt;
-\[caption id=&#34;attachment\_386&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/16/the-weekend-of-doom/screen-shot-2017-01-19-at-23-28-05/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot showing collapsible accordion sections of the site&#34; srcset=&#34;
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu10750906775078462425.webp 400w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu13497284203342604695.webp 760w,
-               /post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu13783834743057585401.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/the-weekend-of-doom/images/Screen-Shot-2017-01-19-at-23.28.05-300x286_hu10750906775078462425.webp&#34;
-               width=&#34;300&#34;
-               height=&#34;286&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt; This is where I got to with them. Partially styled, but a nice efficient use of space. I would have added svg &amp;ldquo;+&amp;ldquo;s on the right to indicate their interactivity.&lt;/p&gt;
+\[caption id=&#34;attachment\_386&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;
+ This is where I got to with them. Partially styled, but a nice efficient use of space. I would have added svg &amp;ldquo;+&amp;ldquo;s on the right to indicate their interactivity.&lt;/p&gt;
 \[/caption\]&lt;h3 id=&#34;the-contact-form-actually-works-now&#34;&gt;The contact form actually works now&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/09/new-files-added-to-support-the-contact-form/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I wrote a dev post about this&lt;/a&gt;, but &lt;em&gt;yes&lt;/em&gt; the contact form is now working as it should. I just need to enhance the warning/alert aspects and add aria labels etc. And so does the back-to-top the button as in it only appears when one is sufficiently far from the top of the page for it to be useful. &lt;a href=&#34;http://fionamacneill.co.uk/blog/2017/01/18/got-rid-of-some-extras-and-wrote-some-new-script/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This took a couple of iterations of code to get right&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+, but &lt;em&gt;yes&lt;/em&gt; the contact form is now working as it should. I just need to enhance the warning/alert aspects and add aria labels etc. And so does the back-to-top the button as in it only appears when one is sufficiently far from the top of the page for it to be useful. 
+.&lt;/p&gt;
 &lt;h3 id=&#34;finally&#34;&gt;Finally&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;I had come up with a CSS style for reference sections and I decided to add it to this journal as well as part of my custom child theme. I am going to &lt;em&gt;try&lt;/em&gt; (time allowing) to add it to my all my posts retroactively, but it is a big job and I have surprised myself at the sheer number of posts that I have amassed here in the past few months.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;p&gt;Coyier, C. (2013, March 5). Using SVG &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/using-svg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/using-svg/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;DuckDuckGo. (2014, February 20). About DuckDuckGo. Retrieved January 15, 2017, from DuckDuckGo.com website: &lt;a href=&#34;https://duckduckgo.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://duckduckgo.com/about&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;DuckDuckGo. (2014, February 20). About DuckDuckGo. Retrieved January 15, 2017, from DuckDuckGo.com website: 
+&lt;/p&gt;
 &lt;p&gt;Mary Lou. (2012, February 21). Accordion with CSS3 &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tympanus.net/codrops/2012/02/21/accordion-with-css3/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;metafizzy. (2016). Options. Retrieved January 15, 2017, from metafizzy website: &lt;a href=&#34;http://flickity.metafizzy.co/options.html#prevnextbuttons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/options.html#prevnextbuttons&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;metafizzy. (2016). Options. Retrieved January 15, 2017, from metafizzy website: 
+&lt;/p&gt;
 &lt;p&gt;Sowmya. (2013). Re: Nesting an svg inside a div &lt;/p&gt;
-\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: &lt;a href=&#34;http://stackoverflow.com/questions/15474306/nesting-an-svg-inside-a-div&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/questions/15474306/nesting-an-svg-inside-a-div&lt;/a&gt;&lt;/p&gt;
+\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: 
+&lt;/p&gt;
 </description>
     </item>
     
@@ -273,7 +188,8 @@
       <link>http://localhost:1313/post/2017/01/charty-mccharterson/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2017/01/charty-mccharterson/</guid>
-      <description>&lt;p&gt;I knew that all of that work that I did on polls would come in handy at some point. The &lt;em&gt;time&lt;/em&gt; arrived, as displaying data was something that seemed important from the beginning, to support the goals for the project. I wanted to support the information about &amp;lsquo;UK smart device ownership&amp;rsquo; with some data. Having spent quite a bit of time &lt;a href=&#34;http://fionamacneill.co.uk/blog/2016/12/24/on-the-importance-of-self-discipline/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;looking at polling options&lt;/a&gt; and trying things out, I felt sure that the the Google Charts api (n.d.) would give me the level of interactivity and customisation required.&lt;/p&gt;
+      <description>&lt;p&gt;I knew that all of that work that I did on polls would come in handy at some point. The &lt;em&gt;time&lt;/em&gt; arrived, as displaying data was something that seemed important from the beginning, to support the goals for the project. I wanted to support the information about &amp;lsquo;UK smart device ownership&amp;rsquo; with some data. Having spent quite a bit of time 
+ and trying things out, I felt sure that the the Google Charts api (n.d.) would give me the level of interactivity and customisation required.&lt;/p&gt;
 &lt;h3 id=&#34;something-i-changed&#34;&gt;Something I changed&lt;/h3&gt;
 &lt;p&gt;Like the tools I had used already (see earlier entries including Flickity by metafizzy (2016), smooth-scroll by cfernandi (2016)) the instructions always say to call the JavaScript package in the header. This is something that my instructor, Marcus, had pointed out as bad practice. Therefore, I created a new eventlistener in my JavaScript file in order to load google&amp;rsquo;s &amp;ldquo;loader.js&amp;rdquo; script. This allowed me to place the &lt;script&gt;&amp;quot;&lt;script&gt;&amp;quot;&lt;/script&gt;&amp;rsquo; tag at the bottom of my index.html file. However, unlike the other widgets and code snippets that I have used, I cannot compile Google&amp;rsquo;s JavaScript as part of my own script (Google, 2016a), it has to be loaded from Google servers (licensed under Apache license version 2.0 (2004) ). For this reason I reused the loading GIF from the contact form, to show while the chart loads. The data itself is from Offcom&amp;rsquo;s report entitled, The Communications Market, 5 Internet and Online Content (2016a, p. 191). What is great about their site is that they make the raw data available in Microsoft Excel format, so I was able to construct the chart based on a subset of data (Ofcom, 2016b). In order to show the age versus ownership I selected a stacked barchart as a space efficient way to show the data.&lt;/p&gt;
 &lt;h3 id=&#34;prepping-the-chart-for-print&#34;&gt;Prepping the chart for print&lt;/h3&gt;
@@ -297,11 +213,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the first tab&#34; srcset=&#34;
-               /post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu1611963949687240802.webp 400w,
-               /post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu9323567686787011027.webp 760w,
-               /post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu11706687121186768843.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu1611963949687240802.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of the first tab&#34; 
+               srcset=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp 320w, http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_efff1ff445cc2ab7.webp 378w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp&#34;
                width=&#34;378&#34;
                height=&#34;149&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -324,11 +240,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Screenshot of the second attempt at a tab using CSS&#34; srcset=&#34;
-               /post/2017/01/charty-mccharterson/images/tabsecond_hu11422907625200995912.webp 400w,
-               /post/2017/01/charty-mccharterson/images/tabsecond_hu1505575421321088732.webp 760w,
-               /post/2017/01/charty-mccharterson/images/tabsecond_hu8826783496907106249.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabsecond_hu11422907625200995912.webp&#34;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of the second attempt at a tab using CSS&#34; 
+               srcset=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp 271w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp&#34;
                width=&#34;271&#34;
                height=&#34;162&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -336,18 +252,29 @@
  Second attempt at a tab using two CSS divs - one skewed 40deg - sadly it will need to be replaced due to the need for background compatibility&lt;/p&gt;
 \[/caption\]&lt;p&gt; Ultimately, I will need to go back to an svg solution, but I will draw it to look like what I came up with using the CSS.&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
-&lt;p&gt;Apache Software Foundation. (2004). Apache license version 2.0. Retrieved January 7, 2017, from Apache Software Foundation website, &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Can I use&amp;hellip; (2016, October 23). Retrieved January 7, 2017, from &lt;a href=&#34;http://caniuse.com/#search=transform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://caniuse.com/#search=transform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apache Software Foundation. (2004). Apache license version 2.0. Retrieved January 7, 2017, from Apache Software Foundation website, 
+&lt;/p&gt;
+&lt;p&gt;Can I use&amp;hellip; (2016, October 23). Retrieved January 7, 2017, from 
+&lt;/p&gt;
 &lt;p&gt;Coyier, C. (2013, December 4). SVG tabs (using an SVG shape as template) &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from &lt;a href=&#34;https://css-tricks.com/svg-tabs-using-svg-shape-template/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/svg-tabs-using-svg-shape-template/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;cferdinandi. (2016, December 11). Cferdinandi/smooth-scroll. Retrieved December 11, 2016, from &lt;a href=&#34;https://github.com/cferdinandi/smooth-scroll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/cferdinandi/smooth-scroll&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google. (n.d.). Charts | Google developers. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google. (2016a, September 12). Load the libraries. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/basic_load_libs#limitations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/basic_load_libs#limitations&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google. (2016b, September 12). Bar charts. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Google. (2016c, October 12). Printing PNG charts. Retrieved January 7, 2017, from Google Charts, &lt;a href=&#34;https://developers.google.com/chart/interactive/docs/printing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://developers.google.com/chart/interactive/docs/printing&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;metafizzy. (2016). Flickity. Retrieved January 15, 2017, from &lt;a href=&#34;http://flickity.metafizzy.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flickity.metafizzy.co/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ofcom. (2016a). &lt;em&gt;The Communications Market 2016: 5 Internet and online content.&lt;/em&gt; Retrieved from &lt;a href=&#34;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/the-communications-market-report-uk#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/the-communications-market-report-uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ofcom. (2016b, August 4). Data downloads. Retrieved January 7, 2017, from Ofcom.org.uk, &lt;a href=&#34;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/downloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ofcom.org.uk/research-and-data/cmr/cmr16/downloads&lt;/a&gt;&lt;/p&gt;
+\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;cferdinandi. (2016, December 11). Cferdinandi/smooth-scroll. Retrieved December 11, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Google. (n.d.). Charts | Google developers. Retrieved January 7, 2017, from Google Charts, 
+&lt;/p&gt;
+&lt;p&gt;Google. (2016a, September 12). Load the libraries. Retrieved January 7, 2017, from Google Charts, 
+&lt;/p&gt;
+&lt;p&gt;Google. (2016b, September 12). Bar charts. Retrieved January 7, 2017, from Google Charts, 
+&lt;/p&gt;
+&lt;p&gt;Google. (2016c, October 12). Printing PNG charts. Retrieved January 7, 2017, from Google Charts, 
+&lt;/p&gt;
+&lt;p&gt;metafizzy. (2016). Flickity. Retrieved January 15, 2017, from 
+&lt;/p&gt;
+&lt;p&gt;Ofcom. (2016a). &lt;em&gt;The Communications Market 2016: 5 Internet and online content.&lt;/em&gt; Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Ofcom. (2016b, August 4). Data downloads. Retrieved January 7, 2017, from Ofcom.org.uk, 
+&lt;/p&gt;
 </description>
     </item>
     

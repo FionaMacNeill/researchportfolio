@@ -94,14 +94,12 @@ sections:
     content:
       title: 'Contact'
       subtitle: ''
-      text: |-
-        <div style="text-align:center;"> 
-        <a href="mailto:hello@fionamacneill.co.uk">hello@fionamacneill.co.uk</a>
-        <p>Macknowlogist Ltd <br>83 Queens Road <br>Brighton <br>BN1 3XE</p> 
-        <strong>Company number:</strong> 16146243
-        </div>
+      text: 
+        <div style="text-align:center;"><a href="mailto:hello@fionamacneill.co.uk">hello@fionamacneill.co.uk</a><p>Macknowlogist Ltd (16146243) <br>83 Queens Road, Brighton, BN1 3XE</p></div>
+       
     design:
       columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
----
+--- 
+

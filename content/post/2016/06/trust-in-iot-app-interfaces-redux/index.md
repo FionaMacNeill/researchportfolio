@@ -144,4 +144,4 @@ Woods, B. (2016, January 19). _Hippocratic oath for connected medical devices_. 
 
 ## My current personal hero:
 
-<iframe src="https://www.youtube.com/embed/Hxdqp3N_ymU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Hxdqp3N_ymU?si=4exRQqWJLVyge05c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
