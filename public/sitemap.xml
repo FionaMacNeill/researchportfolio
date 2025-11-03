@@ -4,9 +4,9 @@
   
   
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/</loc><lastmod>2025-07-12T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/blog/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/tags/ai/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/blogging/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -33,8 +33,6 @@
     <loc>http://localhost:1313/events/communityorganising/</loc><lastmod>2025-03-13T12:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/events/playfullearning2024/</loc><lastmod>2024-07-04T16:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://localhost:1313/privacy/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -445,5 +443,7 @@
     <loc>http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</loc><lastmod>2014-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/blog/2014/09/the-adjustment-bureau/</loc><lastmod>2014-09-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/privacy/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/</loc><changefreq>weekly</changefreq></url></urlset>
