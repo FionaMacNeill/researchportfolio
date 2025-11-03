@@ -14,9 +14,9 @@
     
     <item>
       <title>Wireframe sketching: looking at the index/home</title>
-      <link>http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
+      <link>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
+      <guid>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
       <description>&lt;p&gt;
 
 
@@ -37,9 +37,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;wireframe sketches part 3&#34; 
-               srcset=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
+               src=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
                width=&#34;760&#34;
                height=&#34;539&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

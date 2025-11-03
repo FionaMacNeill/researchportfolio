@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: cyan
+  mode: dark
+  color: green
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Macknowlogist: Fiona MacNeill portfolio and blog.'
+    description: 'Fiona MacNeill portfolio and blog.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -30,12 +30,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    block: "navbar"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: false
     logo:
-      text: "Macknowlogist"
+      text: "Fiona MacNeill"
 
 # Site footer - added my name
 footer:

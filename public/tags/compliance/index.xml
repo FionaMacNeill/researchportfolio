@@ -14,9 +14,9 @@
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -141,9 +141,9 @@
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</link>
+      <link>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -174,9 +174,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -201,9 +201,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +269,9 @@
     
     <item>
       <title>Progress on the grid and layout</title>
-      <link>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <link>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <guid>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</guid>
       <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;
 &lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
 &lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;

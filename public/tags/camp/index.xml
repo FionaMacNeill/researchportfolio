@@ -14,9 +14,9 @@
     
     <item>
       <title>UX Camp Brighton 2023 - Game on!</title>
-      <link>http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/</link>
+      <link>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</link>
       <pubDate>Sun, 09 Apr 2023 18:50:06 +0100</pubDate>
-      <guid>http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/</guid>
+      <guid>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</guid>
       <description>&lt;h2 id=&#34;today-is-ux-camp-brighton&#34;&gt;Today is UX Camp Brighton!&lt;/h2&gt;
 &lt;p&gt;It is is 6.30am on the day of UX Camp Brighton 2023, one of my favourite days of the year! It is also the event&amp;rsquo;s 10th anniversary. I starting attending back in 2014; we go back a long way. Check out 
  for a flavour - I just noticed that I am on there!&lt;/p&gt;
@@ -56,9 +56,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Bar chart showing that salaries for men and women were equal in UX in 2022&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp 320w, http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ede0731ef52f89b9.webp 480w, http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ed4117616d45524.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp 320w, http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ede0731ef52f89b9.webp 480w, http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ed4117616d45524.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

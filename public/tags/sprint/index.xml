@@ -14,9 +14,9 @@
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>http://localhost:1313/post/2022/10/cufflinks-1022/</link>
+      <link>http://localhost:1313/blog/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/10/cufflinks-1022/</guid>
+      <guid>http://localhost:1313/blog/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -89,9 +89,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;flow of activities starting with video interviews, a written interview transcript, a chart showing click activities when using software Then example statements for a job when I am context, to help me motivation, so I can outcome&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -154,9 +154,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;fairy lights with clipped on cards, each card with a diffferent picture or message&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
                width=&#34;760&#34;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

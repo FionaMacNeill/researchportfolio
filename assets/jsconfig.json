@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-tailwind@v0.9.0/assets/*"
+    "../_vendor/github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind/assets/*"
    ]
   }
  }

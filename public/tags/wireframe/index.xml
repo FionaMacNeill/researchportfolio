@@ -14,9 +14,9 @@
     
     <item>
       <title>Building the grid</title>
-      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
+      <link>http://localhost:1313/blog/2016/11/building-the-grid/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <guid>http://localhost:1313/blog/2016/11/building-the-grid/</guid>
       <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
 \[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;
  The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Wireframes 2&#43;</title>
-      <link>http://localhost:1313/post/2016/11/wireframes-2/</link>
+      <link>http://localhost:1313/blog/2016/11/wireframes-2/</link>
       <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/wireframes-2/</guid>
+      <guid>http://localhost:1313/blog/2016/11/wireframes-2/</guid>
       <description>&lt;p&gt;This post displays iterations of wireframe 2. In this wireframe, I took ideas from wireframes 0 and 1, but removed the next buttons in favour of a timeline at the top of the page. The top section of the page, containing the timeline, is shown as overflow (beyond the width) of the page to indicate the dynamic content. Clicking on the &lt;em&gt;years&lt;/em&gt;, and circles on the timeline is intended to swap out the slide content and information in the centre of the timeline section. The arrow buttons on the left and right were also intended to switch between the content slides. These buttons ideally would also be operable via arrow keys on the keyboard. &lt;/p&gt;
 \[caption id=&#34;attachment\_186&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
  Version 1 - the top timeline is shown double-width in order to indicate the movement of the information.&lt;/p&gt;
@@ -102,9 +102,9 @@
     
     <item>
       <title>Wireframe 0</title>
-      <link>http://localhost:1313/post/2016/11/wireframe0/</link>
+      <link>http://localhost:1313/blog/2016/11/wireframe0/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/wireframe0/</guid>
+      <guid>http://localhost:1313/blog/2016/11/wireframe0/</guid>
       <description>&lt;p&gt;This post shows the initial low fidelity wireframe that I created after meeting with Dr. Theo Fotis on 16/11/16. I decided on a 12 column layout due to the need to have different formats in each section. It seemed to offer a high degree of flexibility. &lt;/p&gt;
 \[caption id=&#34;attachment\_172&#34; align=&#34;alignnone&#34; width=&#34;698&#34;\]&lt;p&gt;
  The first wireframe showing the 12 column layout&lt;/p&gt;
@@ -120,9 +120,9 @@
     
     <item>
       <title>Wireframe 1</title>
-      <link>http://localhost:1313/post/2016/11/wireframe-1/</link>
+      <link>http://localhost:1313/blog/2016/11/wireframe-1/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/wireframe-1/</guid>
+      <guid>http://localhost:1313/blog/2016/11/wireframe-1/</guid>
       <description>&lt;p&gt;This post shows the second iteration of the initial wireframe. This version is slightly higher fidelity and is still based on the idea that users would make use of the &lt;em&gt;smooth scroll&lt;/em&gt; &amp;ldquo;next&amp;rdquo; buttons to transition from section to section. Navigating the information in chronological order. &lt;/p&gt;
 \[caption id=&#34;attachment\_179&#34; align=&#34;alignnone&#34; width=&#34;515&#34;\]&lt;p&gt;
  A higher fidelity version of wireframe 1 - also featuring the anxiety levels visualisation, which is both decorative and function&lt;/p&gt;
@@ -137,9 +137,9 @@
     
     <item>
       <title>Wireframing sketches</title>
-      <link>http://localhost:1313/post/2016/11/wireframing-sketches/</link>
+      <link>http://localhost:1313/blog/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/wireframing-sketches/</guid>
+      <guid>http://localhost:1313/blog/2016/11/wireframing-sketches/</guid>
       <description>&lt;p&gt;
  Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
 \[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
@@ -163,9 +163,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
-               srcset=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               srcset=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               src=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
                width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -14,9 +14,9 @@
     
     <item>
       <title>Progress on the grid and layout</title>
-      <link>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</link>
+      <link>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</guid>
+      <guid>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</guid>
       <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;
 &lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
 &lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;

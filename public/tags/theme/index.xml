@@ -14,9 +14,9 @@
     
     <item>
       <title>Theme testing</title>
-      <link>http://localhost:1313/post/2016/10/theme-testing/</link>
+      <link>http://localhost:1313/blog/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/10/theme-testing/</guid>
+      <guid>http://localhost:1313/blog/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;
 &amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;

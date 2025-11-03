@@ -14,9 +14,9 @@
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
+      <link>http://localhost:1313/blog/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
+      <guid>http://localhost:1313/blog/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -39,9 +39,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Two pages in a sketchbook showing the back of a conference name badge, displaying the schedule. One is for 2020 and one is for 2022.&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -102,9 +102,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Lucy Spence shows her decision making record, which includes the statements above map across an intersecting axis, the x axis shows making a decision from change to no change, the y axis shows using a process form no change to change&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,9 +162,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;A table showing a red column for a bad situation, yellow column for a risky situation, green column for a good situation as a decision plot for identifying when a process should stop&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,9 +192,9 @@
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -242,9 +242,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Slide showing the TV presenter, Nick Knowles, to represent a DIY approach to watch party&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp 320w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_75e705772254cea4.webp 480w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_454bd53644fbf920.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_75e705772254cea4.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_454bd53644fbf920.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -271,9 +271,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Elvira mistress of the dark on the left in an open-topped car and a video of Fiona providing video commentary on a video of Michael Caine from the 1980s&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp 320w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8193d030363b9dc.webp 480w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8bae7580a9e9cd9e.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8193d030363b9dc.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8bae7580a9e9cd9e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -300,9 +300,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Michael Moore on the left and a series of embedded YouTube videos on the right within the context of a Virtual Learning Environment&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp 320w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_63344f44ddfddbdd.webp 480w, http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_9953689768bdf3ac.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_63344f44ddfddbdd.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_9953689768bdf3ac.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

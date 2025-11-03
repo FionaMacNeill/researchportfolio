@@ -4,9 +4,9 @@
   
   
   <url>
-    <loc>http://localhost:1313/post/</loc><lastmod>2025-07-12T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/tags/ai/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/blogging/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -14,35 +14,37 @@
   <url>
     <loc>http://localhost:1313/tags/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2025/06/ux-camp-2025-reflections/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2025/06/ux-camp-2025-reflections/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/uxcamp/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/servicedesignbreakfast/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/servicedesignbreakfast/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/uxcamp2025/</loc><lastmod>2025-04-26T15:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/uxcamp2025/</loc><lastmod>2025-04-26T15:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/greenseo/</loc><lastmod>2025-04-09T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/greenseo/</loc><lastmod>2025-04-09T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/designershive/</loc><lastmod>2025-03-28T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/designershive/</loc><lastmod>2025-03-28T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/uxofselfdefence/</loc><lastmod>2025-03-19T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/uxofselfdefence/</loc><lastmod>2025-03-19T18:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/communityorganising/</loc><lastmod>2025-03-13T12:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/communityorganising/</loc><lastmod>2025-03-13T12:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/playfullearning2024/</loc><lastmod>2024-07-04T16:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/playfullearning2024/</loc><lastmod>2024-07-04T16:15:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/privacy/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/uxcamp2024/</loc><lastmod>2024-04-27T14:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/uxcamp2024/</loc><lastmod>2024-04-27T14:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/event/sdingovvirtual/</loc><lastmod>2024-03-07T15:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/events/sdingovvirtual/</loc><lastmod>2024-03-07T15:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/curation/</loc><lastmod>2023-12-24T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2023/12/humble-rss-feed/</loc><lastmod>2023-12-24T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2023/12/humble-rss-feed/</loc><lastmod>2023-12-24T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/podcasts/</loc><lastmod>2023-12-24T11:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -58,7 +60,7 @@
   <url>
     <loc>http://localhost:1313/tags/ltux/</loc><lastmod>2023-11-05T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2023/11/overdue-reflections/</loc><lastmod>2023-11-05T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2023/11/overdue-reflections/</loc><lastmod>2023-11-05T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/these-uxers-need-help/</loc><lastmod>2023-11-05T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -66,7 +68,7 @@
   <url>
     <loc>http://localhost:1313/tags/walking/</loc><lastmod>2023-11-05T16:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2023/07/these-uxers-need-help---version-2.0/</loc><lastmod>2023-07-16T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2023/07/these-uxers-need-help---version-2.0/</loc><lastmod>2023-07-16T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/ux-camp-brighton/</loc><lastmod>2023-07-16T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -80,7 +82,7 @@
   <url>
     <loc>http://localhost:1313/tags/ux/</loc><lastmod>2023-04-09T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2023/04/ux-camp-brighton-game-on/</loc><lastmod>2023-04-09T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</loc><lastmod>2023-04-09T18:50:06+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/learning/</loc><lastmod>2022-11-13T14:00:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -88,17 +90,17 @@
   <url>
     <loc>http://localhost:1313/tags/ux-brighton/</loc><lastmod>2022-11-13T14:00:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2022/11/uxbrighton-0411/</loc><lastmod>2022-11-13T14:00:29+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2022/11/uxbrighton-0411/</loc><lastmod>2022-11-13T14:00:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/wisdom/</loc><lastmod>2022-11-13T14:00:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/</loc><lastmod>2022-11-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2022/10/cufflinks-1022/</loc><lastmod>2022-10-23T18:21:29+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2022/10/cufflinks-1022/</loc><lastmod>2022-10-23T18:21:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/sprint/</loc><lastmod>2022-10-23T18:21:29+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2022/04/cufflinks-0422/</loc><lastmod>2022-04-23T19:00:05+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2022/04/cufflinks-0422/</loc><lastmod>2022-04-23T19:00:05+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/informal-learning/</loc><lastmod>2022-04-23T19:00:05+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -108,11 +110,11 @@
   <url>
     <loc>http://localhost:1313/tags/public-speaking/</loc><lastmod>2022-04-10T16:42:07+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2022/04/ux-camp-brighton-sticking-power/</loc><lastmod>2022-04-10T16:42:07+01:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/</loc><lastmod>2022-04-10T16:42:07+01:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/in-person/</loc><lastmod>2021-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2021/10/magical-meetings-a-review/</loc><lastmod>2021-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</loc><lastmod>2021-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/meetings/</loc><lastmod>2021-10-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -130,7 +132,7 @@
   <url>
     <loc>http://localhost:1313/tags/elearning/</loc><lastmod>2021-07-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</loc><lastmod>2021-07-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/</loc><lastmod>2021-07-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/viewx/</loc><lastmod>2021-07-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -140,17 +142,17 @@
   <url>
     <loc>http://localhost:1313/tags/double-diamond/</loc><lastmod>2021-07-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2021/07/vlog-3-part-1-adventures-in-viewx/</loc><lastmod>2021-07-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</loc><lastmod>2021-07-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/control/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/privilege/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/</loc><lastmod>2021-03-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/covid-19/</loc><lastmod>2020-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</loc><lastmod>2020-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/</loc><lastmod>2020-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/edtech/</loc><lastmod>2020-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -160,7 +162,7 @@
   <url>
     <loc>http://localhost:1313/tags/online-learning/</loc><lastmod>2020-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</loc><lastmod>2019-06-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/</loc><lastmod>2019-06-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/attendance/</loc><lastmod>2019-06-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -188,11 +190,11 @@
   <url>
     <loc>http://localhost:1313/tags/ui/</loc><lastmod>2018-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</loc><lastmod>2018-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</loc><lastmod>2018-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/uxcb18/</loc><lastmod>2018-03-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/02/hone-smart-hone/</loc><lastmod>2017-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/02/hone-smart-hone/</loc><lastmod>2017-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/images/</loc><lastmod>2017-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -202,9 +204,9 @@
   <url>
     <loc>http://localhost:1313/tags/sketchbook/</loc><lastmod>2017-02-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/02/naming/</loc><lastmod>2017-02-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/02/naming/</loc><lastmod>2017-02-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/02/beginning/</loc><lastmod>2017-02-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/02/beginning/</loc><lastmod>2017-02-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/compliance/</loc><lastmod>2017-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -216,7 +218,7 @@
   <url>
     <loc>http://localhost:1313/tags/screenreader/</loc><lastmod>2017-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</loc><lastmod>2017-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</loc><lastmod>2017-01-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/button/</loc><lastmod>2017-01-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -224,15 +226,15 @@
   <url>
     <loc>http://localhost:1313/tags/svg/</loc><lastmod>2017-01-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/01/the-weekend-of-doom/</loc><lastmod>2017-01-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</loc><lastmod>2017-01-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/charts/</loc><lastmod>2017-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/01/charty-mccharterson/</loc><lastmod>2017-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/01/charty-mccharterson/</loc><lastmod>2017-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/poll/</loc><lastmod>2017-01-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</loc><lastmod>2017-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</loc><lastmod>2017-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/portfolio/</loc><lastmod>2017-01-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -240,13 +242,13 @@
   <url>
     <loc>http://localhost:1313/tags/feature-creep/</loc><lastmod>2016-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</loc><lastmod>2016-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/</loc><lastmod>2016-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/scope-creep/</loc><lastmod>2016-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/todo/</loc><lastmod>2016-12-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/12/cellular-concerns/</loc><lastmod>2016-12-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/12/cellular-concerns/</loc><lastmod>2016-12-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/grid/</loc><lastmod>2016-12-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -262,21 +264,21 @@
   <url>
     <loc>http://localhost:1313/tags/performance/</loc><lastmod>2016-12-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/12/progress-on-the-grid-and-layout/</loc><lastmod>2016-12-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</loc><lastmod>2016-12-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/timeline-tool-identified/</loc><lastmod>2016-11-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/timeline-tool-identified/</loc><lastmod>2016-11-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/wearable/</loc><lastmod>2016-11-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/building-the-grid/</loc><lastmod>2016-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/building-the-grid/</loc><lastmod>2016-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/wireframe/</loc><lastmod>2016-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/wireframes-2/</loc><lastmod>2016-11-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/wireframes-2/</loc><lastmod>2016-11-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/wireframe0/</loc><lastmod>2016-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/wireframe0/</loc><lastmod>2016-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/wireframe-1/</loc><lastmod>2016-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/wireframe-1/</loc><lastmod>2016-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/device/</loc><lastmod>2016-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -286,21 +288,21 @@
   <url>
     <loc>http://localhost:1313/tags/sketch/</loc><lastmod>2016-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/wireframing-sketches/</loc><lastmod>2016-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/wireframing-sketches/</loc><lastmod>2016-11-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/11/business-model-canvas-and-more-tweaks/</loc><lastmod>2016-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</loc><lastmod>2016-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/plugins/</loc><lastmod>2016-11-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/10/portfolio-site-concept-and-other-news/</loc><lastmod>2016-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/</loc><lastmod>2016-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/themes/</loc><lastmod>2016-10-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/theme/</loc><lastmod>2016-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/10/theme-testing/</loc><lastmod>2016-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/10/theme-testing/</loc><lastmod>2016-10-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/06/trust-in-iot-app-interfaces-redux/</loc><lastmod>2016-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</loc><lastmod>2016-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/android/</loc><lastmod>2016-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -322,7 +324,7 @@
   <url>
     <loc>http://localhost:1313/tags/wearables/</loc><lastmod>2016-06-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/05/capturing-live-drawing-in-the-digital-age/</loc><lastmod>2016-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/05/capturing-live-drawing-in-the-digital-age/</loc><lastmod>2016-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/comic/</loc><lastmod>2016-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -344,7 +346,7 @@
   <url>
     <loc>http://localhost:1313/tags/youtube/</loc><lastmod>2016-05-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</loc><lastmod>2016-03-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</loc><lastmod>2016-03-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/iot/</loc><lastmod>2016-03-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -356,7 +358,7 @@
   <url>
     <loc>http://localhost:1313/tags/trust/</loc><lastmod>2016-03-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/03/gamification-in-higher-education/</loc><lastmod>2016-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/03/gamification-in-higher-education/</loc><lastmod>2016-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/education/</loc><lastmod>2016-03-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -374,17 +376,17 @@
   <url>
     <loc>http://localhost:1313/tags/wireframes/</loc><lastmod>2016-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2016/01/wireframes-are-friends-electric/</loc><lastmod>2016-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</loc><lastmod>2016-01-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/topics/</loc><lastmod>2015-12-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/12/wireframes-pondering-topic-pages/</loc><lastmod>2015-12-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/</loc><lastmod>2015-12-31T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/ideas/</loc><lastmod>2015-12-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/12/wireframe-sketching-looking-at-the-indexhome/</loc><lastmod>2015-12-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</loc><lastmod>2015-12-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/12/major-discoveries-minor-anguish/</loc><lastmod>2015-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/</loc><lastmod>2015-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/reflections/</loc><lastmod>2015-12-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -394,23 +396,23 @@
   <url>
     <loc>http://localhost:1313/tags/mcq/</loc><lastmod>2015-12-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</loc><lastmod>2015-12-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</loc><lastmod>2015-12-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/test/</loc><lastmod>2015-12-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/12/bits-pieces-put-together-to-present-a-semblance-of-a-whole/</loc><lastmod>2015-12-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/12/bits-pieces-put-together-to-present-a-semblance-of-a-whole/</loc><lastmod>2015-12-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/diagrams/</loc><lastmod>2015-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/11/perplexed-or-why-we-iterate/</loc><lastmod>2015-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/11/perplexed-or-why-we-iterate/</loc><lastmod>2015-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/uml/</loc><lastmod>2015-11-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/10/characteristics-for-the-users-of-an-oer/</loc><lastmod>2015-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/10/characteristics-for-the-users-of-an-oer/</loc><lastmod>2015-10-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/leaderboard/</loc><lastmod>2015-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</loc><lastmod>2015-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</loc><lastmod>2015-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/rise/</loc><lastmod>2015-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -420,13 +422,13 @@
   <url>
     <loc>http://localhost:1313/tags/udigcaps/</loc><lastmod>2015-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/10/user-characteristics-are-coming-out-of-my-ears/</loc><lastmod>2015-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/10/user-characteristics-are-coming-out-of-my-ears/</loc><lastmod>2015-10-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/evaluation/</loc><lastmod>2015-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/10/new-project-new-category/</loc><lastmod>2015-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/10/new-project-new-category/</loc><lastmod>2015-10-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2015/03/re-blog/</loc><lastmod>2015-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2015/03/re-blog/</loc><lastmod>2015-03-21T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/cornell/</loc><lastmod>2014-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -440,8 +442,8 @@
   <url>
     <loc>http://localhost:1313/tags/penultimate/</loc><lastmod>2014-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</loc><lastmod>2014-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</loc><lastmod>2014-09-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/post/2014/09/the-adjustment-bureau/</loc><lastmod>2014-09-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://localhost:1313/blog/2014/09/the-adjustment-bureau/</loc><lastmod>2014-09-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/publication_types/</loc><changefreq>weekly</changefreq></url></urlset>

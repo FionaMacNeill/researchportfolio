@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Fiona MacNeill Portfolio and Blog</title>
+    <link>http://localhost:1313/events/</link>
+      <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 08 May 2025 08:45:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/events/</link>
+    </image>
+    
+    <item>
+      <title>Gr8 Expectations - A generative game about AI</title>
+      <link>http://localhost:1313/events/servicedesignbreakfast/</link>
+      <pubDate>Thu, 08 May 2025 08:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/servicedesignbreakfast/</guid>
+      <description>&lt;p&gt;Some of the hand-drawn cards used to enable and stimulate discussion.&lt;/p&gt;
+&lt;img src=&#34;CardsForGenAIDiscussion.webp&#34; alt=&#34;A selection of cards from the game including the Godzilla card, for manmade disaster, and the Carl Sagan Ethics card.&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating Another Way (CAW) - UX Camp Brighton 2025</title>
+      <link>http://localhost:1313/events/uxcamp2025/</link>
+      <pubDate>Sat, 26 Apr 2025 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/uxcamp2025/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m planning a series of blog posts about this talk as there is a &lt;em&gt;lot&lt;/em&gt; of thinking behind &amp;lsquo;Creating Another Way&amp;rsquo;. It is a work-in-progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>So you want to go green?</title>
+      <link>http://localhost:1313/events/greenseo/</link>
+      <pubDate>Wed, 09 Apr 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/greenseo/</guid>
+      <description>&lt;p&gt;A joint presentation with Kathryn Lawrence (Behavioural Scientist and Researcher).&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Games for Design and Thinking</title>
+      <link>http://localhost:1313/events/designershive/</link>
+      <pubDate>Fri, 28 Mar 2025 11:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/designershive/</guid>
+      <description>&lt;p&gt;Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, &amp;lsquo;
+&amp;rsquo;. During the day I showed a range of design focused cards, including 
+.&lt;/p&gt;
+&lt;img src=&#34;FMacNeillatDesignersHive.webp&#34; alt=&#34;Fiona is using the Smithery and John V Willshire&#39;s Regenerative Design Field Kit with a group of students in a symposium style space with large tables.&#34; /&gt; 
+&lt;caption&gt;&lt;em&gt;Showing Smithery&#39;s Regenerative Design Toolkit as an example of a design game to a group of students&lt;/em&gt;&lt;/caption&gt; 
+&lt;img src=&#34;GamePlay.webp&#34; alt=&#34;Fiona is smiling while they stand next to a group of students collaborating at a table who are feeding back on their reflections from the &#39;These UXers Need Help&#39; game&#34; width=&#34;600px&#34; /&gt;
+&lt;img src=&#34;TheDesignersHiveEventFlyer.jpeg&#34; alt=&#34;The Designers Hive one-day symposium flyer for design and culture on the 28th of March 2025&#34; width=&#34;600px&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The UX of Self-Defence</title>
+      <link>http://localhost:1313/events/uxofselfdefence/</link>
+      <pubDate>Wed, 19 Mar 2025 18:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/uxofselfdefence/</guid>
+      <description>&lt;p&gt;Learning is embodied and most effective when linked to sensory and emotional experiences. Sensory experiences and emotional reactions build neural pathways. Find out what Fiona has learned by completing 56,160 minutes of Kickboxing at the time of writing the talk.&lt;/p&gt;
+&lt;img src=&#34;talkclip032025.gif&#34; alt=&#34;Fiona is mid presentation, puts down the microphone and throws a demonstrative side kick towards the audience&#34; /&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dialogue: community, volunteering, and setting up your own company</title>
+      <link>http://localhost:1313/events/communityorganising/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/communityorganising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Put the learning into work; take the work out of learning - Playful Learning 2024</title>
+      <link>http://localhost:1313/events/playfullearning2024/</link>
+      <pubDate>Thu, 04 Jul 2024 16:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/playfullearning2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Hacking - UX Camp Brighton 2024</title>
+      <link>http://localhost:1313/events/uxcamp2024/</link>
+      <pubDate>Sat, 27 Apr 2024 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/uxcamp2024/</guid>
+      <description>&lt;h4 id=&#34;literature-review&#34;&gt;Literature review&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: 
+&lt;/li&gt;
+&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: 
+&lt;/li&gt;
+&lt;li&gt;Template for formatting the references in Microsoft Word: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating truly accessible forms - SD in Gov (Virtual)</title>
+      <link>http://localhost:1313/events/sdingovvirtual/</link>
+      <pubDate>Thu, 07 Mar 2024 15:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/sdingovvirtual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

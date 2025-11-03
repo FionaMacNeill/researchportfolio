@@ -14,9 +14,9 @@
     
     <item>
       <title>UX Camp 2025 Reflections</title>
-      <link>http://localhost:1313/post/2025/06/ux-camp-2025-reflections/</link>
+      <link>http://localhost:1313/blog/2025/06/ux-camp-2025-reflections/</link>
       <pubDate>Sat, 21 Jun 2025 08:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025/06/ux-camp-2025-reflections/</guid>
+      <guid>http://localhost:1313/blog/2025/06/ux-camp-2025-reflections/</guid>
       <description>&lt;h2 id=&#34;making-things-manageable&#34;&gt;Making things manageable&lt;/h2&gt;
 &lt;h3 id=&#34;a-brief-catch-up-on-the-last-24-months&#34;&gt;A brief catch-up on the last 24 months&lt;/h3&gt;
 &lt;p&gt;This site has been loved and it has been updated. However, between December 2023 and December 2025, I sort of lost myself a bit. The TL:DR version is between working on Ladies that UX Brighton (now &amp;lsquo;LTUX Brighton&amp;rsquo;) and working in a full-time agency role I lost sight of my thinking/academic/artistic pursuits; I let my reflective practice slip.&lt;/p&gt;
@@ -308,9 +308,9 @@ Snoopers and Poopers&lt;/p&gt;
     
     <item>
       <title>Falling back in love with the humble RSS feed</title>
-      <link>http://localhost:1313/post/2023/12/humble-rss-feed/</link>
+      <link>http://localhost:1313/blog/2023/12/humble-rss-feed/</link>
       <pubDate>Sun, 24 Dec 2023 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023/12/humble-rss-feed/</guid>
+      <guid>http://localhost:1313/blog/2023/12/humble-rss-feed/</guid>
       <description>&lt;h2 id=&#34;kudos&#34;&gt;Kudos&lt;/h2&gt;
 &lt;p&gt;This blog post is inspired by a tip from 
 , who suggested that I check out 
@@ -368,9 +368,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Forrt example - the website footer is shown which helpfully tells the site is made with Hugo&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_bcf1d5f2c843338a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_1231ceee85ff21a.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_bcf1d5f2c843338a.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_1231ceee85ff21a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp&#34;
                width=&#34;760&#34;
                height=&#34;160&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -401,9 +401,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Forrt example - the feed page which shows metadata in xml code format&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_56c89fa46c6bde8a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_263d00f899c3c6e9.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_56c89fa46c6bde8a.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_263d00f899c3c6e9.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp&#34;
                width=&#34;760&#34;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -449,9 +449,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly account options - Organize Feeds is selected&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_9649efcec385876d.webp 400w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_9649efcec385876d.webp 400w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp&#34;
                width=&#34;400&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -482,9 +482,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly OPML export arrow is shown&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6f40fb6b3893b75c.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_8f4bcc7d4ed9fa88.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6f40fb6b3893b75c.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_8f4bcc7d4ed9fa88.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp&#34;
                width=&#34;760&#34;
                height=&#34;202&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -515,9 +515,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly OPML export button to initiate download&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_a5a0f2a29174b82a.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_c07ca1bc62e0215e.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_a5a0f2a29174b82a.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_c07ca1bc62e0215e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp&#34;
                width=&#34;760&#34;
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -548,9 +548,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire top menu, file, then import subscriptions option&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_692632c9508d0b60.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_6b31f6902428ae82.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_692632c9508d0b60.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_6b31f6902428ae82.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -581,9 +581,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire - select the account that you want to import into&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_6173b74dc61d6ec5.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_d7116aa626b420f8.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_6173b74dc61d6ec5.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_d7116aa626b420f8.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp&#34;
                width=&#34;760&#34;
                height=&#34;361&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -614,9 +614,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire - select the OPML file which you downloaded to your computer&#34; 
-               srcset=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp 320w, http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_fa0d42af3eddeb4c.webp 480w, http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_84d276eb7831e8dc.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp 320w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_fa0d42af3eddeb4c.webp 480w, http://localhost:1313/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_84d276eb7831e8dc.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp&#34;
+               src=&#34;http://localhost:1313/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

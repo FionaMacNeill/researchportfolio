@@ -14,9 +14,9 @@
     
     <item>
       <title>Charty McCharterson</title>
-      <link>http://localhost:1313/post/2017/01/charty-mccharterson/</link>
+      <link>http://localhost:1313/blog/2017/01/charty-mccharterson/</link>
       <pubDate>Sat, 07 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/charty-mccharterson/</guid>
+      <guid>http://localhost:1313/blog/2017/01/charty-mccharterson/</guid>
       <description>&lt;p&gt;I knew that all of that work that I did on polls would come in handy at some point. The &lt;em&gt;time&lt;/em&gt; arrived, as displaying data was something that seemed important from the beginning, to support the goals for the project. I wanted to support the information about &amp;lsquo;UK smart device ownership&amp;rsquo; with some data. Having spent quite a bit of time 
  and trying things out, I felt sure that the the Google Charts api (n.d.) would give me the level of interactivity and customisation required.&lt;/p&gt;
 &lt;h3 id=&#34;something-i-changed&#34;&gt;Something I changed&lt;/h3&gt;
@@ -44,9 +44,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of the first tab&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp 320w, http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_efff1ff445cc2ab7.webp 378w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp 320w, http://localhost:1313/blog/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_efff1ff445cc2ab7.webp 378w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/charty-mccharterson/images/tabfirst-e1484520640439_hu_941b89ebd8ad454c.webp&#34;
                width=&#34;378&#34;
                height=&#34;149&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -71,9 +71,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of the second attempt at a tab using CSS&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp 271w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp 271w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/charty-mccharterson/images/tabsecond_hu_805e87e6024316b6.webp&#34;
                width=&#34;271&#34;
                height=&#34;162&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -109,9 +109,9 @@
     
     <item>
       <title>On the importance of self-discipline</title>
-      <link>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</link>
+      <link>http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/12/on-the-importance-of-self-discipline/</guid>
+      <guid>http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/</guid>
       <description>&lt;h3 id=&#34;update-on-the-previously-mentioned-to-do-list&#34;&gt;Update on the previously mentioned to-do list:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;

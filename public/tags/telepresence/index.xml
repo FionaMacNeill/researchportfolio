@@ -14,9 +14,9 @@
     
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>http://localhost:1313/post/2021/10/magical-meetings-a-review/</link>
+      <link>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/10/magical-meetings-a-review/</guid>
+      <guid>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</guid>
       <description>&lt;p&gt;This post relates to 
  of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
@@ -80,6 +80,42 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
 &lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
      data-callout=&#34;note&#34; 
      data-callout-metadata=&#34;&#34;&gt;
@@ -88,9 +124,10 @@
   &lt;/span&gt;
   &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
     &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
 &lt;h2 id=&#34;what-worked-for-me&#34;&gt;What worked for me&lt;/h2&gt;
 &lt;p&gt;There is a lot to like about this book, to summarise my key takeaways&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;meeting-purpose&#34;&gt;Meeting Purpose&lt;/h3&gt;
@@ -174,9 +211,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the 
  on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
@@ -229,9 +266,9 @@ The format can replicate in-person meeting styles or can be specific to online.&
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp 266w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp 266w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -279,9 +316,9 @@ The format can replicate in-person meeting styles or can be specific to online.&
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp 320w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_a7874f191a33d460.webp 351w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp 320w, http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_a7874f191a33d460.webp 351w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,9 +462,9 @@ You can access the original answers via the embed or link below.&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp 320w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_e425198164762cc7.webp 480w, http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_fd50926e5314b867.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp 320w, http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_e425198164762cc7.webp 480w, http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_fd50926e5314b867.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -503,9 +540,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>A technical perspective on a telepresence robot</title>
-      <link>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
+      <link>http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
+      <guid>http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/</guid>
       <description>&lt;p&gt;From January until May 2019 the eLearning team evaluated the AV1 robot avatar, a telepresence robot manufactured by the company &lt;em&gt;No Isolation&lt;/em&gt;, based in Norway. This post aims to provide a brief overview of what we learned during our pilot project.&lt;/p&gt;
 &lt;p&gt;
 
@@ -527,9 +564,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Testing the robot out over a Microsoft Teams call across two campuses&#34; 
-               srcset=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9c4c1a06d5e6eadd.webp 320w, http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9b33b0df605dec3d.webp 480w, http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_a4503fd19bee140f.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9c4c1a06d5e6eadd.webp 320w, http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9b33b0df605dec3d.webp 480w, http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_a4503fd19bee140f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9c4c1a06d5e6eadd.webp&#34;
+               src=&#34;http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robottestingimage_hu_9c4c1a06d5e6eadd.webp&#34;
                width=&#34;760&#34;
                height=&#34;555&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -560,7 +597,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;figure  id=&#34;figure-_av1-robot_&#34;&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;&lt;img alt=&#34;&amp;ldquo;An animated GIF showing the robot&amp;rsquo;s happy and questioning facial expressions.&amp;rdquo;&#34;
-           src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
+           src=&#34;http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/robot.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       &lt;em&gt;AV1 Robot&lt;/em&gt;
@@ -653,9 +690,9 @@ To understand the student experience of using the telepresence robot from a loca
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;The robot in a classroom being controlled using an iPad.&#34; 
-               srcset=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_74977f7cdfa67cd8.webp 320w, http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_e3080644e3cdba8.webp 480w, http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_1caa9650a0aecf51.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_74977f7cdfa67cd8.webp 320w, http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_e3080644e3cdba8.webp 480w, http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_1caa9650a0aecf51.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_74977f7cdfa67cd8.webp&#34;
+               src=&#34;http://localhost:1313/blog/2019/06/a-technical-perspective-on-a-telepresence-robot/images/TestingImage_hu_74977f7cdfa67cd8.webp&#34;
                width=&#34;760&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

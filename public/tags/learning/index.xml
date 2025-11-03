@@ -14,9 +14,9 @@
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>http://localhost:1313/post/2022/11/uxbrighton-0411/</link>
+      <link>http://localhost:1313/blog/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/11/uxbrighton-0411/</guid>
+      <guid>http://localhost:1313/blog/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -39,9 +39,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Two pages in a sketchbook showing the back of a conference name badge, displaying the schedule. One is for 2020 and one is for 2022.&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -102,9 +102,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Lucy Spence shows her decision making record, which includes the statements above map across an intersecting axis, the x axis shows making a decision from change to no change, the y axis shows using a process form no change to change&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,9 +162,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;A table showing a red column for a bad situation, yellow column for a risky situation, green column for a good situation as a decision plot for identifying when a process should stop&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,9 +192,9 @@
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>http://localhost:1313/post/2022/10/cufflinks-1022/</link>
+      <link>http://localhost:1313/blog/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/10/cufflinks-1022/</guid>
+      <guid>http://localhost:1313/blog/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -267,9 +267,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;flow of activities starting with video interviews, a written interview transcript, a chart showing click activities when using software Then example statements for a job when I am context, to help me motivation, so I can outcome&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -332,9 +332,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;fairy lights with clipped on cards, each card with a diffferent picture or message&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
                width=&#34;760&#34;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -360,9 +360,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Cufflinks - Edition 1 - 24th April</title>
-      <link>http://localhost:1313/post/2022/04/cufflinks-0422/</link>
+      <link>http://localhost:1313/blog/2022/04/cufflinks-0422/</link>
       <pubDate>Sat, 23 Apr 2022 19:00:05 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/04/cufflinks-0422/</guid>
+      <guid>http://localhost:1313/blog/2022/04/cufflinks-0422/</guid>
       <description>&lt;h2 id=&#34;what-are-these-cufflinks&#34;&gt;What are these &lt;em&gt;Cufflinks&lt;/em&gt;?&lt;/h2&gt;
 &lt;p&gt;Cufflinks is the title for recurring blog posts where I share some of my favourite links. I plan to write these posts on a semi-regular basis. The inspiration came from the fantastic, Stéphanie Walter&amp;rsquo;s &lt;em&gt;&amp;ldquo;Pixels of the Week&amp;rdquo;&lt;/em&gt; which is an amazing resource. Do check out 
 .&lt;/p&gt;
@@ -403,9 +403,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;flow of activities starting with video interviews, a written interview transcript, a chart showing click activities when using software. Then example statements for a job: when I am context, to help me motivation, so I can outcome.&#34; 
-               srcset=&#34;http://localhost:1313/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_de1fb11b5d3805e1.webp 320w, http://localhost:1313/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_c5955d56efd19e4a.webp 480w, http://localhost:1313/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_e7795020885678fa.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_de1fb11b5d3805e1.webp 320w, http://localhost:1313/blog/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_c5955d56efd19e4a.webp 480w, http://localhost:1313/blog/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_e7795020885678fa.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_de1fb11b5d3805e1.webp&#34;
+               src=&#34;http://localhost:1313/blog/2022/04/cufflinks-0422/images/transcript-to-tutorial_hu_de1fb11b5d3805e1.webp&#34;
                width=&#34;760&#34;
                height=&#34;541&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -505,9 +505,9 @@ A fascinating article providing insight into working artists from a range of dis
     
     <item>
       <title>UX Camp Sticking Power</title>
-      <link>http://localhost:1313/post/2022/04/ux-camp-brighton-sticking-power/</link>
+      <link>http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/</link>
       <pubDate>Sun, 10 Apr 2022 16:42:07 +0100</pubDate>
-      <guid>http://localhost:1313/post/2022/04/ux-camp-brighton-sticking-power/</guid>
+      <guid>http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/</guid>
       <description>&lt;h2 id=&#34;what-i-did&#34;&gt;What I did&lt;/h2&gt;
 &lt;p&gt;On the 26th of March 2022 I attended UX Camp Brighton for the first time in three years. In 2019, I could not attend due to other commitments and for the past two years the event has not run due to the pandemic. The momentous return of UX Camp gave me an opportunity to refresh my in-person presentation skills by hosting a talk about my new found career as a Learning Experience Designer&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The talk took a metacognitive approach by first looking at what a Learning Experience Designer (LXer) does. I then applied my discipline by using a LX lens to deconstruct the UX Camp format. Specifically, I provided a short demo of 
  as it would apply to the event. From an Learning Experience (LX) perspective, UX Camp can be seen as a chance to learn about and, most importantly practise, UX and user research skills in a safe space.&lt;/p&gt;

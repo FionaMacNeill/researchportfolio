@@ -14,9 +14,9 @@
     
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>http://localhost:1313/post/2021/10/magical-meetings-a-review/</link>
+      <link>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/10/magical-meetings-a-review/</guid>
+      <guid>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</guid>
       <description>&lt;p&gt;This post relates to 
  of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
@@ -80,6 +80,42 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
 &lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
      data-callout=&#34;note&#34; 
      data-callout-metadata=&#34;&#34;&gt;
@@ -88,9 +124,10 @@
   &lt;/span&gt;
   &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
     &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Once you start using the table above it may lead to &lt;em&gt;existential unrest&lt;/em&gt;. It led to my own sudden realisation that many meetings, beyond my control, were indeed &amp;ldquo;status updates in disguise&amp;rdquo;.&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
 &lt;h2 id=&#34;what-worked-for-me&#34;&gt;What worked for me&lt;/h2&gt;
 &lt;p&gt;There is a lot to like about this book, to summarise my key takeaways&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;meeting-purpose&#34;&gt;Meeting Purpose&lt;/h3&gt;
@@ -174,9 +211,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;

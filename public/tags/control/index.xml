@@ -14,9 +14,9 @@
     
     <item>
       <title>Vlog 1: introducing a personal challenge</title>
-      <link>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</link>
+      <link>http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/</guid>
+      <guid>http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/</guid>
       <description>&lt;iframe width=&#34;800&#34; height=&#34;400&#34; src=&#34;https://www.youtube-nocookie.com/embed/YHKYFsowRRE?si=pnv2Qule1TsE5k1H&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;what-does-an-inclusive-and-successful-online-event-look-like-setting-a-personal-challenge&#34;&gt;What does an inclusive and successful online event look like? Setting a personal challenge&lt;/h2&gt;
 &lt;h3&gt;\[The short version rather than the 4min vlog\]&lt;/h3&gt;
@@ -55,9 +55,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;&#34; 
-               srcset=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_682d228ce91a3950.webp 320w, http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_8d52dfc284296841.webp 480w, http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_c38111a3ab76d305.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_682d228ce91a3950.webp 320w, http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_8d52dfc284296841.webp 480w, http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_c38111a3ab76d305.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_682d228ce91a3950.webp&#34;
+               src=&#34;http://localhost:1313/blog/2021/03/vlog-introducing-a-personal-challenge/images/inclusivespace-1_hu_682d228ce91a3950.webp&#34;
                width=&#34;760&#34;
                height=&#34;740&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

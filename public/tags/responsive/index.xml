@@ -14,9 +14,9 @@
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -141,9 +141,9 @@
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</link>
+      <link>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -174,9 +174,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -201,9 +201,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +269,9 @@
     
     <item>
       <title>Cellular concerns</title>
-      <link>http://localhost:1313/post/2016/12/cellular-concerns/</link>
+      <link>http://localhost:1313/blog/2016/12/cellular-concerns/</link>
       <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/12/cellular-concerns/</guid>
+      <guid>http://localhost:1313/blog/2016/12/cellular-concerns/</guid>
       <description>&lt;p&gt;I have been plugging away at the portfolio site with the primary aim of getting a semi-functional prototype version to Dr. Theo Fotis on Monday 12th of December. There is a still a huge amount of stuff to do, fix-up and streamline I will add these tasks to my Trello board. This journal entry provides a rundown of the decisions that I have this week.&lt;/p&gt;
 &lt;h3 id=&#34;flickity-carousel&#34;&gt;Flickity carousel&lt;/h3&gt;
 &lt;p&gt;I decided to make the &lt;em&gt;carousel-cell&lt;/em&gt; 100% width due to the need for a more immersive timeline. What I mean by this is that I felt that the cells were too modular before and the greater width (formerly 66%) makes more sense in terms of showing the long anxiety levels .svg file. I still have lot of work to do in terms of consolidating my JavaScript and CSS files into one of each and then also minimising my JavaScript file. One of the things that Marcus brought to my attention was that my script sources should not be loaded in the header of my index.html and that this was bad practice. They now reside under the footer, but this presented some new challenges. For example the smoothScroll function had issues loading so I added a new main.js file (this is will become the final master js file) and added a window EventListener and then added an init function - to initialise SmoothScroll after the load is completed. The other issue is that Flickity Carousel for the timeline started to flash up momentarily as a column until it found it&amp;rsquo;s &lt;em&gt;brain&lt;/em&gt; (aka the script actually loaded). I actually only discovered this due to using my mobile broadband stick in a cafe and noticed the latency. The Flickity Carousel is currently initialized at the bottom of a unique flickity.js file&lt;fn&gt;I needed to keep the smoothScroll.js and flickity.js separated while I figured out how to get things working harmoniously.&lt;/fn&gt;. What I needed to do to solve this was to set the carousel opacity as 0 until the window has loaded and as the carousel is not a function in the same way as smoothScroll it was a bit trickier for me; there wasn&amp;rsquo;t something straightforward for me to work with. What I ended up doing was adding a new variable for carousel immediately after initialising flickity (entails designating the css selector as a flickity carousel) and then applying a style to make the opacity 1&lt;fn&gt;I had to consult github for help with this as I was at a loss for a bit: 
@@ -329,9 +329,9 @@
     
     <item>
       <title>Building the grid</title>
-      <link>http://localhost:1313/post/2016/11/building-the-grid/</link>
+      <link>http://localhost:1313/blog/2016/11/building-the-grid/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2016/11/building-the-grid/</guid>
+      <guid>http://localhost:1313/blog/2016/11/building-the-grid/</guid>
       <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
 \[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;
  The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;

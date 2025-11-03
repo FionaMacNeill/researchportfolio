@@ -14,9 +14,9 @@
     
     <item>
       <title>COVID-19 three months in: what have we learned?</title>
-      <link>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</link>
+      <link>http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
+      <guid>http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
 &lt;p&gt;This post is a personal reflection in response to a question posed by 
  on Twitter as a retweet of 
@@ -81,9 +81,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;photo of a corridor in a modern building with a brigh orange wall on the right&#34; 
-               srcset=&#34;http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_813e175cb62243b8.webp 320w, http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_5257d3960da29e76.webp 480w, http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_858d504cb103f46b.webp 507w&#34;
+               srcset=&#34;http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_813e175cb62243b8.webp 320w, http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_5257d3960da29e76.webp 480w, http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_858d504cb103f46b.webp 507w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/post/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_813e175cb62243b8.webp&#34;
+               src=&#34;http://localhost:1313/blog/2020/06/covid-19-three-months-in-what-have-learnt/images/adrien-olichon-aIQkLE5bqRk-unsplash_hu_813e175cb62243b8.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

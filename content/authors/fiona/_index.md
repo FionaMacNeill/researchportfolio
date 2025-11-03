@@ -10,23 +10,23 @@ first_name: Fiona
 last_name: MacNeill
 
 # Status emoji
-#status:
-#  icon: 🧑🏻‍💻
+# status:
+  # icon: 🧑🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: UX Researcher, Designer, Technologist
+role: Researcher, Designer, Technologist
 
 # Short bio (displayed in user profile at end of posts)
-bio: I create meaningful experiences for learning and doing.
+bio: Knowhow for learning and change
 
 # Interests to show in About widget
-#interests:
-#- User Research and UX Design
-#- Data Analysis and Visualisation
-#- Technology Integration
+interests:
+- Sustainability
+- Data Analysis, LLMs (AI)
+- Human-centred systems & services 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,13 +60,4 @@ profiles:
 highlight_name: true
 ---
 
-# Greetings 🌊 
-
-I create meaningful experiences for learning and doing.
-
-You'll find me immersing myself in complexity and collaborating with people who want to discover more and create positive change. 
-<br> 
-<br>
-{{% callout note %}}
-This site is being updated over the next few months. <br>New case studies and work samples coming soon!
-{{% /callout %}}
+I'm Fiona, and I create meaningful experiences for learning and behavioural change. <p>You'll find me immersing myself in complexity and collaborating with people who want to discover more and create positive change.</p>
