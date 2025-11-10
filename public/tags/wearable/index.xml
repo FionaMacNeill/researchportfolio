@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/wearable/index.xml" rel="self" type="application/rss+xml" />
     <description>Wearable</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 25 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Wearable</title>
-      <link>http://localhost:1313/tags/wearable/</link>
-    </image>
-    
     <item>
       <title>Timeline tool identified</title>
       <link>http://localhost:1313/blog/2016/11/timeline-tool-identified/</link>

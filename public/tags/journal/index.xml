@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Journal</title>
-      <link>http://localhost:1313/tags/journal/</link>
-    </image>
-    
     <item>
       <title>Hone Smart Home</title>
       <link>http://localhost:1313/blog/2017/02/hone-smart-hone/</link>

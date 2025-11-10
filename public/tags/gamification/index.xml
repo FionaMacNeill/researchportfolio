@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/gamification/index.xml" rel="self" type="application/rss+xml" />
     <description>Gamification</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Gamification</title>
-      <link>http://localhost:1313/tags/gamification/</link>
-    </image>
-    
     <item>
       <title>[Talk] Gamification in Higher Education</title>
       <link>http://localhost:1313/blog/2016/03/gamification-in-higher-education/</link>

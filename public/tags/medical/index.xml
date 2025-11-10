@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/medical/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Medical</title>
-      <link>http://localhost:1313/tags/medical/</link>
-    </image>
-    
     <item>
       <title>Wireframing sketches</title>
       <link>http://localhost:1313/blog/2016/11/wireframing-sketches/</link>

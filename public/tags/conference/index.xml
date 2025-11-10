@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Conference</title>
-      <link>http://localhost:1313/tags/conference/</link>
-    </image>
-    
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
       <link>http://localhost:1313/blog/2021/07/what-makes-an-online-space-inclusive/</link>

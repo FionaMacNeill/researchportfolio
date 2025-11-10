@@ -74,9 +74,6 @@ Use this!
 5. Launch Google Hangout on air and tweet link to live YouTube channel and hangout
 6. Make sure that hangout is set to mute audio and video of attendees (cameraman settings)
 
-### Video summary of the workflow:
-
-<iframe src="https://mediastream.brighton.ac.uk/player?autostart=n&fullscreen=y&width=320&height=260&videoId=3395&quality=hd&captions=n&chapterId=0" width="330" height="270" frameborder="0" scrolling="no"></iframe>
 
 ## Option 3: Eve drawing on paper on the document visualiser/document camera
 

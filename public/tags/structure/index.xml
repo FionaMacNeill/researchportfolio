@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/structure/index.xml" rel="self" type="application/rss+xml" />
     <description>Structure</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 21 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Structure</title>
-      <link>http://localhost:1313/tags/structure/</link>
-    </image>
-    
     <item>
       <title>Major discoveries, minor anguish</title>
       <link>http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/</link>

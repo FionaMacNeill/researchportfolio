@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/facilitation/index.xml" rel="self" type="application/rss+xml" />
     <description>Facilitation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 10 Apr 2022 16:42:07 +0100</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Facilitation</title>
-      <link>http://localhost:1313/tags/facilitation/</link>
-    </image>
-    
     <item>
       <title>UX Camp Sticking Power</title>
       <link>http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/</link>
@@ -20,8 +14,38 @@
       <description>&lt;h2 id=&#34;what-i-did&#34;&gt;What I did&lt;/h2&gt;
 &lt;p&gt;On the 26th of March 2022 I attended UX Camp Brighton for the first time in three years. In 2019, I could not attend due to other commitments and for the past two years the event has not run due to the pandemic. The momentous return of UX Camp gave me an opportunity to refresh my in-person presentation skills by hosting a talk about my new found career as a Learning Experience Designer&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The talk took a metacognitive approach by first looking at what a Learning Experience Designer (LXer) does. I then applied my discipline by using a LX lens to deconstruct the UX Camp format. Specifically, I provided a short demo of 
  as it would apply to the event. From an Learning Experience (LX) perspective, UX Camp can be seen as a chance to learn about and, most importantly practise, UX and user research skills in a safe space.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;m here for the title &lt;a href=&#34;https://twitter.com/hashtag/uxcb22?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#uxcb22&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fmacneill?ref_src=twsrc%5Etfw&#34;&gt;@fmacneill&lt;/a&gt; &lt;a href=&#34;https://t.co/72SB6cW7iz&#34;&gt;pic.twitter.com/72SB6cW7iz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rebecca Hugo (@becstex) &lt;a href=&#34;https://twitter.com/becstex/status/1507699064682467345?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;I&#39;m here for the title #uxcb22 @fmacneill&lt;/blockquote&gt; 
+- Tweet by Rebecca Hugo (@becstex) on March 26, 2022.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-photo-credit-rebecca-hugo&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Fiona MacNeill is shown presenting to a large room, with the slide title projected above reading, Let&amp;rsquo;s talk about LX maybe, Let&amp;rsquo;s talk about you and me&#34; 
+               srcset=&#34;http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_490fe16b70353071.webp 320w, http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_9d59082440f597cf.webp 480w, http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_4d149b395ab345ab.webp 680w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_490fe16b70353071.webp&#34;
+               width=&#34;680&#34;
+               height=&#34;306&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Photo credit: Rebecca Hugo
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;I used the talk as a testbed for new ideas; some worked well, some need further reflection. This approach of testing with an audience was inspired by 
  who was recently interviewed on 
 . Nixon noted the use of public speaking to prototype ideas and get fast feedback. This was a liberating idea for me as for years I have felt that I cannot speak if I do not first write. But perhaps I can speak &lt;em&gt;to&lt;/em&gt; write and write for speech. This is something that I need to develop and hone, but Nixon&amp;rsquo;s career is certainly an inspiration to me. Like me she has traversed and art and creativity within her career, yet she has also successfully applied these diverse experiences within business. But enough about me and my UX Camp talk, you kind of had to be there.&lt;/p&gt;
@@ -37,7 +61,7 @@
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;80% of your user&amp;rsquo;s experience could be affected 20% of your product.&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;80% of your user&amp;rsquo;s experience could be affected 20% of your product.&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Unexpectedly Obvious&lt;/em&gt;&lt;/strong&gt; - Chris How 
@@ -48,7 +72,7 @@
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;Understanding the problem + Imaginative thinking = Unexpectedly obvious design&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;Understanding the problem + Imaginative thinking = Unexpectedly obvious design&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Are you at the table or on the menu?&lt;/em&gt;&lt;/strong&gt; - Laura Yarrow 
@@ -60,8 +84,6 @@
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Why Lorem Ipsum sucks and what to do about it&lt;/em&gt;&lt;/strong&gt; - 
 &lt;/p&gt;
 &lt;p&gt;Some great tips for using authentic text and content when prototyping in Figma and why that is important, especially when testing designs.&lt;/p&gt;
-&lt;p&gt;@laura_yarrow explains the role of designer as “trusted agitator” &lt;a href=&#34;https://twitter.com/hashtag/UXCB22?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#UXCB22&lt;/a&gt; - amazing talk! &lt;a href=&#34;https://t.co/RIdnGl98j0&#34;&gt;pic.twitter.com/RIdnGl98j0&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1507736371775090691?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;why-did-it-stick&#34;&gt;Why did it stick?&lt;/h2&gt;
 &lt;p&gt;So what made these sessions successful from an LX perspective?&lt;/p&gt;
 &lt;h3 id=&#34;applying-8020&#34;&gt;&lt;em&gt;Applying 80/20&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
@@ -71,7 +93,7 @@
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;If you could change one of the following things about your organisation, what would it be?&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;If you could change one of the following things about your organisation, what would it be?&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;We were given the findings as percentages and asked to arrange them from highest to lowest on a piece of paper. We then needed to slice the data based on the figures that got us closest to 80% cumulatively. Alternatively we could look at the figures that made up the top 20%. Figures represented action items like: office location (28%), progression roadmap (25%), salaries (23%)&lt;/p&gt;
@@ -82,7 +104,7 @@
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;76% of employee experience can be improved by focusing on 30% of the organisation.&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;76% of employee experience can be improved by focusing on 30% of the organisation.&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;This session gave us an opportunity to practise and apply this method. Arif also gave us a series of scenarios where she had found the concept useful in her own work.&lt;/p&gt;

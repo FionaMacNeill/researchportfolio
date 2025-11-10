@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/screenreader/index.xml" rel="self" type="application/rss+xml" />
     <description>Screenreader</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 19 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Screenreader</title>
-      <link>http://localhost:1313/tags/screenreader/</link>
-    </image>
-    
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
       <link>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
@@ -33,7 +27,6 @@
  - a frequent go-to of mine&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I feel like I have only scratched the surface with the WAI-ARIA roles, but based on testing I feel that the site is accessible as I could get it within the allotted time. In the end I found a blog post on the subject by a rather brilliant developer, Aaron Krauss (2016) who did a great job of how to practically use certain ARIA labels and roles. What I did find is that there is quite a lot of redundancy in the code, but you need to have it there as the screenreader doesn&amp;rsquo;t necessarily pick up the semantics in the page construction as you might intend. Here is a video of my screenreader testing in action with tab key only - tabindex (Mozilla Developer Network, 2017)&lt;/p&gt;
-&lt;iframe style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=0&amp;amp;height=0&amp;amp;videoId=6936&amp;amp;quality=hd&amp;amp;captions=n&amp;amp;chapterId=0&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;what-the-font&#34;&gt;What the font?&lt;/h3&gt;
 &lt;p&gt;I conducted some reading (Nielsen, 2002; Martin, 2009; Franz, 2014; ) around legible fonts and font sizes and optimal line height. I have tried my best to work with the best practices, although that does get tricky with the mobile screen size. However, the attention that I have paid to optimising the CSS stylesheet for plain readers should help those who use accessibility features on mobile devices. &lt;strong&gt;Added a fix to the superscript&lt;/strong&gt; I found a very helpful snippet for fixing line height for superscript (used for references) and subscript. Thank you to the -ever helpful- CSS Tricks site (Coyier, 2009a). &lt;strong&gt;Contrast&lt;/strong&gt; As much as I loved the white headers along the timeline the contrast was not sufficient. The colour scheme is themed around blues and purples and unfortunately white on blue doesn&amp;rsquo;t comply with WCAG 2.0 unless the blue shade is very dark or the white font is very large (Snook, 2015; WAVE, n.d.).&lt;/p&gt;
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;

@@ -22,7 +22,6 @@ This post is a personal reflection in response to a question posed by [Tom Langs
 
 To provide some context I have been working as a learning technologist for almost 10 years and my perspective comes from that space: the direct solution space. Although I am occasionally consulted on policy decisions, I am rarely a decision maker and I do not manage people, I do manage systems as a product owner of sorts. In addition to my learning technologist 'hat', I am an accessibility advocate and a trained User Experience researcher. I am passionate about inclusive design, moral transparency and pragmatic teaching and learning.
 
-https://twitter.com/TomEduTrainer/status/1268537831095443456?s=20
 
 ## Entering lockdown
 

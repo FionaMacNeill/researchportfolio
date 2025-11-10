@@ -13,7 +13,7 @@ tags:
 coverImage: "featuredpost1-2b0dvmx.png"
 ---
 
-<img title="" src="file:///Users/fiona/Sites/portfolio/content/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx.png" alt="Complex UML drawing with an annotated printout in my sketchbook" width="630">
+![Complex UML drawing with an annotated printout in my sketchbook](images/featuredpost1-2b0dvmx.webp "*My sketchbook has always been a place to figure out the most tricky of problems.*")
 
 As part of my day job, I had to complete a Learning Object (as a learner/student) and decided to take the opportunity to reflect on what the experience was like from an end user perspective. Throughout the process, I considered what went well, what could have worked better and what I felt was missing. This exercise resulted in something of a _structural_ epiphany. I realised that I had missed some vital steps in the conceptual model, this was further borne out when I started my wireframe drawings and found that there were things that simply did not add up. Below is my, step-by-step written account of my experience in the Learning Object, I have highlighted sections of particular significance. My next post will outline some of the decisions that took place from December 16th onward.
 

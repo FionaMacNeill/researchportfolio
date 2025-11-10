@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/topics/index.xml" rel="self" type="application/rss+xml" />
     <description>Topics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 31 Dec 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Topics</title>
-      <link>http://localhost:1313/tags/topics/</link>
-    </image>
-    
     <item>
       <title>Wireframes: Pondering Topic Pages</title>
       <link>http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/</link>

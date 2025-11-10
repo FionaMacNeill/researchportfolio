@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     <description>Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
-    </image>
-    
     <item>
       <title>Theme testing</title>
       <link>http://localhost:1313/blog/2016/10/theme-testing/</link>

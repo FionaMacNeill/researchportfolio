@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>R</title>
-      <link>http://localhost:1313/tags/r/</link>
-    </image>
-    
     <item>
       <title>UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18</title>
       <link>http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>

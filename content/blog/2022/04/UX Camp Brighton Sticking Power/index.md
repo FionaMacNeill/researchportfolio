@@ -37,8 +37,12 @@ projects: []
 
 On the 26th of March 2022 I attended UX Camp Brighton for the first time in three years. In 2019, I could not attend due to other commitments and for the past two years the event has not run due to the pandemic. The momentous return of UX Camp gave me an opportunity to refresh my in-person presentation skills by hosting a talk about my new found career as a Learning Experience Designer[^1]. The talk took a metacognitive approach by first looking at what a Learning Experience Designer (LXer) does. I then applied my discipline by using a LX lens to deconstruct the UX Camp format. Specifically, I provided a short demo of [Cathy Moore's Action Mapping method](https://blog.cathy-moore.com/action-mapping-a-visual-approach-to-training-design/) as it would apply to the event. From an Learning Experience (LX) perspective, UX Camp can be seen as a chance to learn about and, most importantly practise, UX and user research skills in a safe space. 
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I&#39;m here for the title <a href="https://twitter.com/hashtag/uxcb22?src=hash&amp;ref_src=twsrc%5Etfw">#uxcb22</a> <a href="https://twitter.com/fmacneill?ref_src=twsrc%5Etfw">@fmacneill</a> <a href="https://t.co/72SB6cW7iz">pic.twitter.com/72SB6cW7iz</a></p>&mdash; Rebecca Hugo (@becstex) <a href="https://twitter.com/becstex/status/1507699064682467345?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>I'm here for the title #uxcb22 @fmacneill</blockquote> 
+- Tweet by Rebecca Hugo (@becstex) on March 26, 2022.
+
+![Fiona MacNeill is shown presenting to a large room, with the slide title projected above reading, Let's talk about LX maybe, Let's talk about you and me](images/RebeccaHugoImage.jpeg "Photo credit: Rebecca Hugo")
+
+
 
 I used the talk as a testbed for new ideas; some worked well, some need further reflection. This approach of testing with an audience was inspired by [Natalie Nixon](https://www.figure8thinking.com/about/) who was recently interviewed on [The Curious Advantage Podcast](https://audioboom.com/posts/7996905-unleash-curiosity-creativity-and-improvisation-at-work-the-curious-advantage-podcast). Nixon noted the use of public speaking to prototype ideas and get fast feedback. This was a liberating idea for me as for years I have felt that I cannot speak if I do not first write. But perhaps I can speak *to* write and write for speech. This is something that I need to develop and hone, but Nixon's career is certainly an inspiration to me. Like me she has traversed and art and creativity within her career, yet she has also successfully applied these diverse experiences within business. But enough about me and my UX Camp talk, you kind of had to be there. 
 
@@ -52,13 +56,13 @@ The format of UX Camp means that I could only attend some of the sessions. The f
 
 This session was based on the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle), when applied to UX, in that... <br> 
 
-> "80% of your user's experience could be affected 20% of your product." 
+> 80% of your user's experience could be affected 20% of your product. 
 
 **_Unexpectedly Obvious_** - Chris How [@chrishow](https://twitter.com/chrishow) <br>
 
 This session provided a series of examples where design solutions were both ingenious and obvious. This was summarised by Chris How as: 
 
->"Understanding the problem + Imaginative thinking = Unexpectedly obvious design"
+>Understanding the problem + Imaginative thinking = Unexpectedly obvious design
 
 **_Are you at the table or on the menu?_** - Laura Yarrow [@laura_yarrow](https://twitter.com/laura_yarrow) <br>
 
@@ -72,9 +76,6 @@ Always one of my favourite speakers, Rebecca Hugo served up a session with poise
 
 Some great tips for using authentic text and content when prototyping in Figma and why that is important, especially when testing designs.
 
-@laura_yarrow explains the role of designer as “trusted agitator” <a href="https://twitter.com/hashtag/UXCB22?src=hash&amp;ref_src=twsrc%5Etfw">#UXCB22</a> - amazing talk! <a href="https://t.co/RIdnGl98j0">pic.twitter.com/RIdnGl98j0</a></p>&mdash; Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1507736371775090691?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Why did it stick?
 
 So what made these sessions successful from an LX perspective? 
@@ -83,7 +84,7 @@ So what made these sessions successful from an LX perspective?
 
 In *'Applying 80/20...'* Tehreim Arif gave us an authentic opportunity to practise with a scenario where we had percentage-based data from a fake employee survey. The employees had been asked the following: 
 
->"If you could change one of the following things about your organisation, what would it be?" 
+>If you could change one of the following things about your organisation, what would it be? 
 
 We were given the findings as percentages and asked to arrange them from highest to lowest on a piece of paper. We then needed to slice the data based on the figures that got us closest to 80% cumulatively. Alternatively we could look at the figures that made up the top 20%. Figures represented action items like: office location (28%), progression roadmap (25%), salaries (23%)
 
@@ -91,7 +92,7 @@ Having found the action items to work on, we were asked to look at these as a pe
 
 So, you get a measure of the areas to focus on to get the maximum value from the user perspective. You also get a way to communicate that concisely to stakeholders via the following like the following statement.
 
->"76% of employee experience can be improved by focusing on 30% of the organisation." 
+>76% of employee experience can be improved by focusing on 30% of the organisation. 
 
 This session gave us an opportunity to practise and apply this method. Arif also gave us a series of scenarios where she had found the concept useful in her own work. 
 

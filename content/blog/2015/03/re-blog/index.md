@@ -3,8 +3,6 @@ title: "Re-blog: Using an iPad for Research – Tips Q and A"
 date: "2015-03-21"
 ---
 
-![An iPad on a tripod video recording an activity in a room](images/speeddate_0008-1z06v1t.png)
-
 > Originally published on March 10th at the [University of Brighton's eLearning blog](http://blogs.brighton.ac.uk/elearning/2015/03/10/using-an-ipad-for-research/).
 
 

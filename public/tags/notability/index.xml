@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/notability/index.xml" rel="self" type="application/rss+xml" />
     <description>Notability</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Notability</title>
-      <link>http://localhost:1313/tags/notability/</link>
-    </image>
-    
     <item>
       <title>Reflection: The search for the best notetaking -or rather handwriting- app</title>
       <link>http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>

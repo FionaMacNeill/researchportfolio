@@ -4,9 +4,9 @@
   
   
   <url>
-    <loc>http://localhost:1313/blog/</loc><lastmod>2025-07-12T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/tags/ai/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/tags/blogging/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -18,9 +18,9 @@
   <url>
     <loc>http://localhost:1313/tags/uxcamp/</loc><lastmod>2025-06-21T08:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/events/servicedesignbreakfast/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/events/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://localhost:1313/events/servicedesignbreakfast/</loc><lastmod>2025-05-08T08:45:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/events/uxcamp2025/</loc><lastmod>2025-04-26T15:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

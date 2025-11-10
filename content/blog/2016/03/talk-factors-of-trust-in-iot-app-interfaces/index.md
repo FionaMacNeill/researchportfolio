@@ -15,13 +15,13 @@ tags:
 ---
 
 ## Talk presented at UX Camp Brighton on 19/03/16 
-[http://www.uxcampbrighton.org/sessions/](http://www.uxcampbrighton.org/sessions/)
 
-<iframe src="https://player.vimeo.com/video/160628235" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/160628235?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479;dnt=true" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FACTORS OF TRUST IN IOT APP INTERFACES"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
  [FACTORS OF TRUST IN IOT APP INTERFACES](https://vimeo.com/160628235) from [Fiona MacNeill](https://vimeo.com/user10479357) on [Vimeo](https://vimeo.com). Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014).
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p dir="ltr" lang="en">FAQ: the iPad app that I used for my <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> talk was <a href="https://twitter.com/explainevrythng">@explainevrythng</a> <a href="https://twitter.com/UXCampBrighton">@UXCampBrighton</a> <a href="https://twitter.com/hashtag/uxcb16?src=hash">#uxcb16</a> <a href="https://twitter.com/hashtag/appswap?src=hash">#appswap https://discover.explaineverything.com/discover/</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/711174306609434625">March 19, 2016</a></blockquote>
+<blockquote><p dir="ltr" lang="en">FAQ: the iPad app that I used for my #IoT talk was @explainevrythng @UXCampBrighton #uxcb16 #appswap"</blockquote> 
+— posted on Twitter on March 19, 2016 by Fiona MacNeill (@fmacneill) 
 
 ## Session description:
  

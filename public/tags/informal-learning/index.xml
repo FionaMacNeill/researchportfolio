@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/informal-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Informal Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 23 Apr 2022 19:00:05 +0100</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Informal Learning</title>
-      <link>http://localhost:1313/tags/informal-learning/</link>
-    </image>
-    
     <item>
       <title>Cufflinks - Edition 1 - 24th April</title>
       <link>http://localhost:1313/blog/2022/04/cufflinks-0422/</link>
@@ -148,13 +142,11 @@ A fascinating article providing insight into working artists from a range of dis
 &lt;h2 id=&#34;something-i-listened-to&#34;&gt;Something I listened to&lt;/h2&gt;
 &lt;p&gt;
 &lt;/p&gt;
-&lt;iframe title=&#34;Libsyn Player&#34; style=&#34;border: none&#34; src=&#34;//html5-player.libsyn.com/embed/episode/id/22741883/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/&#34; height=&#34;90&#34; width=&#34;100%&#34; scrolling=&#34;no&#34;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;A great episode featuring some of my very favourite thinkers and theorists.&lt;/p&gt;
 &lt;h2 id=&#34;something-i-made-or-fixed&#34;&gt;Something I made or fixed&lt;/h2&gt;
 &lt;p&gt;I am trying to fix things and to buy second-hand when I can. My Converse trainers started disintegrating before our eyes at UX Camp Brighton this year so it was a topic of conversation. Thankfully all fixed now, thanks to some hardy denim from my fabric scraps and some all-purpose glue.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Just to follow-up on another key discussion point from &lt;a href=&#34;https://twitter.com/UXCampBrighton?ref_src=twsrc%5Etfw&#34;&gt;@UXCampBrighton&lt;/a&gt; - I live by my word &lt;a href=&#34;https://twitter.com/yandle?ref_src=twsrc%5Etfw&#34;&gt;@yandle&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UXLouX?ref_src=twsrc%5Etfw&#34;&gt;@UXLouX&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Solved?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#Solved&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/FixDontBin?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#FixDontBin&lt;/a&gt; I ❤️ my Milky Way shoes &lt;a href=&#34;https://twitter.com/Converse?ref_src=twsrc%5Etfw&#34;&gt;@Converse&lt;/a&gt; &lt;a href=&#34;https://t.co/dWfoIzRmNB&#34;&gt;pic.twitter.com/dWfoIzRmNB&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1517845275662065664?ref_src=twsrc%5Etfw&#34;&gt;April 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-</description>
+&lt;blockquote&gt;Just to follow-up on another key discussion point from @UXCampBrighton - I live by my word &lt;a href=&#34;https://twitter.com/yandle?ref_src=twsrc%5Etfw&#34;&gt;@yandle&lt;/a&gt; @UXLouX #Solved #FixDontBin I ❤️ my Milky Way shoes @Converse&lt;/blockquote&gt; 
+— posted by Fiona MacNeill (@fmacneill) on April 23, 2022 </description>
     </item>
     
   </channel>

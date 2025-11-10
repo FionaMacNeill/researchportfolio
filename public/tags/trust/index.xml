@@ -6,26 +6,19 @@
       <atom:link href="http://localhost:1313/tags/trust/index.xml" rel="self" type="application/rss+xml" />
     <description>Trust</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Trust</title>
-      <link>http://localhost:1313/tags/trust/</link>
-    </image>
-    
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces</title>
       <link>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</link>
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-on-190316&#34;&gt;Talk presented at UX Camp Brighton on 19/03/16&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;padding:75% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/160628235?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479;dnt=true&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;FACTORS OF TRUST IN IOT APP INTERFACES&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;
  from 
  on 
 . Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014).&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;FAQ: the iPad app that I used for my &lt;a href=&#34;https://twitter.com/hashtag/IoT?src=hash&#34;&gt;#IoT&lt;/a&gt; talk was &lt;a href=&#34;https://twitter.com/explainevrythng&#34;&gt;@explainevrythng&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UXCampBrighton&#34;&gt;@UXCampBrighton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/uxcb16?src=hash&#34;&gt;#uxcb16&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appswap?src=hash&#34;&gt;#appswap https://discover.explaineverything.com/discover/&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/711174306609434625&#34;&gt;March 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;FAQ: the iPad app that I used for my #IoT talk was @explainevrythng @UXCampBrighton #uxcb16 #appswap&#34;&lt;/blockquote&gt; 
+— posted on Twitter on March 19, 2016 by Fiona MacNeill (@fmacneill) 
 &lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
 &lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;

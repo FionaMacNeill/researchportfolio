@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/sprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Sprint</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 23 Oct 2022 18:21:29 +0100</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Sprint</title>
-      <link>http://localhost:1313/tags/sprint/</link>
-    </image>
-    
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
       <link>http://localhost:1313/blog/2022/10/cufflinks-1022/</link>
@@ -37,8 +31,8 @@
 &lt;/p&gt;
 &lt;p&gt;This article include excellent time and communications flow management tips. Many I had already implemented, some I had not and now do. On this topic, I am really looking forward to the 
 . That has been a great feature in Slack and is a good way to respect folks&amp;rsquo; time and control your own communications hours.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my &lt;a href=&#34;https://twitter.com/hashtag/LX?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#LX&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/UX?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#UX&lt;/a&gt; toolkit for safekeeping and frequent reference. Thank you &lt;a href=&#34;https://twitter.com/scope?ref_src=twsrc%5Etfw&#34;&gt;@scope&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/a11y?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#a11y&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/accessibility?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#accessibility&lt;/a&gt; &lt;a href=&#34;https://t.co/LwEXLBdl4i&#34;&gt;https://t.co/LwEXLBdl4i&lt;/a&gt; &lt;a href=&#34;https://t.co/OsvecKhRk3&#34;&gt;pic.twitter.com/OsvecKhRk3&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1535532289928548352?ref_src=twsrc%5Etfw&#34;&gt;June 11, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my #LX #UX toolkit for safekeeping and frequent reference. Thank you @scope #a11y #accessibility&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on June 11, 2022
 &lt;h2 id=&#34;some-things-i-did-and-things-that-i-am-doing&#34;&gt;Some things I did and things that I am doing&lt;/h2&gt;
 &lt;p&gt;Here is a whistle stop tour of my person highlights over Spring/Summer 2022.&lt;/p&gt;
 &lt;h3 id=&#34;i-was-a-guest-on-the-ux-coach-podcast&#34;&gt;I was a guest on the UX Coach Podcast&lt;/h3&gt;
@@ -102,16 +96,14 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
 &lt;p&gt;I am cultivating creative and curious encounters on a daily basis. This is a lifelong pursuit for me, but I have to admit that I had let it lapse a bit due to busyness.&lt;/p&gt;
 &lt;p&gt;In a similar vein I can recommend the work of Stefaan van Hooyd, author of 
  who I saw give a talk at the Learning Technologies Autumn Forum (13th October, ExCel Centre, London).&lt;/p&gt;
-&lt;div&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Amazing talk with &lt;a href=&#34;https://twitter.com/stefaanvanhooyd?ref_src=twsrc%5Etfw&#34;&gt;@stefaanvanhooyd&lt;/a&gt; on Curiosity &lt;a href=&#34;https://twitter.com/hashtag/LTAF22?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#LTAF22&lt;/a&gt; &lt;a href=&#34;https://t.co/Cow6lSSqxs&#34;&gt;pic.twitter.com/Cow6lSSqxs&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1580542508660293632?ref_src=twsrc%5Etfw&#34;&gt;October 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
+&lt;blockquote&gt;Amazing talk with @stefaanvanhooyd on Curiosity #LTAF22&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on October 13, 2022
 &lt;h4 id=&#34;activities-to-feed-my-mind&#34;&gt;Activities to feed my mind&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Applying for my alumni library membership and reading books outside my current area of knowledge. Currently I am reading a book on linguistics.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you  &lt;a href=&#34;https://twitter.com/brightonalumni?ref_src=twsrc%5Etfw&#34;&gt;@brightonalumni&lt;/a&gt; for making this possible! &lt;a href=&#34;https://t.co/Y2KrmoUnup&#34;&gt;pic.twitter.com/Y2KrmoUnup&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1554933626609041410?ref_src=twsrc%5Etfw&#34;&gt;August 3, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you @brightonalumni for making this possible!&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on August 3, 2022
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Going to the theatre more. The show that caused to me to think, learn and reflect this week was Ifrah Mansour&amp;rsquo;s one-woman show, &amp;ldquo;How to have fun in a Civil War&amp;rdquo;. Which effectively and poignantly retold her own experiences as a young child in Somalia.&lt;/p&gt;
@@ -175,8 +167,8 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
 &lt;p&gt;Knapp, J, Zeratsky, J., Kowitz, B. (2016) Sprint: How to solve big problems and test new ideas in just five days. &lt;em&gt;New York: Bantam Press.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;extra-features&#34;&gt;Extra features&lt;/h2&gt;
 &lt;p&gt;on the topic of referencing&amp;hellip;&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A thread 🧵: As a &lt;a href=&#34;https://twitter.com/hashtag/Dyslexic?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#Dyslexic&lt;/a&gt; person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1525423338100858881?ref_src=twsrc%5Etfw&#34;&gt;May 14, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;A thread 🧵: As a #Dyslexic person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...&lt;/blockquote&gt; 
+— Tweet by Fiona MacNeill (@fmacneill) on May 14, 2022
 </description>
     </item>
     

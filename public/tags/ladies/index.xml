@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/ladies/index.xml" rel="self" type="application/rss+xml" />
     <description>Ladies</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 09 Apr 2023 18:50:06 +0100</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Ladies</title>
-      <link>http://localhost:1313/tags/ladies/</link>
-    </image>
-    
     <item>
       <title>UX Camp Brighton 2023 - Game on!</title>
       <link>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</link>

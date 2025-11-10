@@ -26,9 +26,9 @@ coverImage: "Screen-Shot-2016-03-19-at-09.07.10-2a9vvs5.png"
 
 ## Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street
 
-[http://uxbrighton.org.uk/](http://uxbrighton.org.uk/) [See original blog post](http://fionamacneill.co.uk/blog/2016/03/19/talk-factors-of-trust-in-iot-app-interfaces/) for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.[FACTORS OF TRUST IN IOT APP INTERFACES](https://vimeo.com/160628235) from [Fiona MacNeill](https://vimeo.com/user10479357) on [Vimeo](https://vimeo.com). 
+[See original blog post](/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/) for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. [FACTORS OF TRUST IN IOT APP INTERFACES](https://vimeo.com/160628235) from [Fiona MacNeill](https://vimeo.com/user10479357) on [Vimeo](https://vimeo.com). 
 
-<iframe src="https://player.vimeo.com/video/160628235" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/160628235?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479;dnt=true" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FACTORS OF TRUST IN IOT APP INTERFACES"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Session description:
 

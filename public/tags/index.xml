@@ -6,11 +6,5 @@
       <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 21 Jun 2025 08:30:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
-    </image>
-    
   </channel>
 </rss>

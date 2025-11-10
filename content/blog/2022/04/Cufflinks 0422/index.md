@@ -98,13 +98,11 @@ These are tools or posts which I have, or will, find useful.
 [**_Great Minds on Learning Podcast with Donald Clark and John Helmer_** <br> 
 *Season 2, Episode 11 Informal Learning with Donald Clark*](https://greatmindsonlearning.libsyn.com/gmol-s2e11-informal-learning-with-donald-clark) 
 
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/22741883/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 A great episode featuring some of my very favourite thinkers and theorists.
 
 ## Something I made or fixed
 
 I am trying to fix things and to buy second-hand when I can. My Converse trainers started disintegrating before our eyes at UX Camp Brighton this year so it was a topic of conversation. Thankfully all fixed now, thanks to some hardy denim from my fabric scraps and some all-purpose glue.
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Just to follow-up on another key discussion point from <a href="https://twitter.com/UXCampBrighton?ref_src=twsrc%5Etfw">@UXCampBrighton</a> - I live by my word <a href="https://twitter.com/yandle?ref_src=twsrc%5Etfw">@yandle</a> <a href="https://twitter.com/UXLouX?ref_src=twsrc%5Etfw">@UXLouX</a> <a href="https://twitter.com/hashtag/Solved?src=hash&ref_src=twsrc%5Etfw">#Solved</a> <a href="https://twitter.com/hashtag/FixDontBin?src=hash&ref_src=twsrc%5Etfw">#FixDontBin</a> I ❤️ my Milky Way shoes <a href="https://twitter.com/Converse?ref_src=twsrc%5Etfw">@Converse</a> <a href="https://t.co/dWfoIzRmNB">pic.twitter.com/dWfoIzRmNB</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1517845275662065664?ref_src=twsrc%5Etfw">April 23, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>Just to follow-up on another key discussion point from @UXCampBrighton - I live by my word <a href="https://twitter.com/yandle?ref_src=twsrc%5Etfw">@yandle</a> @UXLouX #Solved #FixDontBin I ❤️ my Milky Way shoes @Converse</blockquote> 
+— posted by Fiona MacNeill (@fmacneill) on April 23, 2022 

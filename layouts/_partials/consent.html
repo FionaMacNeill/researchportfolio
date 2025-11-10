@@ -3,8 +3,12 @@
     #consent-notice span {margin-right: 1rem;}
     #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
     #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
-    #consent-notice button.btn {margin: 8px; padding: 8px; border-radius: 5px;}
-    #consent-notice button.btn.manage-consent {background: rgba(255,255,255,0.1); font-weight: normal;}
+    #consent-notice button.btn {margin: 8px; padding: 8px; border-radius: 5px;} 
+    #consent-notice button.btn.approve-consent {border: 1px solid #222;} 
+    #consent-notice button.btn.approve-consent:hover {background: #2c2c2c; border: 1px solid rgb(132, 132, 132); transition: border 0.5s;}
+    #consent-notice button.btn.manage-consent:hover {background: #cecece; color: #000;} 
+    #consent-notice button.btn.deny-consent {border: 1px solid #222;}
+    #consent-notice button.btn.deny-consent:hover {background: #2c2c2c; border: 1px solid rgb(132, 132, 132); transition: border 0.5s;}
     
     #consent-overlay {position: fixed; left: 0; top: 0; width: 100%; height: 100vh; display: none; background: rgba(0,0,0,0.75); z-index: 999999; overflow: auto; cursor: pointer;}
     #consent-overlay.active {display: flex;}

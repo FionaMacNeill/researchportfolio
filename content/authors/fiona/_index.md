@@ -20,13 +20,14 @@ superuser: true
 role: Researcher, Designer, Technologist
 
 # Short bio (displayed in user profile at end of posts)
-bio: Knowhow for learning and change
+bio: Knowhow for tech, learning, and change
 
 # Interests to show in About widget
 interests:
-- Sustainability
+- Digital Sustainability
 - Data Analysis, LLMs (AI)
-- Human-centred systems & services 
+- UX for humans, systems, & services 
+- Lifelong fixer of broken tech and assumptions
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,4 +61,6 @@ profiles:
 highlight_name: true
 ---
 
-I'm Fiona, and I create meaningful experiences for learning and behavioural change. <p>You'll find me immersing myself in complexity and collaborating with people who want to discover more and create positive change.</p>
+Hello. I'm Fiona. I design and build meaningful experiences for curious minds to form new behaviours. <p>You'll find me solving everyday problems and collaborating with people who want to create positive change.</p> 
+
+<p class="bio-text sml"><mark>Peruse my work here while I build the new website for my business, Macknowlogist.</mark></p>

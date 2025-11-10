@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/udigcaps/index.xml" rel="self" type="application/rss+xml" />
     <description>Udigcaps</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Udigcaps</title>
-      <link>http://localhost:1313/tags/udigcaps/</link>
-    </image>
-    
     <item>
       <title>Re-Blog: Reflections on using Rise to support conference-based gamification</title>
       <link>http://localhost:1313/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</link>

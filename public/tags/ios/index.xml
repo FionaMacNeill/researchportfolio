@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <description>Ios</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Ios</title>
-      <link>http://localhost:1313/tags/ios/</link>
-    </image>
-    
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
       <link>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
@@ -19,12 +13,11 @@
       <guid>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;
- 
- for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.
+ for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. 
  from 
  on 
 .&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;padding:75% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/160628235?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479;dnt=true&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;FACTORS OF TRUST IN IOT APP INTERFACES&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
 &lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014). This research is aligned with the SenSe research Cluster at the University of Brighton (secure and dependable software systems).&lt;/p&gt;
 &lt;h2 id=&#34;about-sense&#34;&gt;About SenSe&lt;/h2&gt;

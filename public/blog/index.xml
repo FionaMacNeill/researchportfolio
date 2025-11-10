@@ -5,13 +5,7 @@
     <link>http://localhost:1313/blog/</link>
       <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 12 Jul 2025 08:30:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-    </image>
-    
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 21 Jun 2025 08:30:00 +0000</lastBuildDate>
     <item>
       <title>UX Camp 2025 Reflections</title>
       <link>http://localhost:1313/blog/2025/06/ux-camp-2025-reflections/</link>
@@ -1548,8 +1542,8 @@ A group of young men decided to join our group near St. Peter&amp;rsquo;s church
 &lt;/p&gt;
 &lt;p&gt;This article include excellent time and communications flow management tips. Many I had already implemented, some I had not and now do. On this topic, I am really looking forward to the 
 . That has been a great feature in Slack and is a good way to respect folks&amp;rsquo; time and control your own communications hours.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my &lt;a href=&#34;https://twitter.com/hashtag/LX?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#LX&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/UX?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#UX&lt;/a&gt; toolkit for safekeeping and frequent reference. Thank you &lt;a href=&#34;https://twitter.com/scope?ref_src=twsrc%5Etfw&#34;&gt;@scope&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/a11y?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#a11y&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/accessibility?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#accessibility&lt;/a&gt; &lt;a href=&#34;https://t.co/LwEXLBdl4i&#34;&gt;https://t.co/LwEXLBdl4i&lt;/a&gt; &lt;a href=&#34;https://t.co/OsvecKhRk3&#34;&gt;pic.twitter.com/OsvecKhRk3&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1535532289928548352?ref_src=twsrc%5Etfw&#34;&gt;June 11, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my #LX #UX toolkit for safekeeping and frequent reference. Thank you @scope #a11y #accessibility&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on June 11, 2022
 &lt;h2 id=&#34;some-things-i-did-and-things-that-i-am-doing&#34;&gt;Some things I did and things that I am doing&lt;/h2&gt;
 &lt;p&gt;Here is a whistle stop tour of my person highlights over Spring/Summer 2022.&lt;/p&gt;
 &lt;h3 id=&#34;i-was-a-guest-on-the-ux-coach-podcast&#34;&gt;I was a guest on the UX Coach Podcast&lt;/h3&gt;
@@ -1613,16 +1607,14 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
 &lt;p&gt;I am cultivating creative and curious encounters on a daily basis. This is a lifelong pursuit for me, but I have to admit that I had let it lapse a bit due to busyness.&lt;/p&gt;
 &lt;p&gt;In a similar vein I can recommend the work of Stefaan van Hooyd, author of 
  who I saw give a talk at the Learning Technologies Autumn Forum (13th October, ExCel Centre, London).&lt;/p&gt;
-&lt;div&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Amazing talk with &lt;a href=&#34;https://twitter.com/stefaanvanhooyd?ref_src=twsrc%5Etfw&#34;&gt;@stefaanvanhooyd&lt;/a&gt; on Curiosity &lt;a href=&#34;https://twitter.com/hashtag/LTAF22?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#LTAF22&lt;/a&gt; &lt;a href=&#34;https://t.co/Cow6lSSqxs&#34;&gt;pic.twitter.com/Cow6lSSqxs&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1580542508660293632?ref_src=twsrc%5Etfw&#34;&gt;October 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/div&gt;
+&lt;blockquote&gt;Amazing talk with @stefaanvanhooyd on Curiosity #LTAF22&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on October 13, 2022
 &lt;h4 id=&#34;activities-to-feed-my-mind&#34;&gt;Activities to feed my mind&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Applying for my alumni library membership and reading books outside my current area of knowledge. Currently I am reading a book on linguistics.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you  &lt;a href=&#34;https://twitter.com/brightonalumni?ref_src=twsrc%5Etfw&#34;&gt;@brightonalumni&lt;/a&gt; for making this possible! &lt;a href=&#34;https://t.co/Y2KrmoUnup&#34;&gt;pic.twitter.com/Y2KrmoUnup&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1554933626609041410?ref_src=twsrc%5Etfw&#34;&gt;August 3, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you @brightonalumni for making this possible!&lt;/blockquote&gt;
+— Tweet by Fiona MacNeill (@fmacneill) on August 3, 2022
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Going to the theatre more. The show that caused to me to think, learn and reflect this week was Ifrah Mansour&amp;rsquo;s one-woman show, &amp;ldquo;How to have fun in a Civil War&amp;rdquo;. Which effectively and poignantly retold her own experiences as a young child in Somalia.&lt;/p&gt;
@@ -1686,8 +1678,8 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
 &lt;p&gt;Knapp, J, Zeratsky, J., Kowitz, B. (2016) Sprint: How to solve big problems and test new ideas in just five days. &lt;em&gt;New York: Bantam Press.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;extra-features&#34;&gt;Extra features&lt;/h2&gt;
 &lt;p&gt;on the topic of referencing&amp;hellip;&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A thread 🧵: As a &lt;a href=&#34;https://twitter.com/hashtag/Dyslexic?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#Dyslexic&lt;/a&gt; person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1525423338100858881?ref_src=twsrc%5Etfw&#34;&gt;May 14, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;A thread 🧵: As a #Dyslexic person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...&lt;/blockquote&gt; 
+— Tweet by Fiona MacNeill (@fmacneill) on May 14, 2022
 </description>
     </item>
     
@@ -1827,13 +1819,11 @@ A fascinating article providing insight into working artists from a range of dis
 &lt;h2 id=&#34;something-i-listened-to&#34;&gt;Something I listened to&lt;/h2&gt;
 &lt;p&gt;
 &lt;/p&gt;
-&lt;iframe title=&#34;Libsyn Player&#34; style=&#34;border: none&#34; src=&#34;//html5-player.libsyn.com/embed/episode/id/22741883/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/&#34; height=&#34;90&#34; width=&#34;100%&#34; scrolling=&#34;no&#34;  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;A great episode featuring some of my very favourite thinkers and theorists.&lt;/p&gt;
 &lt;h2 id=&#34;something-i-made-or-fixed&#34;&gt;Something I made or fixed&lt;/h2&gt;
 &lt;p&gt;I am trying to fix things and to buy second-hand when I can. My Converse trainers started disintegrating before our eyes at UX Camp Brighton this year so it was a topic of conversation. Thankfully all fixed now, thanks to some hardy denim from my fabric scraps and some all-purpose glue.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Just to follow-up on another key discussion point from &lt;a href=&#34;https://twitter.com/UXCampBrighton?ref_src=twsrc%5Etfw&#34;&gt;@UXCampBrighton&lt;/a&gt; - I live by my word &lt;a href=&#34;https://twitter.com/yandle?ref_src=twsrc%5Etfw&#34;&gt;@yandle&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UXLouX?ref_src=twsrc%5Etfw&#34;&gt;@UXLouX&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Solved?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#Solved&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/FixDontBin?src=hash&amp;ref_src=twsrc%5Etfw&#34;&gt;#FixDontBin&lt;/a&gt; I ❤️ my Milky Way shoes &lt;a href=&#34;https://twitter.com/Converse?ref_src=twsrc%5Etfw&#34;&gt;@Converse&lt;/a&gt; &lt;a href=&#34;https://t.co/dWfoIzRmNB&#34;&gt;pic.twitter.com/dWfoIzRmNB&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1517845275662065664?ref_src=twsrc%5Etfw&#34;&gt;April 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-</description>
+&lt;blockquote&gt;Just to follow-up on another key discussion point from @UXCampBrighton - I live by my word &lt;a href=&#34;https://twitter.com/yandle?ref_src=twsrc%5Etfw&#34;&gt;@yandle&lt;/a&gt; @UXLouX #Solved #FixDontBin I ❤️ my Milky Way shoes @Converse&lt;/blockquote&gt; 
+— posted by Fiona MacNeill (@fmacneill) on April 23, 2022 </description>
     </item>
     
     <item>
@@ -1844,8 +1834,38 @@ A fascinating article providing insight into working artists from a range of dis
       <description>&lt;h2 id=&#34;what-i-did&#34;&gt;What I did&lt;/h2&gt;
 &lt;p&gt;On the 26th of March 2022 I attended UX Camp Brighton for the first time in three years. In 2019, I could not attend due to other commitments and for the past two years the event has not run due to the pandemic. The momentous return of UX Camp gave me an opportunity to refresh my in-person presentation skills by hosting a talk about my new found career as a Learning Experience Designer&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. The talk took a metacognitive approach by first looking at what a Learning Experience Designer (LXer) does. I then applied my discipline by using a LX lens to deconstruct the UX Camp format. Specifically, I provided a short demo of 
  as it would apply to the event. From an Learning Experience (LX) perspective, UX Camp can be seen as a chance to learn about and, most importantly practise, UX and user research skills in a safe space.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-partner=&#34;tweetdeck&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I&amp;#39;m here for the title &lt;a href=&#34;https://twitter.com/hashtag/uxcb22?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#uxcb22&lt;/a&gt; &lt;a href=&#34;https://twitter.com/fmacneill?ref_src=twsrc%5Etfw&#34;&gt;@fmacneill&lt;/a&gt; &lt;a href=&#34;https://t.co/72SB6cW7iz&#34;&gt;pic.twitter.com/72SB6cW7iz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rebecca Hugo (@becstex) &lt;a href=&#34;https://twitter.com/becstex/status/1507699064682467345?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;blockquote&gt;I&#39;m here for the title #uxcb22 @fmacneill&lt;/blockquote&gt; 
+- Tweet by Rebecca Hugo (@becstex) on March 26, 2022.
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-photo-credit-rebecca-hugo&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Fiona MacNeill is shown presenting to a large room, with the slide title projected above reading, Let&amp;rsquo;s talk about LX maybe, Let&amp;rsquo;s talk about you and me&#34; 
+               srcset=&#34;http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_490fe16b70353071.webp 320w, http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_9d59082440f597cf.webp 480w, http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_4d149b395ab345ab.webp 680w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/blog/2022/04/ux-camp-brighton-sticking-power/images/RebeccaHugoImage_hu_490fe16b70353071.webp&#34;
+               width=&#34;680&#34;
+               height=&#34;306&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Photo credit: Rebecca Hugo
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;I used the talk as a testbed for new ideas; some worked well, some need further reflection. This approach of testing with an audience was inspired by 
  who was recently interviewed on 
 . Nixon noted the use of public speaking to prototype ideas and get fast feedback. This was a liberating idea for me as for years I have felt that I cannot speak if I do not first write. But perhaps I can speak &lt;em&gt;to&lt;/em&gt; write and write for speech. This is something that I need to develop and hone, but Nixon&amp;rsquo;s career is certainly an inspiration to me. Like me she has traversed and art and creativity within her career, yet she has also successfully applied these diverse experiences within business. But enough about me and my UX Camp talk, you kind of had to be there.&lt;/p&gt;
@@ -1861,7 +1881,7 @@ A fascinating article providing insight into working artists from a range of dis
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;80% of your user&amp;rsquo;s experience could be affected 20% of your product.&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;80% of your user&amp;rsquo;s experience could be affected 20% of your product.&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Unexpectedly Obvious&lt;/em&gt;&lt;/strong&gt; - Chris How 
@@ -1872,7 +1892,7 @@ A fascinating article providing insight into working artists from a range of dis
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;Understanding the problem + Imaginative thinking = Unexpectedly obvious design&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;Understanding the problem + Imaginative thinking = Unexpectedly obvious design&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Are you at the table or on the menu?&lt;/em&gt;&lt;/strong&gt; - Laura Yarrow 
@@ -1884,8 +1904,6 @@ A fascinating article providing insight into working artists from a range of dis
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Why Lorem Ipsum sucks and what to do about it&lt;/em&gt;&lt;/strong&gt; - 
 &lt;/p&gt;
 &lt;p&gt;Some great tips for using authentic text and content when prototyping in Figma and why that is important, especially when testing designs.&lt;/p&gt;
-&lt;p&gt;@laura_yarrow explains the role of designer as “trusted agitator” &lt;a href=&#34;https://twitter.com/hashtag/UXCB22?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#UXCB22&lt;/a&gt; - amazing talk! &lt;a href=&#34;https://t.co/RIdnGl98j0&#34;&gt;pic.twitter.com/RIdnGl98j0&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/1507736371775090691?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2022&lt;/a&gt;&lt;/blockquote&gt;&lt;/p&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;why-did-it-stick&#34;&gt;Why did it stick?&lt;/h2&gt;
 &lt;p&gt;So what made these sessions successful from an LX perspective?&lt;/p&gt;
 &lt;h3 id=&#34;applying-8020&#34;&gt;&lt;em&gt;Applying 80/20&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
@@ -1895,7 +1913,7 @@ A fascinating article providing insight into working artists from a range of dis
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;If you could change one of the following things about your organisation, what would it be?&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;If you could change one of the following things about your organisation, what would it be?&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;We were given the findings as percentages and asked to arrange them from highest to lowest on a piece of paper. We then needed to slice the data based on the figures that got us closest to 80% cumulatively. Alternatively we could look at the figures that made up the top 20%. Figures represented action items like: office location (28%), progression roadmap (25%), salaries (23%)&lt;/p&gt;
@@ -1906,7 +1924,7 @@ A fascinating article providing insight into working artists from a range of dis
 
   
   &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
-    &lt;p&gt;&amp;ldquo;76% of employee experience can be improved by focusing on 30% of the organisation.&amp;rdquo;&lt;/p&gt;
+    &lt;p&gt;76% of employee experience can be improved by focusing on 30% of the organisation.&lt;/p&gt;
   &lt;/blockquote&gt;
 
 &lt;p&gt;This session gave us an opportunity to practise and apply this method. Arif also gave us a series of scenarios where she had found the concept useful in her own work.&lt;/p&gt;
@@ -4133,7 +4151,6 @@ I used this page of sketchbook to explore different ideas related to objects in 
  - a frequent go-to of mine&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I feel like I have only scratched the surface with the WAI-ARIA roles, but based on testing I feel that the site is accessible as I could get it within the allotted time. In the end I found a blog post on the subject by a rather brilliant developer, Aaron Krauss (2016) who did a great job of how to practically use certain ARIA labels and roles. What I did find is that there is quite a lot of redundancy in the code, but you need to have it there as the screenreader doesn&amp;rsquo;t necessarily pick up the semantics in the page construction as you might intend. Here is a video of my screenreader testing in action with tab key only - tabindex (Mozilla Developer Network, 2017)&lt;/p&gt;
-&lt;iframe style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=0&amp;amp;height=0&amp;amp;videoId=6936&amp;amp;quality=hd&amp;amp;captions=n&amp;amp;chapterId=0&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;what-the-font&#34;&gt;What the font?&lt;/h3&gt;
 &lt;p&gt;I conducted some reading (Nielsen, 2002; Martin, 2009; Franz, 2014; ) around legible fonts and font sizes and optimal line height. I have tried my best to work with the best practices, although that does get tricky with the mobile screen size. However, the attention that I have paid to optimising the CSS stylesheet for plain readers should help those who use accessibility features on mobile devices. &lt;strong&gt;Added a fix to the superscript&lt;/strong&gt; I found a very helpful snippet for fixing line height for superscript (used for references) and subscript. Thank you to the -ever helpful- CSS Tricks site (Coyier, 2009a). &lt;strong&gt;Contrast&lt;/strong&gt; As much as I loved the white headers along the timeline the contrast was not sufficient. The colour scheme is themed around blues and purples and unfortunately white on blue doesn&amp;rsquo;t comply with WCAG 2.0 unless the blue shade is very dark or the white font is very large (Snook, 2015; WAVE, n.d.).&lt;/p&gt;
 &lt;h3 id=&#34;the-accordion-had-to-go&#34;&gt;The accordion had to go&lt;/h3&gt;
@@ -4536,12 +4553,32 @@ I used this page of sketchbook to explore different ideas related to objects in 
 , a web application for polling, in my day-job I thought that using 
  might be a good way to go. Especially as their poll visualisation is very nice. I must highlight at this point that I wanted to avoid using an iFrame and have a solution that was integrated with the site. This is largely due to the fact that the iFrame content would almost certainly be blocked on NHS Trust computers (again this knowledge is based on my professional experience). The PollEverywhere API highlighted the use of JSON (Javascript Object Notation) for the configuration of polls. However, I have to admit that their documentation was a little beyond my own knowledge and I felt unsure of where to start. I asked Marcus for his advice on the 16th of December and I also found a 
 . Normally I&amp;rsquo;m not a huge fan of the w3schools tutorials, but this seemed like the perfect solution. I was able to build the poll, but the issue with it is that it is that it stored its values in a standard text file and this is a very insecure method. Marcus advised that I look at writing the values to a JSON file via the PHP and then pulling said values through html for the poll visualisation.&lt;/p&gt;
-&lt;iframe src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=320&amp;amp;height=260&amp;amp;videoId=6325&amp;amp;quality=hi&amp;amp;captions=n&amp;amp;chapterId=0&#34; scrolling=&#34;no&#34; width=&#34;330&#34; height=&#34;270&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;So I decided to see if I could adapt the script to read from and write to a JSON file instead. Easier said than done as the syntax from PHP to JSON confused me a bit. Marcus did a bit of troubleshooting on it too and this was very helpful to get on the right track. I finally decided that it was time to join StackOverflow and start asking and answering questions, here is the question that I asked: 
  . The community were great and I got a lot closer to a solution. However, echoing data back via html in the php file proved too tricky and issue to surmount. I could get the one option to display, but I couldn&amp;rsquo;t pull the previous results to display. This was immensely frustrating, to be so close and yet missing at the final hurdle.&lt;/p&gt;
-\[caption id=&#34;attachment\_267&#34; align=&#34;alignnone&#34; width=&#34;499&#34;\]&lt;p&gt;
- Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not.&lt;/p&gt;
-\[/caption\]&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img alt=&#34;Animated GIF showing the issue with the display of data pulled from the JSON file&#34;
+           src=&#34;http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/images/2016-12-24_10-30-29.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ &lt;em&gt;Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on 
 , it hit home that I had been the victim of my own self-inflicted feature creep. The end users have very limited time to look at this site and probably wouldn&amp;rsquo;t have time to contemplate the poll question. Furthermore, the poll question detracts from the content of the site. Finally it introduces additional security considerations and affects the life-span of the code in the site. So I have decided to archive what I did offline and continue from where I left off on the 16th. You live and you learn. I shall now be focusing on an prioritised to-do list and I will deviate from my Trello board no longer.&lt;/p&gt;
 &lt;h3 id=&#34;added-a-skip-to-content-link-for-accessibility&#34;&gt;Added a skip to content link for accessibility&lt;/h3&gt;
 &lt;p&gt;Something that I have had on my list for a while was to add a skip to content link for screen readers and keyboard navigation users. I looked at how a few sites did it and settled on advice from the WebAIM site (
@@ -4549,17 +4586,28 @@ I used this page of sketchbook to explore different ideas related to objects in 
 ) and I am trying to convert all my units to dynamic values (ems or percentages) - it seemed like the way to go.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Heaversm/google-custom-form. (2016, August 5). Retrieved December 24, 2016, from 
- Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from 
- Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from 
- Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from 
- PHP AJAX poll. Retrieved December 24, 2016, from 
- PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from 
- Poll everywhere. (2016). Retrieved December 27, 2016, from 
- Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from 
- Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from 
- Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from 
- Task analysis. (2013, September 6). Retrieved December 24, 2016, from 
- The poll everywhere API. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;PHP AJAX poll. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Poll everywhere. (2016). Retrieved December 27, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Task analysis. (2013, September 6). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;The poll everywhere API. Retrieved December 24, 2016, from 
 &lt;/p&gt;
 </description>
     </item>
@@ -5374,12 +5422,11 @@ I used this page of sketchbook to explore different ideas related to objects in 
       <guid>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;
- 
- for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk.
+ for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. 
  from 
  on 
 .&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;padding:75% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/160628235?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479;dnt=true&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;FACTORS OF TRUST IN IOT APP INTERFACES&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
 &lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface. Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014). This research is aligned with the SenSe research Cluster at the University of Brighton (secure and dependable software systems).&lt;/p&gt;
 &lt;h2 id=&#34;about-sense&#34;&gt;About SenSe&lt;/h2&gt;
@@ -5649,14 +5696,13 @@ I used this page of sketchbook to explore different ideas related to objects in 
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-on-190316&#34;&gt;Talk presented at UX Camp Brighton on 19/03/16&lt;/h2&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/160628235&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;padding:75% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/160628235?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479;dnt=true&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;FACTORS OF TRUST IN IOT APP INTERFACES&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;
  from 
  on 
 . Trust definitions used in this video are from Pavlidis, Islam, Mouratidis, and Kearney (2014).&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34; data-cards=&#34;hidden&#34; data-lang=&#34;en&#34;&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;FAQ: the iPad app that I used for my &lt;a href=&#34;https://twitter.com/hashtag/IoT?src=hash&#34;&gt;#IoT&lt;/a&gt; talk was &lt;a href=&#34;https://twitter.com/explainevrythng&#34;&gt;@explainevrythng&lt;/a&gt; &lt;a href=&#34;https://twitter.com/UXCampBrighton&#34;&gt;@UXCampBrighton&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/uxcb16?src=hash&#34;&gt;#uxcb16&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/appswap?src=hash&#34;&gt;#appswap https://discover.explaineverything.com/discover/&lt;/a&gt;&lt;/p&gt;— Fiona MacNeill (@fmacneill) &lt;a href=&#34;https://twitter.com/fmacneill/status/711174306609434625&#34;&gt;March 19, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p dir=&#34;ltr&#34; lang=&#34;en&#34;&gt;FAQ: the iPad app that I used for my #IoT talk was @explainevrythng @UXCampBrighton #uxcb16 #appswap&#34;&lt;/blockquote&gt; 
+— posted on Twitter on March 19, 2016 by Fiona MacNeill (@fmacneill) 
 &lt;h2 id=&#34;session-description&#34;&gt;Session description:&lt;/h2&gt;
 &lt;p&gt;Does your app rely on OAuth to offer connection to other apps and services? Based on my research studying app-to-device relationships in Internet of Things systems (e.g. Fitbit, Jawbone UP, Nest, SmartThings, Glooko), I have uncovered some best practice recommendations when it comes to inspiring trust within your interface.&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
@@ -7027,7 +7073,36 @@ I used this page of sketchbook to explore different ideas related to objects in 
       <link>http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</guid>
-      <description>&lt;img title=&#34;&#34; src=&#34;file:///Users/fiona/Sites/portfolio/content/post/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx.png&#34; alt=&#34;Complex UML drawing with an annotated printout in my sketchbook&#34; width=&#34;630&#34;&gt;
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-my-sketchbook-has-always-been-a-place-to-figure-out-the-most-tricky-of-problems&#34;&gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Complex UML drawing with an annotated printout in my sketchbook&#34; 
+               srcset=&#34;http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp 320w, http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_bc7367f5dd6e9e4f.webp 480w, http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_b93fc3254d8ef7d9.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;em&gt;My sketchbook has always been a place to figure out the most tricky of problems.&lt;/em&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;As part of my day job, I had to complete a Learning Object (as a learner/student) and decided to take the opportunity to reflect on what the experience was like from an end user perspective. Throughout the process, I considered what went well, what could have worked better and what I felt was missing. This exercise resulted in something of a &lt;em&gt;structural&lt;/em&gt; epiphany. I realised that I had missed some vital steps in the conceptual model, this was further borne out when I started my wireframe drawings and found that there were things that simply did not add up. Below is my, step-by-step written account of my experience in the Learning Object, I have highlighted sections of particular significance. My next post will outline some of the decisions that took place from December 16th onward.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; this Learning Object has a longer duration than the one that I am building (about an hour in total). I took some screenshots for personal reference, but I cannot include them in this narrative as it is a proprietary system protected by copyright.&lt;/p&gt;
@@ -7168,8 +7243,7 @@ I used this page of sketchbook to explore different ideas related to objects in 
       <link>http://localhost:1313/blog/2015/11/perplexed-or-why-we-iterate/</link>
       <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2015/11/perplexed-or-why-we-iterate/</guid>
-      <description>&lt;img title=&#34;&#34; src=&#34;file:///Users/fiona/Sites/portfolio/content/post/2015/11/perplexed-or-why-we-iterate/images/V2-UML-diagram-IDM21-New-Page-1mn9wkl.png&#34; alt=&#34;Excerpt of a UML diagram decorative&#34; width=&#34;517&#34; data-align=&#34;left&#34;&gt;
-&lt;p&gt;I have a confession to make, I am pretty perplexed by Unified Modeling Language (UML). If you were to look at this blog, based on the lack of posts, you wouldn&amp;rsquo;t think that I had made any progress over the past two weeks. We covered User Conceptual Modeling as a topic in class back on the 6th of November and in my last post on the 11th, I made the grand proclamation that I would complete my UML diagram by Friday (13th). Well I did create a UML diagram, and then I created another iteration and another; I became obsessed with understanding the syntax&amp;hellip;not a healthy obsession, but a frustrating one. During the past week I tried to read everything that I could in order to aid my understanding. Tonight I came to the realisation that Learning Objects are pretty hard to build in UML. I also made the decision to leave this part of the project for now and move on to writing some commentary on user requirements. I feel that by moving on, I may miss some error in the system design, but also if I continue to work on the diagram I am going to stall my progress further. This was paralleled early on in the other project that I am working on at the moment, where I attempted to create a diagram for a hypothetical wearable device as part of the Internet of Things. Four-plus iterations later I finally have something that resembles the operation of a real system. To summarise here is what I have learned from this road-block:&lt;/p&gt;
+      <description>&lt;p&gt;I have a confession to make, I am pretty perplexed by Unified Modeling Language (UML). If you were to look at this blog, based on the lack of posts, you wouldn&amp;rsquo;t think that I had made any progress over the past two weeks. We covered User Conceptual Modeling as a topic in class back on the 6th of November and in my last post on the 11th, I made the grand proclamation that I would complete my UML diagram by Friday (13th). Well I did create a UML diagram, and then I created another iteration and another; I became obsessed with understanding the syntax&amp;hellip;not a healthy obsession, but a frustrating one. During the past week I tried to read everything that I could in order to aid my understanding. Tonight I came to the realisation that Learning Objects are pretty hard to build in UML. I also made the decision to leave this part of the project for now and move on to writing some commentary on user requirements. I feel that by moving on, I may miss some error in the system design, but also if I continue to work on the diagram I am going to stall my progress further. This was paralleled early on in the other project that I am working on at the moment, where I attempted to create a diagram for a hypothetical wearable device as part of the Internet of Things. Four-plus iterations later I finally have something that resembles the operation of a real system. To summarise here is what I have learned from this road-block:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;step away from the diagram;&lt;/li&gt;
 &lt;li&gt;perspective can only be capitalised upon by making some space between yourself and the problem and then walking back towards it;&lt;/li&gt;
@@ -7177,18 +7251,77 @@ I used this page of sketchbook to explore different ideas related to objects in 
 &lt;li&gt;Allow for frustration time - cook on a medium heat and allow to simmer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Until next time&amp;hellip; P.s. I am leaving this note here because these diagrams need a glossary.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Here is the first iteration of the model:&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe id=&#34;p7~v4GALNIke&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/b6345c57-7a31-417d-a7c2-746b4223837f&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;strong&gt;And here is the most recent, albeit not entirely finished:&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe id=&#34;kPawmdAxB.0z&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/46e9f60c-1569-47c2-a69d-73e70842c14c&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Here is the first iteration of the model:&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;images/UML%20diagram%20IDM21.webp&#34; alt=&#34;A very blocky UML model where almost all of the actions are crammed into one container - a rooky mistake&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And here is the most recent, albeit not entirely finished:&lt;/strong&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;images/V2%20UML%20diagram%20IDM21.webp&#34; alt=&#34;A far clearer visual taxonomy has emerged in this version with clearer relatioships and separation between the different functions, example functions include: status, topics, progress&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Version completed on 05/12/15&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe id=&#34;AkozHq1QZaX7&#34; style=&#34;width: 480px; height: 360px;&#34; src=&#34;https://www.lucidchart.com/documents/embeddedchart/84a94519-0dd8-47e6-9f1b-e887b95e91f2&#34; width=&#34;300&#34; height=&#34;150&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;images/V5%20UML%20diagram%20IDM21.webp&#34; alt=&#34;Version 5 of the model shows user states including returning and forgotten password/username this is a far more accomplished map of the inner workings of the application using the block based structure of UML&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;p&gt;British Standard. (2005). &lt;em&gt;BS ISO/IEC 19501:2005 Information technology. Open distributed processing. Unified modeling language (UML). Version 1.4.2.&lt;/em&gt; Retrieved from 
 &lt;/p&gt;
 &lt;p&gt;Brown, D. M. (2010). &lt;em&gt;Communicating design: Developing web site documentation for design and planning (2nd edition) (voices that matter)&lt;/em&gt; (2nd ed.). Berkeley, CA: New Riders Publishing.&lt;/p&gt;
-&lt;p&gt;Griffiths, R. (2012, April 2). User conceptual modeling &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;p&gt;Griffiths, R. (2012, April 2). User conceptual modeling [Blog post]. Retrieved from 
 &lt;/p&gt;
 &lt;p&gt;Lynch, P. J., &amp;amp; Horton, S. &lt;em&gt;Web style guide, Third edition&lt;/em&gt;. Retrieved from 
 &lt;/p&gt;
@@ -7400,35 +7533,7 @@ I used this page of sketchbook to explore different ideas related to objects in 
       <link>http://localhost:1313/blog/2015/03/re-blog/</link>
       <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/2015/03/re-blog/</guid>
-      <description>&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;An iPad on a tripod video recording an activity in a room&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/03/re-blog/images/speeddate_0008-1z06v1t_hu_9ac6ac566c48fb26.webp 320w, http://localhost:1313/blog/2015/03/re-blog/images/speeddate_0008-1z06v1t_hu_77e55dc8018ca9ac.webp 480w, http://localhost:1313/blog/2015/03/re-blog/images/speeddate_0008-1z06v1t_hu_56ee55606f7006dd.webp 500w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/03/re-blog/images/speeddate_0008-1z06v1t_hu_9ac6ac566c48fb26.webp&#34;
-               width=&#34;500&#34;
-               height=&#34;331&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-
+      <description>
 
 
   

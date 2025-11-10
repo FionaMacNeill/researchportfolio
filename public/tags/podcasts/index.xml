@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <description>Podcasts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 24 Dec 2023 11:30:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Podcasts</title>
-      <link>http://localhost:1313/tags/podcasts/</link>
-    </image>
-    
     <item>
       <title>Falling back in love with the humble RSS feed</title>
       <link>http://localhost:1313/blog/2023/12/humble-rss-feed/</link>

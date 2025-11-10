@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <description>Todo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Todo</title>
-      <link>http://localhost:1313/tags/todo/</link>
-    </image>
-    
     <item>
       <title>On the importance of self-discipline</title>
       <link>http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/</link>
@@ -42,12 +36,32 @@
 , a web application for polling, in my day-job I thought that using 
  might be a good way to go. Especially as their poll visualisation is very nice. I must highlight at this point that I wanted to avoid using an iFrame and have a solution that was integrated with the site. This is largely due to the fact that the iFrame content would almost certainly be blocked on NHS Trust computers (again this knowledge is based on my professional experience). The PollEverywhere API highlighted the use of JSON (Javascript Object Notation) for the configuration of polls. However, I have to admit that their documentation was a little beyond my own knowledge and I felt unsure of where to start. I asked Marcus for his advice on the 16th of December and I also found a 
 . Normally I&amp;rsquo;m not a huge fan of the w3schools tutorials, but this seemed like the perfect solution. I was able to build the poll, but the issue with it is that it is that it stored its values in a standard text file and this is a very insecure method. Marcus advised that I look at writing the values to a JSON file via the PHP and then pulling said values through html for the poll visualisation.&lt;/p&gt;
-&lt;iframe src=&#34;https://mediastream.brighton.ac.uk/player?autostart=n&amp;amp;fullscreen=y&amp;amp;width=320&amp;amp;height=260&amp;amp;videoId=6325&amp;amp;quality=hi&amp;amp;captions=n&amp;amp;chapterId=0&#34; scrolling=&#34;no&#34; width=&#34;330&#34; height=&#34;270&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;So I decided to see if I could adapt the script to read from and write to a JSON file instead. Easier said than done as the syntax from PHP to JSON confused me a bit. Marcus did a bit of troubleshooting on it too and this was very helpful to get on the right track. I finally decided that it was time to join StackOverflow and start asking and answering questions, here is the question that I asked: 
  . The community were great and I got a lot closer to a solution. However, echoing data back via html in the php file proved too tricky and issue to surmount. I could get the one option to display, but I couldn&amp;rsquo;t pull the previous results to display. This was immensely frustrating, to be so close and yet missing at the final hurdle.&lt;/p&gt;
-\[caption id=&#34;attachment\_267&#34; align=&#34;alignnone&#34; width=&#34;499&#34;\]&lt;p&gt;
- Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not.&lt;/p&gt;
-\[/caption\]&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on 
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;&lt;img alt=&#34;Animated GIF showing the issue with the display of data pulled from the JSON file&#34;
+           src=&#34;http://localhost:1313/blog/2016/12/on-the-importance-of-self-discipline/images/2016-12-24_10-30-29.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ &lt;em&gt;Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;It was also really hard to debug the issues as a small change could take a few re-runs (despite hard reload and clear-cache reloads) to actually manifest and break it all. Then I stopped and thought, why am I doing this? Sure, it looks pretty and adds an element of interest, but after working on 
 , it hit home that I had been the victim of my own self-inflicted feature creep. The end users have very limited time to look at this site and probably wouldn&amp;rsquo;t have time to contemplate the poll question. Furthermore, the poll question detracts from the content of the site. Finally it introduces additional security considerations and affects the life-span of the code in the site. So I have decided to archive what I did offline and continue from where I left off on the 16th. You live and you learn. I shall now be focusing on an prioritised to-do list and I will deviate from my Trello board no longer.&lt;/p&gt;
 &lt;h3 id=&#34;added-a-skip-to-content-link-for-accessibility&#34;&gt;Added a skip to content link for accessibility&lt;/h3&gt;
 &lt;p&gt;Something that I have had on my list for a while was to add a skip to content link for screen readers and keyboard navigation users. I looked at how a few sites did it and settled on advice from the WebAIM site (
@@ -55,17 +69,28 @@
 ) and I am trying to convert all my units to dynamic values (ems or percentages) - it seemed like the way to go.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Heaversm/google-custom-form. (2016, August 5). Retrieved December 24, 2016, from 
- Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from 
- Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from 
- Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from 
- PHP AJAX poll. Retrieved December 24, 2016, from 
- PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from 
- Poll everywhere. (2016). Retrieved December 27, 2016, from 
- Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from 
- Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from 
- Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from 
- Task analysis. (2013, September 6). Retrieved December 24, 2016, from 
- The poll everywhere API. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Macascot. (2016). JSON Newbie - permanently saving values to JSON between browser reloads. &lt;em&gt;stackoverflow&lt;/em&gt;. Retrieved 25 December 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016a, September 13). Getting started. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Mozilla Developer Network. (2016b, June 1). HTML forms guide. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;PHP AJAX poll. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;PHP Group. (2001). PHP: File_get_contents - manual. Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Poll everywhere. (2016). Retrieved December 27, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Populating data using server-side code. (2016, January 28). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Scope creep (2016). In &lt;em&gt;Wikipedia&lt;/em&gt;. Retrieved from 
+&lt;/p&gt;
+&lt;p&gt;Strawpoll/strawpoll. (2016, June 28). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;Task analysis. (2013, September 6). Retrieved December 24, 2016, from 
+&lt;/p&gt;
+&lt;p&gt;The poll everywhere API. Retrieved December 24, 2016, from 
 &lt;/p&gt;
 </description>
     </item>

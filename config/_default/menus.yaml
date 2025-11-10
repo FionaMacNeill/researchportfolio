@@ -4,8 +4,11 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Talks
-    url: /#talks
+  - name: About
+    url: /#about
+    weight: 10 
+  - name: Events
+    url: /#events
     weight: 12 
   #- name: Portfolio
   #  url: /#projects

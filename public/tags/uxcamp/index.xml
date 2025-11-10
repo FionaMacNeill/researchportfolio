@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/uxcamp/index.xml" rel="self" type="application/rss+xml" />
     <description>Uxcamp</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 21 Jun 2025 08:30:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Uxcamp</title>
-      <link>http://localhost:1313/tags/uxcamp/</link>
-    </image>
-    
     <item>
       <title>UX Camp 2025 Reflections</title>
       <link>http://localhost:1313/blog/2025/06/ux-camp-2025-reflections/</link>

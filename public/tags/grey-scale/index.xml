@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/grey-scale/index.xml" rel="self" type="application/rss+xml" />
     <description>Grey-Scale</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 08 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Grey-Scale</title>
-      <link>http://localhost:1313/tags/grey-scale/</link>
-    </image>
-    
     <item>
       <title>Wireframes: Are friends electric</title>
       <link>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</link>

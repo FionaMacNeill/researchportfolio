@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
     <description>Product Management</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 13 Nov 2022 18:21:29 +0100</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Product Management</title>
-      <link>http://localhost:1313/tags/product-management/</link>
-    </image>
-    
     <item>
       <title>UX Brighton 2022 - 4th November</title>
       <link>http://localhost:1313/blog/2022/11/uxbrighton-0411/</link>

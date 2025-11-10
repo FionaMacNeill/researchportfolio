@@ -6,12 +6,6 @@
       <atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <description>Design</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_57d0698421383678.png</url>
-      <title>Design</title>
-      <link>http://localhost:1313/tags/design/</link>
-    </image>
-    
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
       <link>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</link>

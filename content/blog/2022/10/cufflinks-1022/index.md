@@ -60,8 +60,8 @@ This article is pure brilliance and I keep coming back to it over and over. It h
 
 This article include excellent time and communications flow management tips. Many I had already implemented, some I had not and now do. On this topic, I am really looking forward to the [Schedule Send feature which is finally coming to MS Teams](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-microsoft-ignite-2022/ba-p/3614158). That has been a great feature in Slack and is a good way to respect folks' time and control your own communications hours. 
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my <a href="https://twitter.com/hashtag/LX?src=hash&ref_src=twsrc%5Etfw">#LX</a> <a href="https://twitter.com/hashtag/UX?src=hash&ref_src=twsrc%5Etfw">#UX</a> toolkit for safekeeping and frequent reference. Thank you <a href="https://twitter.com/scope?ref_src=twsrc%5Etfw">@scope</a> <a href="https://twitter.com/hashtag/a11y?src=hash&ref_src=twsrc%5Etfw">#a11y</a> <a href="https://twitter.com/hashtag/accessibility?src=hash&ref_src=twsrc%5Etfw">#accessibility</a> <a href="https://t.co/LwEXLBdl4i">https://t.co/LwEXLBdl4i</a> <a href="https://t.co/OsvecKhRk3">pic.twitter.com/OsvecKhRk3</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1535532289928548352?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>Even those of us who have been writing alt text for years can improve our practice (so many that I would tweak with hindsight). This guide is going into my #LX #UX toolkit for safekeeping and frequent reference. Thank you @scope #a11y #accessibility</blockquote>
+— Tweet by Fiona MacNeill (@fmacneill) on June 11, 2022
 
 ## Some things I did and things that I am doing
 
@@ -107,18 +107,18 @@ I am cultivating creative and curious encounters on a daily basis. This is a lif
 
 In a similar vein I can recommend the work of Stefaan van Hooyd, author of [The Workplace Curiosity Manifesto](https://www.amazon.co.uk/Workplace-Curiosity-Manifesto-Transformational-Organizations/dp/B0B2HQ7DHS) who I saw give a talk at the Learning Technologies Autumn Forum (13th October, ExCel Centre, London).
 
-<div>
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Amazing talk with <a href="https://twitter.com/stefaanvanhooyd?ref_src=twsrc%5Etfw">@stefaanvanhooyd</a> on Curiosity <a href="https://twitter.com/hashtag/LTAF22?src=hash&ref_src=twsrc%5Etfw">#LTAF22</a> <a href="https://t.co/Cow6lSSqxs">pic.twitter.com/Cow6lSSqxs</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1580542508660293632?ref_src=twsrc%5Etfw">October 13, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</div>
+<blockquote>Amazing talk with @stefaanvanhooyd on Curiosity #LTAF22</blockquote>
+— Tweet by Fiona MacNeill (@fmacneill) on October 13, 2022
+
+
 
 #### Activities to feed my mind
 
 - Applying for my alumni library membership and reading books outside my current area of knowledge. Currently I am reading a book on linguistics. 
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you  <a href="https://twitter.com/brightonalumni?ref_src=twsrc%5Etfw">@brightonalumni</a> for making this possible! <a href="https://t.co/Y2KrmoUnup">pic.twitter.com/Y2KrmoUnup</a></p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1554933626609041410?ref_src=twsrc%5Etfw">August 3, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>Okay I have to admit that I let out a high pitched exclamation of delight when I received my approval for alumni library membership today. Thank you @brightonalumni for making this possible!</blockquote>
+— Tweet by Fiona MacNeill (@fmacneill) on August 3, 2022
 
 - Going to the theatre more. The show that caused to me to think, learn and reflect this week was Ifrah Mansour's one-woman show, "How to have fun in a Civil War". Which effectively and poignantly retold her own experiences as a young child in Somalia. 
 
@@ -163,5 +163,5 @@ Knapp, J, Zeratsky, J., Kowitz, B. (2016) Sprint: How to solve big problems and 
 
 on the topic of referencing...
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">A thread 🧵: As a <a href="https://twitter.com/hashtag/Dyslexic?src=hash&ref_src=twsrc%5Etfw">#Dyslexic</a> person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...</p>— Fiona MacNeill (@fmacneill) <a href="https://twitter.com/fmacneill/status/1525423338100858881?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>A thread 🧵: As a #Dyslexic person who struggles with reading-at-speed, screen readers are a gateway to knowledge. I like to stay up-to-date by reading academic papers and industry reports. However, I want to talk about academic referencing styles and why they are a problem...</blockquote> 
+— Tweet by Fiona MacNeill (@fmacneill) on May 14, 2022
