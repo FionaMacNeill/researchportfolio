@@ -19,7 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Knowhow for tech, learning, and change"
     # Site meta description for search engines and social sharing
     description: "Fiona MacNeill's portfolio and blog."
     # Social accounts (used for meta tags like Twitter Cards)
@@ -88,7 +88,7 @@ hugoblox:
     # Menu alignment
     align: center                       # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
     theme_picker: false
     language_switcher: true
@@ -172,7 +172,7 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
+    enable: false
     # Trending/suggested search terms
     suggestions: []
     # Quick action shortcuts in search modal
@@ -269,7 +269,7 @@ hugoblox:
   # Development and debugging (hidden in production)
   # ────────────────────────────────────────────────────────────────────────────
   debug:
-    enable: true
+    enable: false
     hud:
       position: bottom-left             # top-left | top-right | bottom-left | bottom-right
       opacity: 1.0
