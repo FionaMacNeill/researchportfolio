@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playful Learning | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/playful-learning/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/playful-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Playful Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 28 Mar 2025 11:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Playful Learning</title>
+      <link>https://fionamacneill.co.uk/tags/playful-learning/</link>
+    </image>
+    
+    <item>
+      <title>Games for design and thinking at University of Brighton</title>
+      <link>https://fionamacneill.co.uk/events/designershive/</link>
+      <pubDate>Fri, 28 Mar 2025 11:30:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/designershive/</guid>
+      <description>&lt;p&gt;Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, &amp;lsquo;
+&amp;rsquo;. During the day I showed a range of design focused cards, including 
+.&lt;/p&gt;
+&lt;img src=&#34;FMacNeillatDesignersHive.webp&#34; alt=&#34;Fiona is using the Smithery and John V Willshire&#39;s Regenerative Design Field Kit with a group of students in a symposium style space with large tables.&#34; /&gt; 
+&lt;caption&gt;&lt;em&gt;Showing Smithery&#39;s Regenerative Design Toolkit as an example of a design game to a group of students&lt;/em&gt;&lt;/caption&gt; 
+&lt;img src=&#34;GamePlay.webp&#34; alt=&#34;Fiona is smiling while they stand next to a group of students collaborating at a table who are feeding back on their reflections from the &#39;These UXers Need Help&#39; game&#34; width=&#34;600px&#34; /&gt;
+&lt;img src=&#34;TheDesignersHiveEventFlyer.jpeg&#34; alt=&#34;The Designers Hive one-day symposium flyer for design and culture on the 28th of March 2025&#34; width=&#34;600px&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Put the learning into work; take the work out of learning at Playful Learning 2024</title>
+      <link>https://fionamacneill.co.uk/events/playfullearning2024/</link>
+      <pubDate>Thu, 04 Jul 2024 16:15:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/playfullearning2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

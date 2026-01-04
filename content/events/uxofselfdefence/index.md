@@ -1,9 +1,9 @@
 ---
-title: The UX of Self-Defence
+title: The UX of Self-Defence at LTUX Brighton
 event: "UX in 2025: Trends and Insights"
 event_url: 
 location: Barclays Eagle Labs Brighton
-summary: 5 UX heuristics from Kickboxing. Presented as part of LTUX Brighton evening event.
+summary: 5 UX heuristics from Kickboxing. Presented as part of an LTUX Brighton Lightning Talks event.
 abstract: A lightning talk about how UX can help you fend for yourself in the real world.
 date: 2025-03-19T18:00:00Z
 date_end: 2025-03-19T20:30:00Z
@@ -11,6 +11,7 @@ all_day: false
 publishDate: 2025-03-19T20:30:00Z
 authors: 
 tags: 
+- UX
 featured: true
 image:
   caption: 

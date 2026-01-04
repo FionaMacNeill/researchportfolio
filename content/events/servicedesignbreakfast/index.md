@@ -1,5 +1,5 @@
 ---
-title: Gr8 Expectations - A generative game about AI
+title: Gr8 Expectations - A generative game about AI at Clearleft's Service Design Breakfast
 event: "Service Design Breakfast"
 event_url: 
 location: Clearleft
@@ -11,6 +11,7 @@ all_day: false
 publishDate: 2025-05-08T09:30:00Z
 authors: 
 tags: 
+- AI
 featured: true
 image:
   caption: Images courtesy of <a href="https://clearleft.com/events" target="_blank">Clearleft</a>

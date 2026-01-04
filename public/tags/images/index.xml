@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Images | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/images/</link>
-      <atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <title>Images | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/images/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <description>Images</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Images</title>
+      <link>https://fionamacneill.co.uk/tags/images/</link>
+    </image>
+    
     <item>
       <title>Hone Smart Home</title>
-      <link>http://localhost:1313/blog/2017/02/hone-smart-hone/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/</link>
       <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/02/hone-smart-hone/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/</guid>
       <description>&lt;p&gt;At the end of my last entry I outlined my discovery that there was an app building company called Bubble, which would likely lead to brand confusion.
 As a result I decided to go back to some of the ideas on 
  and consider other possibilities that would tackle some of the same goals.
@@ -41,9 +47,9 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of sketchbook Corral and Hone ideas&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_e286f3eb0263877e.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_f06ad748b720dec1.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_5af0da94aa282059.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_e286f3eb0263877e.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_f06ad748b720dec1.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_5af0da94aa282059.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_e286f3eb0263877e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03SketchbookP5_hu_e286f3eb0263877e.webp&#34;
                width=&#34;760&#34;
                height=&#34;547&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -75,9 +81,9 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Trimble Sketchup sketching&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_3e8a11470245d6d0.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_1a15c6f1213f44ac.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_e87550efc2263c14.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_3e8a11470245d6d0.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_1a15c6f1213f44ac.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_e87550efc2263c14.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_3e8a11470245d6d0.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_hu_3e8a11470245d6d0.webp&#34;
                width=&#34;760&#34;
                height=&#34;199&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,9 +110,9 @@ The following company traits need to be suggested by the name:&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Trimble Sketchup sketching part 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_8dff0b567ead36eb.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_684b2b8db2754de9.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_fa970de6d3e95fdb.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_8dff0b567ead36eb.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_684b2b8db2754de9.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_fa970de6d3e95fdb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_8dff0b567ead36eb.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing_shadow_hu_8dff0b567ead36eb.webp&#34;
                width=&#34;760&#34;
                height=&#34;273&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,9 +141,9 @@ modelled architecturally.&lt;/em&gt;&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Trimble Sketchup sketching part 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_c09ac3cfae26cb06.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_d6761836fa1e45c.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_41e6116e6f25c276.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_c09ac3cfae26cb06.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_d6761836fa1e45c.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_41e6116e6f25c276.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_c09ac3cfae26cb06.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03corral-testing-3_hu_c09ac3cfae26cb06.webp&#34;
                width=&#34;760&#34;
                height=&#34;411&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -176,9 +182,9 @@ Initially I started with quite chunky fonts and felt that I would like to includ
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of first Hone logo&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_d70f1016600698d1.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_1f01d346f2464f31.webp 376w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_d70f1016600698d1.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_1f01d346f2464f31.webp 376w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_d70f1016600698d1.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTest_hu_d70f1016600698d1.webp&#34;
                width=&#34;376&#34;
                height=&#34;153&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -209,9 +215,9 @@ You can view this at the
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of the &amp;ldquo;It&amp;rsquo;s a small world&amp;rdquo; ride design&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_989694bfa4c34251.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_eef8822d30acbb4b.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_6cce4ab004756dc6.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_989694bfa4c34251.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_eef8822d30acbb4b.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_6cce4ab004756dc6.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_989694bfa4c34251.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/Smallworldclock1015pm_hu_989694bfa4c34251.webp&#34;
                width=&#34;760&#34;
                height=&#34;520&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -239,9 +245,9 @@ Gbklyn, CC BY-SA 4.0
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of hone logo contact sheet&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_a8c440b94bff0e91.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_c08587cf3f171c57.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_4ed8199768b639ca.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_a8c440b94bff0e91.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_c08587cf3f171c57.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_4ed8199768b639ca.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_a8c440b94bff0e91.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03HoneLogoTestContactSheet_hu_a8c440b94bff0e91.webp&#34;
                width=&#34;760&#34;
                height=&#34;350&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +275,9 @@ This also challenged some assumptions I had made about the better designs, so I 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Google Ngram viewer&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_b0e386c5764d334f.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_de836197264f093c.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_c54e10f1e5cc44aa.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_b0e386c5764d334f.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_de836197264f093c.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_c54e10f1e5cc44aa.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_b0e386c5764d334f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03GoogleNgram_hu_b0e386c5764d334f.webp&#34;
                width=&#34;760&#34;
                height=&#34;285&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -305,9 +311,9 @@ With this in mind I considered what a banner could look like for hone, the logo 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of header test for hone&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_aea7a11295d2543b.webp 320w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_329e1e53f80bf1b7.webp 480w, http://localhost:1313/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_6b93a47032f03538.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_aea7a11295d2543b.webp 320w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_329e1e53f80bf1b7.webp 480w, https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_6b93a47032f03538.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_aea7a11295d2543b.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/hone-smart-hone/images/03headerforHone_hu_aea7a11295d2543b.webp&#34;
                width=&#34;760&#34;
                height=&#34;158&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -329,9 +335,9 @@ With this in mind I considered what a banner could look like for hone, the logo 
     
     <item>
       <title>Naming - initial ideas</title>
-      <link>http://localhost:1313/blog/2017/02/naming/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/02/naming/</link>
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/02/naming/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/02/naming/</guid>
       <description>&lt;p&gt;
 
 
@@ -352,9 +358,9 @@ With this in mind I considered what a banner could look like for hone, the logo 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;sketchbook naming ideas page&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP2_hu_de19e537e40ec17b.webp 320w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP2_hu_553a610561ebcc8e.webp 480w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP2_hu_b4a54195fe12b75c.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP2_hu_de19e537e40ec17b.webp 320w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP2_hu_553a610561ebcc8e.webp 480w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP2_hu_b4a54195fe12b75c.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP2_hu_de19e537e40ec17b.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP2_hu_de19e537e40ec17b.webp&#34;
                width=&#34;760&#34;
                height=&#34;552&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -381,9 +387,9 @@ With this in mind I considered what a banner could look like for hone, the logo 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of sketchbook lean business canvas page&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP3_hu_735b8a9b644266bc.webp 320w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP3_hu_b5d4e056c99efb7f.webp 480w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP3_hu_8bdafd969e029cd8.webp 537w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP3_hu_735b8a9b644266bc.webp 320w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP3_hu_b5d4e056c99efb7f.webp 480w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP3_hu_8bdafd969e029cd8.webp 537w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP3_hu_735b8a9b644266bc.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP3_hu_735b8a9b644266bc.webp&#34;
                width=&#34;537&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -428,9 +434,9 @@ present some huge privacy issues and security issues for the end-user. It remind
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of sketchbook logo sketching page&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP4_hu_820e0d4ed7c8c90e.webp 320w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP4_hu_bbadac733bfb399d.webp 480w, http://localhost:1313/blog/2017/02/naming/images/02SketchbookP4_hu_62c00133dfe56f9c.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP4_hu_820e0d4ed7c8c90e.webp 320w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP4_hu_bbadac733bfb399d.webp 480w, https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP4_hu_62c00133dfe56f9c.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/naming/images/02SketchbookP4_hu_820e0d4ed7c8c90e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02SketchbookP4_hu_820e0d4ed7c8c90e.webp&#34;
                width=&#34;760&#34;
                height=&#34;533&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -458,9 +464,9 @@ I tried out the idea of including a house pictogram in the logo, but it kept loo
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Bubble logo export 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/naming/images/02bubblelogoexport1_hu_621a20bd0a8f6010.webp 300w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02bubblelogoexport1_hu_621a20bd0a8f6010.webp 300w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/naming/images/02bubblelogoexport1_hu_621a20bd0a8f6010.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02bubblelogoexport1_hu_621a20bd0a8f6010.webp&#34;
                width=&#34;300&#34;
                height=&#34;123&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -487,9 +493,9 @@ This version was too busy and was really just a test. The blue background seemed
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of Bubble logo export 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/naming/images/02bubblelogoexport2_hu_6578fa1618daad29.webp 277w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02bubblelogoexport2_hu_6578fa1618daad29.webp 277w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/naming/images/02bubblelogoexport2_hu_6578fa1618daad29.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/naming/images/02bubblelogoexport2_hu_6578fa1618daad29.webp&#34;
                width=&#34;277&#34;
                height=&#34;108&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -539,9 +545,9 @@ I got as far as creating a Hero image for the Bubble or BubbleHome concept and t
     
     <item>
       <title>Welcome to my new IDM22 Journal</title>
-      <link>http://localhost:1313/blog/2017/02/beginning/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/02/beginning/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/02/beginning/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/02/beginning/</guid>
       <description>&lt;p&gt;Greetings! I have decided that I would like to keep up my reflective writing activities during IDM22.
 This is due to my recent experience on the web development module and also thinking back to when I took IDM21 (seems so long ago now!).
 In both cases it was an immensely valuable venture.&lt;/p&gt;
@@ -610,9 +616,9 @@ The idea of try-before-you-buy also emerged from my earlier research, you can vi
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of sketchbook ideas page&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_a58c364b5e2519e6.webp 320w, http://localhost:1313/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_5a4b822c80e994c0.webp 480w, http://localhost:1313/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_c60cbdcb286ab036.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_a58c364b5e2519e6.webp 320w, https://fionamacneill.co.uk/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_5a4b822c80e994c0.webp 480w, https://fionamacneill.co.uk/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_c60cbdcb286ab036.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_a58c364b5e2519e6.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/02/beginning/images/01-Sketchbook-p1_hu_a58c364b5e2519e6.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -631,9 +637,9 @@ I used this page of sketchbook to explore different ideas related to objects in 
     
     <item>
       <title>The weekend of doom</title>
-      <link>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</guid>
       <description>&lt;p&gt;In 
  I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
 \[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;
@@ -675,9 +681,9 @@ I used this page of sketchbook to explore different ideas related to objects in 
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -708,9 +714,9 @@ I used this page of sketchbook to explore different ideas related to objects in 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -735,9 +741,9 @@ I used this page of sketchbook to explore different ideas related to objects in 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

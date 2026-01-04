@@ -1,5 +1,5 @@
 ---
-title: Research Hacking - UX Camp Brighton 2024
+title: Research Hacking at UX Camp Brighton 2024
 event: UX Camp Brighton 2024
 event_url: https://www.uxcampbrighton.org/
 
@@ -18,7 +18,8 @@ all_day: false
 publishDate: '2024-04-26T09:00:00Z'
 
 authors: [] 
-tags: []
+tags: 
+- UX
 
 # Is this a featured talk? (true/false)
 featured: true

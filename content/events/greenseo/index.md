@@ -1,5 +1,5 @@
 ---
-title: So you want to go green?
+title: So you want to go green? at Green SEO Brighton
 event: Green SEO Brighton
 event_url: https://greenseo.org/
 location: Freedom Works Brighton
@@ -11,6 +11,8 @@ all_day: false
 publishDate: 2025-04-09T20:30:00Z
 authors: 
 tags: 
+- sustainability 
+- behavioural change
 featured: true
 image:
   caption: 

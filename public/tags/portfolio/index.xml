@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/portfolio/</link>
-      <atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <title>Portfolio | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/portfolio/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Portfolio</title>
+      <link>https://fionamacneill.co.uk/tags/portfolio/</link>
+    </image>
+    
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -41,9 +47,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -68,9 +74,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,9 +142,9 @@
     
     <item>
       <title>Progress on the grid and layout</title>
-      <link>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/12/progress-on-the-grid-and-layout/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</guid>
       <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;
 &lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
 &lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
@@ -167,9 +173,9 @@
     
     <item>
       <title>Timeline tool identified</title>
-      <link>http://localhost:1313/blog/2016/11/timeline-tool-identified/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/timeline-tool-identified/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/timeline-tool-identified/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/timeline-tool-identified/</guid>
       <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): 
  Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: 
  and then the From 
@@ -215,9 +221,9 @@
     
     <item>
       <title>Wireframing sketches</title>
-      <link>http://localhost:1313/blog/2016/11/wireframing-sketches/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/wireframing-sketches/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</guid>
       <description>&lt;p&gt;
  Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
 \[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
@@ -241,9 +247,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
                width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -255,9 +261,9 @@
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;
  
 &lt;fn&gt; Business Model Canvas (

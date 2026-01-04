@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/research/</link>
-      <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <title>Research | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/research/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Research</title>
+      <link>https://fionamacneill.co.uk/tags/research/</link>
+    </image>
+    
     <item>
       <title>Magical Meetings - A Review</title>
-      <link>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</link>
+      <link>https://fionamacneill.co.uk/blog/2021/10/magical-meetings-a-review/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021/10/magical-meetings-a-review/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2021/10/magical-meetings-a-review/</guid>
       <description>&lt;p&gt;This post relates to 
  of thinking about what makes an online space inclusive. I decided that UX Brighton&amp;rsquo;s monthly &lt;em&gt;Show and Tell&lt;/em&gt; events are a good way to set mini deadlines for myself. Sometimes I use these events to present new tools or UX methods that I am using. This has now branched out to presenting the occasional book review. My review of &lt;em&gt;Magical Meetings&lt;/em&gt; was presented at the August 2021 &lt;em&gt;Show and Tell&lt;/em&gt;, where I fed forward my learning in an abbreviated 15-min summary. The book also got me thinking broadly about my own experiences of working in education and the soft skills involved. So, I decided to give the information some breathing space prior to writing this longer form blog post.&lt;/p&gt;
 &lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
@@ -205,9 +211,9 @@ Ferguson and Fitch (2021, p. 158) as quoted from
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;

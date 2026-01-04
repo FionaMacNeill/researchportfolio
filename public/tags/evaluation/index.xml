@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evaluation | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/evaluation/</link>
-      <atom:link href="http://localhost:1313/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Evaluation | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/evaluation/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Evaluation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 11 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Evaluation</title>
+      <link>https://fionamacneill.co.uk/tags/evaluation/</link>
+    </image>
+    
     <item>
       <title>New project = New category</title>
-      <link>http://localhost:1313/blog/2015/10/new-project-new-category/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/10/new-project-new-category/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/10/new-project-new-category/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/10/new-project-new-category/</guid>
       <description>&lt;h2 id=&#34;well-almost&#34;&gt;Well almost&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I have had a #UX category on this blog for a while, but I have decided to formalise it as I embark on a grad school module, &lt;em&gt;Interaction Design and Evaluation Process.&lt;/em&gt; The UX category will be a place to collect my thoughts in relation to what I learn on the module and can be viewed in a collated format via the &amp;ldquo;UX&amp;rdquo; tab. Things to comment on this week:&lt;/p&gt;
 &lt;ul&gt;

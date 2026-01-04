@@ -1,25 +1,29 @@
 <style>
-    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; left: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8); box-shadow: #313131 0 0 2px 0;}
+    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; left: 0; width: 100%; background: #171719; color: rgba(255,255,255,0.8); box-shadow: #313131 0 0 2px 0;}
     #consent-notice span {margin-right: 1rem;}
     #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
     #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
     #consent-notice button.btn {margin: 8px; padding: 8px; border-radius: 5px;} 
-    #consent-notice button.btn.approve-consent {border: 1px solid #222;} 
+    #consent-notice button.btn.approve-consent {border: 1px solid #939393;} 
     #consent-notice button.btn.approve-consent:hover {background: #2c2c2c; border: 1px solid rgb(132, 132, 132); transition: border 0.5s;}
+    #consent-notice button.btn.manage-consent {background:rgba(255,255,255,0.1);} 
     #consent-notice button.btn.manage-consent:hover {background: #cecece; color: #000;} 
-    #consent-notice button.btn.deny-consent {border: 1px solid #222;}
+    #consent-notice button.btn.deny-consent {border: 1px solid #939393;}
     #consent-notice button.btn.deny-consent:hover {background: #2c2c2c; border: 1px solid rgb(132, 132, 132); transition: border 0.5s;}
     
     #consent-overlay {position: fixed; left: 0; top: 0; width: 100%; height: 100vh; display: none; background: rgba(0,0,0,0.75); z-index: 999999; overflow: auto; cursor: pointer;}
     #consent-overlay.active {display: flex;}
-    #consent-overlay > div {background: rgb(34, 34, 34); width: 100%; max-width: 30rem; padding: 1.75rem; margin: auto; cursor: initial;}
+    #consent-overlay > div {background: #171719; width: 100%; max-width: 30rem; padding: 1.75rem; margin: auto; cursor: initial;}
     #consent-overlay > div > div {display: flex; align-items: flex-start; margin-bottom: 1rem; float: right;}
     #consent-overlay > div > div:last-child {margin: 0;}
     #consent-overlay h3 {padding-top: 0;}
     #consent-overlay input {margin: 0.3rem; padding: 12px;}
     #consent-overlay label {display: block;}
-    #consent-overlay .btn {margin: 8px; padding: 8px; border-radius: 5px;}
-    #consent-overlay button.btn.save-consent {background: rgba(255,255,255,0.1); font-weight: normal;}
+    #consent-overlay .btn {margin: 8px; padding: 8px; border-radius: 5px;} 
+    #consent-overlay .btn.approve-consent {border: 1px solid #222; cursor: pointer;} 
+    #consent-overlay .btn.approve-consent:hover {background: #2c2c2c; border: 1px solid rgb(132, 132, 132); transition: border 0.5s;} 
+    #consent-overlay button.btn.save-consent {background: rgba(255,255,255,0.1); font-weight: normal; cursor: pointer;} 
+    #consent-overlay button.btn.save-consent:hover {background: #cecece; color: #000;}
 
     @media (max-width: 767px) {
         #consent-overlay > div {padding: 1.75rem 1rem;}
@@ -27,7 +31,7 @@
         #consent-notice button.btn {position: relative; bottom: 4px;}
     }
 </style>
-<div id="consent-notice"><span>We would like to use <a class="manage-consent" href="#manage-consent">third party code</a> to improve the functionality of this website.</span><button class="btn manage-consent">Manage preferences</button><button class="btn deny-consent">Deny</button><button class="btn approve-consent">Allow</button></div>
+<div id="consent-notice"><span>We would like to use <a class="manage-consent" href="#manage-consent">third party code</a> to improve our understanding of how this site is used and to support its functionality.</span><button class="btn manage-consent">Manage preferences</button><button class="btn deny-consent">Deny</button><button class="btn approve-consent">Allow</button></div>
 <div id="consent-overlay">
     <div>
         {{ range $index, $item := .Site.Data.consent.items }}

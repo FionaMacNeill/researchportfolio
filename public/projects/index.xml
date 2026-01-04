@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/projects/</link>
+      <atom:link href="https://fionamacneill.co.uk/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Projects</title>
+      <link>https://fionamacneill.co.uk/projects/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,16 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ux | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/ux/</link>
-      <atom:link href="http://localhost:1313/tags/ux/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ux</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 09 Apr 2023 18:50:06 +0100</lastBuildDate>
+    <title>UX | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/ux/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <description>UX</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 17 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>UX</title>
+      <link>https://fionamacneill.co.uk/tags/ux/</link>
+    </image>
+    
+    <item>
+      <title>LTUX Brighton presents, Talk UX: Redesigning Place</title>
+      <link>https://fionamacneill.co.uk/events/talkux/</link>
+      <pubDate>Wed, 17 Sep 2025 09:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/talkux/</guid>
+      <description>&lt;p&gt;In 2025, LTUX Brighton hosted the international conference for 
+, 
+. We hosted 32 speakers and panelists over two days and received amazing feedback.&lt;/p&gt;
+&lt;p&gt;Personally, Talk UX was one of the most challenging, yet fulfilling experiences of my life. It really warrants it&amp;rsquo;s own blog post, particularly because we tried to make the event as responsible and sustainable as we could. As organisers we considered this in terms of how we organised, resourcing (both in-person and digital), and environmental impact.&lt;/p&gt;
+&lt;p&gt;I grew both in so many ways as a person, as a designer, as a leader, and as a business leader through the experience. I will be forever thankful for the vision, belief, and trust or our organising group and everything we achieved together.&lt;/p&gt;
+&lt;p&gt;This marked the end of my chapter leadership of LTUX Brighton. I&amp;rsquo;m staying on as treasurer as we move into next phase of our development as a group.&lt;/p&gt;
+&lt;img src=&#34;TalkUX-organisersonlyv2-170925.webp&#34; alt=&#34;the group of organiser for Talk UX at the front of the main room, in front of a projected image showing the Brighton beach front.&#34; /&gt; 
+&lt;p&gt;&lt;em&gt;Photo by Laura Rodriguez&lt;/em&gt; &lt;br&gt;
+&lt;strong&gt;Left-to-right:&lt;/strong&gt; Inka Howorth, Fiona MacNeill, Heidi Swigon, Lou Carroll, Alex Woodward, Emily Clark, Deeksha Bhushan, Alice Umeji.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The UX of Self-Defence at LTUX Brighton</title>
+      <link>https://fionamacneill.co.uk/events/uxofselfdefence/</link>
+      <pubDate>Wed, 19 Mar 2025 18:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/uxofselfdefence/</guid>
+      <description>&lt;p&gt;Learning is embodied and most effective when linked to sensory and emotional experiences. Sensory experiences and emotional reactions build neural pathways. Find out what Fiona has learned by completing 56,160 minutes of Kickboxing at the time of writing the talk.&lt;/p&gt;
+&lt;img src=&#34;talkclip032025.gif&#34; alt=&#34;Fiona is mid presentation, puts down the microphone and throws a demonstrative side kick towards the audience&#34; /&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Hacking at UX Camp Brighton 2024</title>
+      <link>https://fionamacneill.co.uk/events/uxcamp2024/</link>
+      <pubDate>Sat, 27 Apr 2024 14:30:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/uxcamp2024/</guid>
+      <description>&lt;h4 id=&#34;literature-review&#34;&gt;Literature review&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: 
+&lt;/li&gt;
+&lt;li&gt;Template with the &amp;lsquo;CONCATENATE&amp;rsquo; formula for creating formatted references based on a table in Excel: 
+&lt;/li&gt;
+&lt;li&gt;Template for formatting the references in Microsoft Word: 
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating truly accessible forms at SD in Gov (Virtual)</title>
+      <link>https://fionamacneill.co.uk/events/sdingovvirtual/</link>
+      <pubDate>Thu, 07 Mar 2024 15:30:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/events/sdingovvirtual/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>UX Camp Brighton 2023 - Game on!</title>
-      <link>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</link>
+      <link>https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/</link>
       <pubDate>Sun, 09 Apr 2023 18:50:06 +0100</pubDate>
-      <guid>http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/</guid>
       <description>&lt;h2 id=&#34;today-is-ux-camp-brighton&#34;&gt;Today is UX Camp Brighton!&lt;/h2&gt;
 &lt;p&gt;It is is 6.30am on the day of UX Camp Brighton 2023, one of my favourite days of the year! It is also the event&amp;rsquo;s 10th anniversary. I starting attending back in 2014; we go back a long way. Check out 
  for a flavour - I just noticed that I am on there!&lt;/p&gt;
@@ -50,9 +112,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Bar chart showing that salaries for men and women were equal in UX in 2022&#34; 
-               srcset=&#34;http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp 320w, http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ede0731ef52f89b9.webp 480w, http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ed4117616d45524.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp 320w, https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ede0731ef52f89b9.webp 480w, https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_ed4117616d45524.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2023/04/ux-camp-brighton-game-on/images/MedianSalaryByGender_hu_4e276ddd872beb09.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -124,9 +186,9 @@
     
     <item>
       <title>UX Brighton 2022 - 4th November</title>
-      <link>http://localhost:1313/blog/2022/11/uxbrighton-0411/</link>
+      <link>https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/</link>
       <pubDate>Sun, 13 Nov 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/blog/2022/11/uxbrighton-0411/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/</guid>
       <description>&lt;h2 id=&#34;the-brilliant-return-of-ux-brighton&#34;&gt;The brilliant return of UX Brighton&lt;/h2&gt;
 &lt;p&gt;UX Brighton, a mainstay of the Brighton UX community returned on 4th of November after a 2-year hiatus. This year&amp;rsquo;s event focused on UX and Product Management. I have been reflecting on this intersection both personally and professionally of late and outline my thoughts below. Some thoughts are fledgling, some are fully formed, some I may revisit, some I may abandon later.
 
@@ -149,9 +211,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Two pages in a sketchbook showing the back of a conference name badge, displaying the schedule. One is for 2020 and one is for 2022.&#34; 
-               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp 320w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_69ab02ba71c19cea.webp 480w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d6c3a3c9a09257d0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/SketchbookHiatus051122UXBri_hu_d3d5948a2e6b1d11.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -212,9 +274,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Lucy Spence shows her decision making record, which includes the statements above map across an intersecting axis, the x axis shows making a decision from change to no change, the y axis shows using a process form no change to change&#34; 
-               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp 320w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_8bf930b2a6542001.webp 480w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_7eaf3c48e7f2fedf.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/LSpence041122UXBri_hu_954555abc541c9c6.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -272,9 +334,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;A table showing a red column for a bad situation, yellow column for a risky situation, green column for a good situation as a decision plot for identifying when a process should stop&#34; 
-               srcset=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp 320w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_4833b72bb45883b7.webp 480w, https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_891c0efca11cb2b1.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2022/11/uxbrighton-0411/images/MLeMay041122UXBri_hu_847a42d84f5e2534.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -302,9 +364,9 @@
     
     <item>
       <title>Cufflinks - Edition 2 - 23rd October</title>
-      <link>http://localhost:1313/blog/2022/10/cufflinks-1022/</link>
+      <link>https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/</link>
       <pubDate>Sun, 23 Oct 2022 18:21:29 +0100</pubDate>
-      <guid>http://localhost:1313/blog/2022/10/cufflinks-1022/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/</guid>
       <description>&lt;h2 id=&#34;welcome-back-to-cufflinks&#34;&gt;Welcome back to &lt;em&gt;Cufflinks&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Hello again! Truth be told I was not expecting a 6-month hiatus between blog posts. I have had so many thoughts, ideas, and experiences that I have wanted to blog about but lacked the time to do so. What have I been doing all this time? Well I&amp;rsquo;ll provide you with an overview below, but first I will share my favourite articles over the past few months.&lt;/p&gt;
 &lt;h2 id=&#34;reading-highlights&#34;&gt;Reading highlights&lt;/h2&gt;
@@ -377,9 +439,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;flow of activities starting with video interviews, a written interview transcript, a chart showing click activities when using software Then example statements for a job when I am context, to help me motivation, so I can outcome&#34; 
-               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp 320w, https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_739de080e97fb0c8.webp 480w, https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_d69532927c70c260.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/LTUXBrightonLocalSublime_hu_ee734dd6225e7460.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -440,9 +502,9 @@ problem?&amp;rdquo; Oh, I actually know a bit about data analysis. I know a bit 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;fairy lights with clipped on cards, each card with a diffferent picture or message&#34; 
-               srcset=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp 320w, https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_437edeb80c0ae501.webp 480w, https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_a14b0c32cfdf39fd.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2022/10/cufflinks-1022/images/CuratingMySpace_hu_71fd3083d689c891.webp&#34;
                width=&#34;760&#34;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -468,9 +530,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Vlog 3 [1/2]: Adventures in ViewX - Double Diamond for Watch Parties</title>
-      <link>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
+      <link>https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/</guid>
       <description>&lt;h2 id=&#34;reflecting-on-designing-a-watch-party-for-ux-brighton&#34;&gt;Reflecting on designing a watch party for UX Brighton&lt;/h2&gt;
 &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/GmCNObzZEbo&#34; title=&#34;YouTube video player&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen width=&#34;560&#34; height=&#34;315&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
@@ -518,9 +580,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Slide showing the TV presenter, Nick Knowles, to represent a DIY approach to watch party&#34; 
-               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_75e705772254cea4.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_454bd53644fbf920.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp 320w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_75e705772254cea4.webp 480w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_454bd53644fbf920.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures_hu_52dc2a3f6d19bd6e.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -547,9 +609,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Elvira mistress of the dark on the left in an open-topped car and a video of Fiona providing video commentary on a video of Michael Caine from the 1980s&#34; 
-               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8193d030363b9dc.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8bae7580a9e9cd9e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp 320w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8193d030363b9dc.webp 480w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_8bae7580a9e9cd9e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures2_hu_eaf0d0aded6c5585.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -576,9 +638,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Michael Moore on the left and a series of embedded YouTube videos on the right within the context of a Virtual Learning Environment&#34; 
-               srcset=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp 320w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_63344f44ddfddbdd.webp 480w, http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_9953689768bdf3ac.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp 320w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_63344f44ddfddbdd.webp 480w, https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_9953689768bdf3ac.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2021/07/vlog-3-part-1-adventures-in-viewx/images/WatchPartiesAndLiveLectures3_hu_b93d9992b7571a27.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -609,9 +671,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>UX Camp Brighton 2018: Jobs-To-Be-Done-(R) #uxcb18</title>
-      <link>http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
+      <link>https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/</guid>
       <description>&lt;h2 id=&#34;why-am-i-here-as-in-you-at-this-blog-and-reading-this-now&#34;&gt;Why am I here (as in you, at this blog, and reading this now)?&lt;/h2&gt;
 &lt;p&gt;I hope you are here because you would like an introduction to using RStudio for data visualisation. I also hope that you are here because you are interested in 
  (abbrev~ JTBD; Ulwick, 2016). This blog provides an example of how to apply one of the approaches that sits under the mantle of JTBD, an Opportunity Landscape (Ulwick, 2016; VIII. Target Hidden Growth Opportunities section).&lt;/p&gt;
@@ -652,9 +714,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of an Opportunity Landscape plot&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_763f44b1472666c0.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_ab8864c040171787.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_763f44b1472666c0.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_ab8864c040171787.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/JTBD_demo_image-1rd4pz7_hu_d4a29a608904cc3d.webp&#34;
                width=&#34;760&#34;
                height=&#34;608&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -682,9 +744,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of survey question&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_ab6bda250eed1ad2.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_d6a018ee7cf4c92e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_ab6bda250eed1ad2.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_d6a018ee7cf4c92e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_display-w6adj4_hu_39e1304abaa5df61.webp&#34;
                width=&#34;760&#34;
                height=&#34;435&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -710,9 +772,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Photo of a 1960s-style robot with oval head made of clear glass&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp 240w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp 240w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/8309044921_5b3e0021a1_m_hu_8c08e143d488c8.webp&#34;
                width=&#34;240&#34;
                height=&#34;240&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -753,9 +815,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of results&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_cec2b4def9eb1613.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_93acda62396fbacb.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_cec2b4def9eb1613.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_93acda62396fbacb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/00_result-qp4oul_hu_b30738067ff06f7.webp&#34;
                width=&#34;760&#34;
                height=&#34;579&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -785,9 +847,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of sort data slide&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ad21916b51b99807.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ae796394af0b19e4.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ad21916b51b99807.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_ae796394af0b19e4.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/sort-the-data.001-1jk68l1_hu_a591bf5c1c2ab8ad.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -858,9 +920,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of the opportunity algorithm&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_82f0791af21c1df4.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_3594084ce9347730.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_82f0791af21c1df4.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_3594084ce9347730.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/presentation.001-28jxl4y_hu_43aa88faff2e08c8.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -888,9 +950,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image showing the columns in the spreadsheet&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_1e8223951a0ca4e9.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_d1be51dabd8d979e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_1e8223951a0ca4e9.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_d1be51dabd8d979e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/becalculated.001-1mbcuiy_hu_de6c53f86c24e98c.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -939,9 +1001,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of the RStudio UI&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_bc31baab28ad1679.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_b7ad02a6cec3df96.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_bc31baab28ad1679.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_b7ad02a6cec3df96.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/RStudio-console-u9gkdl_hu_15a77d400cce7e9e.webp&#34;
                width=&#34;760&#34;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1000,9 +1062,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of starter plot&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp 320w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_ffb518313e0528af.webp 480w, http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_61277ae4fc4bd60e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp 320w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_ffb518313e0528af.webp 480w, https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_61277ae4fc4bd60e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/star_R-244yio2_hu_c925d15a2a804447.webp&#34;
                width=&#34;760&#34;
                height=&#34;408&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1097,9 +1159,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Creative Commons Licence&#34; 
-               srcset=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp 88w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp 88w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/images/88x31_hu_ba8f4f2337cee5e7.webp&#34;
                width=&#34;88&#34;
                height=&#34;31&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1122,9 +1184,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;
  for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. 
@@ -1248,9 +1310,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Wireframes: Are friends electric</title>
-      <link>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/</guid>
       <description>&lt;p&gt;The title of this blog post is a nod in the direction of 
 . It felt like the right time to get some simple mock-ups ready in Adobe Fireworks; thus we became electric and moved away from paper, but only temporarily as this will speedup some of the low-fi paper prototypes that I plan later on. Fireworks seemed like the best choice as it is javascript-centric and I think that in all likelihood the final product would be coded in 
  (but that would be up to my hypothetical developer). This is going to be a very long journal entry as there were a lot of decisions involved in taking the jump to the new format. Bear with me. So first on my list, although I did it second (as I &amp;rsquo;think&amp;rsquo; &lt;em&gt;in colour&lt;/em&gt;) was to create a flexible frame-based mock-up of a topic page where learning content would be delivered. The frame size is set to 805 X 604 as this is the size of the window typically specified by 
@@ -1276,9 +1338,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;First simple grey scale wireframe version 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_188ab92908f746b3.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_eeaa8d5bdb31fb4d.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_188ab92908f746b3.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_eeaa8d5bdb31fb4d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1313,9 +1375,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Alternative save button&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp 183w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp 183w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp&#34;
                width=&#34;183&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1356,9 +1418,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_e2ebee3e2078e9f8.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_436660f1310db687.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_e2ebee3e2078e9f8.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_436660f1310db687.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1385,9 +1447,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_8d9457898f754db9.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_95c205f511bf7bcd.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_8d9457898f754db9.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_95c205f511bf7bcd.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1416,9 +1478,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_d6dd44619b6d3426.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0e2eff6867dca70.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_d6dd44619b6d3426.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0e2eff6867dca70.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1454,9 +1516,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_cb4ec3364c2cd277.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_c2a71ce6ccae5bfb.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_cb4ec3364c2cd277.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_c2a71ce6ccae5bfb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1487,9 +1549,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe 3 font 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_1bda05db5195379b.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_f32776c4bac229d.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_1bda05db5195379b.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_f32776c4bac229d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1521,9 +1583,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_9be5e369d1db5cd3.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_808d7af5405cece0.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_9be5e369d1db5cd3.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_808d7af5405cece0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1554,9 +1616,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 5&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_7c618ae39da0e95b.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_35c40247f5fd14f8.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_7c618ae39da0e95b.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_35c40247f5fd14f8.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1587,9 +1649,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 6&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_646a531b79426966.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_7829eb4eb0d346f4.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_646a531b79426966.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_7829eb4eb0d346f4.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1616,9 +1678,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe font resized&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_bfb8e5062f4964d7.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_3ff28df4f6874472.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_bfb8e5062f4964d7.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_3ff28df4f6874472.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1668,9 +1730,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_583ec5ccc56e9b8.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_bf91ab2ad728c45e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_583ec5ccc56e9b8.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_bf91ab2ad728c45e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1697,9 +1759,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_fb36d3aca5c820f1.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_acf1e9cbcb1e323f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_fb36d3aca5c820f1.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_acf1e9cbcb1e323f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1726,9 +1788,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_ba79b77d083a92db.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_62f4627a7eb4007c.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_ba79b77d083a92db.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_62f4627a7eb4007c.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1755,9 +1817,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_506bb9eae1f7f540.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_f295462a63b2303.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_506bb9eae1f7f540.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_f295462a63b2303.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1785,9 +1847,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe background 4 and font 6&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_9a1f47fa2c72df7c.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_1795793047fb800f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_9a1f47fa2c72df7c.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_1795793047fb800f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1821,9 +1883,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Wireframes: Pondering Topic Pages</title>
-      <link>http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/</guid>
       <description>&lt;p&gt;
 
 
@@ -1844,9 +1906,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Wireframe 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_9aeac5b215e2738e.webp 320w, http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_683bc417ed57da3f.webp 480w, http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_da5062ba01a4bd3c.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_9aeac5b215e2738e.webp 320w, https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_683bc417ed57da3f.webp 480w, https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_da5062ba01a4bd3c.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_9aeac5b215e2738e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframes-pondering-topic-pages/images/wireframe04-13nl89i_hu_9aeac5b215e2738e.webp&#34;
                width=&#34;760&#34;
                height=&#34;525&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1859,9 +1921,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Wireframe sketching: looking at the index/home</title>
-      <link>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
       <description>&lt;p&gt;
 
 
@@ -1882,9 +1944,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;wireframe sketches part 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
                width=&#34;760&#34;
                height=&#34;539&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1907,9 +1969,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Major discoveries, minor anguish</title>
-      <link>http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/</link>
       <pubDate>Mon, 21 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/</guid>
       <description>&lt;p&gt;You may ask, what happened to you Fiona, between 6/12 and 20/12? Well this is what happened. I was teaching an online course called the 12 Apps of Christmas (a satellite of course run at Regent&amp;rsquo;s University, London) and it was ALL consuming. I was also working on my Learning Object project during this time (and you thought I was slacking!) however, for the most part I have to admit to reverting to paper reflections for a while, due to sheer convenience. Currently my notes are collectively living on bits of scrap-paper, serviettes/napkins, and Evernote entries. I plan to pull them together here over the next few days, a process that I have started with the inclusion of 
 , I will include more on that later in the post.&lt;/p&gt;
 &lt;h2 id=&#34;first-a-few-relevant-reflections-from-my-experience-working-on-12-apps-of-christmas&#34;&gt;First a few relevant reflections from my experience working on 12 Apps of Christmas&lt;/h2&gt;
@@ -1934,9 +1996,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of some of the results&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_8a9210d2dc49daed.webp 320w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_1cdb4db635273c77.webp 480w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_6c62d9e8f59588c3.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_8a9210d2dc49daed.webp 320w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_1cdb4db635273c77.webp 480w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_6c62d9e8f59588c3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_8a9210d2dc49daed.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.44.10-21v040u_hu_8a9210d2dc49daed.webp&#34;
                width=&#34;760&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1964,9 +2026,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Google Analytics for Dec 2015&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_25add4992cabb1b2.webp 320w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_6da52481bb264eb1.webp 480w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_6a2e7438fe175cc5.webp 693w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_25add4992cabb1b2.webp 320w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_6da52481bb264eb1.webp 480w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_6a2e7438fe175cc5.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_25add4992cabb1b2.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-14.47.21-1pef2hw_hu_25add4992cabb1b2.webp&#34;
                width=&#34;693&#34;
                height=&#34;464&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2021,9 +2083,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;wireframe sketches 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_65aab5fe9b267b17.webp 320w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_ce23773e813c4be2.webp 480w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_9f709fa301a9334d.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_65aab5fe9b267b17.webp 320w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_ce23773e813c4be2.webp 480w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_9f709fa301a9334d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_65aab5fe9b267b17.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/featuredpost1-2b0dvmx_hu_65aab5fe9b267b17.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2065,9 +2127,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;The second iteration of the wireframe sketches&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_b85aa1cc088fbb2.webp 320w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_882416700b8137dc.webp 480w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_74bed6915a211e94.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_b85aa1cc088fbb2.webp 320w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_882416700b8137dc.webp 480w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_74bed6915a211e94.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_b85aa1cc088fbb2.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/02wireframes-239sxt1_hu_b85aa1cc088fbb2.webp&#34;
                width=&#34;760&#34;
                height=&#34;538&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2099,9 +2161,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Trying to map to IMS standards&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_542a72687911f069.webp 320w, http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_175650de37c7928a.webp 453w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_542a72687911f069.webp 320w, https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_175650de37c7928a.webp 453w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_542a72687911f069.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/major-discoveries-minor-anguish/images/Screen-Shot-2015-12-28-at-11.49.00-1sps8rh_hu_542a72687911f069.webp&#34;
                width=&#34;453&#34;
                height=&#34;502&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2138,9 +2200,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>Real-time reflection: experience of completing a Learning Object</title>
-      <link>http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/</guid>
       <description>&lt;p&gt;
 
 
@@ -2161,9 +2223,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Complex UML drawing with an annotated printout in my sketchbook&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp 320w, http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_bc7367f5dd6e9e4f.webp 480w, http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_b93fc3254d8ef7d9.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp 320w, https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_bc7367f5dd6e9e4f.webp 480w, https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_b93fc3254d8ef7d9.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/real-time-reflection-experience-of-completing-a-learning-object/images/featuredpost1-2b0dvmx_hu_7d6bd37f2ff53b67.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2250,9 +2312,9 @@ it is the top of the Dr Marten&amp;rsquo;s shoe shop (
     
     <item>
       <title>New project = New category</title>
-      <link>http://localhost:1313/blog/2015/10/new-project-new-category/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/10/new-project-new-category/</link>
       <pubDate>Sun, 11 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/10/new-project-new-category/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/10/new-project-new-category/</guid>
       <description>&lt;h2 id=&#34;well-almost&#34;&gt;Well almost&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I have had a #UX category on this blog for a while, but I have decided to formalise it as I embark on a grad school module, &lt;em&gt;Interaction Design and Evaluation Process.&lt;/em&gt; The UX category will be a place to collect my thoughts in relation to what I learn on the module and can be viewed in a collated format via the &amp;ldquo;UX&amp;rdquo; tab. Things to comment on this week:&lt;/p&gt;
 &lt;ul&gt;

@@ -1,35 +1,102 @@
-/* Custom styles added by Fiona MacNeill in 2025 */
+/* Custom styles added by Fiona MacNeill in 2025 */ 
 
-.hbb-section {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+ .bg-\[var\(--color-background\)\] { 
+     &:where(.dark, .dark *) {
+    background-color: #111;
+    } 
 } 
+
+#site-header.header { 
+     &:where(.dark, .dark *) {
+    background-color: #0f4044;
+    } 
+}
 
 .bio-text {
     font-size: 1.5rem;
 } 
 
-  .dark\:text-gray-300:hover {
+a { 
+    text-decoration-line: none; 
+    &:hover {
+        text-decoration-line: underline;
+    } 
     &:where(.dark, .dark *) {
-      color: rgb(70, 70, 70); 
-      transition: color 0.5s; 
-      background-color: var(--color-primary-300);
+        color: var(--color-green-200);
     }
+}
+
+@layer utilities {
+  .hover\:underline {
+    &:where(.dark, .dark *) {
+        &:is(:where(.group):hover *) {
+        text-decoration-line: underline; 
+        color: var(--color-green-200);
+       }
+     }
   }
+}
+
+/* Lowercase for classes which display tags */ 
+
+.gap-2 {
+    text-transform: lowercase;
+} 
+
+.no-underline.bg-primary-100.text-primary-800.text-xs.font-medium.rounded { 
+    text-transform: lowercase;
+}
+
+/* Dark mode hover effect for gray text */
 
 .sml {
     font-size: 1rem;
 } 
+
+.dark\:text-gray-300:hover {
+  &:where(.dark, .dark *) {
+    color: rgb(230, 230, 230);
+    transition: color 0.5s;
+
+  }
+} 
+
+@layer utilities { 
+    &:where(.dark, .dark *) {
+        .hover\:bg-gray-50 {
+        &:hover {
+        background-color: #171719; 
+        transition: background-color 0.5s;
+        }
+      }
+    } 
+}
+
+/* The dates needed to wrap on the cards */ 
+
+@layer utilities {
+  .whitespace-nowrap {
+    white-space: wrap;
+  }
+}
 
 .spacer-top {
     margin-top: 1rem;
 } 
 
 .spacer-bottom {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
+#contact { 
+    background-image: radial-gradient(at 20% 25%, hsla(212, 80%, 95%, 1) 0px, transparent 50%), radial-gradient(at 75% 30%, hsla(160, 80%, 95%, 1) 0px, transparent 50%), radial-gradient(at 25% 80%, hsla(280, 80%, 95%, 1) 0px, transparent 50%), radial-gradient(at 75% 85%, hsla(30, 80%, 95%, 1) 0px, transparent 50%);
+    &:where(.dark, .dark *) {
+    background-image: radial-gradient(at 20% 25%, hsla(212, 35%, 15%, 1) 0px, transparent 50%), radial-gradient(at 75% 30%, hsla(160, 35%, 15%, 1) 0px, transparent 50%), radial-gradient(at 25% 80%, hsla(280, 35%, 15%, 1) 0px, transparent 50%), radial-gradient(at 75% 85%, hsla(30, 35%, 15%, 1) 0px, transparent 50%);
+    } 
+} 
 
 .page-footer { 
-    padding-bottom: 6rem;
+    &:where(.dark, .dark *) {
+    background-color: #0f4044;
+    } 
 }

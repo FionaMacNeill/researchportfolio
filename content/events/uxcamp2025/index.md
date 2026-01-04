@@ -1,11 +1,11 @@
 ---
-title: Creating Another Way (CAW) - UX Camp Brighton 2025
+title: Creating Another Way (CAW) at UX Camp Brighton 2025
 event: UX Camp Brighton 2025
 event_url: https://www.uxcampbrighton.org/
 
 location: PLATF9RM Hove
 
-summary: An experiment session presented in Obsidan as an interactive essay. 
+summary: An experimental session presented in Obsidan as an interactive essay. 
 abstract: 'I am a biased *being* who works on their own. How might I challenge my thinking? How might I continue to create innovative experiences? How might I exercise my critical thinking skills? How might I make a difference through my work? How might I use AI in responsible way?' 
 
 # Talk start and end times.
@@ -18,7 +18,8 @@ all_day: false
 publishDate: '2025-04-26T16:00:00Z'
 
 authors: [] 
-tags: []
+tags: 
+- strategy
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -32,20 +33,6 @@ url_code: ''
 url_pdf: ''
 url_video: ''
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#  - example
 ---
 
-I'm planning a series of blog posts about this talk as there is a *lot* of thinking behind 'Creating Another Way'. It is a work-in-progress. 
+I'm planning a series of blog posts about this talk as there is a *lot* of thinking behind 'Creating Another Way'. It is a longterm work-in-progress! If you are wondering about Obsidian, find out more about their [fantastic notetaking tool at their site](https://obsidian.md/). I am a long-term fan. 

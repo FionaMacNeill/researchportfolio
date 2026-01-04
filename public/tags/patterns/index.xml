@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patterns | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/patterns/</link>
-      <atom:link href="http://localhost:1313/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    <title>Patterns | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/patterns/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
     <description>Patterns</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Fri, 08 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Patterns</title>
+      <link>https://fionamacneill.co.uk/tags/patterns/</link>
+    </image>
+    
     <item>
       <title>Wireframes: Are friends electric</title>
-      <link>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/</link>
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/</guid>
       <description>&lt;p&gt;The title of this blog post is a nod in the direction of 
 . It felt like the right time to get some simple mock-ups ready in Adobe Fireworks; thus we became electric and moved away from paper, but only temporarily as this will speedup some of the low-fi paper prototypes that I plan later on. Fireworks seemed like the best choice as it is javascript-centric and I think that in all likelihood the final product would be coded in 
  (but that would be up to my hypothetical developer). This is going to be a very long journal entry as there were a lot of decisions involved in taking the jump to the new format. Bear with me. So first on my list, although I did it second (as I &amp;rsquo;think&amp;rsquo; &lt;em&gt;in colour&lt;/em&gt;) was to create a flexible frame-based mock-up of a topic page where learning content would be delivered. The frame size is set to 805 X 604 as this is the size of the window typically specified by 
@@ -36,9 +42,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;First simple grey scale wireframe version 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_188ab92908f746b3.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_eeaa8d5bdb31fb4d.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_188ab92908f746b3.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_eeaa8d5bdb31fb4d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe1-20fxmyq_hu_7efe441f1ae8652d.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -73,9 +79,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Alternative save button&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp 183w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp 183w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframeALTsavebutton-12p9ckg_hu_2dab45f485db32c2.webp&#34;
                width=&#34;183&#34;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -116,9 +122,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_e2ebee3e2078e9f8.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_436660f1310db687.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_e2ebee3e2078e9f8.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_436660f1310db687.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe2-2gpk21n_hu_ef792acedcb5e853.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -145,9 +151,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_8d9457898f754db9.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_95c205f511bf7bcd.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_8d9457898f754db9.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_95c205f511bf7bcd.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/basicwireframe3-2ax1oj2_hu_588b8e3ff35fc37f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -176,9 +182,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Basic Wireframe 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_d6dd44619b6d3426.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0e2eff6867dca70.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_d6dd44619b6d3426.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0e2eff6867dca70.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted-1a2s480_hu_c0f7321a4aff8492.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -214,9 +220,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_cb4ec3364c2cd277.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_c2a71ce6ccae5bfb.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_cb4ec3364c2cd277.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_c2a71ce6ccae5bfb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe2_font2-29pct79_hu_8d2b9c0ebc7f4850.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -247,9 +253,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe 3 font 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_1bda05db5195379b.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_f32776c4bac229d.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_1bda05db5195379b.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_f32776c4bac229d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe3_font3-126bofy_hu_5e75892e7e22235d.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -281,9 +287,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_9be5e369d1db5cd3.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_808d7af5405cece0.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_9be5e369d1db5cd3.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_808d7af5405cece0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe4_font4-1ynve9s_hu_abd461f48b68eaa7.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -314,9 +320,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 5&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_7c618ae39da0e95b.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_35c40247f5fd14f8.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_7c618ae39da0e95b.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_35c40247f5fd14f8.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe5_font5-1bl790i_hu_9d02afe7fd2be954.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -347,9 +353,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe font 6&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_646a531b79426966.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_7829eb4eb0d346f4.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_646a531b79426966.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_7829eb4eb0d346f4.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe6_font6-1qi0s2q_hu_8aba18d2950171eb.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -376,9 +382,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe font resized&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_bfb8e5062f4964d7.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_3ff28df4f6874472.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_bfb8e5062f4964d7.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_3ff28df4f6874472.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframe_fontsizeadjusted2-rwctgy_hu_49a17e0ed757b47a.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -428,9 +434,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 1&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_583ec5ccc56e9b8.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_bf91ab2ad728c45e.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_583ec5ccc56e9b8.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_bf91ab2ad728c45e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk1_font1-1qeeorl_hu_6e2d04776ac4bc5.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -457,9 +463,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 2&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_fb36d3aca5c820f1.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_acf1e9cbcb1e323f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_fb36d3aca5c820f1.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_acf1e9cbcb1e323f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk2_font1-thkh8p_hu_8effc28cc2af466a.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -486,9 +492,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_ba79b77d083a92db.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_62f4627a7eb4007c.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_ba79b77d083a92db.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_62f4627a7eb4007c.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk3_font1-2acivda_hu_e312ed381179f92c.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -515,9 +521,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Colour wireframe background 4&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_506bb9eae1f7f540.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_f295462a63b2303.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_506bb9eae1f7f540.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_f295462a63b2303.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font1-2lnx1ce_hu_27443eaf87703528.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -545,9 +551,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;colour wireframe background 4 and font 6&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp 320w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_9a1f47fa2c72df7c.webp 480w, http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_1795793047fb800f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp 320w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_9a1f47fa2c72df7c.webp 480w, https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_1795793047fb800f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/01/wireframes-are-friends-electric/images/colourwireframebk4_font6-18b56s3_hu_7376f50ea96dae8f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

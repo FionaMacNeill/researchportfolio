@@ -1,4 +1,6 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv) 
+
+[Link to the template used on 04/01/25](https://github.com/HugoBlox/kit/tree/main/templates/academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 

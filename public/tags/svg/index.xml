@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Svg | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/svg/</link>
-      <atom:link href="http://localhost:1313/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    <title>Svg | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/svg/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/svg/index.xml" rel="self" type="application/rss+xml" />
     <description>Svg</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 16 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Svg</title>
+      <link>https://fionamacneill.co.uk/tags/svg/</link>
+    </image>
+    
     <item>
       <title>The weekend of doom</title>
-      <link>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</guid>
       <description>&lt;p&gt;In 
  I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
 \[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;

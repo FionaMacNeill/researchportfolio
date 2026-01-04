@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operation | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/operation/</link>
-      <atom:link href="http://localhost:1313/tags/operation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Operation | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/operation/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/operation/index.xml" rel="self" type="application/rss+xml" />
     <description>Operation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 07 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Operation</title>
+      <link>https://fionamacneill.co.uk/tags/operation/</link>
+    </image>
+    
     <item>
       <title>Wireframing sketches</title>
-      <link>http://localhost:1313/blog/2016/11/wireframing-sketches/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/wireframing-sketches/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</guid>
       <description>&lt;p&gt;
  Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
 \[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
@@ -34,9 +40,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
                width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -48,9 +54,9 @@
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -134,9 +140,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of a sketch book page, including pencil drawing for the patient journey&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -239,9 +245,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of badge from Code Academy&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -268,9 +274,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;10 Commandments of User Interface Design&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

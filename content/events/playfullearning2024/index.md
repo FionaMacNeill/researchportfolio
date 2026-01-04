@@ -1,5 +1,5 @@
 ---
-title: 'Put the learning into work; take the work out of learning - Playful Learning 2024'
+title: 'Put the learning into work; take the work out of learning at Playful Learning 2024'
 event: Playful Learning Conference 2024
 event_url: https://playfullearningassoc.co.uk/
 
@@ -18,7 +18,8 @@ all_day: false
 publishDate: '2024-07-14T09:00:00Z'
 
 authors: [] 
-tags: []
+tags: 
+- Playful Learning
 
 # Is this a featured talk? (true/false)
 featured: true

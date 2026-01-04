@@ -1,5 +1,5 @@
 ---
-title: 'Dialogue: community, volunteering, and setting up your own company'
+title: 'Dialogue: community, volunteering, and setting up your own company at University of Brighton' 
 event: University of Brighton, School of Humanities and Social Science
 event_url: https://www.brighton.ac.uk/about-us/contact-us/academic-departments/school-of-humanities-and-social-science.aspx
 
@@ -18,7 +18,8 @@ all_day: false
 publishDate: '2025-03-28T09:00:00Z'
 
 authors: [] 
-tags: []
+tags: 
+- community
 
 # Is this a featured talk? (true/false)
 featured: true

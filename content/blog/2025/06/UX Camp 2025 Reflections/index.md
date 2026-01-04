@@ -1,11 +1,11 @@
 ---
 title: "UX Camp 2025 Reflections"
 subtitle: "Communication, AI, Ethics, Personalisation"
-summary: "Reflecting on another excellent UX Camp Brighton"
+summary: "Reflecting on another excellent UX Camp Brighton."
 authors: []
 tags: 
+- "ux camp brighton" 
 - "blogging"
-- "uxcamp" 
 - "ethics" 
 - "ai" 
 categories: 

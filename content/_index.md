@@ -14,14 +14,17 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: fiona
-      text: ''
+      text: |- 
+        Hello. I'm Fiona. I design and build meaningful experiences for curious minds to form new behaviours. 
+      
+        You'll find me solving everyday problems and collaborating with people who want to create positive change.
+        <p class="bio-text sml">Peruse my work here while I build the new website for my business, Macknowlogist.</p>
       # Show a call-to-action button under your biography? (optional)
       # button:
         #text: Download CV
-        #url: uploads/resume.pdf
+        #url: uploads/resume.pdf  
       headings:
         about: 'About'
-        education: 'Services'
         interests: 'Specialisms'
     design:
       # Apply a gradient background
@@ -29,7 +32,10 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded 
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: events
     content:
@@ -76,7 +82,7 @@ sections:
     content:
       title: Contact
       text: 
-        Drop me a message at <a href="mailto:hello@fionamacneill.co.uk">hello@fionamacneill.co.uk</a>
+        <p>Would you like to collaborate with me, hire me, or invite me to speak at your event?</p> <p> Please do <a href="mailto:hello@fionamacneill.co.uk">drop me a message</a>. You can also book a meeting with me using <a href="https://outlook.office.com/bookwithme/user/ff8d417c73ca444bad17d83201c2a8cb%40macknowlogist.co.uk?anonymous&isanonymous=true&ismsaljsauthenabled=true">my online booking page</a>, select the guest option.</p> 
     design:
-      columns: '1'
+      columns: 1 
 ---

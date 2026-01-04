@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iot | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/iot/</link>
-      <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <title>Iot | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/iot/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <description>Iot</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 19 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Iot</title>
+      <link>https://fionamacneill.co.uk/tags/iot/</link>
+    </image>
+    
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces</title>
-      <link>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</link>
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/03/talk-factors-of-trust-in-iot-app-interfaces/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-on-190316&#34;&gt;Talk presented at UX Camp Brighton on 19/03/16&lt;/h2&gt;
 &lt;div style=&#34;padding:75% 0 0 0;position:relative;&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/160628235?badge=0&amp;amp;autopause=0&amp;amp;player_id=0&amp;amp;app_id=58479;dnt=true&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; style=&#34;position:absolute;top:0;left:0;width:100%;height:100%;&#34; title=&#34;FACTORS OF TRUST IN IOT APP INTERFACES&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://player.vimeo.com/api/player.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;

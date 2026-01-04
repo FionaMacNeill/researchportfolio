@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notetaking | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/notetaking/</link>
-      <atom:link href="http://localhost:1313/tags/notetaking/index.xml" rel="self" type="application/rss+xml" />
+    <title>Notetaking | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/notetaking/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/notetaking/index.xml" rel="self" type="application/rss+xml" />
     <description>Notetaking</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 27 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Notetaking</title>
+      <link>https://fionamacneill.co.uk/tags/notetaking/</link>
+    </image>
+    
     <item>
       <title>Reflection: The search for the best notetaking -or rather handwriting- app</title>
-      <link>http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
+      <link>https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In February I shall be starting an MSc in User Experience Design and as a consequence my thoughts have turned to the study tools, which I wish to make use of as a student. As part of this process I have been considering my arsenal of apps. I&amp;rsquo;ll likely talk about the full extent of my app choice plotting in future posts. In this post I shall provide my reflections on notetaking apps in-particular. In my experience early preparation has always been the best strategy when considering any new academic venture, so I look forward to sharing some of my findings on this blog in the lead up to and during my forthcoming period of study.&lt;/p&gt;
 &lt;h2 id=&#34;productivity-and-notetaking-apps-that-i-use&#34;&gt;Productivity and notetaking apps that I use&lt;/h2&gt;
@@ -45,9 +51,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;File Management in iAnnotatePDF. The tagging function is shown.&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_13934aa1ef4cb374.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_665232892b06218b.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_13934aa1ef4cb374.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_665232892b06218b.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,9 +87,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notes Plus shows the list of background colours avaialble for selection.&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_b75f13fb07c4ddec.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_96f2c2cd15ed9a34.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_b75f13fb07c4ddec.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_96f2c2cd15ed9a34.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -113,9 +119,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;penultimate app with handwriting and wrist created scribbles shown&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_f2d3176ba831f207.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_2fe4d8b19b842e9.webp 570w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_f2d3176ba831f207.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_2fe4d8b19b842e9.webp 570w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -151,9 +157,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;iAnnotatePDF wristguard as a grey bar at the bottom of the screen&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_c7a3f521f735c305.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_d24bb8bb1f4a15c0.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_c7a3f521f735c305.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_d24bb8bb1f4a15c0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,9 +198,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notes Plus Ink customisation options&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_1c6c432047e74808.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_9c4a98224f1ec572.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_1c6c432047e74808.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_9c4a98224f1ec572.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -223,9 +229,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notability close-up writing mode&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3542e912727806cc.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_5645afb2d6b5fba.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3542e912727806cc.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_5645afb2d6b5fba.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -270,9 +276,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Handwritten text is selected by drawing around it&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_25cc235c871c6fff.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_6c507c2f7ece962a.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_25cc235c871c6fff.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_6c507c2f7ece962a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -300,9 +306,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;The handwriting has been converted to type&#34; 
-               srcset=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp 320w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_2862d635e3728eef.webp 480w, http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_678206f3ee31abc3.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_2862d635e3728eef.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_678206f3ee31abc3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ideas | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/ideas/</link>
-      <atom:link href="http://localhost:1313/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <title>Ideas | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/ideas/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <description>Ideas</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 30 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Ideas</title>
+      <link>https://fionamacneill.co.uk/tags/ideas/</link>
+    </image>
+    
     <item>
       <title>Wireframe sketching: looking at the index/home</title>
-      <link>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
+      <link>https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</link>
       <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/</guid>
       <description>&lt;p&gt;
 
 
@@ -31,9 +37,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;wireframe sketches part 3&#34; 
-               srcset=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp 320w, https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_22c626e0e2277901.webp 480w, https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_33fd0668c0efdd6a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2015/12/wireframe-sketching-looking-at-the-indexhome/images/03wireframes-oci7on_hu_bff7a0739160c53d.webp&#34;
                width=&#34;760&#34;
                height=&#34;539&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

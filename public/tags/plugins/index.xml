@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plugins | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/plugins/</link>
-      <atom:link href="http://localhost:1313/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
+    <title>Plugins | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/plugins/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
     <description>Plugins</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Plugins</title>
+      <link>https://fionamacneill.co.uk/tags/plugins/</link>
+    </image>
+    
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;
  
 &lt;fn&gt; Business Model Canvas (
@@ -77,9 +83,9 @@
     
     <item>
       <title>Theme testing</title>
-      <link>http://localhost:1313/blog/2016/10/theme-testing/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/10/theme-testing/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;
 &amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;

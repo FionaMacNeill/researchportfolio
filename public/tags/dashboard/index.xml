@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dashboard | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/dashboard/</link>
-      <atom:link href="http://localhost:1313/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <title>Dashboard | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/dashboard/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
     <description>Dashboard</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Dashboard</title>
+      <link>https://fionamacneill.co.uk/tags/dashboard/</link>
+    </image>
+    
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;
  for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. 

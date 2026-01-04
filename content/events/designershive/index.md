@@ -1,5 +1,5 @@
 ---
-title: Games for Design and Thinking
+title: Games for design and thinking at University of Brighton
 event: "The Designer's Hive"
 event_url: 
 location: University of Brighton
@@ -11,6 +11,7 @@ all_day: false
 publishDate: 2025-03-28T11:30:00Z
 authors: 
 tags: 
+- playful learning
 featured: true
 image:
   caption: 

@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github | Fiona MacNeill Portfolio and Blog</title>
-    <link>http://localhost:1313/tags/github/</link>
-      <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <title>Github | Fiona MacNeill | Macknowlogist</title>
+    <link>https://fionamacneill.co.uk/tags/github/</link>
+      <atom:link href="https://fionamacneill.co.uk/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <description>Github</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 16 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <title>Github</title>
+      <link>https://fionamacneill.co.uk/tags/github/</link>
+    </image>
+    
     <item>
       <title>The weekend of doom</title>
-      <link>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</link>
+      <link>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</link>
       <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2017/01/the-weekend-of-doom/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2017/01/the-weekend-of-doom/</guid>
       <description>&lt;p&gt;In 
  I talked about the suggestions that Theo provided from his perspective as a nurse and researcher. They were very helpful, but lead to some rather major layout changes. In particular, the &lt;em&gt;to do&lt;/em&gt;: &amp;ldquo;&lt;strong&gt;I will need more space in the carousel/timeline&amp;rdquo;.&lt;/strong&gt; This led to what I nicknamed in my GitHub posts as the &lt;em&gt;Weekend of Hell&lt;/em&gt;, I am softening this within the context of this journal entry to be the &lt;em&gt;Weekend of Doom&lt;/em&gt;. &lt;/p&gt;
 \[caption id=&#34;attachment\_381&#34; align=&#34;alignright&#34; width=&#34;288&#34;\]&lt;p&gt;
@@ -52,9 +58,9 @@
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
       <description>&lt;p&gt;
  
 &lt;fn&gt; Business Model Canvas (
@@ -121,9 +127,9 @@
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -207,9 +213,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of a sketch book page, including pencil drawing for the patient journey&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -312,9 +318,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of badge from Code Academy&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -341,9 +347,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;10 Commandments of User Interface Design&#34; 
-               srcset=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
+               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
+               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,9 +386,9 @@
     
     <item>
       <title>Theme testing</title>
-      <link>http://localhost:1313/blog/2016/10/theme-testing/</link>
+      <link>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2016/10/theme-testing/</guid>
+      <guid>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</guid>
       <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;
 &amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
