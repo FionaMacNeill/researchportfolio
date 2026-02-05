@@ -1,28 +1,29 @@
 ---
 title: The quest for a sustainable workshop on sustainability at Green Software Brighton
-event: Green Software Brighton Lightning Talks
-event_url: 
+event_url: null
 location: Runway East, Brighton
-summary: Reflecting on my goal to reduce the environmental impact of workshops for digital products. 
-abstract: A lightning talk about my plans to run workshops differently. 
-date: 2025-07-16T18:00:00Z
-date_end: 2025-07-16T20:30:00Z
-all_day: false
-publishDate: 2026-01-03T14:30:00Z
-authors: 
-tags: 
-- sustainability 
-- futures 
-- ethics
+summary: Reflecting on my goal to reduce the environmental impact of workshops for digital products.
+abstract: A lightning talk about my plans to run workshops differently.
+date: 2026-01-03T14:30:00Z
+authors: null
+tags:
+  - sustainability
+  - futures
+  - ethics
 featured: true
 image:
   caption: A typical workshop which might include sticky notes and playing cards
   focal_point: Center
-links: 
+links: null
 url_code: ""
 url_pdf: ""
-url_video: "" 
+url_video: ""
+event_start: 2025-07-16T18:00:00Z
+event_end: 2025-07-16T20:30:00Z
+event_all_day: false
+event_name: Green Software Brighton Lightning Talks
 ---
+
 
 A lightning talk where I reflected on digital sustainability and the irony that workshops designed to unlock our thinking tend to consume vast amounts of single use and non-recyclable materials. I asked the question, "how we can truly envision the future when we keep using the same old tools?". 
 
@@ -42,7 +43,7 @@ This uneasy feeling was further heightened after attending an amazing talk by [D
 
 So, on a meta level, personally I was troubled by aspects of what is sometimes called 'speculative design' or 'futures'. In these situations, were we as designers colonising the future? Would it be best to reimagine power first before reimaging action, or output? Or do we need to uncover tangible future objects as power is fleeting, too difficult, or perhaps too downright depressing? I couldn't shake the feeling that we 'futurists' are rogue archaeologists and like the archaeologists of yore we engineered meaning based on limited understanding, empathy, and exploration of the descendent cultures near the 'dig site'. At a micro level I also observed how many single use paper products it took us to explore these ideas. These dilemmas are my own and I continue to explore my thoughts through my design and art practices. 
 
-So this talk set out a series of commitments, which I then beta tested during the Green Software Practitioner Study Day in August 2025. I then successful reused resources I created (mini-whiteboard cards) at work-related workshops in October 2025. However, there is a level of irony that when running a full on 'futures' workshop for the first time in December, I used more paper than ever! This was due to the scale of the event and unknown Wi-Fi connectivity. So, it is all a 'work-in-progress'. 
+So this talk set out a series of commitments, which I then beta tested during the Green Software Practitioner Study Day in August 2025. I then successfully reused resources I created (mini-whiteboard cards) at work-related workshops in October 2025. However, there is a level of irony that when running a full on 'futures' workshop for the first time in December, I used more paper than ever! This was due to the scale of the event and unknown Wi-Fi connectivity. So, it is all a 'work-in-progress'. 
 
 What I will say is the December event with the 'futures' workshop took an approach, informed by [Dr Sayani Mitra's](https://uk.linkedin.com/in/sayani-mitra-ux) [Talk UX presentation](https://www.talk-ux.com/) and [Rob Hopkins' books](https://www.robhopkins.net/about/). Exploring 5 years into the future, we created imaginary artefacts, but very much through the lens of our issues today and this felt like an inclusive, effective, yet non-invasive approach to 'Futures'. As is often the case, I need time and practice to figure things out of my own and draw upon a range of influences and inspirations. 
 

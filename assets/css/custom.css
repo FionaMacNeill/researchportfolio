@@ -16,6 +16,8 @@
     font-size: 1.5rem;
 } 
 
+/* Dark mode link color and hover underline - optimal in Chrome */
+
 a { 
     text-decoration-line: none; 
     &:hover {
@@ -77,6 +79,23 @@ a {
 @layer utilities {
   .whitespace-nowrap {
     white-space: wrap;
+  }
+} 
+
+/* The dates information on the cards needed higher contrast */ 
+
+@layer utilities {
+  .dark\:text-zinc-500 {
+    &:where(.dark, .dark *) {
+      color: rgb(151, 151, 162);
+    }
+  }
+} 
+
+@layer utilities {
+  .opacity-40 {
+    opacity: 100%;
+    color: rgb(151, 151, 162);
   }
 }
 

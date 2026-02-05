@@ -1,28 +1,29 @@
 ---
 title: Green Software Practitioner Study Day at Sussex Innovation Centre
-event: Green Software Practitioner Study Day
-event_url: 
+event_url: null
 location: Sussex Innovation Centre
-summary: A digital sustainability event for tech professionals from a range of disciplines to learn together. 
-abstract: A lightning talk about my plans to run workshops differently. 
-date: 2025-08-06T18:00:00Z
-date_end: 2025-08-06T20:30:00Z
-all_day: false
-publishDate: 2026-01-03T16:00:00Z
-authors: 
-tags: 
-- sustainability 
-- product 
+summary: A digital sustainability event for tech professionals from a range of disciplines to learn together.
+abstract: A lightning talk about my plans to run workshops differently.
+date: 2026-01-03T16:00:00Z
+authors: null
+tags:
+  - sustainability
+  - product
 featured: true
 image:
   caption: All the participants with their certificates at the end of Green Practitioner Study Day.
   focal_point: Center
-links: 
+links: null
 url_code: ""
 url_pdf: ""
-url_video: "" 
+url_video: ""
 url_slides: ""
+event_start: 2025-08-06T10:00:00Z
+event_end: 2025-08-06T16:00:00Z
+event_all_day: false
+event_name: Green Software Practitioner Study Day
 ---
+
 
 This event follows on from my [lightning talk, at Green Software Brighton in July](../greensoftwarebrighton). 
 
@@ -39,7 +40,7 @@ I too wanted to complete the certificate, but I found myself wondering if others
 
 All of this, I felt called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate and interdisciplinary disucssion. So, I set about creating an interest page as an experiment, were other people interested in such a day? 
 
-I thought that I would get maybe 12 people to attend. To my surprise,  we sold out 27 spaces with a healthy waiting list. We were also given a grant from Brighton & Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. 
+I thought that I would get maybe 12 people to attend. To my surprise, we sold out 27 spaces with a healthy waiting list. We were also given a grant from Brighton & Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. 
 
 What an attendee said:
 > …being able to be in a friendly location with a group of people interested in the same subject 

@@ -1,28 +1,29 @@
 ---
 title: Two panel discussions at EVOLVE [25]
-event: "EVOLVE [25]"
 event_url: https://evolve.siliconbrighton.com/
 location: Brighton Dome
 summary: Taking part in two career changing panels focused on digital sustainability.
-abstract: Taking part in two career changing panels focused on digital sustainability. 
-date: 2025-07-04T09:00:00Z
-date_end: 2025-07-04T17:00:00Z
-all_day: false
-publishDate: 2026-01-03T14:00:00Z
-authors: 
-tags: 
-- sustainability 
-- product teams
+abstract: Taking part in two career changing panels focused on digital sustainability.
+date: 2026-01-03T14:00:00Z
+authors: null
+tags:
+  - sustainability
+  - product teams
 featured: true
 image:
-  caption: Damilola Ajiboye introduces the second panel, *Building Sustainably as a Digital Product Team* at EVOLVE [25] 
-  alt: 
+  caption: Damilola Ajiboye introduces the second panel, *Building Sustainably as a Digital Product Team* at EVOLVE [25]
+  alt: null
   focal_point: Right
-links: 
+links: null
 url_code: ""
 url_pdf: ""
-url_video: "" 
+url_video: ""
+event_start: 2025-07-04T09:00:00Z
+event_end: 2025-07-04T17:00:00Z
+event_all_day: false
+event_name: EVOLVE [25]
 ---
+
 
 I had the honour of being part of [Silicon Brighton's](https://siliconbrighton.com/) first ever "EVOLVE [25]" a new premier tech conference for Brighton & Hove and Sussex. I was part of two panel discussions for the event. 
 

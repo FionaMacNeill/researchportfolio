@@ -12,3 +12,4 @@ assets/media/albums/work/.DS_Store
 *.yaml
 .obsidian/workspace.json
 /.DS_Store
+config/_default/params.yaml

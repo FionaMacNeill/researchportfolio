@@ -1,26 +1,27 @@
 ---
 title: Games for design and thinking at University of Brighton
-event: "The Designer's Hive"
-event_url: 
+event_url: null
 location: University of Brighton
-summary: Fiona is a mischief who likes to use design in unexpected ways. Here are ways they use games in design. 
-abstract: A short talk with live game play of the 'These UXers Need Help' card game. 
+summary: Fiona is a mischief who likes to use design in unexpected ways. Here are ways they use games in design.
+abstract: A short talk with live game play of the 'These UXers Need Help' card game.
 date: 2025-03-28T11:30:00Z
-date_end: 2025-03-28T11:00:00Z
-all_day: false
-publishDate: 2025-03-28T11:30:00Z
-authors: 
-tags: 
-- playful learning
+authors: null
+tags:
+  - playful learning
 featured: true
 image:
-  caption: 
+  caption: null
   focal_point: top
-links: 
+links: null
 url_code: ""
 url_pdf: ""
-url_video:
+url_video: null
+event_start: 2025-03-28T11:30:00Z
+event_end: 2025-03-28T11:00:00Z
+event_all_day: false
+event_name: The Designer's Hive
 ---
+
 
 Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, '[These UXers Need Help](https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/)'. During the day I showed a range of design focused cards, including [Smithery's Regenerative Design Field Kit](https://artefactshop.com/products/regenerative-design-field-kit). 
 

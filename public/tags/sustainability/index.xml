@@ -5,7 +5,7 @@
     <link>https://fionamacneill.co.uk/tags/sustainability/</link>
       <atom:link href="https://fionamacneill.co.uk/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <description>Sustainability</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 17 Sep 2025 09:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 04 Jan 2026 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Sustainability</title>
@@ -13,26 +13,403 @@
     </image>
     
     <item>
+      <title>Creating a sustainable workshop</title>
+      <link>https://fionamacneill.co.uk/blog/2026/01/sustainableworkshop/</link>
+      <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
+      <guid>https://fionamacneill.co.uk/blog/2026/01/sustainableworkshop/</guid>
+      <description>&lt;p&gt;The first Green Software Practitioner Study Day took place on 6th August 2025 at 
+.&lt;/p&gt;
+&lt;p&gt;As we have two further Study Days taking place in 2026 (
+, 13th March - tickets coming soon), I thought I&amp;rsquo;d reflect on what make the first one great.&lt;/p&gt;
+&lt;p&gt;Personally, it isn&amp;rsquo;t a stretch to say that designing and collaborating on the Study Day felt like a career defining moment for me. It has kicked off a professional side quest to support and build sustainable product teams - an idea seeded during 
+.&lt;/p&gt;
+&lt;img src=&#34;./images/fiona-macneill-certificate-example.webp&#34; width=&#34;400px&#34; alt=&#34;A copy of Fiona&#39;s certificate from The Linux Foundation and the Green Software Foundation is shown&#34; /&gt; 
+&lt;p class = &#34;sml&#34;&gt;&lt;em&gt;The beauty of being the event facilitator meant that I had added motivation to finish my certification back in July. Then figure out the best flow for the day in August, based on my own experience!&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-background&#34;&gt;The background&lt;/h2&gt;
+&lt;p&gt;The idea for the event came to me during a 
+ meetup evening. Folks at the event mentioned completing the Green Software Foundation and The Linux Foundation&amp;rsquo;s &lt;em&gt;Green Software Practitioner certificate&lt;/em&gt; which is a free self-study course available on the 
+.&lt;/p&gt;
+&lt;p&gt;I too wanted to complete the certificate, but I found myself wondering if others encountered the same issues I did when it comes to self-paced online learning&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time&lt;/strong&gt;: the motivation was there, but as a small business owner the time wasn&amp;rsquo;t.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relevance&lt;/strong&gt;: in tech, to paraphrase John Donne, no one is an island–we are part of interdisciplinary teams. It seemed to me that the power of this learning could only be unlocked through collaboration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Momentum&lt;/strong&gt;: in my previous work as a strategic designer, I knew that driving sustainability and behavioural change needs many champions to gain traction. From my own perspective as a contractor, I needed other folks&amp;rsquo; stories of success to help understand what more I could be doing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journeys&lt;/strong&gt;: I wanted to know that I wasn&amp;rsquo;t alone and that others were also encountering the same barriers that I was. We are on this journey together!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I felt that all of the above, called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate alongside interdisciplinary disucssion. So, I set about creating an interest page as an experiment, to find out if others might like a dedicated &amp;lsquo;Study Day&amp;rsquo; too.&lt;/p&gt;
+&lt;img src=&#34;./images/GreenSoftwarePractitionerStudyDay-deeplearning.webp&#34; alt=&#34;A group of people are sat is a square of tables in the centre of the room, focused on deep study on the Study Day content.&#34; /&gt;
+&lt;h3 id=&#34;who-attended&#34;&gt;Who attended&lt;/h3&gt;
+&lt;p&gt;I thought that I would get maybe 12 people to attend. To my surprise, we sold out at 27 tickets with a healthy waiting list. We were also awarded a grant from Brighton &amp;amp; Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. A range of disciplines were represented across the 27 attendees including, developers, engineers, testers, consultants, accessibility specialists, product designers, product managers, UXers, founders, cloud architects, students, and recent graduates.&lt;/p&gt;
+&lt;p&gt;What an attendee said:&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;…being able to be in a friendly location with a group of people interested in the same subject matter especially was incredibly, encouraging and helped a lot…I would&amp;rsquo;ve otherwise just spoke about it for ages but not actually managed to execute.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+&lt;h2 id=&#34;the-results&#34;&gt;The results&lt;/h2&gt;
+&lt;p&gt;Here are just a few of the stories of success from those who attended the event. Its always cool to hear what to learn what people took with them and &lt;em&gt;did&lt;/em&gt; next!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One person was able to use their learning on the Study Day to justify keeping older hardware runnning and to support donation and recycling initiatives for retired hardware.&lt;/li&gt;
+&lt;li&gt;I was able to support the sustainability aspects of a sucessful 
+ grant application for a client.&lt;/li&gt;
+&lt;li&gt;Another organisation brought their whole team to the event. This decision to invest in a benchmark of knowledge across a team is such a powerful action to drive progress!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;./images/CertificatesAtTheEnd.webp&#34; alt=&#34;A group people standing in a row in front of an LED monitor with a certificate shown on it. They are smiling and some are holding up their Green Software Practitioner Certificates.&#34; /&gt;
+&lt;h2 id=&#34;the-design-of-the-day&#34;&gt;The design of the day&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ll not go into too much depth on this, because it this is my &amp;lsquo;secret sauce&amp;rsquo; as a learning-centric designer. However, it was important to me that the content shouldn&amp;rsquo;t feel too rushed and the learning should be made more effective by immediately being applied and sythesised through interdisciplinary conversations. These conversations were constructively aligned with the topics we covered. Sharing experiences, asking questions, observations, and critique were actively prompted and encouraged.&lt;/p&gt;
+&lt;p&gt;The collaboration between 
+ and 
+ was crucial to the fabric of the day. LTUX Brighton came with the UX and product angles and Green Software Brighton, brought dev, backend, and DevOps perspectives.&lt;/p&gt;
+&lt;p&gt;To get a flavour, you can view the schedule for the next event on 
+(and ahem&amp;hellip; sign-up).&lt;/p&gt;
+&lt;h2 id=&#34;the-meta-design-of-the-day&#34;&gt;The meta design of the day&lt;/h2&gt;
+&lt;p&gt;Based on 
+, here are considerations I brought to the design of the event to minimise direct and indirect energy use.&lt;/p&gt;
+&lt;h3 id=&#34;scope-1-emissions&#34;&gt;Scope 1 emissions&lt;/h3&gt;
+&lt;p&gt;Based on the Greenhouse Gas (GHG) protocols these are emissions from direct combustion of fossil fuels (including petrol and other road fuels). As attendees and collaborators at the event fall into Scope 3, I&amp;rsquo;ll focus on my own travel here.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Activity description&lt;/th&gt;
+          &lt;th&gt;Estimated CO&lt;sup&gt;2&lt;/sup&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;I walked to and from Brighton station with my trolley carrying materials.&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Return train journey from Brighton to Falmer&lt;/td&gt;
+          &lt;td&gt;0.42kg*&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;I walked to and from Sussex Innovation Centre.&lt;/td&gt;
+          &lt;td&gt;-&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class = &#34;sml&#34;&gt;*11.909146km round trip at 0.035kg CO2/km, based on &lt;a href=&#34;https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2023&#34;&gt;gov.uk 2023 conversion factors&lt;/a&gt;.&lt;/p&gt; 
+&lt;hr&gt;
+&lt;p&gt;My estimate for the same return journey by car is 1.2kg CO&lt;sup&gt;2&lt;/sup&gt;, so by taking the train I&amp;rsquo;ve emitted between 65-67% less CO&lt;sup&gt;2&lt;/sup&gt;.&lt;/p&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Okay, so far so good. I did originally intend to cycle, but I had too much to carry, so something to consider next time is can I carry less? The next venue, 
+ is within walking distance, so that will help!&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;scope-2-emissions&#34;&gt;Scope 2 emissions&lt;/h3&gt;
+&lt;p&gt;Scope 2 emissions (electricity, heat, cooling, steam) and is calculated based on location.&lt;/p&gt;
+&lt;h4 id=&#34;wrap&#34;&gt;WRAP&lt;/h4&gt;
+&lt;p&gt;My preparation for the Study Day was completed at WRAP workspace next to Brighton station. Although I don&amp;rsquo;t know their electricity and cooling emissions (it was July/August). I can point to their ethos with regards to recyling and waste management, the comparative newness of their building conversion, and their work with local infrastructure companies, such as 
+. Check out a quick overview of their approach on 
+.&lt;/p&gt;
+&lt;h4 id=&#34;sussex-innovation-centre&#34;&gt;Sussex Innovation Centre&lt;/h4&gt;
+&lt;p&gt;The Study Day took place at Sussex Innovation Centre, again I don&amp;rsquo;t know their electricity and cooling emissions. However, their support for sustainable businesses and research are second to none locally. For example, the 
+. Also, the University of Sussex is known for its approach to sustainability as outlined in their Susssex 2035 Creating Progressive Futures strategy (
+). In related news, Dr Caroline Lucas, former MP and leader of the Green Party, has been appointed as 
+ as part of the new 
+.&lt;/p&gt;
+&lt;h4 id=&#34;energy-use-in-the-room&#34;&gt;Energy use in the room&lt;/h4&gt;
+&lt;p&gt;In terms of active energy use in the room itself, there were 28 laptops and tablets running from active power supplies. We also had an LED monitor in the room, which turned off when it wasn&amp;rsquo;t actively being used.&lt;/p&gt;
+&lt;p&gt;To put this into perspective, if we had been on an online video call for the day the impact would have been far greater as most attendees were based within 50 miles of the venue. Strictly speaking emissions from a video call would then fall into scope 3 as the emissions would be disributed across the various attendee locations on their own computers, on their own broadband networks, on their own power supplies.&lt;/p&gt;
+&lt;p&gt;This is especially pertinent when we consider that video calling platforms, love to encourage us to use high definition video!&lt;/p&gt;
+&lt;img src=&#34;./images/FionaSaysNotNow.webp&#34; alt=&#34;Screenshot of Fiona on a Google Meet call, a pop-up message has come up saying, Let people see you in Full HD - others can see you more clearly when you use Full HD (1080p). You can change the sent resolution anytime in Settings. Fiona looks askance at this suggestion.&#34;&gt; 
+&lt;p class = &#34;sml&#34;&gt;I did not turn this option on in Google Meet, as I far prefer the &#39;Joan Crawford&#39; style filter that lower quality video provides - better for my skin and for the environment. I keep having to routinely dismiss this message–Google are quite insistent.&lt;/p&gt; 
+&lt;p&gt;Granted not everyone would keep their video on for the whole day, but just as a &amp;lsquo;back of a napkin&amp;rsquo; calculation&amp;hellip;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you had a high-definition video call that lasted 6 hours that would be 3.3kg of CO&lt;sup&gt;2&lt;/sup&gt; for one person*&lt;/li&gt;
+&lt;li&gt;3.3kg X 28 people, including me as the presenter = 92.4kg&lt;/li&gt;
+&lt;li&gt;Added to that you have the laptops being powered at their respective locations which may have different power supply mixes (fossil fuels versus sustainable). Check out 
+ for cool visualisations of supply mixes across the world.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Had the majority of participants been travelling from further away then the impact would have been comparable. However, these figures certainly give me pause for thought and I will reduce my use of video during online calls going forward.&lt;/p&gt;
+&lt;p class = &#34;sml&#34;&gt;*figures from Purdue University are &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0921344920307072?via%3Dihub&#34;&gt;trapped behind a journal paywall&lt;/a&gt;, so I have worked with &lt;a href=&#34;https://gerrymcgovern.com/the-hidden-pollution-cost-of-online-meetings/&#34;&gt;Gerry McGovern&#39;s estimates from 2020&lt;/a&gt;.&lt;/p&gt; 
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Hmmm, a bit light on some of the detail in this section. Something to work on with venues going forward.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;scope-3-emissions&#34;&gt;Scope 3 emissions&lt;/h3&gt;
+&lt;p&gt;These are the indirect emissions that come from the goods and services purchased (upstream), the transportation of people and goods (e.g., transportation of the people attending), the use of good/services, and any other indirect GHG emissions.&lt;/p&gt;
+&lt;h4 id=&#34;goods-and-services-purchased&#34;&gt;Goods and services purchased&lt;/h4&gt;
+&lt;h4 id=&#34;goodmaterials&#34;&gt;Good/Materials&lt;/h4&gt;
+&lt;p&gt;This is where I tried my best to reuse and not to buy new. The three exceptions being a roll of sticky-backed whiteboard plastic, fine tipped dry erase pens, and a corner cutter (all from Amazon, more on this below). I used the sticky-backed whiteboard plastic and the corner cutter with some blank playing cards I already had to create mini reusable whiteboards.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been a fan of using playing cards rather than sticky notes for a while. This is because they feel less fixed and don&amp;rsquo;t have glue on the back and can therefore be recycled more easily (
+, had the same idea with his 
+). However, I thought, what if I could make them reusable forever? Having handmade an initial batch of around 80 cards with the help of my Mum and partner, they have since become a staple of my workshops. So much so that I intend to create some in different colours taking inspiration from sticky notes and ArtEFact cards!&lt;/p&gt;
+&lt;img src=&#34;./images/PledgeCardsGreenStudyDay060825.webp&#34; width=&#34;400px&#34; alt=&#34;Three mini playcard sized whiteboards on a table with messages written in erasable pen.&#34;&gt;
+&lt;p&gt;Rather than a conventional ice breaker exercise I used objects as a way of getting attendees to think about their intentions for the day. All of these materials were found and recycled. I&amp;rsquo;m not going to tell you what exactly was wrapped up in these bundles, as shown below, because again &amp;lsquo;secret sauce&amp;rsquo;™️. This use of objects was inspired by 
+ keynote presentation at 
+ conference, University of Sussex.&lt;/p&gt;
+&lt;img src=&#34;./images/basketOobjects.webp&#34; width=&#34;400px&#34; alt=&#34;A mysterious basket wrapped in black cloth&#34; /&gt; 
+&lt;p&gt;Central to my ethos for this event was banning certain single use and plastic based materials in my workshop kit as outlined below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No more sticky notes - only wipeable index cards and mini whiteboards going forward!&lt;/li&gt;
+&lt;li&gt;No more largescale prints or single use paper roles. Only reusable placemats!&lt;/li&gt;
+&lt;li&gt;No more plastic things that require batteries (e.g. my timer clock, when I next upgrade my slide remote this will also be front of mind).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&#34;./images/RevisedWorkshopKit.webp&#34; alt=&#34;A workshop is strew across the floor including many objects, annotations labelled &#39;no&#39; and sometimes no with exclamation marks are overlayed on the items described above in the list.&#34; /&gt;
+&lt;p&gt;First time caller, Pauline (45) from Royston Vasey asks:&lt;/p&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;But, what about the pens?&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+&lt;img src=&#34;./images/paulinepens.webp&#34; width=&#34;150px&#34; alt=&#34;Steve Pemberton is in the character of the eponymous Pauline, holding pens up with zeal, from the League of Gentleman TV show&#34; /&gt;
+&lt;p&gt;Alas, that is one thing I haven&amp;rsquo;t been able to find a sustainable and durable solution to. I did try wax pencils out as an alternative to dry erase markers and they were too difficult to write with as they require a lot of pressure and then were too difficult to clean off.&lt;/p&gt;
+&lt;h4 id=&#34;catering-and-snacks&#34;&gt;Catering and Snacks&lt;/h4&gt;
+&lt;p&gt;For catering, we worked with fantastic chef, Oli Thompsett who is based at Sussex Innovation Centre. Oli created a marvellous vegetarian and vegan lunch for us based on seasonal ingredients and local produce. It truly was phenomenal and the nominal leftovers were boxed up, so there was no waste. Making sure we have a hearty and sustainable lunch will be a mainstay of every Study Day to come! Sharing a lunchtime chat is integral to the experience.&lt;/p&gt;
+&lt;img src=&#34;./images/deliciousbuffetStudyDay.webp&#34; alt=&#34;A buffet is pictured with a range of bowls filed with salad, vegetable dishes and tofu. A beautifully presented menu information, coffee and tea.&#34; /&gt;
+&lt;p&gt;On the snacks side these were my domain. With this I avoided single portion packaging, prefering to go with larger bags which can be provided in reusable bowls. I also opted for healthier options such as lentil chips, tortilla chips, and dried fruit. Cans and, where possible, glass bottled drinks were provided and leftover drinks were used for next LTUX Brighton event.&lt;/p&gt;
+&lt;img src=&#34;./images/deliciousfoodStudyDay.webp&#34; alt=&#34;a plate of beautifully crafted food, including roasted aubergine, chickpeas, tofu, and some snack crisps for good measure.&#34;&gt;
+&lt;h4 id=&#34;transportation-of-goods&#34;&gt;Transportation of Goods&lt;/h4&gt;
+&lt;p&gt;As noted, food was sourced locally and snacks and materials were transported to the venue on my trusty trolley!&lt;/p&gt;
+&lt;p&gt;Going back to my Amazon purchases, when I looked into where items actually ship from, two of my orders shipped from China. Even though I initially thought the were UK or EU based vendors. So, my new goal is to look for similar materials at local stationary shops to try to keep supporting the local economy.&lt;/p&gt;
+&lt;h4 id=&#34;transportation-of-people&#34;&gt;Transportation of people&lt;/h4&gt;
+&lt;p&gt;Attendees were encouraged to travel by public transport and were given a range of options, including the local 
+. There is a stop for these on University of Sussex campus.&lt;/p&gt;
+&lt;p&gt;In the end the stats for travel were:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;---
+config: 
+  xyChart: 
+      chartOrientation: &#39;horizontal&#39; 
+      width: 600
+      height: 500
+      showDataLabel: true 
+  themeVariables:  
+    xyChart: 
+      theme: &#39;dark&#39;
+      backgroundColor: &#39;#111&#39;
+      plotColorPalette: &#39;#FFF&#39; 
+      titleColor: &#39;#FFF&#39;
+      xAxisLabelColor: &#39;#FFF&#39;
+---
+xychart
+    title &#34;How attendees said they planned to travel&#34;
+    x-axis [&#34;Train &amp; Car share&#34;, &#34;Car share&#34;, &#34;Bicycle &amp; Car&#34;, &#34;Bus &amp; Bicycle&#34;, &#34;Bus&#34;, &#34;Car&#34;, &#34;Train&#34;, &#34;Train &amp; Bus&#34;, &#34;Bicycle&#34;]
+    y-axis &#34;Journeys&#34; 0 --&gt; 12
+    bar [1,3,1,1,3,2,10,2,3]
+&lt;/div&gt;
+&lt;br&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;So a few car trips there, but in cases where this was combined with public transport, so making for shorter journeys. Hurray for the people who sorted out a car share!&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&#34;use-of-goodsservices&#34;&gt;Use of goods/services&lt;/h4&gt;
+&lt;p&gt;One area to improve upon was waste management in the room, to make it easier for attendees to deposit compostable items. For instance, I provided vegware cups so that we could have some drinks in larger bottles. However, disposing of them meant a big collection effort at the end of the day. Attendees were also encouraged to bring their own water bottles and reusable coffee cups for use throughout the day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is where I&amp;rsquo;ll touch on our use of third-party IT tools.&lt;/strong&gt; So at LTUX Brighton, we recently used our 
+ as an opptunity to ethically review the digital tools we are using. This was very much instigated by this event and 
+. We decided to use Ticket Tailor due to their ethical ticketing ethos and UK-based operations, although would still like to see some clearer infomration about their climate commitments. Take a look at the 
+ to see a list of the tools LTUX Brighton use and why.&lt;/p&gt;
+&lt;h3 id=&#34;what-about-the-green-software-principles&#34;&gt;What about the Green Software Principles?&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve outlined the principles below and they didn&amp;rsquo;t apply to the event design, aside from my goal to consume as little energy as possible.&lt;/p&gt;
+&lt;p&gt;Something, that I will be bringing into the next event are the 
+ at the Green Software Foundation. I am actively applying these principles through advice I provide as a consultant.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll also point to the superb, 
+, lead edited by local web hero 
+, and released in late 2025. These guidelines could be the basis of several more specialist Study Days (watch this space!).&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Energy Efficiency&lt;/strong&gt;
+&amp;ldquo;Consume the least amount of electricity possible.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hardware Efficiency&lt;/strong&gt;
+&amp;ldquo;Use the least amount of embodied carbon possible.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Carbon Awareness&lt;/strong&gt;
+&amp;ldquo;Do more when the electricity is clean and less when it&amp;rsquo;s dirty.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thats-a-wrap-or-is-it&#34;&gt;That&amp;rsquo;s a wrap, or is it?&lt;/h2&gt;
+&lt;p&gt;Yes, that is a terrible pun because our next event &lt;em&gt;is&lt;/em&gt; at WRAP. However, it wasn&amp;rsquo;t &amp;lsquo;a wrap&amp;rsquo; for my sustainability focused thinking and I then went right into the sustainable design of the 
+. In fact, I combined it that very day when I visited someone else at University of Sussex to look at some of their materials that I could recycle and reuse.&lt;/p&gt;
+&lt;h2 id=&#34;will-we-see-you-at-the-next-green-software-practitioner-study-day&#34;&gt;Will we see you at the next Green Software Practitioner Study Day?&lt;/h2&gt;
+&lt;p&gt;Please join us at a future event and if you have any questions please get in touch with me at 
+ or via 
+.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Special thanks to Deeksha Bhushan who took many of the wonderful photos recording our activities during the Study Day.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>LTUX Brighton presents, Talk UX: Redesigning Place</title>
       <link>https://fionamacneill.co.uk/events/talkux/</link>
-      <pubDate>Wed, 17 Sep 2025 09:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 16:30:00 +0000</pubDate>
       <guid>https://fionamacneill.co.uk/events/talkux/</guid>
       <description>&lt;p&gt;In 2025, LTUX Brighton hosted the international conference for 
 , 
-. We hosted 32 speakers and panelists over two days and received amazing feedback.&lt;/p&gt;
+.&lt;/p&gt;
+&lt;h2 id=&#34;talk-ux-stats&#34;&gt;Talk UX Stats&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;188 attendees over 2 days | 151 in-person and 37 online&lt;/li&gt;
+&lt;li&gt;20 talks&lt;/li&gt;
+&lt;li&gt;5 workshops&lt;/li&gt;
+&lt;li&gt;3 short film screenings&lt;/li&gt;
+&lt;li&gt;1 panel discussion&lt;/li&gt;
+&lt;li&gt;£201 raised for local charity, 
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;personal-reflection&#34;&gt;Personal Reflection&lt;/h2&gt;
 &lt;p&gt;Personally, Talk UX was one of the most challenging, yet fulfilling experiences of my life. It really warrants it&amp;rsquo;s own blog post, particularly because we tried to make the event as responsible and sustainable as we could. As organisers we considered this in terms of how we organised, resourcing (both in-person and digital), and environmental impact.&lt;/p&gt;
 &lt;p&gt;I grew both in so many ways as a person, as a designer, as a leader, and as a business leader through the experience. I will be forever thankful for the vision, belief, and trust or our organising group and everything we achieved together.&lt;/p&gt;
 &lt;p&gt;This marked the end of my chapter leadership of LTUX Brighton. I&amp;rsquo;m staying on as treasurer as we move into next phase of our development as a group.&lt;/p&gt;
 &lt;img src=&#34;TalkUX-organisersonlyv2-170925.webp&#34; alt=&#34;the group of organiser for Talk UX at the front of the main room, in front of a projected image showing the Brighton beach front.&#34; /&gt; 
 &lt;p&gt;&lt;em&gt;Photo by Laura Rodriguez&lt;/em&gt; &lt;br&gt;
 &lt;strong&gt;Left-to-right:&lt;/strong&gt; Inka Howorth, Fiona MacNeill, Heidi Swigon, Lou Carroll, Alex Woodward, Emily Clark, Deeksha Bhushan, Alice Umeji.&lt;/p&gt;
+&lt;img src=&#34;QuietDownThereCharity.webp&#34; alt=&#34;At Harriet&#39;s Press upstairs at the Brighton&#39;s Open Market. Fiona MacNeill and Heidi Swigon are handing a hand drawn cheque to Emily Atkinson from Quiet Down There.&#34; /&gt; 
+&lt;p&gt;**A huge thank you to Quiet Down There for their collaboration. Although we were only able to make a small donation this time, we hope to be able to do more in the future. Our goal was to help raise awareness about the amazing work they do to address hygiene poverty and we successfully did that with Talk UX and through our social media posts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Green Software Practitioner Study Day at Sussex Innovation Centre</title>
       <link>https://fionamacneill.co.uk/events/greensoftwarestudyday/</link>
-      <pubDate>Wed, 06 Aug 2025 18:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
       <guid>https://fionamacneill.co.uk/events/greensoftwarestudyday/</guid>
       <description>&lt;p&gt;This event follows on from my 
 .&lt;/p&gt;
@@ -47,7 +424,7 @@
 &lt;li&gt;&lt;strong&gt;Journeys&lt;/strong&gt;: I wanted to know that I wasn&amp;rsquo;t alone and that others were also encountering the same barriers that I was. We are on this journey together!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All of this, I felt called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate and interdisciplinary disucssion. So, I set about creating an interest page as an experiment, were other people interested in such a day?&lt;/p&gt;
-&lt;p&gt;I thought that I would get maybe 12 people to attend. To my surprise,  we sold out 27 spaces with a healthy waiting list. We were also given a grant from Brighton &amp;amp; Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes.&lt;/p&gt;
+&lt;p&gt;I thought that I would get maybe 12 people to attend. To my surprise, we sold out 27 spaces with a healthy waiting list. We were also given a grant from Brighton &amp;amp; Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes.&lt;/p&gt;
 &lt;p&gt;What an attendee said:&lt;/p&gt;
 
 
@@ -74,7 +451,7 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     <item>
       <title>The quest for a sustainable workshop on sustainability at Green Software Brighton</title>
       <link>https://fionamacneill.co.uk/events/greensoftwarebrighton/</link>
-      <pubDate>Wed, 16 Jul 2025 18:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 14:30:00 +0000</pubDate>
       <guid>https://fionamacneill.co.uk/events/greensoftwarebrighton/</guid>
       <description>&lt;p&gt;A lightning talk where I reflected on digital sustainability and the irony that workshops designed to unlock our thinking tend to consume vast amounts of single use and non-recyclable materials. I asked the question, &amp;ldquo;how we can truly envision the future when we keep using the same old tools?&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;You can access the 
@@ -89,7 +466,7 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
  about his book, 
 . I got to chat with Dan after his talk, and it was one of the best disucssions of my life. Needless to say, as an amateur art historian, this book is very much on my to-read list.&lt;/p&gt;
 &lt;p&gt;So, on a meta level, personally I was troubled by aspects of what is sometimes called &amp;lsquo;speculative design&amp;rsquo; or &amp;lsquo;futures&amp;rsquo;. In these situations, were we as designers colonising the future? Would it be best to reimagine power first before reimaging action, or output? Or do we need to uncover tangible future objects as power is fleeting, too difficult, or perhaps too downright depressing? I couldn&amp;rsquo;t shake the feeling that we &amp;lsquo;futurists&amp;rsquo; are rogue archaeologists and like the archaeologists of yore we engineered meaning based on limited understanding, empathy, and exploration of the descendent cultures near the &amp;lsquo;dig site&amp;rsquo;. At a micro level I also observed how many single use paper products it took us to explore these ideas. These dilemmas are my own and I continue to explore my thoughts through my design and art practices.&lt;/p&gt;
-&lt;p&gt;So this talk set out a series of commitments, which I then beta tested during the Green Software Practitioner Study Day in August 2025. I then successful reused resources I created (mini-whiteboard cards) at work-related workshops in October 2025. However, there is a level of irony that when running a full on &amp;lsquo;futures&amp;rsquo; workshop for the first time in December, I used more paper than ever! This was due to the scale of the event and unknown Wi-Fi connectivity. So, it is all a &amp;lsquo;work-in-progress&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;So this talk set out a series of commitments, which I then beta tested during the Green Software Practitioner Study Day in August 2025. I then successfully reused resources I created (mini-whiteboard cards) at work-related workshops in October 2025. However, there is a level of irony that when running a full on &amp;lsquo;futures&amp;rsquo; workshop for the first time in December, I used more paper than ever! This was due to the scale of the event and unknown Wi-Fi connectivity. So, it is all a &amp;lsquo;work-in-progress&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;What I will say is the December event with the &amp;lsquo;futures&amp;rsquo; workshop took an approach, informed by 
  
  and 
@@ -112,7 +489,7 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     <item>
       <title>Two panel discussions at EVOLVE [25]</title>
       <link>https://fionamacneill.co.uk/events/evolve25/</link>
-      <pubDate>Fri, 04 Jul 2025 09:00:00 +0000</pubDate>
+      <pubDate>Sat, 03 Jan 2026 14:00:00 +0000</pubDate>
       <guid>https://fionamacneill.co.uk/events/evolve25/</guid>
       <description>&lt;p&gt;I had the honour of being part of 
  first ever &amp;ldquo;EVOLVE [25]&amp;rdquo; a new premier tech conference for Brighton &amp;amp; Hove and Sussex. I was part of two panel discussions for the event.&lt;/p&gt;
@@ -167,7 +544,7 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     <item>
       <title>So you want to go green? at Green SEO Brighton</title>
       <link>https://fionamacneill.co.uk/events/greenseo/</link>
-      <pubDate>Wed, 09 Apr 2025 18:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Apr 2025 20:30:00 +0000</pubDate>
       <guid>https://fionamacneill.co.uk/events/greenseo/</guid>
       <description>&lt;p&gt;A joint presentation with Kathryn Lawrence (Behavioural Scientist and Researcher).&lt;/p&gt;
 &lt;p&gt;

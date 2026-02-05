@@ -54,10 +54,10 @@
       {{- $brandHref = printf "%s&ref=%s" $brandHref $ref -}}
       {{- $ctaHref   = printf "%s&ref=%s"   $ctaHref   $ref -}}
     {{- end -}} 
+      <p class="text-center spacer-bottom"><a href="/privacy/">Privacy Policy</a> &nbsp; <a href="/cookie/">Cookie Policy</a></p>
       <div id="wcb" class="carbonbadge wcb-d"></div>
       <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
     {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }} 
-    <p class="text-center spacer-bottom"><a href="/privacy/">Privacy Policy</a> &nbsp; <a href="/cookie/">Cookie Policy</a></p>
     <p class="powered-by text-center text-sm opacity-80 py-1">
       {{ $published_with := "Made with {hugoblox}." }}
       {{ $i18n_published_with := i18n "published_with" | default $published_with }}

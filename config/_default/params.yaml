@@ -89,7 +89,7 @@ hugoblox:
     align: center                       # left | center | right
     # Feature toggles
     search: false
-    theme_toggle: true
+    theme_toggle: false
     theme_picker: false
     language_switcher: true
     # Call-to-action button

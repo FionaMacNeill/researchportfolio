@@ -1,26 +1,27 @@
 ---
 title: The UX of Self-Defence at LTUX Brighton
-event: "UX in 2025: Trends and Insights"
-event_url: 
+event_url: null
 location: Barclays Eagle Labs Brighton
 summary: 5 UX heuristics from Kickboxing. Presented as part of an LTUX Brighton Lightning Talks event.
 abstract: A lightning talk about how UX can help you fend for yourself in the real world.
-date: 2025-03-19T18:00:00Z
-date_end: 2025-03-19T20:30:00Z
-all_day: false
-publishDate: 2025-03-19T20:30:00Z
-authors: 
-tags: 
-- UX
+date: 2025-03-19T20:30:00Z
+authors: null
+tags:
+  - UX
 featured: true
 image:
-  caption: 
+  caption: null
   focal_point: Right
-links: 
+links: null
 url_code: ""
 url_pdf: ""
-url_video:
+url_video: null
+event_start: 2025-03-19T18:00:00Z
+event_end: 2025-03-19T20:30:00Z
+event_all_day: false
+event_name: "UX in 2025: Trends and Insights"
 ---
+
 
 Learning is embodied and most effective when linked to sensory and emotional experiences. Sensory experiences and emotional reactions build neural pathways. Find out what Fiona has learned by completing 56,160 minutes of Kickboxing at the time of writing the talk. 
 

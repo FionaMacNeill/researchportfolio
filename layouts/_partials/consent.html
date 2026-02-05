@@ -38,11 +38,14 @@
             <div>
                 <input type="checkbox" id="item{{ $index }}" value="1" name="item{{ $index }}" {{ if $item.is_functional }}checked disabled{{ end }} />
                 <label for="item{{ $index }}">
-                    <h3>{{ $item.title }}</h3>
-                    <p>{{ $item.description }}</p>
+                    <h3>{{ $item.title }} ({{ $item.type }})</h3> 
+                    <p>{{ $item.description }} <a href="{{ $item.link }}">{{ $item.title }}'s website.</a></p> 
                 </label>
-            </div>
+            </div> 
         {{ end }}
+        <div> 
+                <p>For more information, review our <a href="/privacy/">privacy policy</a> and <a href="/cookie/">cookie policy</a>.</p>   
+            </div>
         <div>
             <button id="save-consent" class="btn save-consent" data-consentvalue="{{ range $index, $item := .Site.Data.consent.items }}{{ if $item.is_functional}}{{ else }}0{{ end }}{{ end }}">Save preferences</button>
             <button class="btn approve-consent">Allow all</button>
