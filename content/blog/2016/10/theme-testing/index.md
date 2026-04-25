@@ -13,7 +13,7 @@ tags:
   - "theme"
 ---
 
-This journal entry continues on from the section, "[First thoughts related to this journal site](https://fionamacneill.co.uk/post/2016/10/hello-world-the-epitome-of-the-inaugural-blog-post/)" in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.
+This journal entry continues on from my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.
 
 ### The testing process
 
@@ -50,23 +50,28 @@ As part of the testing plan I used a several tools, listed at the bottom of thi
    
    ##### The final two contenders
    
-    I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE [tools section](http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/#tools) for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.
+    I ran an IDI web accessibility check and used Firefox accessibility checker plugin to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.
    
-    Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: [MacNeill, 2016](http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/)) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn't work for me in chuchadon (front-page configuration and the documentation links).
+    Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: [MacNeill, 2016](/blog/2016/06/trust-in-iot-app-interfaces-redux/)) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn't work for me in chuchadon (front-page configuration and the documentation links).
    
    ##### The final verdict
    
-    I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. \[caption id="attachment\_324" align="alignnone" width="840"\][![Screenshot of the Twenty Sixteen theme](images/twentysixteen_img-1024x768.png)](http://fionamacneill.co.uk/blog/2016/10/13/theme-testing/twentysixteen_img/) Image source: WordPress.org, [https://wordpress.org/themes/twentysixteen/](https://wordpress.org/themes/twentysixteen/)  
-    (Worpress.org, 2016b)\[/caption\] **Just to clarify...** You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it's original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme's code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.
+    I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. ![Screenshot of the Twenty Sixteen theme](images/twentysixteen_img-1024x768.png) Image source: WordPress.org, [https://wordpress.org/themes/twentysixteen/](https://wordpress.org/themes/twentysixteen/)  
+    (Worpress.org, 2016b) 
+    
+    **Just to clarify...** You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it's original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme's code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.
 
-##### Techie stuff
+
+#### Techie stuff
 
 The server was down this weekend so I used this as an excuse to implement some technical tools which will help further down the line. First of all as I mentioned in my last entry I installed MAMP on my development computer. MAMP, stands for Macintosh, Apache, MySQL, PHP ("MAMP", 2016) and allows to setup a local copy of WordPress on your computer. I find having access to a local installation to be helpful for two reasons:
 
 - I can work on my child theme tweaks without having access to the server and test them out in a controlled environment.
 - I can test out themes and plugins without muddying my installation. Sometimes everything about a plugin can look good and then you install it and there are things are about it that don't work or the coding isn't up to scratch. So again it is good to have a test environment for that.
 
-I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project. Here is my repository for this site: [https://github.com/FionaMacNeill/learningjournal](https://github.com/FionaMacNeill/learningjournal) - it seemed like the ideal opportunity to practice using a version control tool. It has been really useful thus far! **Thinking long and hard about plugin installation is a good idea...** I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks<fn>Why not use a footnote to explain what I did! I changed .footnote\_plugin\_text to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the .footnote\_plugin\_link, .footnote\_plugin\_index. Finally I needed to manually change the position of the superscript figures as I wasn't happy with the distance of the figure numbers from the text characters, for this I changed the .footnote\_plugin\_tooltip\_text class</fn> due to how the footnotes were shown in the twentysixteen theme.
+I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project.
+
+**Thinking long and hard about plugin installation is a good idea...** I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks<fn>Why not use a footnote to explain what I did! I changed `.footnote\_plugin\_text` to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the `.footnote\_plugin\_link`, `.footnote\_plugin\_index`. Finally I needed to manually change the position of the superscript figures as I wasn't happy with the distance of the figure numbers from the text characters, for this I changed the `.footnote\_plugin\_tooltip\_text class`</fn> due to how the footnotes were shown in the twentysixteen theme.
 
 * * *
 
@@ -93,7 +98,7 @@ I also setup a github repository for version control; to track my changes to the
   
   - Specifically I found this page very helpful - Questions to ask - [https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/](https://make.wordpress.org/accessibility/handbook/accessibility-overview/which-questions-should-you-ask/) The 'questions' are derived from the four principles of WCAG and they are immensely helpful.
 
-##### **Software and developer tools used****:**
+##### **Software and developer tools used:**
 
 - MAMP (appsolute GmbH, 2016).
 - Github - version control and code repository (GitHub, 2016).
@@ -121,7 +126,7 @@ Google. (2016). Chrome DevTools overview - Google chrome. Retrieved October 13, 
 
 Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from [https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/](https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/)
 
-Herbert, C. (2016, October 8). Where does “hello world” come from? \[Online forum comment\]. Retrieved from StackOverflow website: [http://stackoverflow.com/questions/602237/where-does-hello-world-come-from](http://stackoverflow.com/questions/602237/where-does-hello-world-come-from)
+Herbert, C. (2016, October 8). Where does “hello world” come from? [Online forum comment]. Retrieved from StackOverflow website: [http://stackoverflow.com/questions/602237/where-does-hello-world-come-from](http://stackoverflow.com/questions/602237/where-does-hello-world-come-from)
 
 JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/)
 
@@ -131,13 +136,13 @@ Keijonen, S. (2016b, December 29). Kuorinka. Retrieved October 7, 2016, from Wor
 
 Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, [https://wordpress.org/themes/e-nigma-2015/](https://wordpress.org/themes/e-nigma-2015/)
 
-MacNeill, F. (2016, June 14). \[Talk\] factors of trust in IoT App interfaces Redux \[Blog post\]. Retrieved from [http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/](http://fionamacneill.co.uk/blog/2016/06/14/trust-in-iot-app-interfaces-redux/)
+MacNeill, F. (2016, June 14). [Talk] factors of trust in IoT App interfaces Redux [Blog post]. [Updated in 2026: moved to the archive on this site](/blog/2016/06/trust-in-iot-app-interfaces-redux/)
 
 Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
 
 MAMP. (2016, September 29). In _Wikipedia._ Retrieved October 16, 2016 from [https://en.wikipedia.org/wiki/MAMP](https://en.wikipedia.org/wiki/MAMP)
 
-Rietveld, R. (2016, March 21). WordPress goes WCAG \[Blog post\]. Retrieved from [https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/](https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/)
+Rietveld, R. (2016, March 21). WordPress goes WCAG [Blog post]. Retrieved from [https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/](https://make.wordpress.org/accessibility/2016/03/21/wordpress-goes-wcag/)
 
 Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, [https://snook.ca/technical/colour\_contrast/colour.html#fg=33FF33,bg=333333](https://snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333)
 

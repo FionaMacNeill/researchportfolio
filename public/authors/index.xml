@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/authors/</link>
-      <atom:link href="https://fionamacneill.co.uk/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/authors/</link>
+      <atom:link href="https://macknowlogist.co.uk/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Authors</title>
-      <link>https://fionamacneill.co.uk/authors/</link>
+      <link>https://macknowlogist.co.uk/authors/</link>
     </image>
     
   </channel>

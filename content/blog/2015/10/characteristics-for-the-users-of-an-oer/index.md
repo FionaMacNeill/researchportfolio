@@ -41,7 +41,7 @@ As I mentioned before there are many different VLEs out there, however as we are
 
 ## Friday, 6th of November 2015 - Update:
 
-I have changed my thinking on the LO, as VLEs are updated fairly often this would limit the shelf-life of the LO. It was also proving to be too complex. So I have decided to focus on the idea that I am building one LO, of a hypothetical many, and the LOs are all about the different kind of materials going into the VLE. The LO I am designing will be about creating accessible documents in Microsoft Word. For more on this, see [this later post](http://fionamacneill.co.uk/blog/2015/10/29/making-a-game-of-task-decomposition-just-in-time-for-halloween/ "Making a game of task decomposition – just in time for Halloween").
+I have changed my thinking on the LO, as VLEs are updated fairly often this would limit the shelf-life of the LO. It was also proving to be too complex. So I have decided to focus on the idea that I am building one LO, of a hypothetical many, and the LOs are all about the different kind of materials going into the VLE. The LO I am designing will be about creating accessible documents in Microsoft Word. 
 
 * * *
 

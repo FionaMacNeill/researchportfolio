@@ -62,7 +62,7 @@ I was working on some frontend web development at my job and I setup a new RSS f
 If you would like to subscribe to this blog using RSS, here is the URL you need. 
 ```html 
 <!-- xml feed for this blog-->
-https://www.fionamacneill.co.uk/index.xml
+https://www.macknowlogist.co.uk/index.xml
 ``` 
 
 To find out the RSS feed for just about any site, including your favourite content on Medium, check out this helpful [post on Zapier blog](https://zapier.com/blog/how-to-find-rss-feed-url/). 

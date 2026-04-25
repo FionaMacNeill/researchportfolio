@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/portfolio/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/portfolio/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Portfolio</title>
-      <link>https://fionamacneill.co.uk/tags/portfolio/</link>
+      <link>https://macknowlogist.co.uk/tags/portfolio/</link>
     </image>
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
+      <link>https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -47,9 +47,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -74,9 +74,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,8 +92,7 @@
 ). It is pretty good, I still have a few aria, alt and title tags to include here or there but I have made progress in this area.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in 
-, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in a development post, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;I ran the Google mobile accessibility test on the site - It passed!&lt;/strong&gt; Here is the proof: 
@@ -142,9 +141,9 @@
     
     <item>
       <title>Progress on the grid and layout</title>
-      <link>https://fionamacneill.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/</guid>
       <description>&lt;p&gt;This week I completed some major fix-up on my grid. Remember when I thought that it was almost fixed? Well I was wrong. In fact I ended up recalculating the whole thing and basing it on a single column being 65px or 6.5% in width. Happily it is now working exactly as I need it to (Mozilla Developer Network saved the day again&lt;fn&gt;
 &lt;/fn&gt; - I am going to up my donation this year).&lt;/p&gt;
 &lt;h3 id=&#34;i-am-feeling-griddy&#34;&gt;I am feeling griddy&lt;/h3&gt;
@@ -153,10 +152,35 @@
 &lt;p&gt;Adding in an &lt;em&gt;About&lt;/em&gt; section as the timeline really jumps right into talking about the fictional &lt;em&gt;Patient&lt;/em&gt;. I will need to update the 
  to reflect this, but it remains within the bounds of the tasks as task scenario 1 included, &amp;ldquo;Read introductory information&amp;rdquo;, this needs to become task scenario 2 and the others need to be bumped up. I also need to revise things where they are &lt;em&gt;areas&lt;/em&gt; as opposed to pages, it is bit too specific at the moment.&lt;/p&gt;
 &lt;h3 id=&#34;testing-in-internet-explorer-9&#34;&gt;Testing in Internet Explorer 9&lt;/h3&gt;
-&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; &lt;/p&gt;
-\[caption id=&#34;attachment\_233&#34; align=&#34;alignleft&#34; width=&#34;840&#34;\]&lt;p&gt;
- Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
-\[/caption\]&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
+&lt;p&gt;I was astounded to find that pretty much everything on the site is working as one would expect in Internet Explorer 9. This is fantastic and vindicates some of the script selections that I have made in terms of browser support. I was very concerned that the z-index settings would not be respected, but thus far it is looking good. Safari is still a problem though&amp;hellip; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of the site on 9/12&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu_3e44f708bd0afa7e.webp 320w, https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu_cdc2bfde8a31044a.webp 480w, https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu_ee109d31d996e136.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/12/progress-on-the-grid-and-layout/images/journalimage81216-1024x575_hu_3e44f708bd0afa7e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+Screenshot of the site on 9/12 shown side-by-side in IE9 and Chrome. I am now kicking my myself for not recording the exact browser version numbers on the PC I was using at the time! The majority of my day-to-day testing takes place on a variety of Mac, so I have to check on Windows whenever the opportunity presents.&lt;/p&gt;
+&lt;h3 id=&#34;toying-with-the-notion-of-animation&#34;&gt;Toying with the notion of animation&lt;/h3&gt;
 &lt;p&gt;One of the sites that I have mentioned before, 
  has some pretty gorgeous and playful animations on it. I took a look through the code and the javascript attributes and most of it is managed via CSS. This is good, although I would am concerned about browser support and also performance rendering. As a consequence I probably won&amp;rsquo;t add these features. As a pre-check I used the Chrome timeline tool to record the processes on an older computer that I have at home and I felt that the impact on performance would be a problem &lt;fn&gt;the new features operate at the limits of what I want, timing-wise so I will need to see if I can optimise them further. I have already removed aspects of the code that is not used.&lt;/fn&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
@@ -173,9 +197,9 @@
     
     <item>
       <title>Timeline tool identified</title>
-      <link>https://fionamacneill.co.uk/blog/2016/11/timeline-tool-identified/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/</link>
       <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/11/timeline-tool-identified/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/</guid>
       <description>&lt;p&gt;After a lot of consideration, struggle and annoyance I finally gave in and decided to use a pre-existing tool for the timeline section of my front page. I looked a few different contenders in this final pass. Essentially, I came to the realisation that I would not be able to learn the requisite Javascript in order to build something sophisticated enough from scratch. I did a bit of trying out in this jsFiddle project, but kept running into deadends (this project is in a partially built state - so please do not judge me - the javascript is largely erased by this point): 
  Initially I found only jQuery examples - but as I have previously stated, I really wanted to work with Vanilla Javascript, due to load times, future proofing the code content. I also feel that it will be more beneficial to my learning to stick to learning Vanilla Javascript (or rather Ecmascript 6) so that I truly &lt;em&gt;get&lt;/em&gt; the language prior to becoming too invested in specific frameworks. Also having looked at these two resources: 
  and then the From 
@@ -193,8 +217,62 @@
  on css-tricks.com (
 ). It was love at first sight! Here is an example on codepen showing how the Flickity slideshow originally looked: 
  - Flickity is both responsive and touch optimised and had a vanilla option in addition to jQuery. It seemed like a good solution. Before my modifications: 
- After my modifications: 
- Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&amp;rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of the freescroll Flickity slide carousel&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu_5028cce5cc4561a6.webp 320w, https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu_f4c1e0abe346e5cc.webp 480w, https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu_2d0b020dcd96164.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityorig-1024x239_hu_5028cce5cc4561a6.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;177&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;After my modifications: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot showing the edited version of the Flickity carousel&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityedit_hu_fa5969c0c11dbd4f.webp 320w, https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityedit_hu_e8c6759a05cc028f.webp 480w, https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityedit_hu_4a9a757a2370df0a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/timeline-tool-identified/images/flickityedit_hu_fa5969c0c11dbd4f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;331&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Main modifications were: - the timeline-line- size of slides - outlines for references - big dots on the timeline (need to figure out how to label these) - overflow to ensure that the content doesn&amp;rsquo;t wrap strangely on a mobile device. There is still a lot to do and I need to fix an issue when the keyboard keys, when used for navigation make the web page scroll-right in a strange way. I also need to unite this with the other parts of the page that I have started to build. Finally, Flickity is a paid solution unless it is used under a 
 . I am passionate about open source and was already licensing my work under an 
  so I have decided to set the rest of my project to 
 . This means that the license information needs to be included in the header of each source file. As the portfolio site will not contain any original research and will only provide an overview of the project this will also comply with the University&amp;rsquo;s Intellectual Property rules&lt;fn&gt;As a student and employee I need to be aware of the university&amp;rsquo;s Intellectual Property rules, which are available here: 
@@ -221,13 +299,66 @@
     
     <item>
       <title>Wireframing sketches</title>
-      <link>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/</link>
       <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/</guid>
       <description>&lt;p&gt;
- Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.  &lt;/p&gt;
-\[caption id=&#34;wireframes&#34; align=&#34;alignnone&#34; width=&#34;1537&#34;\]&lt;p&gt;
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Initial wireframe sketch&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_4400ac2f9564d5ce.webp 320w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_ec80956d4b3692fe.webp 480w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_22db8d46db52ae76.webp 543w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_4400ac2f9564d5ce.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ Initial wireframe sketch. Click on &amp;ldquo;Continue Reading&amp;rdquo; to see a larger version of this image.&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Initial wireframe sketch&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_4400ac2f9564d5ce.webp 320w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_ec80956d4b3692fe.webp 480w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_22db8d46db52ae76.webp 543w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v1_hu_4400ac2f9564d5ce.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
 
 
 
@@ -247,38 +378,31 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Wireframe sketch with overlay&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp 320w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_e78c0da06f720996.webp 480w, https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_3e815b0bd78d88ac.webp 546w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/wireframing-sketches/images/v2overlay_hu_d27cec638b557a76.webp&#34;
                width=&#34;546&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
- This image shows a piece of acetate as an overlay for the floating navigation buttons that were 
-.&lt;/p&gt;
-\[/caption\]</description>
+ This image shows a piece of acetate as an overlay for the floating navigation buttons that were demonstrated in Prototype 2.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
-      <description>&lt;p&gt;
- 
-&lt;fn&gt; Business Model Canvas (
-), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (
-).&lt;/fn&gt; A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
+      <guid>https://macknowlogist.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <description>&lt;p&gt;A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I have completed an initial version of the Lean Business Model Canvas, as mentioned 
- referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation (the template is available at this URL: 
-).&lt;/li&gt;
+ referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation.&lt;/li&gt;
 &lt;li&gt;I have asked my friend Jason to take a look at my code for the arrow button navigation, so I will work on some more tweaks to that tomorrow.&lt;/li&gt;
 &lt;li&gt;Due to extremely limited time this week as a result of some unanticipated work commitments, I haven&amp;rsquo;t got as much development work in as I would like. So I have focused on a few fixes on this site as they were smaller thinks that I could achieve in the time that I had.
 &lt;ul&gt;
 &lt;li&gt;I removed a superfluous hyperlink in the footer.php - it was a &lt;em&gt;copy and paste&lt;/em&gt; mistake.&lt;/li&gt;
-&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; (see 
-) as it felt like it might offer too many options.&lt;/li&gt;
+&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; as it felt like it might offer too many options.&lt;/li&gt;
 &lt;li&gt;I decided to install the 
  - I have worked with it before and found it to be one of the best plugins in this area. It offers user-facing tools and some javascript additions to fix common issues in WordPress. Even though I have an accessibility tagged theme, there are additional tweaks that can be completed such as removing title attributes in areas where they aren&amp;rsquo;t needed and enforcing alt tags. It also allows you to add an active link highlight, which I am initially trying out with a contrast tested purple colour (essentially it puts a box around any active element).&lt;/li&gt;
 &lt;li&gt;I worked on a few customisations of the plugin:
@@ -307,8 +431,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Also in my travels I found the Web Accessibility Evaluation Tool (WAVE) - this was recommended both by the WP Accessibility Plugin authors in the documentation and on the Gov.uk page above on the &amp;ldquo;making your service accessible&amp;rdquo; page.&lt;/li&gt;
-&lt;li&gt;The report (although it will change as the site is being updated) 
- WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: 
+&lt;li&gt;The report (although it will change as the site is being updated) WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: 
 ). So I need to ensure that I don&amp;rsquo;t regard these tests as exhaustive moving forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I feel that I have learned quite a bit about accessibility through my work on this journal site, as well as honing my existing skills. So I will take these ideas and techniques forward with me as I continue to work on my portfolio project.&lt;/p&gt;

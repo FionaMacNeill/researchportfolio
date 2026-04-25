@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/product/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/product/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/product/index.xml" rel="self" type="application/rss+xml" />
     <description>Product</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 03 Jan 2026 16:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Product</title>
-      <link>https://fionamacneill.co.uk/tags/product/</link>
+      <link>https://macknowlogist.co.uk/tags/product/</link>
     </image>
     
     <item>
       <title>LTUX Brighton presents, Talk UX: Redesigning Place</title>
-      <link>https://fionamacneill.co.uk/events/talkux/</link>
+      <link>https://macknowlogist.co.uk/events/talkux/</link>
       <pubDate>Sat, 03 Jan 2026 16:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/talkux/</guid>
+      <guid>https://macknowlogist.co.uk/events/talkux/</guid>
       <description>&lt;p&gt;In 2025, LTUX Brighton hosted the international conference for 
 , 
 .&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Green Software Practitioner Study Day at Sussex Innovation Centre</title>
-      <link>https://fionamacneill.co.uk/events/greensoftwarestudyday/</link>
+      <link>https://macknowlogist.co.uk/events/greensoftwarestudyday/</link>
       <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/greensoftwarestudyday/</guid>
+      <guid>https://macknowlogist.co.uk/events/greensoftwarestudyday/</guid>
       <description>&lt;p&gt;This event follows on from my 
 .&lt;/p&gt;
 &lt;p&gt;I conceived Green Practitioner Study Day as a collaboration between LTUX Brighton and Green Software Brighton. Having previously collaborated on an amazing hackathon in 2024, we knew this could work well.&lt;/p&gt;

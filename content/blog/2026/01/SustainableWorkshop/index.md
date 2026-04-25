@@ -35,9 +35,7 @@ projects: []
 
 The first Green Software Practitioner Study Day took place on 6th August 2025 at [Sussex Innovation Centre](https://www.sussexinnovation.co.uk/). 
 
-As we have two further Study Days taking place in 2026 ([30th Jan - tickets on sale now](https://buytickets.at/ladiesthatuxbrighton/1971502), 13th March - tickets coming soon), I thought I'd reflect on what make the first one great. 
-
-Personally, it isn't a stretch to say that designing and collaborating on the Study Day felt like a career defining moment for me. It has kicked off a professional side quest to support and build sustainable product teams - an idea seeded during [Silicon Brighton's EVOLVE [25] conference](/content/events/evolve25/). 
+Personally, it isn't a stretch to say that designing and collaborating on the Study Day felt like a career defining moment for me. It has kicked off a professional side quest to support and build sustainable product teams - an idea seeded during [Silicon Brighton's EVOLVE [25] conference](/events/evolve25/). 
 
 <img src="./images/fiona-macneill-certificate-example.webp" width="400px" alt="A copy of Fiona's certificate from The Linux Foundation and the Green Software Foundation is shown" /> 
 
@@ -54,13 +52,15 @@ I too wanted to complete the certificate, but I found myself wondering if others
 - **Momentum**: in my previous work as a strategic designer, I knew that driving sustainability and behavioural change needs many champions to gain traction. From my own perspective as a contractor, I needed other folks' stories of success to help understand what more I could be doing. 
 - **Journeys**: I wanted to know that I wasn't alone and that others were also encountering the same barriers that I was. We are on this journey together! 
 
-I felt that all of the above, called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate alongside interdisciplinary disucssion. So, I set about creating an interest page as an experiment, to find out if others might like a dedicated 'Study Day' too. 
+I felt that all of the above, called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate alongside interdisciplinary discussion. So, I set about creating an interest page as an experiment, to find out if others might like a dedicated 'Study Day' too. 
 
 <img src="./images/GreenSoftwarePractitionerStudyDay-deeplearning.webp" alt="A group of people are sat is a square of tables in the centre of the room, focused on deep study on the Study Day content." />
 
 ### Who attended
 
-I thought that I would get maybe 12 people to attend. To my surprise, we sold out at 27 tickets with a healthy waiting list. We were also awarded a grant from Brighton & Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. A range of disciplines were represented across the 27 attendees including, developers, engineers, testers, consultants, accessibility specialists, product designers, product managers, UXers, founders, cloud architects, students, and recent graduates. 
+I thought that I would get maybe 12 people to attend. To my surprise, we sold out at 27 tickets with a healthy waiting list. We were also awarded a grant from Brighton & Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. 
+
+A range of disciplines were represented across the 27 attendees including, developers, engineers, testers, consultants, accessibility specialists, product designers, product managers, UXers, founders, cloud architects, students, and recent graduates. 
 
 What an attendee said:
 > …being able to be in a friendly location with a group of people interested in the same subject matter especially was incredibly, encouraging and helped a lot…I would've otherwise just spoke about it for ages but not actually managed to execute. 
@@ -69,7 +69,7 @@ What an attendee said:
 
 Here are just a few of the stories of success from those who attended the event. Its always cool to hear what to learn what people took with them and *did* next!
 
-- One person was able to use their learning on the Study Day to justify keeping older hardware runnning and to support donation and recycling initiatives for retired hardware. 
+- One person was able to use their learning on the Study Day to justify keeping older hardware running and to support donation and recycling initiatives for retired hardware. 
 - I was able to support the sustainability aspects of a sucessful [Innovate UK](https://www.ukri.org/councils/innovate-uk/) grant application for a client. 
 - Another organisation brought their whole team to the event. This decision to invest in a benchmark of knowledge across a team is such a powerful action to drive progress!  
 
@@ -81,8 +81,6 @@ Here are just a few of the stories of success from those who attended the event.
 I'll not go into too much depth on this, because it this is my 'secret sauce' as a learning-centric designer. However, it was important to me that the content shouldn't feel too rushed and the learning should be made more effective by immediately being applied and sythesised through interdisciplinary conversations. These conversations were constructively aligned with the topics we covered. Sharing experiences, asking questions, observations, and critique were actively prompted and encouraged. 
 
 The collaboration between [LTUX Brighton](https://ladiesthatux.com/brighton/) and [Green Software Brighton](https://greensoftwarebrighton.co.uk/) was crucial to the fabric of the day. LTUX Brighton came with the UX and product angles and Green Software Brighton, brought dev, backend, and DevOps perspectives.
-
-To get a flavour, you can view the schedule for the next event on [30th January 2026, at Ticket Tailor](https://buytickets.at/ladiesthatuxbrighton/1971502)(and ahem... sign-up). 
 
 
 ## The meta design of the day
@@ -106,17 +104,17 @@ Based on the Greenhouse Gas (GHG) protocols these are emissions from direct comb
 My estimate for the same return journey by car is 1.2kg CO<sup>2</sup>, so by taking the train I've emitted between 65-67% less CO<sup>2</sup>. 
 
 > [!NOTE]
-> Okay, so far so good. I did originally intend to cycle, but I had too much to carry, so something to consider next time is can I carry less? The next venue, [WRAP](https://wrap.space/) is within walking distance, so that will help!
+> Okay, so far so good. I did originally intend to cycle, but I had too much to carry, so something to consider next time is can I carry less? 
 
 
 ### Scope 2 emissions 
-Scope 2 emissions (electricity, heat, cooling, steam) and is calculated based on location. 
-
-#### WRAP
-My preparation for the Study Day was completed at WRAP workspace next to Brighton station. Although I don't know their electricity and cooling emissions (it was July/August). I can point to their ethos with regards to recyling and waste management, the comparative newness of their building conversion, and their work with local infrastructure companies, such as [Brighton fibre](https://www.brightonfibre.com/). Check out a quick overview of their approach on [the WRAP website](https://wrap.space/aboutuswrap). 
 
 #### Sussex Innovation Centre
 The Study Day took place at Sussex Innovation Centre, again I don't know their electricity and cooling emissions. However, their support for sustainable businesses and research are second to none locally. For example, the [Environmental Sustainability Cluster](https://www.sussexinnovation.co.uk/who-we-support/environmental-sustainability-cluster/). Also, the University of Sussex is known for its approach to sustainability as outlined in their Susssex 2035 Creating Progressive Futures strategy ([strategy PDF](https://www.sussex.ac.uk/webteam/gateway/file.php?name=uos-11871-sussex-2035-strategy.pdf&site=689)). In related news, Dr Caroline Lucas, former MP and leader of the Green Party, has been appointed as [new Professor of Practice](https://www.sussex.ac.uk/broadcast/read/69442) as part of the new [Sussex School of Progressive Futures](https://www.sussex.ac.uk/strategy/index). 
+
+*P.s., I found out the answer to this later on when I founde the display energy certificate at SIC – photo taken on 28 Jan 2026, added on 25 April 2026.*
+<img src="./images/sicrating.webp" alt="The latest display energy certificate mounted on the wall at Sussex Innovation Centre, B rating based on an assessment in 2023."> 
+
 
 #### Energy use in the room
 
@@ -172,7 +170,7 @@ First time caller, Pauline (45) from Royston Vasey asks:
 
 <img src="./images/paulinepens.webp" width="150px" alt="Steve Pemberton is in the character of the eponymous Pauline, holding pens up with zeal, from the League of Gentleman TV show" />
 
-Alas, that is one thing I haven't been able to find a sustainable and durable solution to. I did try wax pencils out as an alternative to dry erase markers and they were too difficult to write with as they require a lot of pressure and then were too difficult to clean off.
+Alas, pens are one thing I haven't been able to find a sustainable and durable solution to. I did try wax pencils out as an alternative to dry erase markers and they were too difficult to write with as they require a lot of pressure and then were too difficult to clean off.
 
 #### Catering and Snacks 
 
@@ -225,7 +223,7 @@ xychart
 #### Use of goods/services 
 One area to improve upon was waste management in the room, to make it easier for attendees to deposit compostable items. For instance, I provided vegware cups so that we could have some drinks in larger bottles. However, disposing of them meant a big collection effort at the end of the day. Attendees were also encouraged to bring their own water bottles and reusable coffee cups for use throughout the day. 
 
-**This is where I'll touch on our use of third-party IT tools.** So at LTUX Brighton, we recently used our [Privacy Policy](https://ladiesthatux.notion.site/privacy) as an opptunity to ethically review the digital tools we are using. This was very much instigated by this event and [Talk UX conference](/content/events/talkux/index.md). We decided to use Ticket Tailor due to their ethical ticketing ethos and UK-based operations, although would still like to see some clearer infomration about their climate commitments. Take a look at the [Privacy Policy Appendix](https://ladiesthatux.notion.site/privacy#2dd95f4acd8f42eb971eb3929ef6b3a9) to see a list of the tools LTUX Brighton use and why. 
+**This is where I'll touch on our use of third-party IT tools.** So at LTUX Brighton, we recently used our [Privacy Policy](https://ladiesthatux.notion.site/privacy) as an opptunity to ethically review the digital tools we are using. This was very much instigated by this event and [Talk UX conference](/events/talkux/). We decided to use Ticket Tailor due to their ethical ticketing ethos and UK-based operations, although would still like to see some clearer infomration about their climate commitments. Take a look at the [Privacy Policy Appendix](https://ladiesthatux.notion.site/privacy#2dd95f4acd8f42eb971eb3929ef6b3a9) to see a list of the tools LTUX Brighton use and why. 
 
 
 ### What about the Green Software Principles? 
@@ -249,10 +247,6 @@ I'll also point to the superb, [W3C Web Sustainability Guidelines](https://www.w
 
 ## That's a wrap, or is it? 
 
-Yes, that is a terrible pun because our next event *is* at WRAP. However, it wasn't 'a wrap' for my sustainability focused thinking and I then went right into the sustainable design of the [Talk UX conference](/content/events/talkux/index.md). In fact, I combined it that very day when I visited someone else at University of Sussex to look at some of their materials that I could recycle and reuse. 
-
-## Will we see you at the next Green Software Practitioner Study Day?
-
-Please join us at a future event and if you have any questions please get in touch with me at [brightonladiesthatux(at)gmail.com](mailto:brightonladiesthatux@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/fionamacneill). 
+It hasn't been 'a wrap' for my sustainability focused thinking and I then went right into the sustainable design of the [Talk UX conference](/events/talkux/). In fact, I combined it that very day when I visited someone else at University of Sussex to look at some of their materials that I could recycle and reuse. 
 
 *Special thanks to Deeksha Bhushan who took many of the wonderful photos recording our activities during the Study Day.* 

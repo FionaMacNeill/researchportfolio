@@ -37,7 +37,7 @@ projects: []
 --- 
 
 ## Previously on Fiona's blog... 
-[My last post](https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/) was immediately before trying out a new version of the 'These UXers Need Help' game. This post follows that and reflects on a recent Design Walk I devised and led. 
+[My last post](/blog/2023/07/These%20UXers%20Need%20Help%20v2/index.md) was immediately before trying out a new version of the 'These UXers Need Help' game. This post follows that and reflects on a recent Design Walk I devised and led. 
 
 ## Today's method via Aristotle
 
@@ -102,8 +102,8 @@ It is rooted in my personal set of values. I have a passion to do something abou
 ### What... 
 
 For more on the 'what' check out my earlier blog posts about the game: 
-- [UX Camp Brighton 2023 - Game on! (9th April, 2023)](https://www.fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/) 
-- [These UXers Need Help - Version 2.0](https://www.fionamacneill.co.uk/post/2023/07/these-uxers-need-help-version-2.0/)
+- [UX Camp Brighton 2023 - Game on! (9th April, 2023)](/blog/2023/04/ux-camp-brighton-game-on/) 
+- [These UXers Need Help - Version 2.0](/blog/2023/07/these-uxers-need-help-v2/)
 
 **_...are its weaknesses?_** 
 

@@ -4,7 +4,7 @@ date: 2025-11-11
 type: page
 --- 
 
-**Last updated:** 11th November 2025 
+**Last updated:** 25 April 2026
 
 **Registered name:** Macknowlogist Ltd <br>
 Macknowlogist Ltd is a limited company registered in England and Wales. 
@@ -63,7 +63,8 @@ Our lawful bases for collecting or using personal information to provide and imp
 
 | Name    | Purpose                         | Provider                                               | Service   | Expires | 
 |---------|---------------------------------|--------------------------------------------------------|-----------|---------|
-| Consent |	Indicating consent for cookies  |'www.fionamacneill.co.uk', 'www.macknowlogist.co.uk'    | Analytics | Session |
+| consent-settings |	Indicating consent for cookies  |'www.fionamacneill.co.uk', 'www.macknowlogist.co.uk'    | Functional| 31 days | 
+| Simple Analytics | Simple web analytics service  | 'docs.simpleanalytics.com/'                    | Analytics | 60 days | 
 
 ## Who we share information with
 

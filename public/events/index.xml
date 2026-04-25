@@ -2,21 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/events/</link>
-      <atom:link href="https://fionamacneill.co.uk/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/events/</link>
+      <atom:link href="https://macknowlogist.co.uk/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 03 Jan 2026 16:30:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 25 Apr 2026 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Events</title>
-      <link>https://fionamacneill.co.uk/events/</link>
+      <link>https://macknowlogist.co.uk/events/</link>
     </image>
     
     <item>
+      <title>SheSays Brighton International Women&#39;s Day</title>
+      <link>https://macknowlogist.co.uk/events/shesays2026/</link>
+      <pubDate>Sat, 25 Apr 2026 18:00:00 +0000</pubDate>
+      <guid>https://macknowlogist.co.uk/events/shesays2026/</guid>
+      <description>&lt;p&gt;I was honoured to be invited to talk at SheSays Brighton for International Women&amp;rsquo;s Day 2026.&lt;/p&gt;
+&lt;img src=&#34;040326SheSays.webp&#34; alt=&#34;Fiona MacNeill is speaking at the front of the room, the slide on the screen featured text included below the image.&#34;/&gt;
+&lt;p&gt;&lt;em&gt;Photo by Harmony Kinnear, used with permission.&lt;/em&gt;&lt;/p&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;&lt;strong&gt;Text shown on the slide above:&lt;/strong&gt; &lt;br/&gt; Flex your brain &amp;amp; your muscles. &lt;br/&gt;Minimise waste, includes time. &lt;br/&gt;Look after nature &amp;amp; people. &lt;br/&gt;Everyone and everything = interesting. &lt;br/&gt;Move with intention &amp;amp; fix things. &lt;br/&gt;The right path ususally feels uncomfortable.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>LTUX Brighton presents, Talk UX: Redesigning Place</title>
-      <link>https://fionamacneill.co.uk/events/talkux/</link>
+      <link>https://macknowlogist.co.uk/events/talkux/</link>
       <pubDate>Sat, 03 Jan 2026 16:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/talkux/</guid>
+      <guid>https://macknowlogist.co.uk/events/talkux/</guid>
       <description>&lt;p&gt;In 2025, LTUX Brighton hosted the international conference for 
 , 
 .&lt;/p&gt;
@@ -44,9 +103,9 @@
     
     <item>
       <title>Green Software Practitioner Study Day at Sussex Innovation Centre</title>
-      <link>https://fionamacneill.co.uk/events/greensoftwarestudyday/</link>
+      <link>https://macknowlogist.co.uk/events/greensoftwarestudyday/</link>
       <pubDate>Sat, 03 Jan 2026 16:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/greensoftwarestudyday/</guid>
+      <guid>https://macknowlogist.co.uk/events/greensoftwarestudyday/</guid>
       <description>&lt;p&gt;This event follows on from my 
 .&lt;/p&gt;
 &lt;p&gt;I conceived Green Practitioner Study Day as a collaboration between LTUX Brighton and Green Software Brighton. Having previously collaborated on an amazing hackathon in 2024, we knew this could work well.&lt;/p&gt;
@@ -86,9 +145,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>The quest for a sustainable workshop on sustainability at Green Software Brighton</title>
-      <link>https://fionamacneill.co.uk/events/greensoftwarebrighton/</link>
+      <link>https://macknowlogist.co.uk/events/greensoftwarebrighton/</link>
       <pubDate>Sat, 03 Jan 2026 14:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/greensoftwarebrighton/</guid>
+      <guid>https://macknowlogist.co.uk/events/greensoftwarebrighton/</guid>
       <description>&lt;p&gt;A lightning talk where I reflected on digital sustainability and the irony that workshops designed to unlock our thinking tend to consume vast amounts of single use and non-recyclable materials. I asked the question, &amp;ldquo;how we can truly envision the future when we keep using the same old tools?&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;You can access the 
 .&lt;/p&gt;
@@ -124,9 +183,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Two panel discussions at EVOLVE [25]</title>
-      <link>https://fionamacneill.co.uk/events/evolve25/</link>
+      <link>https://macknowlogist.co.uk/events/evolve25/</link>
       <pubDate>Sat, 03 Jan 2026 14:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/evolve25/</guid>
+      <guid>https://macknowlogist.co.uk/events/evolve25/</guid>
       <description>&lt;p&gt;I had the honour of being part of 
  first ever &amp;ldquo;EVOLVE [25]&amp;rdquo; a new premier tech conference for Brighton &amp;amp; Hove and Sussex. I was part of two panel discussions for the event.&lt;/p&gt;
 &lt;p&gt;I wrote a blog post about my perspectives and experiences at the event which you can read on the 
@@ -179,9 +238,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Gr8 Expectations - A generative game about AI at Clearleft&#39;s Service Design Breakfast</title>
-      <link>https://fionamacneill.co.uk/events/servicedesignbreakfast/</link>
+      <link>https://macknowlogist.co.uk/events/servicedesignbreakfast/</link>
       <pubDate>Thu, 08 May 2025 09:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/servicedesignbreakfast/</guid>
+      <guid>https://macknowlogist.co.uk/events/servicedesignbreakfast/</guid>
       <description>&lt;p&gt;Some of the hand-drawn cards used to enable and stimulate discussion.&lt;/p&gt;
 &lt;img src=&#34;CardsForGenAIDiscussion.webp&#34; alt=&#34;A selection of cards from the game including the Godzilla card, for manmade disaster, and the Carl Sagan Ethics card.&#34;/&gt;
 </description>
@@ -189,9 +248,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Creating Another Way (CAW) at UX Camp Brighton 2025</title>
-      <link>https://fionamacneill.co.uk/events/uxcamp2025/</link>
+      <link>https://macknowlogist.co.uk/events/uxcamp2025/</link>
       <pubDate>Sat, 26 Apr 2025 16:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/uxcamp2025/</guid>
+      <guid>https://macknowlogist.co.uk/events/uxcamp2025/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m planning a series of blog posts about this talk as there is a &lt;em&gt;lot&lt;/em&gt; of thinking behind &amp;lsquo;Creating Another Way&amp;rsquo;. It is a longterm work-in-progress! If you are wondering about Obsidian, find out more about their 
 . I am a long-term fan.&lt;/p&gt;
 </description>
@@ -199,9 +258,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>So you want to go green? at Green SEO Brighton</title>
-      <link>https://fionamacneill.co.uk/events/greenseo/</link>
+      <link>https://macknowlogist.co.uk/events/greenseo/</link>
       <pubDate>Wed, 09 Apr 2025 20:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/greenseo/</guid>
+      <guid>https://macknowlogist.co.uk/events/greenseo/</guid>
       <description>&lt;p&gt;A joint presentation with Kathryn Lawrence (Behavioural Scientist and Researcher).&lt;/p&gt;
 &lt;p&gt;
 &lt;/p&gt;
@@ -210,9 +269,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Games for design and thinking at University of Brighton</title>
-      <link>https://fionamacneill.co.uk/events/designershive/</link>
+      <link>https://macknowlogist.co.uk/events/designershive/</link>
       <pubDate>Fri, 28 Mar 2025 11:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/designershive/</guid>
+      <guid>https://macknowlogist.co.uk/events/designershive/</guid>
       <description>&lt;p&gt;Student sociey run led by Jennifer Udenze, Kirti Kumar, and Jordan Rocha. This was a great day and it was superb to be invited to play reflective gam, &amp;lsquo;
 &amp;rsquo;. During the day I showed a range of design focused cards, including 
 .&lt;/p&gt;
@@ -225,17 +284,17 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Dialogue: community, volunteering, and setting up your own company at University of Brighton</title>
-      <link>https://fionamacneill.co.uk/events/communityorganising/</link>
+      <link>https://macknowlogist.co.uk/events/communityorganising/</link>
       <pubDate>Fri, 28 Mar 2025 09:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/communityorganising/</guid>
+      <guid>https://macknowlogist.co.uk/events/communityorganising/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The UX of Self-Defence at LTUX Brighton</title>
-      <link>https://fionamacneill.co.uk/events/uxofselfdefence/</link>
+      <link>https://macknowlogist.co.uk/events/uxofselfdefence/</link>
       <pubDate>Wed, 19 Mar 2025 20:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/uxofselfdefence/</guid>
+      <guid>https://macknowlogist.co.uk/events/uxofselfdefence/</guid>
       <description>&lt;p&gt;Learning is embodied and most effective when linked to sensory and emotional experiences. Sensory experiences and emotional reactions build neural pathways. Find out what Fiona has learned by completing 56,160 minutes of Kickboxing at the time of writing the talk.&lt;/p&gt;
 &lt;img src=&#34;talkclip032025.gif&#34; alt=&#34;Fiona is mid presentation, puts down the microphone and throws a demonstrative side kick towards the audience&#34; /&gt;
 &lt;p&gt;
@@ -245,17 +304,17 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Put the learning into work; take the work out of learning at Playful Learning 2024</title>
-      <link>https://fionamacneill.co.uk/events/playfullearning2024/</link>
+      <link>https://macknowlogist.co.uk/events/playfullearning2024/</link>
       <pubDate>Sun, 14 Jul 2024 09:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/playfullearning2024/</guid>
+      <guid>https://macknowlogist.co.uk/events/playfullearning2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research Hacking at UX Camp Brighton 2024</title>
-      <link>https://fionamacneill.co.uk/events/uxcamp2024/</link>
+      <link>https://macknowlogist.co.uk/events/uxcamp2024/</link>
       <pubDate>Fri, 26 Apr 2024 09:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/uxcamp2024/</guid>
+      <guid>https://macknowlogist.co.uk/events/uxcamp2024/</guid>
       <description>&lt;h4 id=&#34;literature-review&#34;&gt;Literature review&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Starter template for creating a Microsoft List from an Excel sheet: 
@@ -272,9 +331,9 @@ matter especially was incredibly, encouraging and helped a lot…I would&amp;rsq
     
     <item>
       <title>Creating truly accessible forms at SD in Gov (Virtual)</title>
-      <link>https://fionamacneill.co.uk/events/sdingovvirtual/</link>
+      <link>https://macknowlogist.co.uk/events/sdingovvirtual/</link>
       <pubDate>Thu, 07 Mar 2024 15:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/sdingovvirtual/</guid>
+      <guid>https://macknowlogist.co.uk/events/sdingovvirtual/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accessibility | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/accessibility/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/accessibility/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
     <description>Accessibility</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Accessibility</title>
-      <link>https://fionamacneill.co.uk/tags/accessibility/</link>
+      <link>https://macknowlogist.co.uk/tags/accessibility/</link>
     </image>
     
     <item>
       <title>Reblog - What makes an online space inclusive?</title>
-      <link>https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/</link>
+      <link>https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/</guid>
       <description>&lt;p&gt;Originally posted on the 
  on 05/07/21 as part of my role at University of Brighton.&lt;/p&gt;
 &lt;h2 id=&#34;a-crowdsourced-blog-post-and-reflection&#34;&gt;A crowdsourced blog post and reflection&lt;/h2&gt;
@@ -69,9 +69,9 @@ The format can replicate in-person meeting styles or can be specific to online.&
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Online space definition algorithm/ingredients diagram: 3 people, Webinar/Meeting Tool, Format&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp 266w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp 266w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/spaceflow_hu_dd0733903ad993ea.webp&#34;
                width=&#34;266&#34;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -119,9 +119,9 @@ The format can replicate in-person meeting styles or can be specific to online.&
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of a Twitter Rooms meeting in progress featuring Tweets and live audio discussion&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp 320w, https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_a7874f191a33d460.webp 351w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp 320w, https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_a7874f191a33d460.webp 351w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/TwitterRooms_hu_73c6bbe51ea3c0d1.webp&#34;
                width=&#34;351&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -265,9 +265,9 @@ You can access the original answers via the embed or link below.&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;A long table with a paper tablecloth is shown in the centre of the room. Full description in text below.&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp 320w, https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_e425198164762cc7.webp 480w, https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_fd50926e5314b867.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp 320w, https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_e425198164762cc7.webp 480w, https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_fd50926e5314b867.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2021/07/what-makes-an-online-space-inclusive/images/FloorPlanforJisc_hu_10057e0203f90a19.webp&#34;
                width=&#34;760&#34;
                height=&#34;661&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -343,9 +343,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Striving for accessibility - Eval pt 1</title>
-      <link>https://fionamacneill.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
+      <link>https://macknowlogist.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</link>
       <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/</guid>
       <description>&lt;p&gt;Part 1 of my final evaluation. This entry outlines key decisions that I made regarding accessibility towards the end of the development period. I am writing and publishing it retroactively as it as represents a very large amount of thinking and work, which I kept notes about as I went along.&lt;/p&gt;
 &lt;h3 id=&#34;based-on-observation&#34;&gt;Based on observation&lt;/h3&gt;
 &lt;p&gt;Based on looking at a large number of NHS and governmental sites, referenced in former posts I realise that accessibility is crucial, perhaps even more than your average portfolio site. For example, looking at NHS England (2017) site I see that they offer a text-to-speech service. Based on experience in my day-job working with software vendors, some of these solutions can be quite expensive. It was however important to me to make the site as accessible as possible and that has meant some sacrifices along the way.&lt;/p&gt;
@@ -369,10 +369,34 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;/p&gt;
 &lt;h3 id=&#34;sprite-fun&#34;&gt;Sprite fun&lt;/h3&gt;
 &lt;p&gt;I got my sprite on and added sprites for the device images. The device images were drawings that I created in Adobe Illustrator based on photographs. All the photos were 
- apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. &lt;/p&gt;
-\[caption id=&#34;attachment\_393&#34; align=&#34;alignnone&#34; width=&#34;300&#34;\]&lt;p&gt;
- The complete sprite for the devices in all of its glory&lt;/p&gt;
-\[/caption\]&lt;p&gt; Photograph used as the basis for illustration of fasten/clip wearable - 
+ apart from the image of jeans, which I have listed below. This was added as an image through the CSS and aria-labelled for descriptive purposes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Image of sprite file showing the wearable devices&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu_8fe2e357a8dd9ac1.webp 300w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2017/01/striving-for-accessibility-summary-part-1/images/devicediagrams-300x122_hu_8fe2e357a8dd9ac1.webp&#34;
+               width=&#34;300&#34;
+               height=&#34;122&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ The complete sprite for the devices in all of its glory. Photograph used as the basis for illustration of fasten/clip wearable - 
  by 
  is licensed under 
  CC0 images sources from Pixabay: 
@@ -469,9 +493,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Accessibility and responsive bits</title>
-      <link>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
+      <link>https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/</link>
       <pubDate>Mon, 02 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/</guid>
       <description>&lt;p&gt;This journal entry represents a mammoth effort to add high-quality content to the site.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -502,9 +526,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;svg version of image - less visual information&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp 320w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_620f126e2190351b.webp 480w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_9e04f585cffdfd7.webp 607w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.28_hu_1945c0e8b0012560.webp&#34;
                width=&#34;607&#34;
                height=&#34;563&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -529,9 +553,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screenshot of the png version image&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp 320w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_b5134c7040ce06b1.webp 480w, https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_910b5166c16f63eb.webp 693w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2017/01/accessibility-and-responsive-bits/images/Screen-Shot-2017-01-01-at-18.24.44_hu_dd82d07838752235.webp&#34;
                width=&#34;693&#34;
                height=&#34;584&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -547,8 +571,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 ). It is pretty good, I still have a few aria, alt and title tags to include here or there but I have made progress in this area.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in 
-, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Infuriating.&lt;/strong&gt; As someone who uses Reader View (I found out that this is the official name for it) mode in Firefox and the equivalent in Safari, I was very frustrated by the restrictive and arbitrary local style sheet implemented by this mode. I have spent way too much time customising how the site looks in this context, but it really mattered to me as this would really put me off a site. Also, focusing on it has highlighted the importance of the semantic web; the &lt;em&gt;reader&lt;/em&gt; mode taps into the &lt;sections&gt; and other html5 element definitions. With a bit of hardcore tweaking, I finally have something that I can stand behind. The tweaking is outlined in a development post, however I found out by digging into the &lt;em&gt;reader&lt;/em&gt; displays in the respective browser stylesheets that they will ignore certain css classes. Specifically I needed to implement a class called .hidden which is the container for the flickity carousel dots. The &amp;lsquo;dots&amp;rsquo; are completely useless in the &lt;em&gt;reader&lt;/em&gt; view and just look like an orphaned ordered list. I also instituted a .sr-only class which is applied to loading GIFs and other elements which should not be shown in the &lt;em&gt;reader&lt;/em&gt; mode. All of this digging will serve me well for the print stylesheet, no doubt&amp;hellip;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;I ran the Google mobile accessibility test on the site - It passed!&lt;/strong&gt; Here is the proof: 
@@ -597,16 +620,65 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Building the grid</title>
-      <link>https://fionamacneill.co.uk/blog/2016/11/building-the-grid/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/11/building-the-grid/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/11/building-the-grid/</guid>
-      <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. &lt;/p&gt;
-\[caption id=&#34;attachment\_200&#34; align=&#34;alignnone&#34; width=&#34;919&#34;\]&lt;p&gt;
- The coloured overlay is included to highlight the issue with the column alignment.&lt;/p&gt;
-\[/caption\]&lt;p&gt; &lt;/p&gt;
-\[caption id=&#34;attachment\_202&#34; align=&#34;alignnone&#34; width=&#34;613&#34;\]&lt;p&gt;
- I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations.&lt;/p&gt;
-\[/caption\]&lt;p&gt; Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
+      <guid>https://macknowlogist.co.uk/blog/2016/11/building-the-grid/</guid>
+      <description>&lt;p&gt;After starting my initial experiments/prototypes for the portfolio project from a boilerplate I decided that I wanted to build my own responsive CSS grid from scratch. The grid turned out fairly well although there are some very slight issues with the column alignment which I need to sort out. I also still need to add the mobile device break points. I did find it very helpful to make use of the CSS calc() function to actively resize widths in percentages based on window size (calc()., 2016). This is a fantastic function although the support for it isn&amp;rsquo;t universal yet (82.73 according to caniuse.com). Having said that I did try my grid in Safari to see how it behaved in an unsupported browser and I was pleased with how well it resized. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot showing the issue with column alignment&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/gridalignissue_hu_53a8eb75e762fd8c.webp 320w, https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/gridalignissue_hu_2cb8061ffc9b8cb1.webp 480w, https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/gridalignissue_hu_478f5c6a5c240c3b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/gridalignissue_hu_53a8eb75e762fd8c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;710&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+ The coloured overlay is included to highlight the issue with the column alignment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot showing the grid system with a photoshop grid/guides overlaid&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/fixthegridalignissue_hu_6249c330f59023e3.webp 320w, https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/fixthegridalignissue_hu_32044093c0fdd33e.webp 480w, https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/fixthegridalignissue_hu_7bc8590b627ab816.webp 613w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/11/building-the-grid/images/fixthegridalignissue_hu_6249c330f59023e3.webp&#34;
+               width=&#34;613&#34;
+               height=&#34;573&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+.&lt;/p&gt;
+&lt;p&gt;I will attempt to use the power of Photoshop to fix my mathematics - here is a newly sized grid overlay using Photoshop guides to figure out the correct calculations. Just putting these calculations here for future reference. &lt;strong&gt;Columns:&lt;/strong&gt; Columns = 12 Gutter = 15px &lt;strong&gt;Rows:&lt;/strong&gt; Rows = 12 Gutter = 15px &lt;strong&gt;Margins:&lt;/strong&gt; Top = 10px Left = 20px Bottom = 10px Right = 20px&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
 &lt;p&gt;Calc(). (2016, May 17). Retrieved November 22, 2016, from 
 &lt;/p&gt;
@@ -627,24 +699,18 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Business Model Canvas and more tweaks</title>
-      <link>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
-      <description>&lt;p&gt;
- 
-&lt;fn&gt; Business Model Canvas (
-), licensed under Creative Commons Attribution-Share Alike 3.0 Unported licenses (
-).&lt;/fn&gt; A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
+      <guid>https://macknowlogist.co.uk/blog/2016/11/business-model-canvas-and-more-tweaks/</guid>
+      <description>&lt;p&gt;A shorter journal entry for today. I am going to provide a brief outline of what I have been working on, as I need to crack on with planning materials and more development work this week.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I have completed an initial version of the Lean Business Model Canvas, as mentioned 
- referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation (the template is available at this URL: 
-).&lt;/li&gt;
+ referencing UX documentation and design artefacts. I obtained the template recommendation in Cao &amp;amp; Bank&amp;rsquo;s (n.d.) book on UX documentation.&lt;/li&gt;
 &lt;li&gt;I have asked my friend Jason to take a look at my code for the arrow button navigation, so I will work on some more tweaks to that tomorrow.&lt;/li&gt;
 &lt;li&gt;Due to extremely limited time this week as a result of some unanticipated work commitments, I haven&amp;rsquo;t got as much development work in as I would like. So I have focused on a few fixes on this site as they were smaller thinks that I could achieve in the time that I had.
 &lt;ul&gt;
 &lt;li&gt;I removed a superfluous hyperlink in the footer.php - it was a &lt;em&gt;copy and paste&lt;/em&gt; mistake.&lt;/li&gt;
-&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; (see 
-) as it felt like it might offer too many options.&lt;/li&gt;
+&lt;li&gt;I decided not to &amp;ldquo;provide a choice of fonts&amp;rdquo; as it felt like it might offer too many options.&lt;/li&gt;
 &lt;li&gt;I decided to install the 
  - I have worked with it before and found it to be one of the best plugins in this area. It offers user-facing tools and some javascript additions to fix common issues in WordPress. Even though I have an accessibility tagged theme, there are additional tweaks that can be completed such as removing title attributes in areas where they aren&amp;rsquo;t needed and enforcing alt tags. It also allows you to add an active link highlight, which I am initially trying out with a contrast tested purple colour (essentially it puts a box around any active element).&lt;/li&gt;
 &lt;li&gt;I worked on a few customisations of the plugin:
@@ -673,8 +739,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Also in my travels I found the Web Accessibility Evaluation Tool (WAVE) - this was recommended both by the WP Accessibility Plugin authors in the documentation and on the Gov.uk page above on the &amp;ldquo;making your service accessible&amp;rdquo; page.&lt;/li&gt;
-&lt;li&gt;The report (although it will change as the site is being updated) 
- WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: 
+&lt;li&gt;The report (although it will change as the site is being updated) WAVE highlighted some more bits that I need to work on and I do still need to look at the contrast of the text in comparison to the background in the different colour schemes. The &amp;ldquo;making your service accessible&amp;rdquo; page states that automatic tools like WAVE can only detect a proportion of issues (around 20%-30%: 
 ). So I need to ensure that I don&amp;rsquo;t regard these tests as exhaustive moving forward.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I feel that I have learned quite a bit about accessibility through my work on this journal site, as well as honing my existing skills. So I will take these ideas and techniques forward with me as I continue to work on my portfolio project.&lt;/p&gt;
@@ -696,9 +761,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Portfolio site concept and other news</title>
-      <link>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</link>
       <pubDate>Sun, 23 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/</guid>
       <description>&lt;p&gt;Over the past three weeks since the start of the module, I have been working away on the development of my portfolio site concept and gaining domain knowledge to support the development process. I have found myself in a situation where I have been torn between completing the UX procedures and design artefacts that I learned about and implemented during previous modules and starting to code. It is like standing at the edge of an exciting, and slightly daunting, precipice wondering whether to make the leap. The good news is, I am close. I must also at this point, state that I aim to make a real and useful website. It will be short and sweet but it will, hypothetically at least, fulfill a real-world purpose. I also hope that it will be possible to use the site to support future research work that I plan to undertake.&lt;/p&gt;
 &lt;h2 id=&#34;process-a-minimalist-approach-influenced-by-lean-ux&#34;&gt;Process: A minimalist approach influenced by LEAN UX&lt;/h2&gt;
 &lt;p&gt;I have found that I cannot bypass the UX design artefacts and documentation entirely as they have become part of the fundamental fabric of my thought processes! So I have decided to complete a very stripped down version, to ensure that I have a solid architectural foundation for what I am about to build. This approach will be composed of the following elements.&lt;/p&gt;
@@ -782,9 +847,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of a sketch book page, including pencil drawing for the patient journey&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp 320w, https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_92f27e5cd309529a.webp 480w, https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_9b70e9f53ac976f3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ideassketch_hu_5b95a38f03bc1d8e.webp&#34;
                width=&#34;760&#34;
                height=&#34;537&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -887,9 +952,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Image of badge from Code Academy&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp 286w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/badge200_hu_41ac6fba0c9ce0b8.webp&#34;
                width=&#34;286&#34;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -916,9 +981,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;10 Commandments of User Interface Design&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp 320w, https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_e7250dfb0847dd21.webp 480w, https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9f5f99fc0b81894f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/10/portfolio-site-concept-and-other-news/images/ten-Commandments-UI-Design_hu_9165974122f44fbb.webp&#34;
                width=&#34;760&#34;
                height=&#34;457&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -955,11 +1020,10 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Theme testing</title>
-      <link>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/10/theme-testing/</link>
       <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/10/theme-testing/</guid>
-      <description>&lt;p&gt;This journal entry continues on from the section, &amp;ldquo;
-&amp;rdquo; in my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
+      <guid>https://macknowlogist.co.uk/blog/2016/10/theme-testing/</guid>
+      <description>&lt;p&gt;This journal entry continues on from my first post. In that section I outlined plans to test a number of WordPress themes that had been tagged with accessibility. This led me down a fascinating path of learning with one wrong turn along the way.&lt;/p&gt;
 &lt;h3 id=&#34;the-testing-process&#34;&gt;The testing process&lt;/h3&gt;
 &lt;p&gt;In my last post I outlined a number of themes that looked like possible candidates, including the following:&lt;/p&gt;
 &lt;ol&gt;
@@ -1006,27 +1070,51 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;p&gt;
  A fresh approach to a traditional blog layout with some very nice built-in features. Highlights include the support of the &lt;em&gt;read more&lt;/em&gt; tag for determining the length of post/entry excerpts shown on the front page. I also like the presentation of the author avatar, together with post tags on the left-hand side of each post. This theme has good customisation options and good widget support (the tools that you can place in the aside-style columns in the layout). A solid theme, not the most riveting to look at, but it ticks all of my accessibility boxes!&lt;/p&gt;
 &lt;h5 id=&#34;the-final-two-contenders&#34;&gt;The final two contenders&lt;/h5&gt;
-&lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin (SEE 
- for links) to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
+&lt;p&gt;I ran an IDI web accessibility check and used Firefox accessibility checker plugin to enable keyboard control on the two top candidates: twentysixteen and chuchadon. Twentysixteen had two flagged elements when I looked at the posts page specifically - one was that h1 header element was nested, so the order of headers was not ideal. Also there was a missing label element in the search field. These would both be very easy fixes.&lt;/p&gt;
 &lt;p&gt;Chuchadon had the same flag on the header nesting for a posts page, so it is likely that this is an issue that would be picked up for a number of WordPress based blog template. To test this theory I tested my own blog, which is based on the Edublogs implementation of WordPress. Interestingly this was not an issue on my blog (e.g. post: 
 ) or another Edublog that I tried. I took a look at the .entry-title tag in the edublog and it was at h2 level rather than h1. This struck me as an issue with both these themes. So I created a child theme of Chuchadon to try out a tweak on line 353 of the CSS stylesheet. The tweak worked perfectly, but alas this was also when I realised that there were some other things that didn&amp;rsquo;t work for me in chuchadon (front-page configuration and the documentation links).&lt;/p&gt;
 &lt;h5 id=&#34;the-final-verdict&#34;&gt;The final verdict&lt;/h5&gt;
-&lt;p&gt;I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. &lt;/p&gt;
-\[caption id=&#34;attachment\_324&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
+&lt;p&gt;I have selected twentysixteen as my theme and have created a child theme to allow more space for customisation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of the Twenty Sixteen theme&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu_25b4e11fc635d840.webp 320w, https://macknowlogist.co.uk/blog/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu_ff3feaea97445bd8.webp 480w, https://macknowlogist.co.uk/blog/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu_4062257d51f36dea.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/10/theme-testing/images/twentysixteen_img-1024x768_hu_25b4e11fc635d840.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
  Image source: WordPress.org, 
 &lt;br&gt;
 (Worpress.org, 2016b)&lt;/p&gt;
-\[/caption\]&lt;p&gt; &lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Just to clarify&amp;hellip;&lt;/strong&gt; You may be asking, what is all this talk of child themes. Well in essence a child theme is augmented version of it&amp;rsquo;s original parent. Essentially a child theme allows you to commit edits to the visual presentation as well as the functions of a WordPress site without editing the original theme&amp;rsquo;s code. This is a smart tactic for customising a theme, particularly the core annual themes, as because WordPress as a CMS has frequent updates, any accompanying parent theme updates can be safely run without affecting the code in the child theme too much. The use of a child theme will also allow me to replace the parts of the CSS and theme functions that were identified in the IDI accessibility report.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h5 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h5&gt;
+&lt;h4 id=&#34;techie-stuff&#34;&gt;Techie stuff&lt;/h4&gt;
 &lt;p&gt;The server was down this weekend so I used this as an excuse to implement some technical tools which will help further down the line. First of all as I mentioned in my last entry I installed MAMP on my development computer. MAMP, stands for Macintosh, Apache, MySQL, PHP (&amp;ldquo;MAMP&amp;rdquo;, 2016) and allows to setup a local copy of WordPress on your computer. I find having access to a local installation to be helpful for two reasons:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I can work on my child theme tweaks without having access to the server and test them out in a controlled environment.&lt;/li&gt;
 &lt;li&gt;I can test out themes and plugins without muddying my installation. Sometimes everything about a plugin can look good and then you install it and there are things are about it that don&amp;rsquo;t work or the coding isn&amp;rsquo;t up to scratch. So again it is good to have a test environment for that.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project. Here is my repository for this site: 
- - it seemed like the ideal opportunity to practice using a version control tool. It has been really useful thus far! &lt;strong&gt;Thinking long and hard about plugin installation is a good idea&amp;hellip;&lt;/strong&gt; I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks&lt;fn&gt;Why not use a footnote to explain what I did! I changed .footnote_plugin_text to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the .footnote_plugin_link, .footnote_plugin_index. Finally I needed to manually change the position of the superscript figures as I wasn&amp;rsquo;t happy with the distance of the figure numbers from the text characters, for this I changed the .footnote_plugin_tooltip_text class&lt;/fn&gt; due to how the footnotes were shown in the twentysixteen theme.&lt;/p&gt;
+&lt;p&gt;I also setup a github repository for version control; to track my changes to the theme files. This is the first time that I have setup my own repository, so it was definitely a learning curve for me. However, I think that knowing how to do this will be essential for my forthcoming work on my web portfolio project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thinking long and hard about plugin installation is a good idea&amp;hellip;&lt;/strong&gt; I was right to spend time deliberating about the types of plugin to install. The problem with plugins is that you often have to spend time tweaking them for every update and every theme. My carefully considered decision to install the footnotes plugin has already had to result in CSS tweaks&lt;fn&gt;Why not use a footnote to explain what I did! I changed &lt;code&gt;.footnote\_plugin\_text&lt;/code&gt; to change the width of the area where the footnotes are shown and the font size. I also had to make the table border elements transparent in the &lt;code&gt;.footnote\_plugin\_link&lt;/code&gt;, &lt;code&gt;.footnote\_plugin\_index&lt;/code&gt;. Finally I needed to manually change the position of the superscript figures as I wasn&amp;rsquo;t happy with the distance of the figure numbers from the text characters, for this I changed the &lt;code&gt;.footnote\_plugin\_tooltip\_text class&lt;/code&gt;&lt;/fn&gt; due to how the footnotes were shown in the twentysixteen theme.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h5 id=&#34;analysis-tools-used&#34;&gt;&lt;strong&gt;Analysis tools used:&lt;/strong&gt;&lt;/h5&gt;
 &lt;ul&gt;
@@ -1059,7 +1147,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;software-and-developer-tools-used&#34;&gt;&lt;strong&gt;Software and developer tools used&lt;/strong&gt;**:**&lt;/h5&gt;
+&lt;h5 id=&#34;software-and-developer-tools-used&#34;&gt;&lt;strong&gt;Software and developer tools used:&lt;/strong&gt;&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;MAMP (appsolute GmbH, 2016).&lt;/li&gt;
 &lt;li&gt;Github - version control and code repository (GitHub, 2016).&lt;/li&gt;
@@ -1085,8 +1173,7 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;/p&gt;
 &lt;p&gt;Gunderson, J. (2011, August 19). Accessibility evaluation Toolbar. Retrieved October 13, 2016, from 
 &lt;/p&gt;
-&lt;p&gt;Herbert, C. (2016, October 8). Where does “hello world” come from? &lt;/p&gt;
-\[Online forum comment\]&lt;p&gt;. Retrieved from StackOverflow website: 
+&lt;p&gt;Herbert, C. (2016, October 8). Where does “hello world” come from? [Online forum comment]. Retrieved from StackOverflow website: 
 &lt;/p&gt;
 &lt;p&gt;JetBrains. (2016). WebStorm: The smartest JavaScript IDE. Retrieved October 13, 2016, from 
 &lt;/p&gt;
@@ -1096,16 +1183,13 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
 &lt;/p&gt;
 &lt;p&gt;Lüken, A. (2015, October 31). E.Nigma 2015. Retrieved October 7, 2016, from WordPress.org website, 
 &lt;/p&gt;
-&lt;p&gt;MacNeill, F. (2016, June 14). &lt;/p&gt;
-\[Talk\]&lt;p&gt; factors of trust in IoT App interfaces Redux &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;p&gt;MacNeill, F. (2016, June 14). [Talk] factors of trust in IoT App interfaces Redux [Blog post]. 
 &lt;/p&gt;
 &lt;p&gt;Mozilla. (2016). Mozilla developer network. Retrieved October 13, 2016, from 
 &lt;/p&gt;
 &lt;p&gt;MAMP. (2016, September 29). In &lt;em&gt;Wikipedia.&lt;/em&gt; Retrieved October 16, 2016 from 
 &lt;/p&gt;
-&lt;p&gt;Rietveld, R. (2016, March 21). WordPress goes WCAG &lt;/p&gt;
-\[Blog post\]&lt;p&gt;. Retrieved from 
+&lt;p&gt;Rietveld, R. (2016, March 21). WordPress goes WCAG [Blog post]. Retrieved from 
 &lt;/p&gt;
 &lt;p&gt;Snook. (2015, January 11). Snook colour contrast checker. Retrieved October 13, 2016, from Snook.ca website, 
 &lt;/p&gt;
@@ -1128,9 +1212,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>[Talk] Factors of Trust in IoT App Interfaces Redux</title>
-      <link>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/06/trust-in-iot-app-interfaces-redux/</guid>
       <description>&lt;h2 id=&#34;talk-presented-at-ux-camp-brighton-2016---redux-on-140616-at-68-middle-street&#34;&gt;Talk presented at UX Camp Brighton 2016 - Redux on 14/06/16 at 68 Middle Street&lt;/h2&gt;
 &lt;p&gt;
  for the version of this talk given at UX Camp Brighton, 2016 (19/03/16). Video version of original talk. 
@@ -1254,9 +1338,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
     
     <item>
       <title>Reflection: The search for the best notetaking -or rather handwriting- app</title>
-      <link>https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
+      <link>https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</link>
       <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In February I shall be starting an MSc in User Experience Design and as a consequence my thoughts have turned to the study tools, which I wish to make use of as a student. As part of this process I have been considering my arsenal of apps. I&amp;rsquo;ll likely talk about the full extent of my app choice plotting in future posts. In this post I shall provide my reflections on notetaking apps in-particular. In my experience early preparation has always been the best strategy when considering any new academic venture, so I look forward to sharing some of my findings on this blog in the lead up to and during my forthcoming period of study.&lt;/p&gt;
 &lt;h2 id=&#34;productivity-and-notetaking-apps-that-i-use&#34;&gt;Productivity and notetaking apps that I use&lt;/h2&gt;
@@ -1291,9 +1375,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;File Management in iAnnotatePDF. The tagging function is shown.&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_13934aa1ef4cb374.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_665232892b06218b.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_13934aa1ef4cb374.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_665232892b06218b.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/filemanagementiAnnotatePDF-2dgm3on_hu_11ac31436937ba3f.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1327,9 +1411,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notes Plus shows the list of background colours avaialble for selection.&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_b75f13fb07c4ddec.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_96f2c2cd15ed9a34.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_b75f13fb07c4ddec.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_96f2c2cd15ed9a34.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_Backgroundcolours-2k8wz3p_hu_f470241c1214bec6.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1359,9 +1443,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;penultimate app with handwriting and wrist created scribbles shown&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_f2d3176ba831f207.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_2fe4d8b19b842e9.webp 570w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_f2d3176ba831f207.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_2fe4d8b19b842e9.webp 570w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/penultimate_wrist-183un00_hu_5729a06347ebe1cc.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1397,9 +1481,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;iAnnotatePDF wristguard as a grey bar at the bottom of the screen&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_c7a3f521f735c305.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_d24bb8bb1f4a15c0.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_c7a3f521f735c305.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_d24bb8bb1f4a15c0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/iAnnotatePDF_wristguard-15uevmj_hu_5346b66cdeacfadc.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1438,9 +1522,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notes Plus Ink customisation options&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_1c6c432047e74808.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_9c4a98224f1ec572.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_1c6c432047e74808.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_9c4a98224f1ec572.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_closeup-28urc98_hu_613ed888217cfb59.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1469,9 +1553,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Notability close-up writing mode&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3542e912727806cc.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_5645afb2d6b5fba.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3542e912727806cc.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_5645afb2d6b5fba.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/Notability_closeup-2aso0t3_hu_3ac50c3791aabc3e.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1516,9 +1600,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Handwritten text is selected by drawing around it&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_25cc235c871c6fff.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_6c507c2f7ece962a.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_25cc235c871c6fff.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_6c507c2f7ece962a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert1-1kwmxrr_hu_5cee8780e3525553.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1546,9 +1630,9 @@ When people put their &amp;lsquo;hands up&amp;rsquo; they were taking a seat at 
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;The handwriting has been converted to type&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp 320w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_2862d635e3728eef.webp 480w, https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_678206f3ee31abc3.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp 320w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_2862d635e3728eef.webp 480w, https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_678206f3ee31abc3.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2014/09/reflection-the-search-for-the-best-notetaking-or-rather-handwriting-notetaking-app/images/NotesPlus_convert2-14x0ucy_hu_5f5cc804ea0c3992.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

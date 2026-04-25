@@ -2,25 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/blogging/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/blogging/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     <description>Blogging</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sun, 04 Jan 2026 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Blogging</title>
-      <link>https://fionamacneill.co.uk/tags/blogging/</link>
+      <link>https://macknowlogist.co.uk/tags/blogging/</link>
     </image>
     
     <item>
       <title>Creating a sustainable workshop</title>
-      <link>https://fionamacneill.co.uk/blog/2026/01/sustainableworkshop/</link>
+      <link>https://macknowlogist.co.uk/blog/2026/01/sustainableworkshop/</link>
       <pubDate>Sun, 04 Jan 2026 12:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2026/01/sustainableworkshop/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2026/01/sustainableworkshop/</guid>
       <description>&lt;p&gt;The first Green Software Practitioner Study Day took place on 6th August 2025 at 
 .&lt;/p&gt;
-&lt;p&gt;As we have two further Study Days taking place in 2026 (
-, 13th March - tickets coming soon), I thought I&amp;rsquo;d reflect on what make the first one great.&lt;/p&gt;
 &lt;p&gt;Personally, it isn&amp;rsquo;t a stretch to say that designing and collaborating on the Study Day felt like a career defining moment for me. It has kicked off a professional side quest to support and build sustainable product teams - an idea seeded during 
 .&lt;/p&gt;
 &lt;img src=&#34;./images/fiona-macneill-certificate-example.webp&#34; width=&#34;400px&#34; alt=&#34;A copy of Fiona&#39;s certificate from The Linux Foundation and the Green Software Foundation is shown&#34; /&gt; 
@@ -36,10 +34,11 @@
 &lt;li&gt;&lt;strong&gt;Momentum&lt;/strong&gt;: in my previous work as a strategic designer, I knew that driving sustainability and behavioural change needs many champions to gain traction. From my own perspective as a contractor, I needed other folks&amp;rsquo; stories of success to help understand what more I could be doing.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Journeys&lt;/strong&gt;: I wanted to know that I wasn&amp;rsquo;t alone and that others were also encountering the same barriers that I was. We are on this journey together!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I felt that all of the above, called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate alongside interdisciplinary disucssion. So, I set about creating an interest page as an experiment, to find out if others might like a dedicated &amp;lsquo;Study Day&amp;rsquo; too.&lt;/p&gt;
+&lt;p&gt;I felt that all of the above, called for an in-person experience, by tech folks for tech folks. Where the time was reserved and structured to allow for the completion of the certificate alongside interdisciplinary discussion. So, I set about creating an interest page as an experiment, to find out if others might like a dedicated &amp;lsquo;Study Day&amp;rsquo; too.&lt;/p&gt;
 &lt;img src=&#34;./images/GreenSoftwarePractitionerStudyDay-deeplearning.webp&#34; alt=&#34;A group of people are sat is a square of tables in the centre of the room, focused on deep study on the Study Day content.&#34; /&gt;
 &lt;h3 id=&#34;who-attended&#34;&gt;Who attended&lt;/h3&gt;
-&lt;p&gt;I thought that I would get maybe 12 people to attend. To my surprise, we sold out at 27 tickets with a healthy waiting list. We were also awarded a grant from Brighton &amp;amp; Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes. A range of disciplines were represented across the 27 attendees including, developers, engineers, testers, consultants, accessibility specialists, product designers, product managers, UXers, founders, cloud architects, students, and recent graduates.&lt;/p&gt;
+&lt;p&gt;I thought that I would get maybe 12 people to attend. To my surprise, we sold out at 27 tickets with a healthy waiting list. We were also awarded a grant from Brighton &amp;amp; Hove Buses to help defray the costs of the event and provide some free spaces for students and those on limited incomes.&lt;/p&gt;
+&lt;p&gt;A range of disciplines were represented across the 27 attendees including, developers, engineers, testers, consultants, accessibility specialists, product designers, product managers, UXers, founders, cloud architects, students, and recent graduates.&lt;/p&gt;
 &lt;p&gt;What an attendee said:&lt;/p&gt;
 
 
@@ -52,7 +51,7 @@
 &lt;h2 id=&#34;the-results&#34;&gt;The results&lt;/h2&gt;
 &lt;p&gt;Here are just a few of the stories of success from those who attended the event. Its always cool to hear what to learn what people took with them and &lt;em&gt;did&lt;/em&gt; next!&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;One person was able to use their learning on the Study Day to justify keeping older hardware runnning and to support donation and recycling initiatives for retired hardware.&lt;/li&gt;
+&lt;li&gt;One person was able to use their learning on the Study Day to justify keeping older hardware running and to support donation and recycling initiatives for retired hardware.&lt;/li&gt;
 &lt;li&gt;I was able to support the sustainability aspects of a sucessful 
  grant application for a client.&lt;/li&gt;
 &lt;li&gt;Another organisation brought their whole team to the event. This decision to invest in a benchmark of knowledge across a team is such a powerful action to drive progress!&lt;/li&gt;
@@ -63,8 +62,6 @@
 &lt;p&gt;The collaboration between 
  and 
  was crucial to the fabric of the day. LTUX Brighton came with the UX and product angles and Green Software Brighton, brought dev, backend, and DevOps perspectives.&lt;/p&gt;
-&lt;p&gt;To get a flavour, you can view the schedule for the next event on 
-(and ahem&amp;hellip; sign-up).&lt;/p&gt;
 &lt;h2 id=&#34;the-meta-design-of-the-day&#34;&gt;The meta design of the day&lt;/h2&gt;
 &lt;p&gt;Based on 
 , here are considerations I brought to the design of the event to minimise direct and indirect energy use.&lt;/p&gt;
@@ -143,23 +140,19 @@
   &lt;/span&gt;
   &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
     &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Okay, so far so good. I did originally intend to cycle, but I had too much to carry, so something to consider next time is can I carry less? The next venue, 
- is within walking distance, so that will help!&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Okay, so far so good. I did originally intend to cycle, but I had too much to carry, so something to consider next time is can I carry less?&lt;/p&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h3 id=&#34;scope-2-emissions&#34;&gt;Scope 2 emissions&lt;/h3&gt;
-&lt;p&gt;Scope 2 emissions (electricity, heat, cooling, steam) and is calculated based on location.&lt;/p&gt;
-&lt;h4 id=&#34;wrap&#34;&gt;WRAP&lt;/h4&gt;
-&lt;p&gt;My preparation for the Study Day was completed at WRAP workspace next to Brighton station. Although I don&amp;rsquo;t know their electricity and cooling emissions (it was July/August). I can point to their ethos with regards to recyling and waste management, the comparative newness of their building conversion, and their work with local infrastructure companies, such as 
-. Check out a quick overview of their approach on 
-.&lt;/p&gt;
 &lt;h4 id=&#34;sussex-innovation-centre&#34;&gt;Sussex Innovation Centre&lt;/h4&gt;
 &lt;p&gt;The Study Day took place at Sussex Innovation Centre, again I don&amp;rsquo;t know their electricity and cooling emissions. However, their support for sustainable businesses and research are second to none locally. For example, the 
 . Also, the University of Sussex is known for its approach to sustainability as outlined in their Susssex 2035 Creating Progressive Futures strategy (
 ). In related news, Dr Caroline Lucas, former MP and leader of the Green Party, has been appointed as 
  as part of the new 
 .&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;P.s., I found out the answer to this later on when I founde the display energy certificate at SIC – photo taken on 28 Jan 2026, added on 25 April 2026.&lt;/em&gt;
+&lt;img src=&#34;./images/sicrating.webp&#34; alt=&#34;The latest display energy certificate mounted on the wall at Sussex Innovation Centre, B rating based on an assessment in 2023.&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;energy-use-in-the-room&#34;&gt;Energy use in the room&lt;/h4&gt;
 &lt;p&gt;In terms of active energy use in the room itself, there were 28 laptops and tablets running from active power supplies. We also had an LED monitor in the room, which turned off when it wasn&amp;rsquo;t actively being used.&lt;/p&gt;
 &lt;p&gt;To put this into perspective, if we had been on an online video call for the day the impact would have been far greater as most attendees were based within 50 miles of the venue. Strictly speaking emissions from a video call would then fall into scope 3 as the emissions would be disributed across the various attendee locations on their own computers, on their own broadband networks, on their own power supplies.&lt;/p&gt;
@@ -253,7 +246,7 @@
   &lt;/blockquote&gt;
 
 &lt;img src=&#34;./images/paulinepens.webp&#34; width=&#34;150px&#34; alt=&#34;Steve Pemberton is in the character of the eponymous Pauline, holding pens up with zeal, from the League of Gentleman TV show&#34; /&gt;
-&lt;p&gt;Alas, that is one thing I haven&amp;rsquo;t been able to find a sustainable and durable solution to. I did try wax pencils out as an alternative to dry erase markers and they were too difficult to write with as they require a lot of pressure and then were too difficult to clean off.&lt;/p&gt;
+&lt;p&gt;Alas, pens are one thing I haven&amp;rsquo;t been able to find a sustainable and durable solution to. I did try wax pencils out as an alternative to dry erase markers and they were too difficult to write with as they require a lot of pressure and then were too difficult to clean off.&lt;/p&gt;
 &lt;h4 id=&#34;catering-and-snacks&#34;&gt;Catering and Snacks&lt;/h4&gt;
 &lt;p&gt;For catering, we worked with fantastic chef, Oli Thompsett who is based at Sussex Innovation Centre. Oli created a marvellous vegetarian and vegan lunch for us based on seasonal ingredients and local produce. It truly was phenomenal and the nominal leftovers were boxed up, so there was no waste. Making sure we have a hearty and sustainable lunch will be a mainstay of every Study Day to come! Sharing a lunchtime chat is integral to the experience.&lt;/p&gt;
 &lt;img src=&#34;./images/deliciousbuffetStudyDay.webp&#34; alt=&#34;A buffet is pictured with a range of bowls filed with salad, vegetable dishes and tofu. A beautifully presented menu information, coffee and tea.&#34; /&gt;
@@ -366,21 +359,17 @@ xychart
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;thats-a-wrap-or-is-it&#34;&gt;That&amp;rsquo;s a wrap, or is it?&lt;/h2&gt;
-&lt;p&gt;Yes, that is a terrible pun because our next event &lt;em&gt;is&lt;/em&gt; at WRAP. However, it wasn&amp;rsquo;t &amp;lsquo;a wrap&amp;rsquo; for my sustainability focused thinking and I then went right into the sustainable design of the 
+&lt;p&gt;It hasn&amp;rsquo;t been &amp;lsquo;a wrap&amp;rsquo; for my sustainability focused thinking and I then went right into the sustainable design of the 
 . In fact, I combined it that very day when I visited someone else at University of Sussex to look at some of their materials that I could recycle and reuse.&lt;/p&gt;
-&lt;h2 id=&#34;will-we-see-you-at-the-next-green-software-practitioner-study-day&#34;&gt;Will we see you at the next Green Software Practitioner Study Day?&lt;/h2&gt;
-&lt;p&gt;Please join us at a future event and if you have any questions please get in touch with me at 
- or via 
-.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Special thanks to Deeksha Bhushan who took many of the wonderful photos recording our activities during the Study Day.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>UX Camp 2025 Reflections</title>
-      <link>https://fionamacneill.co.uk/blog/2025/06/ux-camp-2025-reflections/</link>
+      <link>https://macknowlogist.co.uk/blog/2025/06/ux-camp-2025-reflections/</link>
       <pubDate>Sat, 21 Jun 2025 08:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2025/06/ux-camp-2025-reflections/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2025/06/ux-camp-2025-reflections/</guid>
       <description>&lt;h2 id=&#34;making-things-manageable&#34;&gt;Making things manageable&lt;/h2&gt;
 &lt;h3 id=&#34;a-brief-catch-up-on-the-last-24-months&#34;&gt;A brief catch-up on the last 24 months&lt;/h3&gt;
 &lt;p&gt;This site has been loved and it has been updated. However, between December 2023 and December 2025, I sort of lost myself a bit. The TL:DR version is between working on Ladies that UX Brighton (now &amp;lsquo;LTUX Brighton&amp;rsquo;) and working in a full-time agency role I lost sight of my thinking/academic/artistic pursuits; I let my reflective practice slip.&lt;/p&gt;
@@ -672,9 +661,9 @@ Snoopers and Poopers&lt;/p&gt;
     
     <item>
       <title>Falling back in love with the humble RSS feed</title>
-      <link>https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/</link>
+      <link>https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/</link>
       <pubDate>Sun, 24 Dec 2023 11:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/</guid>
       <description>&lt;h2 id=&#34;kudos&#34;&gt;Kudos&lt;/h2&gt;
 &lt;p&gt;This blog post is inspired by a tip from 
 , who suggested that I check out 
@@ -704,7 +693,7 @@ Snoopers and Poopers&lt;/p&gt;
  which is my new favourite. An RSS curation app which allows me to setup up my feeds, sync them to iCloud, and access them on all my devices. More on that below.&lt;/p&gt;
 &lt;p&gt;If you would like to subscribe to this blog using RSS, here is the URL you need.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;&amp;lt;!-- xml feed for this blog--&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://www.fionamacneill.co.uk/index.xml
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://www.macknowlogist.co.uk/index.xml
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To find out the RSS feed for just about any site, including your favourite content on Medium, check out this helpful 
 .&lt;/p&gt;
 &lt;p&gt;As an added tip for sites using static site generators like Hugo, a good rule to follow is to take the root of the site and add &amp;lsquo;index.xml&amp;rsquo;. So I&amp;rsquo;d start by looking at the site footer and then the page source to identify which generator is in use. Then try adding &amp;lsquo;/index.xml&amp;rsquo; at the end and see if you get a page that looks like a feed.&lt;/p&gt;
@@ -732,9 +721,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Forrt example - the website footer is shown which helpfully tells the site is made with Hugo&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_bcf1d5f2c843338a.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_1231ceee85ff21a.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_bcf1d5f2c843338a.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_1231ceee85ff21a.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/00ForrtExample_hu_7d26db6b21783478.webp&#34;
                width=&#34;760&#34;
                height=&#34;160&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -765,9 +754,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Forrt example - the feed page which shows metadata in xml code format&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_56c89fa46c6bde8a.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_263d00f899c3c6e9.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_56c89fa46c6bde8a.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_263d00f899c3c6e9.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01ForrtExample_hu_f400ef40c9742473.webp&#34;
                width=&#34;760&#34;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -813,9 +802,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly account options - Organize Feeds is selected&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_9649efcec385876d.webp 400w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_9649efcec385876d.webp 400w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/01_Feedly_OrgFeeds_hu_21934e62671ca861.webp&#34;
                width=&#34;400&#34;
                height=&#34;478&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -846,9 +835,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly OPML export arrow is shown&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6f40fb6b3893b75c.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_8f4bcc7d4ed9fa88.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6f40fb6b3893b75c.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_8f4bcc7d4ed9fa88.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/02_FeedlyExportYourFeeds_hu_6679f1b65baf1764.webp&#34;
                width=&#34;760&#34;
                height=&#34;202&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -879,9 +868,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Feedly OPML export button to initiate download&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_a5a0f2a29174b82a.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_c07ca1bc62e0215e.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_a5a0f2a29174b82a.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_c07ca1bc62e0215e.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/03_FeedlyOPMLExport_hu_f095d4011bbe5827.webp&#34;
                width=&#34;760&#34;
                height=&#34;207&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -912,9 +901,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire top menu, file, then import subscriptions option&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_692632c9508d0b60.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_6b31f6902428ae82.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_692632c9508d0b60.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_6b31f6902428ae82.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/04_NetNewsWire_ImportSubscriptions_hu_ecf603f8b302e805.webp&#34;
                width=&#34;760&#34;
                height=&#34;394&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -945,9 +934,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire - select the account that you want to import into&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_6173b74dc61d6ec5.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_d7116aa626b420f8.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_6173b74dc61d6ec5.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_d7116aa626b420f8.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/05_NetNewsWire_ImportfromOPML_hu_ab22b43bde0f2e00.webp&#34;
                width=&#34;760&#34;
                height=&#34;361&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -978,9 +967,9 @@ Snoopers and Poopers&lt;/p&gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;NetNewsWire - select the OPML file which you downloaded to your computer&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp 320w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_fa0d42af3eddeb4c.webp 480w, https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_84d276eb7831e8dc.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp 320w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_fa0d42af3eddeb4c.webp 480w, https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_84d276eb7831e8dc.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2023/12/humble-rss-feed/images/06_NetNewsWire_importfile_hu_91a9c6e099d4fd02.webp&#34;
                width=&#34;760&#34;
                height=&#34;336&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

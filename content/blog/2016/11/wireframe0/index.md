@@ -8,7 +8,7 @@ tags:
   - "wireframe"
 ---
 
-This post shows the initial low fidelity wireframe that I created after meeting with Dr. Theo Fotis on 16/11/16. I decided on a 12 column layout due to the need to have different formats in each section. It seemed to offer a high degree of flexibility. \[caption id="attachment\_172" align="alignnone" width="698"\][![Screenshot of initial wireframe and settings](images/wireframeinfo0.png)](http://fionamacneill.co.uk/blog/2016/11/18/wireframe0/wireframeinfo0/) The first wireframe showing the 12 column layout\[/caption\]
+This post shows the initial low fidelity wireframe that I created after meeting with Dr. Theo Fotis on 16/11/16. I decided on a 12 column layout due to the need to have different formats in each section. It seemed to offer a high degree of flexibility. ![Screenshot of initial wireframe and settings](images/wireframeinfo0.png) *The first wireframe showing the 12 column layout.*
 
 ### References
 

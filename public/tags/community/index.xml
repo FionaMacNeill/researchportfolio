@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/community/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/community/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <description>Community</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 03 Jan 2026 16:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Community</title>
-      <link>https://fionamacneill.co.uk/tags/community/</link>
+      <link>https://macknowlogist.co.uk/tags/community/</link>
     </image>
     
     <item>
       <title>LTUX Brighton presents, Talk UX: Redesigning Place</title>
-      <link>https://fionamacneill.co.uk/events/talkux/</link>
+      <link>https://macknowlogist.co.uk/events/talkux/</link>
       <pubDate>Sat, 03 Jan 2026 16:30:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/talkux/</guid>
+      <guid>https://macknowlogist.co.uk/events/talkux/</guid>
       <description>&lt;p&gt;In 2025, LTUX Brighton hosted the international conference for 
 , 
 .&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>Dialogue: community, volunteering, and setting up your own company at University of Brighton</title>
-      <link>https://fionamacneill.co.uk/events/communityorganising/</link>
+      <link>https://macknowlogist.co.uk/events/communityorganising/</link>
       <pubDate>Fri, 28 Mar 2025 09:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/events/communityorganising/</guid>
+      <guid>https://macknowlogist.co.uk/events/communityorganising/</guid>
       <description></description>
     </item>
     

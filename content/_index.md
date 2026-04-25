@@ -15,9 +15,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: fiona
       text: |- 
-        Hello. I'm Fiona. I design and build meaningful experiences for curious minds to form new behaviours. 
-      
-        You'll find me solving everyday problems and collaborating with people who want to create positive change.
+        Hello. I'm Fiona. I design and build meaningful digital experiences for curious minds. 
+        
+        Most of my work is as a fractional Product Manager, UX designer, and learning producer. I specialise in learning and compliance focused products. 
         <p class="bio-text sml">Peruse my work here while I build the new website for my business, Macknowlogist.</p>
       # Show a call-to-action button under your biography? (optional)
       # button:

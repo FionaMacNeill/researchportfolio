@@ -142,7 +142,9 @@ library(gpplot2) jtbd <- read.csv("~/Desktop/JTBD\_R/jtbd.csv", header = T)
 #so lets also find out about the data itself by using the summary function summary(jtbd) 
 ```
 
-**Result in the console:** [![Screenshot of results in console](images/resultinconsole-t8dbkw.jpg)](http://www.fionamacneill.co.uk/blog/wp-content/uploads/2018/03/resultinconsole-t8dbkw.jpg) Well...that is jolly helpful information!
+**Result in the console:** 
+![Screenshot of results in console](images/resultinconsole-t8dbkw.jpg) 
+*Well...that is jolly helpful information!*
 
 ### Now for the plot part:
 
@@ -243,5 +245,6 @@ Ulwick, A. W. (2017) 'The path to growth: The opportunity algorithm', _The marke
 
 Access the code for this post on my [public GitHub Repository, 'OpportunityLandcape'](https://github.com/FionaMacNeill/OpportunityLandscape/blob/main/jtbd.R).
 
-![Creative Commons Licence](images/88x31.png)(http://creativecommons.org/licenses/by-sa/4.0/) Code for JTBD data visualisation by [Fiona MacNeill](http://fionamacneill.co.uk/blog/2018/03/24/ux-camp-brighton-2018-jobs-to-be-done-r) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at [http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/](http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/).
+![Creative Commons Licence](images/88x31.png) 
+Code for JTBD data visualisation by [Fiona MacNeill](/blog/2018/03/ux-camp-brighton-2018-jobs-to-be-done-r/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at [http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/](http://www.marketingjournal.org/the-path-to-growth-the-opportunity-algorithm-anthony-ulwick/).
 

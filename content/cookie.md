@@ -1,7 +1,8 @@
 ---
 title: 'Cookie Policy'
-date: 2025-11-11
-type: page
+date: 2026-04-25
+type: page 
+toc: false
 --- 
 
 This Cookie Policy explains what cookies are and why we use them. 
@@ -17,24 +18,27 @@ You can manage your cookie preferences through your browser settings or our cook
 
 For more details, please refer to our [Privacy Policy](/privacy/).  
 
-### Analytics cookies 
+### Analytics cookies and trackers
 
-| Name  | Purpose                   | Provider         | Service      | Type       | Expires    | 
-|-----|-------------------------|----------------|------------|----------|----------| 
-| Latest.js | Insight into the number of people visiting the site, where they are from, and what they are clicking on | www.<br>simpleanalytics.<br>.com | Simple Analytics. [View the Simple Analytics Privacy Policy](https://dashboard.simpleanalytics.com/privacy-policy)| server_cookie | Session | 
-| NID | Set by Google to set a unique user ID to remember user preferences. Persistent cookie that stays for 182 days. | <br>.google.<br>com | Google. [View the Google Privacy Policy](https://policies.google.com/privacy). | server_cookie | 6 months | 
-| vuid | Used by Vimeo player to check if certain features or preferences have been selected by the user on websites with embedded videos from Vimeo. | <br>.vimeo.<br>com | GVimeo. [View the Vimeo Privacy Policy](https://vimeo.com/legal/privacy/policy). | http_cookie | 1 year 1 month 4 days | 
+| Name  | Purpose                   | Provider         | Country     | Service      | Type       | Expires    |  
+|-----|-------------------------|----------------|------------|------------|----------|----------| 
+| Latest.js | Insight into the number of people visiting the site, where they are from, and what they are clicking on | www.<br>simpleanalytics<br>.com, queue.<br>simpleanalyticscdn<br>.com, <br>scripts.<br>simpleanalyticscdn<br>.com| Simple Analytics. [View the Simple Analytics Privacy Policy](https://dashboard.simpleanalytics.com/privacy-policy)| NL | server_cookie | Session | 
+| NID | Set by Google to set a unique user ID to remember user preferences. Persistent cookie that stays for 182 days. | <br>.google.<br>com | Google. [View the Google Privacy Policy](https://policies.google.com/privacy). | US | server_cookie | 6 months | 
+| vuid | Used by Vimeo player to check if certain features or preferences have been selected by the user on websites with embedded videos from Vimeo. | <br>.vimeo.<br>com | GVimeo. [View the Vimeo Privacy Policy](https://vimeo.com/legal/privacy/policy). | US | http_cookie | 1 year 1 month 4 days | 
 
 
-### Performance and functionality cookies  
+### Performance and functionality cookies and trackers
 
-| Name  | Purpose                   | Provider         | Service      | Type       | Expires    |  
-|-----|-------------------------|----------------|------------|----------|----------| 
-| yt-remote-<br>connected<br>-devices | Stores a list of connected devices for YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
-| ytidb::LAST_<br>RESULT<br>_ENTRY_KEY | Stores the last result entry key used by YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
-| yt.innertube<br>::requests | Stores a list of YouTube requests made by the user. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
-| yt-remote-<br>device-id | Stores a unique ID for the user's device for YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
-| yt.innertube<br>::nextId | Stores a list of YouTube requests made by the user. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
+| Name  | Purpose                   | Provider         | Country     | Service      | Type       | Expires    |  
+|-----|-------------------------|----------------|------------|------------|----------|----------| 
+| consent-settings | This cookie stores your consent decision when it comes to allowing or declining cookies. | fionamacneill.co.uk, <br> macknowlogist.co.uk | UK | [View the Macknowlogist Privacy Policy](/privacy). | Functional | 31 days | 
+| unpkg | Open source Content Delivery Network (CDN) related to insight into the energy use per/page view on this website compared to a benchmarking dataset. | api.websitecarbon.com | UK | [Open source license](https://github.com/unpkg/unpkg/blob/main/LICENSE) | Tracker | - | 
+| websitecarbon | This code gives us insight into the energy use per/page view on this website compared to a benchmarking dataset. | unpkg.com | US | [View Website Carbon Privacy Policy](https://www.websitecarbon.com/privacy-policy/) | Tracker | - | 
+| yt-remote-<br>connected<br>-devices | Stores a list of connected devices for YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | US | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
+| ytidb::LAST_<br>RESULT<br>_ENTRY_KEY | Stores the last result entry key used by YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | US | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
+| yt.innertube<br>::requests | US | Stores a list of YouTube requests made by the user. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | US | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
+| yt-remote-<br>device-id | Stores a unique ID for the user's device for YouTube. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | US | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
+| yt.innertube<br>::nextId | Stores a list of YouTube requests made by the user. This is a persistent cookie which is only used on pages with 'YouTube' non-cookie embeds. | www.<br>youtube-nocookie.<br>com | US | YouTube. [View the Google Privacy Policy](https://policies.google.com/privacy). | html_local_<br>storage | persistent | 
 | _cfuvid | A cookie set by Cloudflare to enhance security and performance. It helps identify trusted web traffic to support a secure browsing experience for website users. | .vimeo.<br>com | Cloudflare. [View the Cloudflare Privacy Policy.](https://developers.cloudflare.com/fundamentals/reference/policies-compliances/cloudflare-cookies/) | server_cookie | session | 
 
 

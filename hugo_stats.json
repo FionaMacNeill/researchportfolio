@@ -556,7 +556,7 @@
       "an-excerpt-to-give-you-the-flavour",
       "analysis",
       "analysis-tools-used",
-      "analytics-cookies",
+      "analytics-cookies-and-trackers",
       "answering-the-right-questions",
       "anxiety-levels",
       "applying-8020",
@@ -637,6 +637,7 @@
       "card-title-d2af35fd9ed02a4ca85b19cae2e25956",
       "card-title-d7cb85e9a1e4af0b5bd1a05f8e6b3529",
       "card-title-d80828ec237da3e84e8c206558a1c698",
+      "card-title-e0cf809e3234dbc6f819c92dee10a2fa",
       "card-title-e6ee65f4e67f473817f27302397e5f41",
       "card-title-e826d17a94fad81016569f4ae793761e",
       "card-title-e9258d361bb8e340bc86e876888dff7b",
@@ -802,6 +803,7 @@
       "item1",
       "item2",
       "item3",
+      "item4",
       "journal-development",
       "keystone-texts",
       "kudos",
@@ -851,7 +853,7 @@
       "panel-2--350pm",
       "part-1-human-factors",
       "part-2-technology-factors",
-      "performance-and-functionality-cookies",
+      "performance-and-functionality-cookies-and-trackers",
       "personal-introspective",
       "personal-reflection",
       "personal-reflection-from-project-lead",
@@ -1049,10 +1051,8 @@
       "why-do-i-love-ux-camp-brighton",
       "why-lorem-ipsum-sucks-and-what-to-do-about-it",
       "will-i-see-you-evolve-26",
-      "will-we-see-you-at-the-next-green-software-practitioner-study-day",
       "will-you-join-us-at-the-next-green-practitioner-study-day",
-      "wireframes-slide",
-      "wrap"
+      "wireframes-slide"
     ]
   }
 }

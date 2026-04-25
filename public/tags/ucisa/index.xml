@@ -2,24 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ucisa | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/ucisa/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/ucisa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/ucisa/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/ucisa/index.xml" rel="self" type="application/rss+xml" />
     <description>Ucisa</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Mon, 02 May 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Ucisa</title>
-      <link>https://fionamacneill.co.uk/tags/ucisa/</link>
+      <link>https://macknowlogist.co.uk/tags/ucisa/</link>
     </image>
     
     <item>
       <title>Capturing live drawing in the digital age</title>
-      <link>https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/</link>
       <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/</guid>
       <description>&lt;p&gt;I am helping to organise a conference later on this month as part of my work on the UCISA Digital Capabilities group. The event is called the Spotlight on Digital Capabilities (May 25/26) and just to let you know, if you find this post particularly riveting there are still spots to attend! You may also recall 
- about the gamification of last year&amp;rsquo;s UCISA conference (as well as my 
-).&lt;/p&gt;
+ about the gamification of last year&amp;rsquo;s UCISA conference.&lt;/p&gt;
 &lt;p&gt;Well I am more actively involved in designing the gamification of &lt;em&gt;Spotlight&lt;/em&gt; this year, so there will be more on that soon too! One of the things that I am most looking forward to, as part of the &lt;em&gt;Spotlight&lt;/em&gt; conference is a live debate that will take on the question: &lt;em&gt;Do we still need IT training teams?&lt;/em&gt; This session will take the format of a town-hall forum style debate and will have a panel who explore different views on the topic as well as leading audience discussion. Part of the inspiration for the debate came from my experience attending New Media Consortium conferences from 2010-12 in the US. I remember the sheer energy of the townhall meeting events and the brilliant live drawing visualisations of the discussion, supplied by Rachel Smith. So with this in mind we are working with Brighton artist, Eve Turner-Lee to consider the best ways of visualising our discussion! Back in March, Eve, my colleague Tucker and I met up to test out the best ways of visualising drawing. Our criteria were that whichever solution we ended up with would need to capture the drawing live and provide a video feed to the projection system somehow so that attendees could watch on screen. A bonus would be if attendees could also watch live from their own smartphones, tablets or laptops. Here are the results of our investigations. Although Eve put it much more succinctly in her comic strip embedded at the top of this post!&lt;/p&gt;
 &lt;h2 id=&#34;option-1-eve-drawing-on-paper-with-live-video-capture&#34;&gt;Option 1: Eve drawing on paper with live video capture&lt;/h2&gt;
 &lt;p&gt;
@@ -42,9 +41,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Drawing with pens on paper with live video streaming&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu_a844506b1998adf3.webp 157w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu_a844506b1998adf3.webp 157w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu_a844506b1998adf3.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/boardonly-14yj2yk_hu_a844506b1998adf3.webp&#34;
                width=&#34;157&#34;
                height=&#34;196&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -97,9 +96,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Live drawing with an iPad Pro&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu_a22a55396bbca9c2.webp 225w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu_a22a55396bbca9c2.webp 225w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu_a22a55396bbca9c2.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/IMG_0932sml-1l08fyt-225x300_hu_a22a55396bbca9c2.webp&#34;
                width=&#34;225&#34;
                height=&#34;300&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -147,9 +146,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Eve Turner-Lee Drawing created on iPad Pro&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_8deea568296d2bdc.webp 320w, https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_78477e3561c17d06.webp 480w, https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_248fdc1ad6422e96.webp 760w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_8deea568296d2bdc.webp 320w, https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_78477e3561c17d06.webp 480w, https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_248fdc1ad6422e96.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_8deea568296d2bdc.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/05/capturing-live-drawing-in-the-digital-age/images/evesiPadProdrawing-2mpybqv_hu_8deea568296d2bdc.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -161,9 +160,9 @@
     
     <item>
       <title>Re-Blog: Reflections on using Rise to support conference-based gamification</title>
-      <link>https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</link>
+      <link>https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</link>
       <pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/</guid>
       <description>&lt;p&gt;
 
 
@@ -184,9 +183,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;Screenshot of the Rise Leaderboard for the UCISA Digital Capabilities event with selfie categories, @mentions, Tweets and Retweets&#34; 
-               srcset=&#34;https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_ee1e7e757763e6.webp 320w, https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_3eafabfc5fc29173.webp 480w, https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_c7b6a985707000a1.webp 700w&#34;
+               srcset=&#34;https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_ee1e7e757763e6.webp 320w, https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_3eafabfc5fc29173.webp 480w, https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_c7b6a985707000a1.webp 700w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://fionamacneill.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_ee1e7e757763e6.webp&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2015/10/reflections-on-using-rise-to-support-conference-based-gamification/images/leaderboard-cropped-wyurxo-2c7tdjp_hu_ee1e7e757763e6.webp&#34;
                width=&#34;700&#34;
                height=&#34;621&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -2,42 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Todo | Fiona MacNeill | Macknowlogist</title>
-    <link>https://fionamacneill.co.uk/tags/todo/</link>
-      <atom:link href="https://fionamacneill.co.uk/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://macknowlogist.co.uk/tags/todo/</link>
+      <atom:link href="https://macknowlogist.co.uk/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <description>Todo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Sat, 24 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fionamacneill.co.uk/media/icon_hu_57d0698421383678.png</url>
+      <url>https://macknowlogist.co.uk/media/icon_hu_57d0698421383678.png</url>
       <title>Todo</title>
-      <link>https://fionamacneill.co.uk/tags/todo/</link>
+      <link>https://macknowlogist.co.uk/tags/todo/</link>
     </image>
     
     <item>
       <title>On the importance of self-discipline</title>
-      <link>https://fionamacneill.co.uk/blog/2016/12/on-the-importance-of-self-discipline/</link>
+      <link>https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/</link>
       <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://fionamacneill.co.uk/blog/2016/12/on-the-importance-of-self-discipline/</guid>
+      <guid>https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/</guid>
       <description>&lt;h3 id=&#34;update-on-the-previously-mentioned-to-do-list&#34;&gt;Update on the previously mentioned to-do list:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;/li&gt;
-&lt;li&gt;Task scenarios  Now at 
- to reflect the decision to present all of the content on one long page.&lt;/li&gt;
+&lt;li&gt;Task scenarios to reflect the decision to present all of the content on one long page.&lt;/li&gt;
 &lt;li&gt;
 &lt;/li&gt;
-&lt;li&gt;General characteristics for user groups - I went a bit more in-depth and produced a user characteristics list for the primary user group of health professionals - 
-&lt;/li&gt;
-&lt;li&gt;\[Tentative plan\] create a UML diagram - I am not going to do this, as it is primarily a tool to communicate with developers and as I am UXer and developer here I think that it is more important for me to crack on with the development (although if I had been more self-disciplined and followed a UML I probably could have avoided the feature creep outlined below).&lt;/li&gt;
+&lt;li&gt;General characteristics for user groups - I went a bit more in-depth and produced a user characteristics list for the primary user group of health professionals&lt;/li&gt;
+&lt;li&gt;[Tentative plan] create a UML diagram - I am not going to do this, as it is primarily a tool to communicate with developers and as I am UXer and developer here I think that it is more important for me to crack on with the development (although if I had been more self-disciplined and followed a UML I probably could have avoided the feature creep outlined below).&lt;/li&gt;
 &lt;li&gt;An paper online prototype – in the end this was a prototype version of the actual site. Delivered to Dr. Theo Fotis on the 12th of December.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;adding-polling-aka-feature-creep-1612---2412&#34;&gt;Adding polling aka &lt;em&gt;feature creep&lt;/em&gt; 16/12 - 24/12&lt;/h3&gt;
-&lt;p&gt;In my 
- I mentioned that I had decided to add a poll as I felt that some further interaction might be needed. I now realise that really a bit of a superfluous feature and upon reflection I have spent too much time on it.&lt;/p&gt;
+&lt;p&gt;In my last post I mentioned that I had decided to add a poll as I felt that some further interaction might be needed. I now realise that really a bit of a superfluous feature and upon reflection I have spent too much time on it.&lt;/p&gt;
 &lt;p&gt;What I can take from it, is that I learned a lot about JSON and PHP in the process. This activity was really the textbook definition of feature creep or scope creep&lt;fn&gt;A handy definition from wikipedia just in case you need it: 
 . Here is a consolidated account of what I did and what I found out in the process. I thought about using the fantastic Google charts tools. I could not, however figure out how to feed data into the chart, based on clicks of the options and then also how to store that information. Here is an image of a mock-up that I made during that particular phase.&lt;/p&gt;
-\[caption id=&#34;attachment\_265&#34; align=&#34;alignnone&#34; width=&#34;840&#34;\]&lt;p&gt;
- Initially, prior to the radio buttons, I was just using buttons to visualise the poll options. It looks nifty, alas it had no functionality whatsoever.&lt;/p&gt;
-\[/caption\]&lt;p&gt;Then I thought about creating a custom Google form skin as the front-end for a Google chart. There was some documentation on this (
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Screenshot of site showing the chart in situ&#34; 
+               srcset=&#34;https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu_f887d607b757ce16.webp 320w, https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu_20baa1ccfb7b2f47.webp 480w, https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu_56a41d332983e8bd.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/Screen-Shot-2016-12-16-at-15.11.41-1024x559_hu_f887d607b757ce16.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;415&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+Initially, prior to the radio buttons, I was just using buttons to visualise the poll options. It looks nifty, alas it had no functionality whatsoever.&lt;/p&gt;
+&lt;p&gt;Then I thought about creating a custom Google form skin as the front-end for a Google chart. There was some documentation on this (
 ) and I referred to the excellent documentation from Google as well, but it wasn&amp;rsquo;t the right thing. Then as I use 
 , a web application for polling, in my day-job I thought that using 
  might be a good way to go. Especially as their poll visualisation is very nice. I must highlight at this point that I wanted to avoid using an iFrame and have a solution that was integrated with the site. This is largely due to the fact that the iFrame content would almost certainly be blocked on NHS Trust computers (again this knowledge is based on my professional experience). The PollEverywhere API highlighted the use of JSON (Javascript Object Notation) for the configuration of polls. However, I have to admit that their documentation was a little beyond my own knowledge and I felt unsure of where to start. I asked Marcus for his advice on the 16th of December and I also found a 
@@ -63,7 +86,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;&lt;img alt=&#34;Animated GIF showing the issue with the display of data pulled from the JSON file&#34;
-           src=&#34;https://fionamacneill.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/2016-12-24_10-30-29.gif&#34;
+           src=&#34;https://macknowlogist.co.uk/blog/2016/12/on-the-importance-of-self-discipline/images/2016-12-24_10-30-29.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
  &lt;em&gt;Animated GIF showing the issue where I could only display current data not pull the existing data from the JSON. The values update in the JSON but the html based on echoing the PHP does not&lt;/em&gt;.&lt;/p&gt;

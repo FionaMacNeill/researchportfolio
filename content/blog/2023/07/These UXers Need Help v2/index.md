@@ -37,7 +37,7 @@ projects: []
 ---
 
 ## Previously on Fiona's blog... 
-I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in [my last blog post](https://fionamacneill.co.uk/post/2023/04/ux-camp-brighton-game-on/), some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by [Cards Against Humanity](https://www.cardsagainsthumanity.com/) and has a four deck structure. 
+I created a game for UX Camp Brighton (9th April, 2023) designed to encourage reflection on power and social capital in UX. As I outlined in [my last blog post](/blog/2023/04/ux-camp-brighton-game-on/), some people enter UX with more power, some with less. My goal with the game was to encourage players to recognise opportunities and challenges, both overt and implicit and consider ways that we, as a community of designers, can help (if we can help!). The game was losely inspired by [Cards Against Humanity](https://www.cardsagainsthumanity.com/) and has a four deck structure. 
 
 ## How did it go? 
 The playtest at UX Camp Brighton went well and the response to the game was far more positive than I anticipated. There was at least one person saying *"these cards are like my life last year"*. 
@@ -46,7 +46,7 @@ What I liked about the experience was that in the span of 15 minutes we could br
 
 There's also humour sprinkled through the game and I loved that the "has a landlord who is a 💩" card came up! This is definitely an identifiable experience for those in the rental market and added some levity to the game. 
 
-Most importantly, folks liked the game enough for me to be invited to this month's [UXup on 20th July](https://www.eventbrite.co.uk/e/uxup-summer-tickets-638632094787?aff=ebdsoporgprofile) to play the game again. So, it's time for Version 2.0 🎉, more on this in [*How about those cards then...?*](#how-about-those-cards-then) below.
+Most importantly, folks liked the game enough for me to be invited to this month's UXup on 20th July to play the game again. So, it's time for Version 2.0 🎉, more on this in [*How about those cards then...?*](#how-about-those-cards-then) below.
 
 ![Desk with in-progress hand-drawn cards for 'These UXers need help' on the surface](images/StudioWorkOnNewCards-July2023.JPG "Studio action shot - creating new situation cards for version 2.0")
 

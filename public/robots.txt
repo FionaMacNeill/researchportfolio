@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://fionamacneill.co.uk/sitemap.xml
+Sitemap: https://macknowlogist.co.uk/sitemap.xml
